@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "UG123456789012",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "regDate": "2024-01-24T10:30:00+03:00",
+      "expiryDate": "2024-02-24T10:30:00+03:00",
+      "active": true
+    }
+  ],
+  "settings": {
+    "timezone": "Africa/Kampala",
+    "lastUpdated": "2024-01-24T10:30:00+03:00"
+  }
+}
