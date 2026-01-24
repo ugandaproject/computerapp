@@ -1,7 +1,28 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": "UG123456789012",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "regDate": "2024-01-15T10:30:00Z",
+      "expiryDate": "2024-02-15T10:30:00Z",
+      "subscriptionDays": 30,
+      "active": true,
+      "deviceId": "DEV1234ABCD",
+      "lastActive": "2024-01-20T14:25:00Z",
+      "payments": [
+        {
+          "date": "2024-01-15T10:30:00Z",
+          "days": 30,
+          "amount": "$9.99"
+        }
+      ]
+    }
+  ],
   "settings": {
     "timezone": "Africa/Kampala",
-    "lastUpdated": ""
+    "lastUpdated": "2024-01-20T14:30:00Z",
+    "adminContact": "admin@example.com",
+    "allowMultipleDevices": false
   }
 }
