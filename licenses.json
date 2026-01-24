@@ -2,27 +2,20 @@
   "users": [
     {
       "id": "UG753483207695",
-      "name": "John Doe",
-      "email": "john@example.com",
-      "regDate": "2024-01-15T10:30:00Z",
-      "expiryDate": "2027-02-15T10:30:00Z",
-      "subscriptionDays": 30,
+      "name": "Test User",
+      "email": "test@example.com",
+      "regDate": "2024-01-20T00:00:00Z",
+      "expiryDate": "2025-01-20T00:00:00Z",
+      "subscriptionDays": 365,
       "active": true,
-      "deviceId": "DEV1234ABCD",
-      "lastActive": "2024-01-20T14:25:00Z",
-      "payments": [
-        {
-          "date": "2024-01-15T10:30:00Z",
-          "days": 30,
-          "amount": "$9.99"
-        }
-      ]
+      "deviceId": "DEV-ABC123",
+      "registeredFrom": "http://localhost",
+      "lastActive": "2024-01-20T00:00:00Z"
     }
   ],
   "settings": {
     "timezone": "Africa/Kampala",
-    "lastUpdated": "2024-01-20T14:30:00Z",
-    "adminContact": "admin@example.com",
-    "allowMultipleDevices": false
+    "lastUpdated": "2024-01-20T00:00:00Z",
+    "adminContact": "admin@example.com"
   }
 }
