@@ -5,7 +5,7 @@
       "name": "John Doe",
       "email": "john@example.com",
       "regDate": "2024-01-15T10:30:00Z",
-      "expiryDate": "2024-02-15T10:30:00Z",
+      "expiryDate": "2027-02-15T10:30:00Z",
       "subscriptionDays": 30,
       "active": true,
       "deviceId": "DEV1234ABCD",
