@@ -5,29 +5,35 @@
       "name": "ahmed",
       "email": "mahmoudprogrammerwq@proton.me",
       "regDate": "2026-01-26T21:53:18.721Z",
-      "expiryDate": "2022-04-26T21:53:18.721Z",
+      "expiryDate": "2026-04-26T21:53:18.721Z",
       "subscriptionDays": 90,
       "active": true,
       "deviceId": "DEV2A294DBDD",
       "registeredFrom": "http://localhost/prog/index3.html",
-      "lastActive": "2026-01-26T21:53:18.723Z"
+      "lastActive": "2026-01-26T21:53:18.723Z",
+      "sessionToken": "sess_xyz789",
+      "ipAddress": "192.168.1.100"
     },
     {
       "id": "UG079859846895",
       "name": "moahmmed ahmedswsw",
       "email": "mahmoudprogrammer@proton.me",
-      "regDate": "2022-01-27T02:14:39.859Z",
-      "expiryDate": "2022-04-27T02:14:39.859Z",
+      "regDate": "2026-01-27T02:14:39.859Z",
+      "expiryDate": "2026-04-27T02:14:39.859Z",
       "subscriptionDays": 90,
       "active": true,
       "deviceId": "DEV-69C1-37C4",
       "registeredFrom": "http://localhost/prog/index3.html",
-      "lastActive": "2026-01-27T02:14:39.860Z"
+      "lastActive": "2026-01-27T02:14:39.860Z",
+      "sessionToken": "sess_abc123",
+      "ipAddress": "192.168.1.101"
     }
   ],
   "settings": {
     "timezone": "Africa/Kampala",
     "lastUpdated": "2026-01-27T02:14:41.010Z",
-    "adminContact": "admin@example.com"
+    "adminContact": "admin@example.com",
+    "singleDeviceLogin": true,
+    "sessionTimeout": 30
   }
 }
