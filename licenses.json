@@ -11,11 +11,23 @@
       "deviceId": "DEV2A294DBDD",
       "registeredFrom": "http://localhost/prog/index3.html",
       "lastActive": "2026-01-26T21:53:18.723Z"
+    },
+    {
+      "id": "UG079859846895",
+      "name": "moahmmed ahmedswsw",
+      "email": "mahmoudprogrammer@proton.me",
+      "regDate": "2026-01-27T02:14:39.859Z",
+      "expiryDate": "2026-04-27T02:14:39.859Z",
+      "subscriptionDays": 90,
+      "active": true,
+      "deviceId": "DEV-69C1-37C4",
+      "registeredFrom": "http://localhost/prog/index3.html",
+      "lastActive": "2026-01-27T02:14:39.860Z"
     }
   ],
   "settings": {
     "timezone": "Africa/Kampala",
-    "lastUpdated": "2024-01-20T00:00:00Z",
+    "lastUpdated": "2026-01-27T02:14:41.010Z",
     "adminContact": "admin@example.com"
   }
 }
