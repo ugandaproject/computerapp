@@ -1,0 +1,39 @@
+{
+  "loginActivities": [
+    {
+      "id": "LOGIN-001",
+      "userId": "UG079859846895",
+      "userName": "moahmmed ahmedswsw",
+      "userEmail": "mahmoudprogrammer@proton.me",
+      "deviceId": "DEV-69C1-37C4",
+      "deviceType": "Desktop",
+      "browser": "Chrome",
+      "ipAddress": "192.168.1.101",
+      "loginTime": "2026-01-27T02:14:39.860Z",
+      "logoutTime": "2026-01-27T04:30:15.123Z",
+      "sessionDuration": 8135.263,
+      "status": "completed",
+      "logoutType": "manual",
+      "blockedDevice": false,
+      "loginMethod": "email",
+      "failedAttempts": 0,
+      "notes": ""
+    }
+  ],
+  "blockedDevices": [
+    {
+      "deviceId": "DEV-BLOCKED-001",
+      "userId": "UG123456789",
+      "userEmail": "blocked@example.com",
+      "blockedDate": "2026-01-27T00:00:00.000Z",
+      "reason": "Suspicious activity",
+      "blockedBy": "admin",
+      "active": true
+    }
+  ],
+  "settings": {
+    "retainLogsDays": 90,
+    "maxFailedAttempts": 5,
+    "autoLogoutMinutes": 30
+  }
+}
