@@ -1,9 +1,9 @@
-{ 
+{
   "users": [
     {
       "id": "UG398721877017",
       "name": "ahmed",
-      "email": "qmahmoudprogrammer11334@proton.me",
+      "email": "mahmoudprogrammer11@proton.me",
       "regDate": "2026-01-26T21:53:18.721Z",
       "expiryDate": "2026-04-26T21:53:18.721Z",
       "subscriptionDays": 90,
@@ -12,7 +12,16 @@
       "registeredFrom": "http://localhost/prog/index3.html",
       "lastActive": "2026-01-26T21:53:18.723Z",
       "sessionToken": "sess_xyz789",
-      "ipAddress": "192.168.1.100"
+      "ipAddress": "192.168.1.100",
+      "sessionVersion": 1,  // NEW: Increment this to invalidate all sessions
+      "activeSessions": [    // NEW: Track active sessions
+        {
+          "deviceId": "DEV2A294DBDD",
+          "sessionToken": "sess_xyz789",
+          "loginTime": "2026-01-26T21:53:18.723Z",
+          "lastActive": "2026-01-26T21:53:18.723Z"
+        }
+      ]
     },
     {
       "id": "UG079859846895",
@@ -26,7 +35,16 @@
       "registeredFrom": "http://localhost/prog/index3.html",
       "lastActive": "2026-01-27T02:14:39.860Z",
       "sessionToken": "sess_abc123",
-      "ipAddress": "192.168.1.101"
+      "ipAddress": "192.168.1.101",
+      "sessionVersion": 1,
+      "activeSessions": [
+        {
+          "deviceId": "DEV-69C1-37C4",
+          "sessionToken": "sess_abc123",
+          "loginTime": "2026-01-27T02:14:39.860Z",
+          "lastActive": "2026-01-27T02:14:39.860Z"
+        }
+      ]
     }
   ],
   "settings": {
@@ -34,6 +52,7 @@
     "lastUpdated": "2026-01-27T02:14:41.010Z",
     "adminContact": "admin@example.com",
     "singleDeviceLogin": true,
-    "sessionTimeout": 30
+    "sessionTimeout": 30,
+    "maxSessionsPerUser": 1  // For single device login
   }
 }
