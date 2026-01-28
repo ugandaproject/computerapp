@@ -13,8 +13,8 @@
       "lastActive": "2026-01-26T21:53:18.723Z",
       "sessionToken": "sess_xyz789",
       "ipAddress": "192.168.1.100",
-      "sessionVersion": 1,  // NEW: Increment this to invalidate all sessions
-      "activeSessions": [    // NEW: Track active sessions
+      "sessionVersion": 1,  
+      "activeSessions": [    
         {
           "deviceId": "DEV2A294DBDD",
           "sessionToken": "sess_xyz789",
