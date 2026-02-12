@@ -3449,7 +3449,17 @@
       "deviceId": "WEB-4700-1F4C",
       "registeredFrom": "https://localhost/index.html",
       "lastActive": "2026-02-11T21:24:59.179Z"
+    },
+    {
+      "id": "UG609894815743",
+      "name": "Hala",
+      "email": "hala@gmail.com",
+      "regDate": "2026-02-12T00:20:09.896Z",
+      "expiryDate": "2026-02-13T00:20:09.895Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-35CE-0E27",
+      "registeredFrom": "local"
     }
-
   ]
 }
