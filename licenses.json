@@ -3448,6 +3448,17 @@
       "active": true,
       "deviceId": "WEB-35CE-0E27",
       "registeredFrom": "local"
+    },
+    {
+      "id": "UG828041573390",
+      "name": "Mohammed hady",
+      "email": "mohammedhady@gmail.com",
+      "regDate": "2026-02-12T18:27:08.045Z",
+      "expiryDate": "2026-02-13T18:27:08.045Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-4700-1F4C",
+      "registeredFrom": "local"
     }
   ]
 }
