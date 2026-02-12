@@ -3437,7 +3437,17 @@
       "deviceId": "WEB-69C1-37C4",
       "registeredFrom": "http://localhost:8000/index.html",
       "lastActive": "2026-02-11T02:16:35.038Z"
+    },
+    {
+      "id": "UG457884610834",
+      "name": "Gofran",
+      "email": "go@gmail.com",
+      "regDate": "2026-02-12T00:50:57.888Z",
+      "expiryDate": "2026-02-13T00:50:57.887Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-35CE-0E27",
+      "registeredFrom": "local"
     }
-  
   ]
 }
