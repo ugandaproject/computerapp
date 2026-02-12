@@ -3437,29 +3437,7 @@
       "deviceId": "WEB-69C1-37C4",
       "registeredFrom": "http://localhost:8000/index.html",
       "lastActive": "2026-02-11T02:16:35.038Z"
-    },
-    {
-      "id": "UG099153583363",
-      "name": "Hamid abakar",
-      "email": "abakar@gmail.com",
-      "regDate": "2026-02-11T21:24:59.161Z",
-      "expiryDate": "2026-02-18T21:24:59.169Z",
-      "subscriptionDays": 7,
-      "active": true,
-      "deviceId": "WEB-4700-1F4C",
-      "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-02-11T21:24:59.179Z"
-    },
-    {
-      "id": "UG944061693417",
-      "name": "Huuu",
-      "email": "ty@gmail.com",
-      "regDate": "2026-02-12T00:25:44.061Z",
-      "expiryDate": "2026-02-13T00:25:44.061Z",
-      "subscriptionDays": 1,
-      "active": true,
-      "deviceId": "WEB-35CE-0E27",
-      "registeredFrom": "local"
     }
+  
   ]
 }
