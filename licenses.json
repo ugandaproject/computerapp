@@ -3481,6 +3481,17 @@
       "active": true,
       "deviceId": "WEB-5631-44EA",
       "registeredFrom": "local"
+    },
+    {
+      "id": "UG143602741846",
+      "name": "Goar kuony",
+      "email": "goar@gmail.com",
+      "regDate": "2026-02-14T15:15:43.606Z",
+      "expiryDate": "2026-02-15T15:15:43.602Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-370C-6FCB",
+      "registeredFrom": "local"
     }
   ]
 }
