@@ -3470,6 +3470,17 @@
       "active": true,
       "deviceId": "WEB-55C4-2653",
       "registeredFrom": "local"
+    },
+    {
+      "id": "UG113735081094",
+      "name": "Abduallah",
+      "email": "abdullah@gmail.com",
+      "regDate": "2026-02-14T14:41:53.737Z",
+      "expiryDate": "2026-02-15T14:41:53.736Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-5631-44EA",
+      "registeredFrom": "local"
     }
   ]
 }
