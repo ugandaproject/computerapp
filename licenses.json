@@ -3492,6 +3492,17 @@
       "active": true,
       "deviceId": "WEB-370C-6FCB",
       "registeredFrom": "local"
+    },
+    {
+      "id": "UG109022488394",
+      "name": "Abdulwahid",
+      "email": "abdulwahidali@gmail.com",
+      "regDate": "2026-02-16T12:31:49.033Z",
+      "expiryDate": "2026-02-17T12:31:49.022Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1670-DE20",
+      "registeredFrom": "local"
     }
   ]
 }
