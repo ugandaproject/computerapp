@@ -3514,6 +3514,17 @@
       "active": true,
       "deviceId": "WEB-789D-1A79",
       "registeredFrom": "local"
+    },
+    {
+      "id": "UG051245447189",
+      "name": "Mojahid",
+      "email": "mujahidabdelsamad@gmail.com",
+      "regDate": "2026-02-16T17:30:51.256Z",
+      "expiryDate": "2026-02-17T17:30:51.245Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-78F4-E9F4",
+      "registeredFrom": "local"
     }
   ]
 }
