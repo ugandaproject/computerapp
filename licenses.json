@@ -3503,6 +3503,17 @@
       "active": true,
       "deviceId": "WEB-1670-DE20",
       "registeredFrom": "local"
+    },
+    {
+      "id": "UG180662292893",
+      "name": "Elregig",
+      "email": "elrgegeltaher@gmail.com",
+      "regDate": "2026-02-16T17:16:20.690Z",
+      "expiryDate": "2026-02-17T17:16:20.664Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-789D-1A79",
+      "registeredFrom": "local"
     }
   ]
 }
