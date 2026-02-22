@@ -1,32 +1,33 @@
 {
-  "contacts": {
-    "title": "Microsoft Office Learning",
-    "subtitle": "Convert Your Phone to Computer Training Center !",
-    "phone": {
-      "number": "+256780487729",
-      "display": "+256 780 487 729",
-      "icon": "fa-phone-alt",
-      "color": "#4CAF50"
-    },
-    "whatsapp": {
-      "number": "+256780487729",
-      "display": "WhatsApp",
-      "icon": "fa-whatsapp",
-      "color": "#25D366"
-    },
-    "email": {
-      "address": "support@officelearning.com",
-      "display": "Email Us",
-      "icon": "fa-envelope",
-      "color": "#FF5722"
-    },
-    "website": {
-      "url": "https://www.officelearning.com",
-      "display": "Visit Website",
-      "icon": "fa-globe",
-      "color": "#2196F3"
-    }
+"contacts": {
+  "logo": "https://ugandaproject.github.io/test/icon1.png", // Your actual logo URL
+  "title": "Microsoft Office Learning Portal",
+  "subtitle": "Master Microsoft Office applications through interactive lessons. Click on any lesson to begin.",
+  "phone": {
+    "number": "+256780487729",
+    "display": "+256 780 487 729",
+    "icon": "fa-phone-alt",
+    "color": "#4CAF50"
   },
+  "whatsapp": {
+    "number": "+256780487729",
+    "display": "WhatsApp",
+    "icon": "fa-whatsapp",
+    "color": "#25D366"
+  },
+  "email": {
+    "address": "support@officelearning.com",
+    "display": "Email Us",
+    "icon": "fa-envelope",
+    "color": "#FF5722"
+  },
+  "website": {
+    "url": "https://www.officelearning.com",
+    "display": "Visit Website",
+    "icon": "fa-globe",
+    "color": "#2196F3"
+  }
+},
   
   "ads": [
     {
