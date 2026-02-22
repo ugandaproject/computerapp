@@ -1,6 +1,6 @@
 {
 "contacts": {
-  "logo": "https://ugandaproject.github.io/test/icon1.png", // Your actual logo URL
+  "logo": "https://ugandaproject.github.io/test/icon1.png", 
   "title": "Microsoft Office Learning Portal",
   "subtitle": "Master Microsoft Office applications through interactive lessons. Click on any lesson to begin.",
   "phone": {
