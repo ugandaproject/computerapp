@@ -1,8 +1,8 @@
 {
 "contacts": {
   "logo": "https://ugandaproject.github.io/test/icon1.png", 
-  "title": "Microsoft Office Learning Portal",
-  "subtitle": "Master Microsoft Office applications through interactive lessons. Click on any lesson to begin.",
+  "title": "Microsoft Office Learning",
+  "subtitle": "Master Microsoft Office applications",
   "phone": {
     "number": "+256780487729",
     "display": "+256 780 487 729",
