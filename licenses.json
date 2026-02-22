@@ -30,31 +30,31 @@
   
   "ads": [
     {
-      "image": "https://via.placeholder.com/800x200/1e3c72/ffffff?text=Microsoft+Word+Advanced+Course",
+      "image": "https://ugandaproject.github.io/test/1.png",
       "link": "https://example.com/word-course",
       "alt": "Master Microsoft Word - Advanced Course",
       "target": "_blank"
     },
     {
-      "image": "https://via.placeholder.com/800x200/2a5298/ffffff?text=Excel+Data+Analysis+Masterclass",
+      "image": "https://ugandaproject.github.io/test/2.png",
       "link": "https://example.com/excel-course",
       "alt": "Excel Data Analysis Masterclass",
       "target": "_blank"
     },
     {
-      "image": "https://via.placeholder.com/800x200/d24726/ffffff?text=PowerPoint+Presentation+Pro",
+      "image": "https://ugandaproject.github.io/test/3.png",
       "link": "https://example.com/powerpoint-course",
       "alt": "PowerPoint Presentation Pro",
       "target": "_blank"
     },
     {
-      "image": "https://via.placeholder.com/800x200/217346/ffffff?text=Access+Database+Essentials",
+      "image": "https://ugandaproject.github.io/test/4.png",
       "link": "https://example.com/access-course",
       "alt": "Access Database Essentials",
       "target": "_blank"
     },
     {
-      "image": "https://via.placeholder.com/800x200/0078d7/ffffff?text=Windows+11+Mastery",
+      "image": "https://ugandaproject.github.io/test/5.png",
       "link": "https://example.com/windows-course",
       "alt": "Windows 11 Mastery Course",
       "target": "_blank"
