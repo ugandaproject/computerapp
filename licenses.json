@@ -261,7 +261,8 @@
     {
       "id": "UG398721877017",
       "name": "ahmed",
-      "email": "mahmoudprogrammer11@proton.me",
+      "phone": "+256700000001",
+      "paid": true,  
       "regDate": "2026-01-26T21:53:18.721Z",
       "expiryDate": "2026-04-26T21:53:18.721Z",
       "subscriptionDays": 90,
@@ -275,7 +276,8 @@
     {
       "id": "UG079859846895",
       "name": "moahmmed ahmedswsw",
-      "email": "mahmoudprogrammerg@proton.me",
+      "phone": "+256700000002",
+      "paid": true,  
       "regDate": "2026-01-27T02:14:39.859Z",
       "expiryDate": "2026-04-27T02:14:39.859Z",
       "subscriptionDays": 90,
@@ -289,7 +291,8 @@
     {
       "id": "UG195037213489",
       "name": "moahmmed ahmed",
-      "email": "mahmoudprogragmmer@proton.me",
+      "phone": "+256700000003",
+      "paid": true,  
       "regDate": "2026-02-11T02:16:35.037Z",
       "expiryDate": "2026-02-18T02:16:35.038Z",
       "subscriptionDays": 7,
@@ -301,7 +304,8 @@
     {
       "id": "UG457884610834",
       "name": "Gofran",
-      "email": "go@gmail.com",
+      "phone": "+256700000004",
+      "paid": true,  
       "regDate": "2026-02-12T00:50:57.888Z",
       "expiryDate": "2026-05-13T00:50:57.887Z",
       "subscriptionDays": 1,
@@ -312,7 +316,8 @@
     {
       "id": "UG836663596625",
       "name": "Mohammed hady",
-      "email": "mohammedhady@gmail.com",
+      "phone": "+256700000005",
+      "paid": true,  
       "regDate": "2026-02-12T18:27:16.663Z",
       "expiryDate": "2026-05-15T18:27:16.663Z",
       "subscriptionDays": 1,
@@ -323,7 +328,8 @@
     {
       "id": "UG577033395872",
       "name": "mohammedosman",
-      "email": "mohammedosman@gmail.com",
+      "phone": "+256700000006",
+      "paid": true,  
       "regDate": "2026-02-14T12:19:37.041Z",
       "expiryDate": "2026-02-25T12:19:37.033Z",
       "subscriptionDays": 1,
@@ -334,7 +340,8 @@
     {
       "id": "UG113735081094",
       "name": "Abduallah",
-      "email": "abdullah@gmail.com",
+      "phone": "+256700000007",
+      "paid": true,  
       "regDate": "2026-02-14T14:41:53.737Z",
       "expiryDate": "2026-02-25T14:41:53.736Z",
       "subscriptionDays": 1,
@@ -345,7 +352,8 @@
     {
       "id": "UG143602741846",
       "name": "Goar kuony",
-      "email": "goar@gmail.com",
+      "phone": "+256700000008",
+      "paid": true,  
       "regDate": "2026-02-14T15:15:43.606Z",
       "expiryDate": "2026-02-25T15:15:43.602Z",
       "subscriptionDays": 1,
@@ -356,7 +364,8 @@
     {
       "id": "UG109022488394",
       "name": "Abdulwahid",
-      "email": "abdulwahidali@gmail.com",
+      "phone": "+256700000009",
+      "paid": true,  
       "regDate": "2026-02-16T12:31:49.033Z",
       "expiryDate": "2026-02-17T12:31:49.022Z",
       "subscriptionDays": 1,
@@ -367,7 +376,8 @@
     {
       "id": "UG180662292893",
       "name": "Elregig",
-      "email": "elrgegeltaher@gmail.com",
+      "phone": "+256700000011",
+      "paid": true,  
       "regDate": "2026-02-16T17:16:20.690Z",
       "expiryDate": "2026-02-17T17:16:20.664Z",
       "subscriptionDays": 1,
@@ -378,7 +388,8 @@
     {
       "id": "UG097423085381",
       "name": "Fff",
-      "email": "mujahidabdelsamad@gmail.com",
+      "phone": "+256700000012",
+      "paid": true,  
       "regDate": "2026-02-16T17:31:37.423Z",
       "expiryDate": "2026-02-17T17:31:37.423Z",
       "subscriptionDays": 1,
