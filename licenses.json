@@ -62,22 +62,22 @@
     }
   ],
   
-  "apk_update": {
-    "version": "1.1.0",
-    "url": "https://example.com/downloads/office-learning-v1.1.0.apk",
-    "force": true,
-    "message": "🚀 New Version Available!\n\nVersion 1.1.0 includes:\n• New interactive lessons\n• Bug fixes and improvements\n• Enhanced location accuracy",
-    "minVersion": "1.0.0",
-    "releaseDate": "2026-02-24",
-    "size": "25.5 MB",
-    "whatsNew": [
-      "New interactive lessons for all Office apps",
-      "Enhanced location verification system",
-      "Improved performance and stability",
-      "Bug fixes and security updates",
-      "Offline mode support"
-    ]
-  },
+"apk_update": {
+  "version": "1.1.0",
+  "url": "https://ugandaproject.github.io/test/app-release-v1.1.0.apk",  // CHANGE THIS to your real APK URL
+  "force": true,
+  "message": "🚀 New Version Available!\n\nVersion 1.1.0 includes:\n• New interactive lessons\n• Bug fixes and improvements\n• Enhanced location accuracy",
+  "minVersion": "1.0.0",
+  "releaseDate": "2026-02-24",
+  "size": "25.5 MB",
+  "whatsNew": [
+    "New interactive lessons for all Office apps",
+    "Enhanced location verification system",
+    "Improved performance and stability",
+    "Bug fixes and security updates",
+    "Offline mode support"
+  ]
+}
 
   "locations": {
     "allowedCountries": [
