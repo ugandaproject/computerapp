@@ -64,7 +64,7 @@
   
 "apk_update": {
   "version": "1.1.0",
-    "url": "https://f-droid.org/F-Droid.apk", 
+    "url": "http://ugandaproject.github.io/test/F-Droid.apk", 
   "force": true,
   "message": "🚀 New Version Available!\n\nVersion 1.1.0 includes:\n• New interactive lessons\n• Bug fixes and improvements\n• Enhanced location accuracy",
   "minVersion": "1.0.0",
