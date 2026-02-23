@@ -1,33 +1,33 @@
 {
-"contacts": {
-  "logo": "https://ugandaproject.github.io/test/icon1.png", 
-  "title": "Microsoft Office Learning",
-  "subtitle": "Master Microsoft Office applications",
-  "phone": {
-    "number": "+256780487729",
-    "display": "+256 780 487 729",
-    "icon": "fa-phone-alt",
-    "color": "#4CAF50"
+  "contacts": {
+    "logo": "https://ugandaproject.github.io/test/icon1.png",
+    "title": "Microsoft Office Learning",
+    "subtitle": "Master Microsoft Office applications",
+    "phone": {
+      "number": "+256780487729",
+      "display": "+256 780 487 729",
+      "icon": "fa-phone-alt",
+      "color": "#4CAF50"
+    },
+    "whatsapp": {
+      "number": "+256780487729",
+      "display": "WhatsApp",
+      "icon": "fa-whatsapp",
+      "color": "#25D366"
+    },
+    "email": {
+      "address": "support@officelearning.com",
+      "display": "Email Us",
+      "icon": "fa-envelope",
+      "color": "#FF5722"
+    },
+    "website": {
+      "url": "https://www.officelearning.com",
+      "display": "Visit Website",
+      "icon": "fa-globe",
+      "color": "#2196F3"
+    }
   },
-  "whatsapp": {
-    "number": "+256780487729",
-    "display": "WhatsApp",
-    "icon": "fa-whatsapp",
-    "color": "#25D366"
-  },
-  "email": {
-    "address": "support@officelearning.com",
-    "display": "Email Us",
-    "icon": "fa-envelope",
-    "color": "#FF5722"
-  },
-  "website": {
-    "url": "https://www.officelearning.com",
-    "display": "Visit Website",
-    "icon": "fa-globe",
-    "color": "#2196F3"
-  }
-},
   
   "ads": [
     {
@@ -62,28 +62,28 @@
     }
   ],
   
-"apk_update": {
-  "version": "1.1.0",
-  "url": "https://example.com/downloads/office-learning-v1.1.0.apk",
-  "force": true,
-  "message": "🚀 New Version Available!\n\nVersion 1.1.0 includes:\n• New interactive lessons\n• Bug fixes and improvements\n• Enhanced location accuracy",
-  "minVersion": "1.0.0",
-  "releaseDate": "2026-02-24",
-  "size": "25.5 MB",
-  "whatsNew": [
-    "New interactive lessons for all Office apps",
-    "Enhanced location verification system",
-    "Improved performance and stability",
-    "Bug fixes and security updates",
-    "Offline mode support"
-  ]
-}
+  "apk_update": {
+    "version": "1.1.0",
+    "url": "https://example.com/downloads/office-learning-v1.1.0.apk",
+    "force": true,
+    "message": "🚀 New Version Available!\n\nVersion 1.1.0 includes:\n• New interactive lessons\n• Bug fixes and improvements\n• Enhanced location accuracy",
+    "minVersion": "1.0.0",
+    "releaseDate": "2026-02-24",
+    "size": "25.5 MB",
+    "whatsNew": [
+      "New interactive lessons for all Office apps",
+      "Enhanced location verification system",
+      "Improved performance and stability",
+      "Bug fixes and security updates",
+      "Offline mode support"
+    ]
+  },
 
   "locations": {
     "allowedCountries": [
       "Uganda"
     ],
-    "allowedDistricts": [
+   "allowedDistricts": [
       "Kampala",
       "Wakiso",
       "Mukono",
@@ -237,10 +237,3234 @@
         "name": "Kampala",
         "country": "Uganda",
         "boundaries": [
-          [0.25, 32.5],
-          [0.25, 32.7],
-          [0.4, 32.7],
-          [0.4, 32.5]
+          [
+            0.25,
+            32.5
+          ],
+          [
+            0.25,
+            32.7
+          ],
+          [
+            0.4,
+            32.7
+          ],
+          [
+            0.4,
+            32.5
+          ]
+        ]
+      },
+      {
+        "name": "Wakiso",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0,
+            32.3
+          ],
+          [
+            0,
+            32.65
+          ],
+          [
+            0.55,
+            32.65
+          ],
+          [
+            0.55,
+            32.3
+          ]
+        ]
+      },
+      {
+        "name": "Mukono",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.2,
+            32.6
+          ],
+          [
+            0.2,
+            33.1
+          ],
+          [
+            0.6,
+            33.1
+          ],
+          [
+            0.6,
+            32.6
+          ]
+        ]
+      },
+      {
+        "name": "Jinja",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.3,
+            33.05
+          ],
+          [
+            0.3,
+            33.35
+          ],
+          [
+            0.55,
+            33.35
+          ],
+          [
+            0.55,
+            33.05
+          ]
+        ]
+      },
+      {
+        "name": "Jinja City",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.42,
+            33.18
+          ],
+          [
+            0.42,
+            33.22
+          ],
+          [
+            0.46,
+            33.22
+          ],
+          [
+            0.46,
+            33.18
+          ]
+        ]
+      },
+      {
+        "name": "Mbale",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.9,
+            34
+          ],
+          [
+            0.9,
+            34.35
+          ],
+          [
+            1.25,
+            34.35
+          ],
+          [
+            1.25,
+            34
+          ]
+        ]
+      },
+      {
+        "name": "Mbale City",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.06,
+            34.16
+          ],
+          [
+            1.06,
+            34.19
+          ],
+          [
+            1.09,
+            34.19
+          ],
+          [
+            1.09,
+            34.16
+          ]
+        ]
+      },
+      {
+        "name": "Gulu",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.6,
+            32.1
+          ],
+          [
+            2.6,
+            32.45
+          ],
+          [
+            2.95,
+            32.45
+          ],
+          [
+            2.95,
+            32.1
+          ]
+        ]
+      },
+      {
+        "name": "Gulu City",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.76,
+            32.28
+          ],
+          [
+            2.76,
+            32.32
+          ],
+          [
+            2.8,
+            32.32
+          ],
+          [
+            2.8,
+            32.28
+          ]
+        ]
+      },
+      {
+        "name": "Mbarara",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.75,
+            30.5
+          ],
+          [
+            -0.75,
+            30.85
+          ],
+          [
+            -0.45,
+            30.85
+          ],
+          [
+            -0.45,
+            30.5
+          ]
+        ]
+      },
+      {
+        "name": "Mbarara City",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.61,
+            30.64
+          ],
+          [
+            -0.61,
+            30.66
+          ],
+          [
+            -0.59,
+            30.66
+          ],
+          [
+            -0.59,
+            30.64
+          ]
+        ]
+      },
+      {
+        "name": "Masaka",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.5,
+            31.55
+          ],
+          [
+            -0.5,
+            31.9
+          ],
+          [
+            -0.2,
+            31.9
+          ],
+          [
+            -0.2,
+            31.55
+          ]
+        ]
+      },
+      {
+        "name": "Masaka City",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.33,
+            31.71
+          ],
+          [
+            -0.33,
+            31.74
+          ],
+          [
+            -0.3,
+            31.74
+          ],
+          [
+            -0.3,
+            31.71
+          ]
+        ]
+      },
+      {
+        "name": "Entebbe City",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0,
+            32.45
+          ],
+          [
+            0,
+            32.55
+          ],
+          [
+            0.12,
+            32.55
+          ],
+          [
+            0.12,
+            32.45
+          ]
+        ]
+      },
+      {
+        "name": "Fort Portal City",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.64,
+            30.26
+          ],
+          [
+            0.64,
+            30.31
+          ],
+          [
+            0.67,
+            30.31
+          ],
+          [
+            0.67,
+            30.26
+          ]
+        ]
+      },
+      {
+        "name": "Lira",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.1,
+            32.75
+          ],
+          [
+            2.1,
+            33.1
+          ],
+          [
+            2.45,
+            33.1
+          ],
+          [
+            2.45,
+            32.75
+          ]
+        ]
+      },
+      {
+        "name": "Lira City",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.24,
+            32.89
+          ],
+          [
+            2.24,
+            32.94
+          ],
+          [
+            2.27,
+            32.94
+          ],
+          [
+            2.27,
+            32.89
+          ]
+        ]
+      },
+      {
+        "name": "Soroti",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.55,
+            33.45
+          ],
+          [
+            1.55,
+            33.75
+          ],
+          [
+            1.85,
+            33.75
+          ],
+          [
+            1.85,
+            33.45
+          ]
+        ]
+      },
+      {
+        "name": "Soroti City",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.7,
+            33.61
+          ],
+          [
+            1.7,
+            33.64
+          ],
+          [
+            1.73,
+            33.64
+          ],
+          [
+            1.73,
+            33.61
+          ]
+        ]
+      },
+      {
+        "name": "Arua",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.9,
+            30.8
+          ],
+          [
+            2.9,
+            31.2
+          ],
+          [
+            3.25,
+            31.2
+          ],
+          [
+            3.25,
+            30.8
+          ]
+        ]
+      },
+      {
+        "name": "Arua City",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3.02,
+            30.91
+          ],
+          [
+            3.02,
+            31.01
+          ],
+          [
+            3.07,
+            31.01
+          ],
+          [
+            3.07,
+            30.91
+          ]
+        ]
+      },
+      {
+        "name": "Hoima",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.3,
+            31.2
+          ],
+          [
+            1.3,
+            31.5
+          ],
+          [
+            1.6,
+            31.5
+          ],
+          [
+            1.6,
+            31.2
+          ]
+        ]
+      },
+      {
+        "name": "Hoima City",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.43,
+            31.34
+          ],
+          [
+            1.43,
+            31.38
+          ],
+          [
+            1.46,
+            31.38
+          ],
+          [
+            1.46,
+            31.34
+          ]
+        ]
+      },
+      {
+        "name": "Bugweri",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.65,
+            33.55
+          ],
+          [
+            0.65,
+            33.8
+          ],
+          [
+            0.9,
+            33.8
+          ],
+          [
+            0.9,
+            33.55
+          ]
+        ]
+      },
+      {
+        "name": "Bunyangabu",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.45,
+            30.15
+          ],
+          [
+            0.45,
+            30.4
+          ],
+          [
+            0.7,
+            30.4
+          ],
+          [
+            0.7,
+            30.15
+          ]
+        ]
+      },
+      {
+        "name": "Butebo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.15,
+            33.8
+          ],
+          [
+            1.15,
+            34.05
+          ],
+          [
+            1.4,
+            34.05
+          ],
+          [
+            1.4,
+            33.8
+          ]
+        ]
+      },
+      {
+        "name": "Kabalore",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.55,
+            29.85
+          ],
+          [
+            0.55,
+            30.15
+          ],
+          [
+            0.85,
+            30.15
+          ],
+          [
+            0.85,
+            29.85
+          ]
+        ]
+      },
+      {
+        "name": "Kagadi",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.9,
+            30.75
+          ],
+          [
+            0.9,
+            31.05
+          ],
+          [
+            1.2,
+            31.05
+          ],
+          [
+            1.2,
+            30.75
+          ]
+        ]
+      },
+      {
+        "name": "Kakumiro",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.75,
+            31.25
+          ],
+          [
+            0.75,
+            31.55
+          ],
+          [
+            1.05,
+            31.55
+          ],
+          [
+            1.05,
+            31.25
+          ]
+        ]
+      },
+      {
+        "name": "Kalaki",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.8,
+            33.3
+          ],
+          [
+            1.8,
+            33.5
+          ],
+          [
+            2,
+            33.5
+          ],
+          [
+            2,
+            33.3
+          ]
+        ]
+      },
+      {
+        "name": "Kapelebyong",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2,
+            33.8
+          ],
+          [
+            2,
+            34
+          ],
+          [
+            2.2,
+            34
+          ],
+          [
+            2.2,
+            33.8
+          ]
+        ]
+      },
+      {
+        "name": "Karenga",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3.5,
+            34
+          ],
+          [
+            3.5,
+            34.2
+          ],
+          [
+            3.7,
+            34.2
+          ],
+          [
+            3.7,
+            34
+          ]
+        ]
+      },
+      {
+        "name": "Kassanda",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.8,
+            31.8
+          ],
+          [
+            0.8,
+            32
+          ],
+          [
+            1,
+            32
+          ],
+          [
+            1,
+            31.8
+          ]
+        ]
+      },
+      {
+        "name": "Kazo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.1,
+            30.9
+          ],
+          [
+            -0.1,
+            31.1
+          ],
+          [
+            0.1,
+            31.1
+          ],
+          [
+            0.1,
+            30.9
+          ]
+        ]
+      },
+      {
+        "name": "Kikuube",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.2,
+            31
+          ],
+          [
+            1.2,
+            31.2
+          ],
+          [
+            1.4,
+            31.2
+          ],
+          [
+            1.4,
+            31
+          ]
+        ]
+      },
+      {
+        "name": "Kitagwenda",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.3,
+            30.2
+          ],
+          [
+            -0.3,
+            30.4
+          ],
+          [
+            -0.1,
+            30.4
+          ],
+          [
+            -0.1,
+            30.2
+          ]
+        ]
+      },
+      {
+        "name": "Kwania",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.9,
+            32.4
+          ],
+          [
+            1.9,
+            32.6
+          ],
+          [
+            2.1,
+            32.6
+          ],
+          [
+            2.1,
+            32.4
+          ]
+        ]
+      },
+      {
+        "name": "Kyotera",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.8,
+            31.4
+          ],
+          [
+            -0.8,
+            31.6
+          ],
+          [
+            -0.6,
+            31.6
+          ],
+          [
+            -0.6,
+            31.4
+          ]
+        ]
+      },
+      {
+        "name": "Namisindwa",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.85,
+            34.2
+          ],
+          [
+            0.85,
+            34.4
+          ],
+          [
+            1.05,
+            34.4
+          ],
+          [
+            1.05,
+            34.2
+          ]
+        ]
+      },
+      {
+        "name": "Nabilatuk",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.2,
+            34.6
+          ],
+          [
+            2.2,
+            34.8
+          ],
+          [
+            2.4,
+            34.8
+          ],
+          [
+            2.4,
+            34.6
+          ]
+        ]
+      },
+      {
+        "name": "Obongi",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3.3,
+            31.4
+          ],
+          [
+            3.3,
+            31.6
+          ],
+          [
+            3.5,
+            31.6
+          ],
+          [
+            3.5,
+            31.4
+          ]
+        ]
+      },
+      {
+        "name": "Omoro",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.7,
+            32.5
+          ],
+          [
+            2.7,
+            32.7
+          ],
+          [
+            2.9,
+            32.7
+          ],
+          [
+            2.9,
+            32.5
+          ]
+        ]
+      },
+      {
+        "name": "Rubanda",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -1.2,
+            29.9
+          ],
+          [
+            -1.2,
+            30.1
+          ],
+          [
+            -1,
+            30.1
+          ],
+          [
+            -1,
+            29.9
+          ]
+        ]
+      },
+      {
+        "name": "Rukiga",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -1.1,
+            30
+          ],
+          [
+            -1.1,
+            30.2
+          ],
+          [
+            -0.9,
+            30.2
+          ],
+          [
+            -0.9,
+            30
+          ]
+        ]
+      },
+      {
+        "name": "Rwampara",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.7,
+            30.3
+          ],
+          [
+            -0.7,
+            30.5
+          ],
+          [
+            -0.5,
+            30.5
+          ],
+          [
+            -0.5,
+            30.3
+          ]
+        ]
+      },
+      {
+        "name": "Sironko",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.1,
+            34.2
+          ],
+          [
+            1.1,
+            34.4
+          ],
+          [
+            1.3,
+            34.4
+          ],
+          [
+            1.3,
+            34.2
+          ]
+        ]
+      },
+      {
+        "name": "Madi Okollo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.8,
+            31.1
+          ],
+          [
+            2.8,
+            31.3
+          ],
+          [
+            3,
+            31.3
+          ],
+          [
+            3,
+            31.1
+          ]
+        ]
+      },
+      {
+        "name": "Pakwach",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.4,
+            31.3
+          ],
+          [
+            2.4,
+            31.5
+          ],
+          [
+            2.6,
+            31.5
+          ],
+          [
+            2.6,
+            31.3
+          ]
+        ]
+      },
+      {
+        "name": "Terego",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3,
+            31
+          ],
+          [
+            3,
+            31.2
+          ],
+          [
+            3.2,
+            31.2
+          ],
+          [
+            3.2,
+            31
+          ]
+        ]
+      },
+      {
+        "name": "Abim",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.6,
+            33.6
+          ],
+          [
+            2.6,
+            33.8
+          ],
+          [
+            2.8,
+            33.8
+          ],
+          [
+            2.8,
+            33.6
+          ]
+        ]
+      },
+      {
+        "name": "Adjumani",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3.2,
+            31.7
+          ],
+          [
+            3.2,
+            31.9
+          ],
+          [
+            3.4,
+            31.9
+          ],
+          [
+            3.4,
+            31.7
+          ]
+        ]
+      },
+      {
+        "name": "Agago",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.8,
+            33.2
+          ],
+          [
+            2.8,
+            33.4
+          ],
+          [
+            3,
+            33.4
+          ],
+          [
+            3,
+            33.2
+          ]
+        ]
+      },
+      {
+        "name": "Alebtong",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.2,
+            33.2
+          ],
+          [
+            2.2,
+            33.4
+          ],
+          [
+            2.4,
+            33.4
+          ],
+          [
+            2.4,
+            33.2
+          ]
+        ]
+      },
+      {
+        "name": "Amolatar",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.6,
+            32.8
+          ],
+          [
+            1.6,
+            33
+          ],
+          [
+            1.8,
+            33
+          ],
+          [
+            1.8,
+            32.8
+          ]
+        ]
+      },
+      {
+        "name": "Amudat",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.9,
+            34.9
+          ],
+          [
+            1.9,
+            35.1
+          ],
+          [
+            2.1,
+            35.1
+          ],
+          [
+            2.1,
+            34.9
+          ]
+        ]
+      },
+      {
+        "name": "Amuria",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2,
+            33.5
+          ],
+          [
+            2,
+            33.7
+          ],
+          [
+            2.2,
+            33.7
+          ],
+          [
+            2.2,
+            33.5
+          ]
+        ]
+      },
+      {
+        "name": "Amuru",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3,
+            32
+          ],
+          [
+            3,
+            32.2
+          ],
+          [
+            3.2,
+            32.2
+          ],
+          [
+            3.2,
+            32
+          ]
+        ]
+      },
+      {
+        "name": "Apac",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.9,
+            32.5
+          ],
+          [
+            1.9,
+            32.7
+          ],
+          [
+            2.1,
+            32.7
+          ],
+          [
+            2.1,
+            32.5
+          ]
+        ]
+      },
+      {
+        "name": "Budaka",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1,
+            33.9
+          ],
+          [
+            1,
+            34.1
+          ],
+          [
+            1.2,
+            34.1
+          ],
+          [
+            1.2,
+            33.9
+          ]
+        ]
+      },
+      {
+        "name": "Bududa",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1,
+            34.3
+          ],
+          [
+            1,
+            34.5
+          ],
+          [
+            1.2,
+            34.5
+          ],
+          [
+            1.2,
+            34.3
+          ]
+        ]
+      },
+      {
+        "name": "Bugiri",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.5,
+            33.7
+          ],
+          [
+            0.5,
+            33.9
+          ],
+          [
+            0.7,
+            33.9
+          ],
+          [
+            0.7,
+            33.7
+          ]
+        ]
+      },
+      {
+        "name": "Buhweju",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.4,
+            30.4
+          ],
+          [
+            -0.4,
+            30.6
+          ],
+          [
+            -0.2,
+            30.6
+          ],
+          [
+            -0.2,
+            30.4
+          ]
+        ]
+      },
+      {
+        "name": "Buikwe",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.3,
+            32.9
+          ],
+          [
+            0.3,
+            33.1
+          ],
+          [
+            0.5,
+            33.1
+          ],
+          [
+            0.5,
+            32.9
+          ]
+        ]
+      },
+      {
+        "name": "Bukedea",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.3,
+            34
+          ],
+          [
+            1.3,
+            34.2
+          ],
+          [
+            1.5,
+            34.2
+          ],
+          [
+            1.5,
+            34
+          ]
+        ]
+      },
+      {
+        "name": "Bukomansimbi",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.3,
+            31.6
+          ],
+          [
+            -0.3,
+            31.8
+          ],
+          [
+            -0.1,
+            31.8
+          ],
+          [
+            -0.1,
+            31.6
+          ]
+        ]
+      },
+      {
+        "name": "Bukwo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.2,
+            34.7
+          ],
+          [
+            1.2,
+            34.9
+          ],
+          [
+            1.4,
+            34.9
+          ],
+          [
+            1.4,
+            34.7
+          ]
+        ]
+      },
+      {
+        "name": "Bulambuli",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.2,
+            34.3
+          ],
+          [
+            1.2,
+            34.5
+          ],
+          [
+            1.4,
+            34.5
+          ],
+          [
+            1.4,
+            34.3
+          ]
+        ]
+      },
+      {
+        "name": "Buliisa",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2,
+            31.4
+          ],
+          [
+            2,
+            31.6
+          ],
+          [
+            2.2,
+            31.6
+          ],
+          [
+            2.2,
+            31.4
+          ]
+        ]
+      },
+      {
+        "name": "Bundibugyo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.7,
+            30
+          ],
+          [
+            0.7,
+            30.2
+          ],
+          [
+            0.9,
+            30.2
+          ],
+          [
+            0.9,
+            30
+          ]
+        ]
+      },
+      {
+        "name": "Bushenyi",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.6,
+            30.1
+          ],
+          [
+            -0.6,
+            30.3
+          ],
+          [
+            -0.4,
+            30.3
+          ],
+          [
+            -0.4,
+            30.1
+          ]
+        ]
+      },
+      {
+        "name": "Busia",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.4,
+            34
+          ],
+          [
+            0.4,
+            34.2
+          ],
+          [
+            0.6,
+            34.2
+          ],
+          [
+            0.6,
+            34
+          ]
+        ]
+      },
+      {
+        "name": "Butaleja",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.9,
+            33.9
+          ],
+          [
+            0.9,
+            34.1
+          ],
+          [
+            1.1,
+            34.1
+          ],
+          [
+            1.1,
+            33.9
+          ]
+        ]
+      },
+      {
+        "name": "Butambala",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.1,
+            32
+          ],
+          [
+            0.1,
+            32.2
+          ],
+          [
+            0.3,
+            32.2
+          ],
+          [
+            0.3,
+            32
+          ]
+        ]
+      },
+      {
+        "name": "Buvuma",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.1,
+            33.2
+          ],
+          [
+            -0.1,
+            33.4
+          ],
+          [
+            0.1,
+            33.4
+          ],
+          [
+            0.1,
+            33.2
+          ]
+        ]
+      },
+      {
+        "name": "Buyende",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.1,
+            33.1
+          ],
+          [
+            1.1,
+            33.3
+          ],
+          [
+            1.3,
+            33.3
+          ],
+          [
+            1.3,
+            33.1
+          ]
+        ]
+      },
+      {
+        "name": "Dokolo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.8,
+            33.1
+          ],
+          [
+            1.8,
+            33.3
+          ],
+          [
+            2,
+            33.3
+          ],
+          [
+            2,
+            33.1
+          ]
+        ]
+      },
+      {
+        "name": "Gomba",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.1,
+            31.8
+          ],
+          [
+            0.1,
+            32
+          ],
+          [
+            0.3,
+            32
+          ],
+          [
+            0.3,
+            31.8
+          ]
+        ]
+      },
+      {
+        "name": "Ibanda",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.2,
+            30.5
+          ],
+          [
+            -0.2,
+            30.7
+          ],
+          [
+            0,
+            30.7
+          ],
+          [
+            0,
+            30.5
+          ]
+        ]
+      },
+      {
+        "name": "Iganga",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.6,
+            33.4
+          ],
+          [
+            0.6,
+            33.6
+          ],
+          [
+            0.8,
+            33.6
+          ],
+          [
+            0.8,
+            33.4
+          ]
+        ]
+      },
+      {
+        "name": "Isingiro",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.9,
+            30.8
+          ],
+          [
+            -0.9,
+            31
+          ],
+          [
+            -0.7,
+            31
+          ],
+          [
+            -0.7,
+            30.8
+          ]
+        ]
+      },
+      {
+        "name": "Kaabong",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3.4,
+            33.9
+          ],
+          [
+            3.4,
+            34.1
+          ],
+          [
+            3.6,
+            34.1
+          ],
+          [
+            3.6,
+            33.9
+          ]
+        ]
+      },
+      {
+        "name": "Kabale",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -1.3,
+            29.9
+          ],
+          [
+            -1.3,
+            30.1
+          ],
+          [
+            -1.1,
+            30.1
+          ],
+          [
+            -1.1,
+            29.9
+          ]
+        ]
+      },
+      {
+        "name": "Kaberamaido",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.7,
+            33.4
+          ],
+          [
+            1.7,
+            33.6
+          ],
+          [
+            1.9,
+            33.6
+          ],
+          [
+            1.9,
+            33.4
+          ]
+        ]
+      },
+      {
+        "name": "Kalangala",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.5,
+            32.2
+          ],
+          [
+            -0.5,
+            32.4
+          ],
+          [
+            -0.3,
+            32.4
+          ],
+          [
+            -0.3,
+            32.2
+          ]
+        ]
+      },
+      {
+        "name": "Kaliro",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.8,
+            33.3
+          ],
+          [
+            0.8,
+            33.5
+          ],
+          [
+            1,
+            33.5
+          ],
+          [
+            1,
+            33.3
+          ]
+        ]
+      },
+      {
+        "name": "Kalungu",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.2,
+            31.7
+          ],
+          [
+            -0.2,
+            31.9
+          ],
+          [
+            0,
+            31.9
+          ],
+          [
+            0,
+            31.7
+          ]
+        ]
+      },
+      {
+        "name": "Kamuli",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.9,
+            33
+          ],
+          [
+            0.9,
+            33.2
+          ],
+          [
+            1.1,
+            33.2
+          ],
+          [
+            1.1,
+            33
+          ]
+        ]
+      },
+      {
+        "name": "Kamwenge",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.1,
+            30.4
+          ],
+          [
+            0.1,
+            30.6
+          ],
+          [
+            0.3,
+            30.6
+          ],
+          [
+            0.3,
+            30.4
+          ]
+        ]
+      },
+      {
+        "name": "Kanungu",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.9,
+            29.7
+          ],
+          [
+            -0.9,
+            29.9
+          ],
+          [
+            -0.7,
+            29.9
+          ],
+          [
+            -0.7,
+            29.7
+          ]
+        ]
+      },
+      {
+        "name": "Kapchorwa",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.3,
+            34.4
+          ],
+          [
+            1.3,
+            34.6
+          ],
+          [
+            1.5,
+            34.6
+          ],
+          [
+            1.5,
+            34.4
+          ]
+        ]
+      },
+      {
+        "name": "Kasese",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.1,
+            29.9
+          ],
+          [
+            0.1,
+            30.1
+          ],
+          [
+            0.3,
+            30.1
+          ],
+          [
+            0.3,
+            29.9
+          ]
+        ]
+      },
+      {
+        "name": "Katakwi",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.9,
+            33.9
+          ],
+          [
+            1.9,
+            34.1
+          ],
+          [
+            2.1,
+            34.1
+          ],
+          [
+            2.1,
+            33.9
+          ]
+        ]
+      },
+      {
+        "name": "Kayunga",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.7,
+            32.8
+          ],
+          [
+            0.7,
+            33
+          ],
+          [
+            0.9,
+            33
+          ],
+          [
+            0.9,
+            32.8
+          ]
+        ]
+      },
+      {
+        "name": "Kibaale",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.8,
+            31
+          ],
+          [
+            0.8,
+            31.2
+          ],
+          [
+            1,
+            31.2
+          ],
+          [
+            1,
+            31
+          ]
+        ]
+      },
+      {
+        "name": "Kiboga",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.8,
+            31.9
+          ],
+          [
+            0.8,
+            32.1
+          ],
+          [
+            1,
+            32.1
+          ],
+          [
+            1,
+            31.9
+          ]
+        ]
+      },
+      {
+        "name": "Kibuku",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1,
+            33.7
+          ],
+          [
+            1,
+            33.9
+          ],
+          [
+            1.2,
+            33.9
+          ],
+          [
+            1.2,
+            33.7
+          ]
+        ]
+      },
+      {
+        "name": "Kiruhura",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.3,
+            30.8
+          ],
+          [
+            -0.3,
+            31
+          ],
+          [
+            -0.1,
+            31
+          ],
+          [
+            -0.1,
+            30.8
+          ]
+        ]
+      },
+      {
+        "name": "Kiryandongo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.8,
+            32
+          ],
+          [
+            1.8,
+            32.2
+          ],
+          [
+            2,
+            32.2
+          ],
+          [
+            2,
+            32
+          ]
+        ]
+      },
+      {
+        "name": "Kisoro",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -1.4,
+            29.6
+          ],
+          [
+            -1.4,
+            29.8
+          ],
+          [
+            -1.2,
+            29.8
+          ],
+          [
+            -1.2,
+            29.6
+          ]
+        ]
+      },
+      {
+        "name": "Kitgum",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3.2,
+            32.8
+          ],
+          [
+            3.2,
+            33
+          ],
+          [
+            3.4,
+            33
+          ],
+          [
+            3.4,
+            32.8
+          ]
+        ]
+      },
+      {
+        "name": "Koboko",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3.4,
+            30.9
+          ],
+          [
+            3.4,
+            31.1
+          ],
+          [
+            3.6,
+            31.1
+          ],
+          [
+            3.6,
+            30.9
+          ]
+        ]
+      },
+      {
+        "name": "Kole",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.2,
+            32.6
+          ],
+          [
+            2.2,
+            32.8
+          ],
+          [
+            2.4,
+            32.8
+          ],
+          [
+            2.4,
+            32.6
+          ]
+        ]
+      },
+      {
+        "name": "Kotido",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3,
+            34
+          ],
+          [
+            3,
+            34.2
+          ],
+          [
+            3.2,
+            34.2
+          ],
+          [
+            3.2,
+            34
+          ]
+        ]
+      },
+      {
+        "name": "Kumi",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.4,
+            33.9
+          ],
+          [
+            1.4,
+            34.1
+          ],
+          [
+            1.6,
+            34.1
+          ],
+          [
+            1.6,
+            33.9
+          ]
+        ]
+      },
+      {
+        "name": "Kween",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.4,
+            34.6
+          ],
+          [
+            1.4,
+            34.8
+          ],
+          [
+            1.6,
+            34.8
+          ],
+          [
+            1.6,
+            34.6
+          ]
+        ]
+      },
+      {
+        "name": "Kyankwanzi",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1,
+            31.7
+          ],
+          [
+            1,
+            31.9
+          ],
+          [
+            1.2,
+            31.9
+          ],
+          [
+            1.2,
+            31.7
+          ]
+        ]
+      },
+      {
+        "name": "Kyegegwa",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.4,
+            31
+          ],
+          [
+            0.4,
+            31.2
+          ],
+          [
+            0.6,
+            31.2
+          ],
+          [
+            0.6,
+            31
+          ]
+        ]
+      },
+      {
+        "name": "Kyenjojo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.6,
+            30.6
+          ],
+          [
+            0.6,
+            30.8
+          ],
+          [
+            0.8,
+            30.8
+          ],
+          [
+            0.8,
+            30.6
+          ]
+        ]
+      },
+      {
+        "name": "Lamwo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3.4,
+            32.6
+          ],
+          [
+            3.4,
+            32.8
+          ],
+          [
+            3.6,
+            32.8
+          ],
+          [
+            3.6,
+            32.6
+          ]
+        ]
+      },
+      {
+        "name": "Luuka",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.7,
+            33.2
+          ],
+          [
+            0.7,
+            33.4
+          ],
+          [
+            0.9,
+            33.4
+          ],
+          [
+            0.9,
+            33.2
+          ]
+        ]
+      },
+      {
+        "name": "Luwero",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.6,
+            32.4
+          ],
+          [
+            0.6,
+            32.6
+          ],
+          [
+            0.8,
+            32.6
+          ],
+          [
+            0.8,
+            32.4
+          ]
+        ]
+      },
+      {
+        "name": "Lwengo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.5,
+            31.4
+          ],
+          [
+            -0.5,
+            31.6
+          ],
+          [
+            -0.3,
+            31.6
+          ],
+          [
+            -0.3,
+            31.4
+          ]
+        ]
+      },
+      {
+        "name": "Lyantonde",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.4,
+            31.1
+          ],
+          [
+            -0.4,
+            31.3
+          ],
+          [
+            -0.2,
+            31.3
+          ],
+          [
+            -0.2,
+            31.1
+          ]
+        ]
+      },
+      {
+        "name": "Manafwa",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.95,
+            34.3
+          ],
+          [
+            0.95,
+            34.5
+          ],
+          [
+            1.15,
+            34.5
+          ],
+          [
+            1.15,
+            34.3
+          ]
+        ]
+      },
+      {
+        "name": "Maracha",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3.1,
+            31
+          ],
+          [
+            3.1,
+            31.2
+          ],
+          [
+            3.3,
+            31.2
+          ],
+          [
+            3.3,
+            31
+          ]
+        ]
+      },
+      {
+        "name": "Masindi",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.6,
+            31.6
+          ],
+          [
+            1.6,
+            31.8
+          ],
+          [
+            1.8,
+            31.8
+          ],
+          [
+            1.8,
+            31.6
+          ]
+        ]
+      },
+      {
+        "name": "Mayuge",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.4,
+            33.5
+          ],
+          [
+            0.4,
+            33.7
+          ],
+          [
+            0.6,
+            33.7
+          ],
+          [
+            0.6,
+            33.5
+          ]
+        ]
+      },
+      {
+        "name": "Mitooma",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.6,
+            30
+          ],
+          [
+            -0.6,
+            30.2
+          ],
+          [
+            -0.4,
+            30.2
+          ],
+          [
+            -0.4,
+            30
+          ]
+        ]
+      },
+      {
+        "name": "Mityana",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.3,
+            32
+          ],
+          [
+            0.3,
+            32.2
+          ],
+          [
+            0.5,
+            32.2
+          ],
+          [
+            0.5,
+            32
+          ]
+        ]
+      },
+      {
+        "name": "Moroto",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.5,
+            34.6
+          ],
+          [
+            2.5,
+            34.8
+          ],
+          [
+            2.7,
+            34.8
+          ],
+          [
+            2.7,
+            34.6
+          ]
+        ]
+      },
+      {
+        "name": "Moyo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3.5,
+            31.6
+          ],
+          [
+            3.5,
+            31.8
+          ],
+          [
+            3.7,
+            31.8
+          ],
+          [
+            3.7,
+            31.6
+          ]
+        ]
+      },
+      {
+        "name": "Mpigi",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.1,
+            31.9
+          ],
+          [
+            0.1,
+            32.1
+          ],
+          [
+            0.3,
+            32.1
+          ],
+          [
+            0.3,
+            31.9
+          ]
+        ]
+      },
+      {
+        "name": "Mubende",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.5,
+            31.3
+          ],
+          [
+            0.5,
+            31.5
+          ],
+          [
+            0.7,
+            31.5
+          ],
+          [
+            0.7,
+            31.3
+          ]
+        ]
+      },
+      {
+        "name": "Nakapiripirit",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.9,
+            34.7
+          ],
+          [
+            1.9,
+            34.9
+          ],
+          [
+            2.1,
+            34.9
+          ],
+          [
+            2.1,
+            34.7
+          ]
+        ]
+      },
+      {
+        "name": "Nakaseke",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.7,
+            32.2
+          ],
+          [
+            0.7,
+            32.4
+          ],
+          [
+            0.9,
+            32.4
+          ],
+          [
+            0.9,
+            32.2
+          ]
+        ]
+      },
+      {
+        "name": "Nakasongola",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.2,
+            32.3
+          ],
+          [
+            1.2,
+            32.5
+          ],
+          [
+            1.4,
+            32.5
+          ],
+          [
+            1.4,
+            32.3
+          ]
+        ]
+      },
+      {
+        "name": "Namayingo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.3,
+            33.8
+          ],
+          [
+            0.3,
+            34
+          ],
+          [
+            0.5,
+            34
+          ],
+          [
+            0.5,
+            33.8
+          ]
+        ]
+      },
+      {
+        "name": "Namutumba",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.8,
+            33.6
+          ],
+          [
+            0.8,
+            33.8
+          ],
+          [
+            1,
+            33.8
+          ],
+          [
+            1,
+            33.6
+          ]
+        ]
+      },
+      {
+        "name": "Napak",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.2,
+            34.2
+          ],
+          [
+            2.2,
+            34.4
+          ],
+          [
+            2.4,
+            34.4
+          ],
+          [
+            2.4,
+            34.2
+          ]
+        ]
+      },
+      {
+        "name": "Nebbi",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.4,
+            31
+          ],
+          [
+            2.4,
+            31.2
+          ],
+          [
+            2.6,
+            31.2
+          ],
+          [
+            2.6,
+            31
+          ]
+        ]
+      },
+      {
+        "name": "Ngora",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.5,
+            33.7
+          ],
+          [
+            1.5,
+            33.9
+          ],
+          [
+            1.7,
+            33.9
+          ],
+          [
+            1.7,
+            33.7
+          ]
+        ]
+      },
+      {
+        "name": "Ntoroko",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1,
+            30.2
+          ],
+          [
+            1,
+            30.4
+          ],
+          [
+            1.2,
+            30.4
+          ],
+          [
+            1.2,
+            30.2
+          ]
+        ]
+      },
+      {
+        "name": "Ntungamo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.9,
+            30.2
+          ],
+          [
+            -0.9,
+            30.4
+          ],
+          [
+            -0.7,
+            30.4
+          ],
+          [
+            -0.7,
+            30.2
+          ]
+        ]
+      },
+      {
+        "name": "Nwoya",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.6,
+            31.8
+          ],
+          [
+            2.6,
+            32
+          ],
+          [
+            2.8,
+            32
+          ],
+          [
+            2.8,
+            31.8
+          ]
+        ]
+      },
+      {
+        "name": "Otuke",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.4,
+            33.3
+          ],
+          [
+            2.4,
+            33.5
+          ],
+          [
+            2.6,
+            33.5
+          ],
+          [
+            2.6,
+            33.3
+          ]
+        ]
+      },
+      {
+        "name": "Oyam",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.2,
+            32.3
+          ],
+          [
+            2.2,
+            32.5
+          ],
+          [
+            2.4,
+            32.5
+          ],
+          [
+            2.4,
+            32.3
+          ]
+        ]
+      },
+      {
+        "name": "Pader",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.9,
+            32.9
+          ],
+          [
+            2.9,
+            33.1
+          ],
+          [
+            3.1,
+            33.1
+          ],
+          [
+            3.1,
+            32.9
+          ]
+        ]
+      },
+      {
+        "name": "Pallisa",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.1,
+            33.8
+          ],
+          [
+            1.1,
+            34
+          ],
+          [
+            1.3,
+            34
+          ],
+          [
+            1.3,
+            33.8
+          ]
+        ]
+      },
+      {
+        "name": "Rakai",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.7,
+            31.3
+          ],
+          [
+            -0.7,
+            31.5
+          ],
+          [
+            -0.5,
+            31.5
+          ],
+          [
+            -0.5,
+            31.3
+          ]
+        ]
+      },
+      {
+        "name": "Rubirizi",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.2,
+            30
+          ],
+          [
+            -0.2,
+            30.2
+          ],
+          [
+            0,
+            30.2
+          ],
+          [
+            0,
+            30
+          ]
+        ]
+      },
+      {
+        "name": "Rukungiri",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -1,
+            29.8
+          ],
+          [
+            -1,
+            30
+          ],
+          [
+            -0.8,
+            30
+          ],
+          [
+            -0.8,
+            29.8
+          ]
+        ]
+      },
+      {
+        "name": "Serere",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            1.6,
+            33.5
+          ],
+          [
+            1.6,
+            33.7
+          ],
+          [
+            1.8,
+            33.7
+          ],
+          [
+            1.8,
+            33.5
+          ]
+        ]
+      },
+      {
+        "name": "Sheema",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.5,
+            30.3
+          ],
+          [
+            -0.5,
+            30.5
+          ],
+          [
+            -0.3,
+            30.5
+          ],
+          [
+            -0.3,
+            30.3
+          ]
+        ]
+      },
+      {
+        "name": "Ssembabule",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            -0.2,
+            31.3
+          ],
+          [
+            -0.2,
+            31.5
+          ],
+          [
+            0,
+            31.5
+          ],
+          [
+            0,
+            31.3
+          ]
+        ]
+      },
+      {
+        "name": "Tororo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            0.6,
+            34.1
+          ],
+          [
+            0.6,
+            34.3
+          ],
+          [
+            0.8,
+            34.3
+          ],
+          [
+            0.8,
+            34.1
+          ]
+        ]
+      },
+      {
+        "name": "Yumbe",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            3.3,
+            31.2
+          ],
+          [
+            3.3,
+            31.4
+          ],
+          [
+            3.5,
+            31.4
+          ],
+          [
+            3.5,
+            31.2
+          ]
+        ]
+      },
+      {
+        "name": "Zombo",
+        "country": "Uganda",
+        "boundaries": [
+          [
+            2.9,
+            30.7
+          ],
+          [
+            2.9,
+            30.9
+          ],
+          [
+            3.1,
+            30.9
+          ],
+          [
+            3.1,
+            30.7
+          ]
         ]
       }
     ],
@@ -262,7 +3486,7 @@
       "id": "UG398721877017",
       "name": "ahmed",
       "phone": "+256700000001",
-      "paid": true,  
+      "paid": true,
       "regDate": "2026-01-26T21:53:18.721Z",
       "expiryDate": "2026-04-26T21:53:18.721Z",
       "subscriptionDays": 90,
@@ -277,7 +3501,7 @@
       "id": "UG079859846895",
       "name": "moahmmed ahmedswsw",
       "phone": "+256700000002",
-      "paid": true,  
+      "paid": true,
       "regDate": "2026-01-27T02:14:39.859Z",
       "expiryDate": "2026-04-27T02:14:39.859Z",
       "subscriptionDays": 90,
@@ -292,7 +3516,7 @@
       "id": "UG195037213489",
       "name": "moahmmed ahmed",
       "phone": "+256700000003",
-      "paid": true,  
+      "paid": true,
       "regDate": "2026-02-11T02:16:35.037Z",
       "expiryDate": "2026-02-18T02:16:35.038Z",
       "subscriptionDays": 7,
@@ -305,7 +3529,7 @@
       "id": "UG457884610834",
       "name": "Gofran",
       "phone": "+256700000004",
-      "paid": true,  
+      "paid": true,
       "regDate": "2026-02-12T00:50:57.888Z",
       "expiryDate": "2026-05-13T00:50:57.887Z",
       "subscriptionDays": 1,
@@ -317,7 +3541,7 @@
       "id": "UG836663596625",
       "name": "Mohammed hady",
       "phone": "+256700000005",
-      "paid": true,  
+      "paid": true,
       "regDate": "2026-02-12T18:27:16.663Z",
       "expiryDate": "2026-05-15T18:27:16.663Z",
       "subscriptionDays": 1,
@@ -329,7 +3553,7 @@
       "id": "UG577033395872",
       "name": "mohammedosman",
       "phone": "+256700000006",
-      "paid": true,  
+      "paid": true,
       "regDate": "2026-02-14T12:19:37.041Z",
       "expiryDate": "2026-02-25T12:19:37.033Z",
       "subscriptionDays": 1,
@@ -341,7 +3565,7 @@
       "id": "UG113735081094",
       "name": "Abduallah",
       "phone": "+256700000007",
-      "paid": true,  
+      "paid": true,
       "regDate": "2026-02-14T14:41:53.737Z",
       "expiryDate": "2026-02-25T14:41:53.736Z",
       "subscriptionDays": 1,
@@ -353,7 +3577,7 @@
       "id": "UG143602741846",
       "name": "Goar kuony",
       "phone": "+256700000008",
-      "paid": true,  
+      "paid": true,
       "regDate": "2026-02-14T15:15:43.606Z",
       "expiryDate": "2026-02-25T15:15:43.602Z",
       "subscriptionDays": 1,
@@ -365,7 +3589,7 @@
       "id": "UG109022488394",
       "name": "Abdulwahid",
       "phone": "+256700000009",
-      "paid": true,  
+      "paid": true,
       "regDate": "2026-02-16T12:31:49.033Z",
       "expiryDate": "2026-02-17T12:31:49.022Z",
       "subscriptionDays": 1,
@@ -377,7 +3601,7 @@
       "id": "UG180662292893",
       "name": "Elregig",
       "phone": "+256700000011",
-      "paid": true,  
+      "paid": true,
       "regDate": "2026-02-16T17:16:20.690Z",
       "expiryDate": "2026-02-17T17:16:20.664Z",
       "subscriptionDays": 1,
@@ -389,7 +3613,7 @@
       "id": "UG097423085381",
       "name": "Fff",
       "phone": "+256700000012",
-      "paid": true,  
+      "paid": true,
       "regDate": "2026-02-16T17:31:37.423Z",
       "expiryDate": "2026-02-17T17:31:37.423Z",
       "subscriptionDays": 1,
@@ -399,4 +3623,3 @@
     }
   ]
 }
- 
