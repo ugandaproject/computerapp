@@ -64,14 +64,14 @@
   
 "apk_update": {
   "version": "1.1.0",
-  "url": "https://github.com/ugandaproject/computerapp/releases/download/v1.1.0/app-release.apk",
+  "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
   "force": true,
-  "message": "New Version Available!",
-  "minVersion": "1.0.0",
+  "message": "Test Download - This is a PDF file to test if download works",
+  "minVersion": "1.1.0",
   "releaseDate": "2026-02-24",
-  "size": "25.5 MB",
-  "whatsNew": ["New features", "Bug fixes"]
-},
+  "size": "1 MB",
+  "whatsNew": ["Testing download functionality"]
+}
 
   "locations": {
     "allowedCountries": [
