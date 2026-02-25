@@ -66,11 +66,11 @@
   "version": "1.1.0",
   "url": "https://ugandaproject.github.io/test/F-Droid.apk",
   "force": true,
-  "message": "Test Download - This is a PDF file to test if download works",
+  "message": "Test Download - This is a test file to verify download functionality",
   "minVersion": "1.1.0",
   "releaseDate": "2026-02-24",
-  "size": "1 MB",
-  "whatsNew": ["Testing download functionality"] 
+  "size": "45 KB",
+  "whatsNew": ["Testing download functionality - PDF test file"]
 },
 
   "locations": {
