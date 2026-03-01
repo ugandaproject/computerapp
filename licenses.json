@@ -199,11 +199,7 @@
           "loop": false,
           "volume": 0.7
         },
-        "action": {
-          "type": "url",
-          "url": "https://example.com/birthday-gift",
-          "label": "Claim Gift"
-        },
+
         "startDate": "2026-03-01T00:00:00.000Z",
         "endDate": "2026-03-31T23:59:59.000Z",
         "targetUsers": ["birthday_month"],
