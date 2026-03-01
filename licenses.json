@@ -73,6 +73,190 @@
   "whatsNew": ["Testing download functionality - PDF test file"]
 },
 
+
+  "sounds": {
+    "baseUrl": "https://ugandaproject.github.io/test/sounds/",
+    "default": "default.mp3",
+    "offer": "offer.mp3",
+    "alert": "alert.mp3",
+    "info": "info.mp3",
+    "warning": "warning.mp3",
+    "urgent": "urgent.mp3",
+    "success": "success.mp3",
+    "error": "error.mp3",
+    "custom": {
+      "birthday": "birthday.mp3",
+      "promotion": "promotion.mp3",
+      "reminder": "reminder.mp3"
+    }
+  },
+  
+  "notifications": {
+    "enabled": true,
+    "checkInterval": 30000,
+    "displayDuration": 5000,
+    "maxStack": 3,
+    "sound": true,
+    "vibrate": true,
+    "vibratePattern": [200, 100, 200],
+    "list": [
+      {
+        "id": "notif_001",
+        "title": "🎉 Special Offer!",
+        "message": "Get 50% off on Microsoft Office courses this week only!",
+        "type": "offer",
+        "priority": "high",
+        "image": "https://ugandaproject.github.io/test/offer.png",
+        "sound": {
+          "url": "https://ugandaproject.github.io/test/sounds/celebration.mp3",
+          "loop": false,
+          "volume": 0.8
+        },
+        "action": {
+          "type": "url",
+          "url": "https://example.com/offer",
+          "label": "Claim Now"
+        },
+        "startDate": "2026-03-01T00:00:00.000Z",
+        "endDate": "2026-03-07T23:59:59.000Z",
+        "targetUsers": "all",
+        "deviceTypes": ["all"]
+      },
+      {
+        "id": "notif_002",
+        "title": "📢 System Maintenance",
+        "message": "Scheduled maintenance on March 5th from 2AM to 4AM EAT",
+        "type": "alert",
+        "priority": "medium",
+        "icon": "fa-tools",
+        "sound": {
+          "url": "https://ugandaproject.github.io/test/sounds/notification.mp3",
+          "loop": false,
+          "volume": 0.6
+        },
+        "action": {
+          "type": "dismiss",
+          "label": "OK"
+        },
+        "startDate": "2026-03-01T00:00:00.000Z",
+        "endDate": "2026-03-05T23:59:59.000Z",
+        "targetUsers": "all",
+        "deviceTypes": ["all"]
+      },
+      {
+        "id": "notif_003",
+        "title": "📝 New Course Available",
+        "message": "Microsoft Excel Advanced - Pivot Tables & Macros just released!",
+        "type": "info",
+        "priority": "low",
+        "image": "https://ugandaproject.github.io/test/excel-course.jpg",
+        "sound": {
+          "type": "info",
+          "loop": false
+        },
+        "action": {
+          "type": "lesson",
+          "lesson": "excel/advanced",
+          "label": "Start Learning"
+        },
+        "startDate": "2026-03-01T00:00:00.000Z",
+        "endDate": "2026-04-01T23:59:59.000Z",
+        "targetUsers": ["registered"],
+        "deviceTypes": ["all"]
+      },
+      {
+        "id": "notif_004",
+        "title": "⚠️ License Expiring Soon",
+        "message": "Your license will expire in 3 days. Renew now to continue learning!",
+        "type": "warning",
+        "priority": "urgent",
+        "icon": "fa-exclamation-triangle",
+        "sound": {
+          "url": "https://ugandaproject.github.io/test/sounds/urgent-alert.mp3",
+          "loop": true,
+          "volume": 0.9,
+          "duration": 3000
+        },
+        "action": {
+          "type": "modal",
+          "modal": "registration",
+          "label": "Renew Now"
+        },
+        "startDate": "2026-03-01T00:00:00.000Z",
+        "endDate": "2026-03-10T23:59:59.000Z",
+        "targetUsers": ["expiring_soon"],
+        "deviceTypes": ["all"]
+      },
+      {
+        "id": "notif_005",
+        "title": "🎂 Happy Birthday!",
+        "message": "Happy Birthday! Here's a special gift for you - 1 month free access!",
+        "type": "birthday",
+        "priority": "high",
+        "image": "https://ugandaproject.github.io/test/birthday.jpg",
+        "sound": {
+          "url": "https://ugandaproject.github.io/test/sounds/happy-birthday.mp3",
+          "loop": false,
+          "volume": 0.7
+        },
+        "action": {
+          "type": "url",
+          "url": "https://example.com/birthday-gift",
+          "label": "Claim Gift"
+        },
+        "startDate": "2026-03-01T00:00:00.000Z",
+        "endDate": "2026-03-31T23:59:59.000Z",
+        "targetUsers": ["birthday_month"],
+        "deviceTypes": ["all"]
+      }
+    ],
+    "templates": {
+      "offer": {
+        "icon": "fa-gift",
+        "color": "#4CAF50",
+        "defaultSound": "offer.mp3"
+      },
+      "alert": {
+        "icon": "fa-bell",
+        "color": "#FF5722",
+        "defaultSound": "alert.mp3"
+      },
+      "info": {
+        "icon": "fa-info-circle",
+        "color": "#2196F3",
+        "defaultSound": "info.mp3"
+      },
+      "warning": {
+        "icon": "fa-exclamation-triangle",
+        "color": "#FF9800",
+        "defaultSound": "warning.mp3"
+      },
+      "urgent": {
+        "icon": "fa-exclamation-circle",
+        "color": "#F44336",
+        "defaultSound": "urgent.mp3"
+      },
+      "birthday": {
+        "icon": "fa-birthday-cake",
+        "color": "#FF69B4",
+        "defaultSound": "birthday.mp3"
+      },
+      "success": {
+        "icon": "fa-check-circle",
+        "color": "#4CAF50",
+        "defaultSound": "success.mp3"
+      },
+      "error": {
+        "icon": "fa-times-circle",
+        "color": "#F44336",
+        "defaultSound": "error.mp3"
+      }
+    }
+  },
+
+
+  
+
   "locations": {
     "allowedCountries": [
       "Uganda"
