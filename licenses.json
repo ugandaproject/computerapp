@@ -232,8 +232,7 @@
         "icon": "fa-times-circle",
         "color": "#F44336",
         "defaultSound": "error.mp3"
-      }
-    }
+        }
   },
 "locations": {
     "allowedCountries": [
