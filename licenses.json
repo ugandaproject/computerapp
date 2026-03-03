@@ -100,96 +100,44 @@
     "sound": true,
     "vibrate": true,
     "vibratePattern": [200, 100, 200],
-    "list": [
+    "list": [ 
       {
-        "id": "notif_001",
-        "title": "🎉 Special Offer!",
-        "message": "Get 50% off on Microsoft Office courses this week only!",
-        "type": "offer",
-        "priority": "high",
-        "image": "https://ugandaproject.github.io/test/icon1.png",
-        "link": "https://example.com/offer",
-        "sound": {
-          "url": "https://ugandaproject.github.io/test/ads.mp3",
-          "loop": false,
-          "volume": 0.8
-        },
-        "startDate": "2026-03-03 12:20:00 +03:00",
-        "endDate": "2026-03-04 04:50:00 +03:00",
-        "targetUsers": "all",
-        "deviceTypes": ["all"]
-      },
-      {
-        "id": "notif_002",
-        "title": "📢 System Maintenance",
-        "message": "Scheduled maintenance on March 5th from 2AM to 4AM EAT",
-        "type": "alert",
-        "priority": "medium",
-        "icon": "fa-tools",
-        "link": "",
-        "sound": {
-          "url": "https://ugandaproject.github.io/test/sounds/notification.mp3",
-          "loop": false,
-          "volume": 0.6
-        },
-        "startDate": "2026-03-01T00:00:00.000Z",
-        "endDate": "2026-03-05T23:59:59.000Z",
-        "targetUsers": "all",
-        "deviceTypes": ["all"]
-      },
-      {
-        "id": "notif_003",
-        "title": "📝 New Course Available",
-        "message": "Microsoft Excel Advanced - Pivot Tables & Macros just released!",
+        "id": "my_new_notif_001",
+        "title": "📚 New Excel Course!",
+        "message": "Advanced Pivot Tables lesson is now available",
         "type": "info",
-        "priority": "low",
-        "image": "https://ugandaproject.github.io/test/excel-course.jpg",
-        "link": "https://example.com/lessons/excel-advanced",
-        "sound": {
-          "type": "info",
-          "loop": false
-        },
-        "startDate": "2026-03-01T00:00:00.000Z",
-        "endDate": "2026-04-01T23:59:59.000Z",
-        "targetUsers": ["registered"],
-        "deviceTypes": ["all"]
+        "channel": "courses",
+        "icon": "https://ugandaproject.github.io/test/excel_icon.png",
+        "image": "https://ugandaproject.github.io/test/excel_course.jpg",
+        "link": "https://example.com/courses/excel-advanced",
+        "schedule": {
+          "sendNow": true
+        }
       },
       {
-        "id": "notif_004",
-        "title": "⚠️ License Expiring Soon",
-        "message": "Your license will expire in 3 days. Renew now to continue learning!",
+        "id": "my_new_notif_002",
+        "title": "⚠️ License Expiring",
+        "message": "Your license expires in 3 days",
         "type": "warning",
-        "priority": "urgent",
-        "icon": "fa-exclamation-triangle",
-        "link": "https://example.com/renew-license",
-        "sound": {
-          "url": "https://ugandaproject.github.io/test/sounds/urgent-alert.mp3",
-          "loop": true,
-          "volume": 0.9,
-          "duration": 3000
-        },
-        "startDate": "2026-03-01T00:00:00.000Z",
-        "endDate": "2026-03-10T23:59:59.000Z",
-        "targetUsers": ["expiring_soon"],
-        "deviceTypes": ["all"]
+        "channel": "license",
+        "link": "https://example.com/renew",
+        "schedule": {
+          "trigger": "expiry",
+          "daysBefore": 3,
+          "at": "10:00"
+        }
       },
       {
-        "id": "notif_005",
-        "title": "🎂 Happy Birthday!",
-        "message": "Happy Birthday! Here's a special gift for you - 1 month free access!",
-        "type": "birthday",
-        "priority": "high",
-        "image": "https://ugandaproject.github.io/test/birthday.jpg",
-        "link": "https://example.com/birthday-gift",
-        "sound": {
-          "url": "https://ugandaproject.github.io/test/sounds/happy-birthday.mp3",
-          "loop": false,
-          "volume": 0.7
-        },
-        "startDate": "2026-03-01T00:00:00.000Z",
-        "endDate": "2026-03-31T23:59:59.000Z",
-        "targetUsers": ["birthday_month"],
-        "deviceTypes": ["all"]
+        "id": "my_new_notif_003",
+        "title": "🎉 Weekend Special!",
+        "message": "40% off on all courses this weekend",
+        "type": "offer",
+        "channel": "offers",
+        "link": "https://example.com/offers",
+        "schedule": {
+          "weekdays": [6, 7],
+          "at": "09:00"
+        }
       }
     ],
     "templates": {
