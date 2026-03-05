@@ -139,7 +139,26 @@
           "weekdays": [6, 7],
           "at": "09:00"
         }
-      }
+      },
+
+
+
+
+    {
+  "id": "my_notif_" + Date.now(),
+  "title": "Your Title",
+  "message": "Your Message",
+  "type": "info",
+  "link": "https://example.com",
+  "schedule": {
+    "at": "2026-03-05T14:52:00.000Z"  
+  }
+
+
+      
+
+
+      
     ],
     "templates": {
       "offer": {
