@@ -108,11 +108,11 @@
       {
   "id": "exact_time_notif",
   "title": "📅 Meeting Reminder",
-  "message": "Your Microsoft Office training starts in 30 minutes",
+  "message": "Your Microsoft Office training starts in 55 minutes",
   "type": "reminder",
   "link": "https://example.com/training",
   "schedule": {
-    "at": "2026-03-05T19:53:00.000Z"
+    "at": "2026-03-05T19:55:00.000Z"
   }
 },
 
