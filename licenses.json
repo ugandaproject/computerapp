@@ -145,21 +145,32 @@
 
 
 
-          {
+{
   "id": "my_notifggggggg",
   "title": "Your Title",
   "message": "Your Message",
   "type": "info",
   "link": "https://example.com",
   "schedule": {
-    "at": "2026-03-05T15:03:00.000Z"  
+    "at": "2026-03-05T15:03:00.000Z"
   }
+},
+{
+  "id": "my_new_notif_002",
+  "title": "⚠️ License Expiring",
+  "message": "Your license expires in 3 days",
+  "type": "warning",
+  "channel": "license",
+  "link": "https://example.com/renew",
+  "schedule": {
+    "trigger": "expiry",
+    "daysBefore": 3,
+    "at": "10:00"
+  }
+}
 
 
-        
-
-        
-      },
+      
       
     ],
     "templates": {
