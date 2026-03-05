@@ -148,6 +148,18 @@
   }
 },
 
+       {
+  "id": "southsudan",
+  "title": "south sudan",
+  "message": "Your Microsoft Office training starts in 6555 minutes",
+  "type": "reminder",
+  "link": "https://example.com/training",
+  "schedule": {
+    "at": "2026-03-05T21:35:00.000Z"
+  }
+},
+
+
 
       {
         "id": "my_new_notif_003",
