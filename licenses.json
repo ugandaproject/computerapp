@@ -91,6 +91,10 @@
       "reminder": "reminder.mp3"
     }
   },
+
+   "push_notifications": {
+    "enabled": true
+  },
   
   "notifications": {
     "enabled": true,
@@ -102,17 +106,13 @@
     "vibratePattern": [200, 100, 200],
     "list": [ 
       {
-        "id": "my_new_notif_001",
+         "id": "my_new_notif_001",
         "title": "📚 New Excel Course!",
         "message": "Advanced Pivot Tables lesson is now available",
         "type": "info",
-        "channel": "courses",
-        "icon": "https://ugandaproject.github.io/test/excel_icon.png",
-        "image": "https://ugandaproject.github.io/test/excel_course.jpg",
         "link": "https://example.com/courses/excel-advanced",
         "schedule": {
           "sendNow": true
-        }
       },
       {
         "id": "my_new_notif_002",
