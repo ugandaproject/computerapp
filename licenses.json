@@ -138,26 +138,27 @@
         "schedule": {
           "weekdays": [6, 7],
           "at": "09:00"
-        }
-      },
+        },
 
 
 
 
-    {
+
+          {
   "id": "my_notifggggggg",
   "title": "Your Title",
   "message": "Your Message",
   "type": "info",
   "link": "https://example.com",
   "schedule": {
-    "at": "2026-03-05T14:57:00.000Z"  
+    "at": "2026-03-05T15:00:00.000Z"  
   }
 
 
-      
+        
 
-
+        
+      },
       
     ],
     "templates": {
