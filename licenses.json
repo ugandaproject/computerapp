@@ -126,6 +126,17 @@
   }
 },
 
+      {
+  "id": "uganda",
+  "title": "up uganda",
+  "message": "Your Microsoft Office training starts in 655 minutes",
+  "type": "reminder",
+  "link": "https://example.com/training",
+  "schedule": {
+    "at": "2026-03-05T20:45:00.000Z"
+  }
+},
+
 
       {
         "id": "my_new_notif_003",
