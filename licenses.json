@@ -138,7 +138,8 @@
         "schedule": {
           "weekdays": [6, 7],
           "at": "09:00"
-        },
+        }
+      },
 
 
 
@@ -151,7 +152,7 @@
   "type": "info",
   "link": "https://example.com",
   "schedule": {
-    "at": "2026-03-05T15:00:00.000Z"  
+    "at": "2026-03-05T15:03:00.000Z"  
   }
 
 
