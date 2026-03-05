@@ -106,13 +106,13 @@
     "vibratePattern": [200, 100, 200],
     "list": [ 
       {
-  "id": "exact_time_notif",
+  "id": "full",
   "title": "📅 Meeting Reminder",
   "message": "Your Microsoft Office training starts in 55 minutes",
   "type": "reminder",
   "link": "https://example.com/training",
   "schedule": {
-    "at": "2026-03-05T19:55:00.000Z"
+    "at": "2026-03-05T19:58:00.000Z"
   }
 },
 
