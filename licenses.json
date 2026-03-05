@@ -106,14 +106,15 @@
     "vibratePattern": [200, 100, 200],
     "list": [ 
       {
-         "id": "my_new_notif_001",
-        "title": "📚 New Excel Course!",
-        "message": "Advanced Pivot Tables lesson is now available",
-        "type": "info",
-        "link": "https://example.com/courses/excel-advanced",
-        "schedule": {
-          "sendNow": true
-      },
+  "id": "my_new_notif_001",
+  "title": "📚 New Excel Course!",
+  "message": "Advanced Pivot Tables lesson is now available",
+  "type": "info",
+  "link": "https://example.com/courses/excel-advanced",
+  "schedule": {
+    "sendNow": true
+  }
+},
       {
         "id": "my_new_notif_002",
         "title": "⚠️ License Expiring",
