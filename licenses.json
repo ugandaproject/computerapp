@@ -67,7 +67,7 @@
   "url": "https://ugandaproject.github.io/test/F-Droidd.apk",
   "force": true,
   "message": "Test Download - This is a test file to verify download functionality",
-  "minVersion": "1.1.0",
+  "minVersion": "1.0.0",
   "releaseDate": "2026-02-24",
   "size": "45 KB",
   "whatsNew": ["Testing download functionality - PDF test file"]
