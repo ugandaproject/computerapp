@@ -28,7 +28,6 @@
       "color": "#2196F3"
     }
   },
-  
   "ads": [
     {
       "image": "https://ugandaproject.github.io/test/1.png",
@@ -61,20 +60,18 @@
       "target": "_blank"
     }
   ],
-  
-"apk_update": {  
-  "version": "1.0.0",
-  "url": "https://ugandaproject.github.io/test/F-Droidd.apk",
-  "force": true,
-  "message": "Test Download - This is a test file to verify download functionality",
-  "minVersion": "1.0.0",
-  "releaseDate": "2026-02-24",
-  "size": "45 KB",
-  "whatsNew": ["Testing download functionality - PDF test file"]
-},
-
-
-
+  "apk_update": {
+    "version": "1.0.0",
+    "url": "https://ugandaproject.github.io/test/F-Droidd.apk",
+    "force": true,
+    "message": "Test Download - This is a test file to verify download functionality",
+    "minVersion": "1.0.0",
+    "releaseDate": "2026-02-24",
+    "size": "45 KB",
+    "whatsNew": [
+      "Testing download functionality - PDF test file"
+    ]
+  },
   "sounds": {
     "baseUrl": "https://ugandaproject.github.io/test/sounds/",
     "default": "default.mp3",
@@ -91,11 +88,9 @@
       "reminder": "reminder.mp3"
     }
   },
-
-   "push_notifications": {
+  "push_notifications": {
     "enabled": true
   },
-  
   "notifications": {
     "enabled": true,
     "checkInterval": 30000,
@@ -103,9 +98,12 @@
     "maxStack": 3,
     "sound": true,
     "vibrate": true,
-    "vibratePattern": [200, 100, 200],
-    "list": [ 
-
+    "vibratePattern": [
+      200,
+      100,
+      200
+    ],
+    "list": [
       {
         "id": "my_new_notif_003",
         "title": "🎉 Weekend Special!",
@@ -114,21 +112,23 @@
         "channel": "offers",
         "link": "https://example.com/offers",
         "schedule": {
-          "weekdays": [6, 7],
+          "weekdays": [
+            6,
+            7
+          ],
           "at": "09:00"
         }
       },
-
-{
-  "id": "my_notifggggggg",
-  "title": "Your Title",
-  "message": "Your Message",
-  "type": "info",
-  "link": "https://example.com",
-  "schedule": {
-    "at": "2026-03-16T15:03:00.000Z"
-  }
-}
+      {
+        "id": "my_notifggggggg",
+        "title": "Your Title",
+        "message": "Your Message",
+        "type": "info",
+        "link": "https://example.com",
+        "schedule": {
+          "at": "2026-03-16T15:03:00.000Z"
+        }
+      }
     ],
     "templates": {
       "offer": {
@@ -170,14 +170,14 @@
         "icon": "fa-times-circle",
         "color": "#F44336",
         "defaultSound": "error.mp3"
-        }
+      }
     }
   },
-"locations": {
+  "locations": {
     "allowedCountries": [
       "Uganda"
     ],
-   "allowedDistricts": [
+    "allowedDistricts": [
       "Kampala",
       "Wakiso",
       "Mukono",
@@ -3564,7 +3564,6 @@
     ],
     "userLocations": []
   },
-  
   "settings": {
     "timezone": "Africa/Kampala",
     "lastUpdated": "2026-02-22T10:00:00.000Z",
@@ -3574,7 +3573,6 @@
     "adRotationInterval": 4000,
     "maxAds": 5
   },
-  
   "users": [
     {
       "id": "UG398721877017",
@@ -3714,6 +3712,21 @@
       "active": true,
       "deviceId": "WEB-78F4-E9F4",
       "registeredFrom": "local"
+    },
+    {
+      "id": "UG909459039953",
+      "name": "Gofraan",
+      "phone": "+256700000010",
+      "paid": false,
+      "regDate": "2026-03-11T02:58:29.459Z",
+      "expiryDate": "2026-03-12T02:58:29.459Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0F29-104F",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-03-11T02:58:29.459Z",
+      "sessionToken": "sess_x2bt84tye3b",
+      "ipAddress": "client-side"
     }
   ]
 }
