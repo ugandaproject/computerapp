@@ -3712,21 +3712,6 @@
       "active": true,
       "deviceId": "WEB-78F4-E9F4",
       "registeredFrom": "local"
-    },
-    {
-      "id": "UG760770051823",
-      "name": "Good",
-      "phone": "+256700000056",
-      "paid": false,
-      "regDate": "2026-03-11T03:29:20.770Z",
-      "expiryDate": "2026-03-12T03:29:20.770Z",
-      "subscriptionDays": 1,
-      "active": true,
-      "deviceId": "WEB-0F29-104F",
-      "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-03-11T03:29:20.770Z",
-      "sessionToken": "sess_krzg60rze4",
-      "ipAddress": "client-side"
     }
   ]
 }
