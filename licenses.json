@@ -104,6 +104,18 @@
       200
     ],
     "list": [
+
+
+      {
+  "id": "march_11_0715",
+  "title": "🌅 Good Morning!",
+  "message": "Start your day with Microsoft Office Learning",
+  "type": "info",
+  "link": "https://example.com/daily-lesson",
+  "schedule": {
+    "at": "2026-03-11T04:15:00.000Z"
+  }
+},
       {
         "id": "my_new_notif_003",
         "title": "🎉 Weekend Special!",
