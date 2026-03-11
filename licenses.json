@@ -3714,18 +3714,18 @@
       "registeredFrom": "local"
     },
     {
-      "id": "UG667397432618",
-      "name": "Gofrann",
-      "phone": "+256700000030",
+      "id": "UG724282803135",
+      "name": "Google",
+      "phone": "+256700000432",
       "paid": false,
-      "regDate": "2026-03-11T04:01:07.397Z",
-      "expiryDate": "2026-03-12T04:01:07.397Z",
+      "regDate": "2026-03-11T04:02:04.282Z",
+      "expiryDate": "2026-03-12T04:02:04.282Z",
       "subscriptionDays": 1,
       "active": true,
       "deviceId": "WEB-0F29-104F",
       "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-03-11T04:01:07.397Z",
-      "sessionToken": "sess_xeidprzz9h",
+      "lastActive": "2026-03-11T04:02:04.282Z",
+      "sessionToken": "sess_auf5is3lqkn",
       "ipAddress": "client-side"
     }
   ]
