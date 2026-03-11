@@ -3712,6 +3712,21 @@
       "active": true,
       "deviceId": "WEB-78F4-E9F4",
       "registeredFrom": "local"
+    },
+    {
+      "id": "UG667397432618",
+      "name": "Gofrann",
+      "phone": "+256700000030",
+      "paid": false,
+      "regDate": "2026-03-11T04:01:07.397Z",
+      "expiryDate": "2026-03-12T04:01:07.397Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0F29-104F",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-03-11T04:01:07.397Z",
+      "sessionToken": "sess_xeidprzz9h",
+      "ipAddress": "client-side"
     }
   ]
 }
