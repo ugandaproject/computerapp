@@ -104,18 +104,16 @@
       200
     ],
     "list": [
-
-
       {
-  "id": "march_11_0715",
-  "title": "🌅 Good Morning!",
-  "message": "Start your day with Microsoft Office Learning",
-  "type": "info",
-  "link": "https://example.com/daily-lesson",
-  "schedule": {
-    "at": "2026-03-11T04:15:00.000Z"
-  }
-},
+        "id": "march_11_0715",
+        "title": "🌅 Good Morning!",
+        "message": "Start your day with Microsoft Office Learning",
+        "type": "info",
+        "link": "https://example.com/daily-lesson",
+        "schedule": {
+          "at": "2026-03-11T04:15:00.000Z"
+        }
+      },
       {
         "id": "my_new_notif_003",
         "title": "🎉 Weekend Special!",
@@ -3738,6 +3736,21 @@
       "registeredFrom": "https://localhost/index.html",
       "lastActive": "2026-03-11T04:02:04.282Z",
       "sessionToken": "sess_auf5is3lqkn",
+      "ipAddress": "client-side"
+    },
+    {
+      "id": "UG174788834133",
+      "name": "Mahmoud",
+      "phone": "+256700000056",
+      "paid": false,
+      "regDate": "2026-03-11T23:52:54.792Z",
+      "expiryDate": "2026-03-12T23:52:54.792Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-107B-92EE",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-03-11T23:52:54.792Z",
+      "sessionToken": "sess_5obstx053ym",
       "ipAddress": "client-side"
     }
   ]
