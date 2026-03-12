@@ -106,14 +106,14 @@
     "list": [
 
 
-      {
-  "id": "test_5min",
-  "title": "🔔 Test in 5 Minutes",
-  "message": "This notification will appear at 5:50 PM",
-  "type": "info",
+{
+  "id": "five_min_test",
+  "title": "⏰ 5 MINUTE TEST",
+  "message": "This notification should appear at 5:50 PM Uganda time",
+  "type": "urgent",
   "link": "https://example.com",
   "schedule": {
-    "at": "2026-03-11T14:50:00.000Z"
+    "at": "2026-03-12T14:50:00.000Z"
   }
 },
       {
