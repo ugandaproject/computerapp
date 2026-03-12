@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Date & Time Checker</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            background-color: #0d1117;
+            color: #c9d1d9;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 20px;
+        }
+        h1 {
+            color: #58a6ff;
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 10px;
+        }
+        .info-card {
+            background-color: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .info-label {
+            color: #8b949e;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .info-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #58a6ff;
+            margin: 5px 0;
+        }
+        .info-desc {
+            color: #8b949e;
+            font-size: 14px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .github-badge {
+            background-color: #238636;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+            display: inline-block;
+            margin-left: 10px;
+        }
+        .timestamp {
+            font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Courier New', monospace;
+            background-color: #0d1117;
+            padding: 10px;
+            border-radius: 6px;
+            border: 1px solid #30363d;
+            color: #7ee3ff;
+            word-break: break-all;
+        }
+        .note {
+            background-color: #1f2a40;
+            border-left: 4px solid #58a6ff;
+            padding: 10px 15px;
+            border-radius: 6px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🕐 GitHub Date & Time Checker</h1>
+        
+        <div class="info-card">
+            <div class="info-label">Current Date & Time (Your Local)</div>
+            <div class="info-value" id="localTime"></div>
+            <div class="info-desc" id="localTimezone"></div>
+        </div>
+
+        <div class="grid">
+            <div class="info-card">
+                <div class="info-label">UTC Time <span class="github-badge">GitHub Standard</span></div>
+                <div class="info-value" id="utcTime"></div>
+                <div class="info-desc">GitHub uses UTC for timestamps</div>
+            </div>
+            
+            <div class="info-card">
+                <div class="info-label">Unix Timestamp</div>
+                <div class="info-value" id="unixTime"></div>
+                <div class="info-desc">Seconds since Jan 1, 1970</div>
+            </div>
+        </div>
+
+        <div class="grid">
+            <div class="info-card">
+                <div class="info-label">ISO 8601</div>
+                <div class="timestamp" id="isoTime"></div>
+                <div class="info-desc">GitHub API format</div>
+            </div>
+            
+            <div class="info-card">
+                <div class="info-label">Git Commit Format</div>
+                <div class="timestamp" id="gitTime"></div>
+                <div class="info-desc">Format used in commits</div>
+            </div>
+        </div>
+
+        <div class="info-card">
+            <div class="info-label">GitHub Profile README Timestamp</div>
+            <div class="timestamp" id="readmeTime"></div>
+            <div class="info-desc">Copy this for your profile README</div>
+            <button onclick="copyToClipboard('readmeTime')" style="margin-top: 10px; background-color: #238636; color: white; border: none; padding: 5px 15px; border-radius: 6px; cursor: pointer;">Copy</button>
+        </div>
+
+        <div class="info-card">
+            <div class="info-label">Contribution Graph Context</div>
+            <div id="contributionContext"></div>
+            <div class="info-desc" style="margin-top: 10px;">
+                • Contributions count for the current UTC day<br>
+                • GitHub's contribution graph resets at 00:00 UTC<br>
+                • Your local date: <span id="localDate"></span><br>
+                • UTC date: <span id="utcDate"></span>
+            </div>
+        </div>
+
+        <div class="note">
+            <strong>📌 Note:</strong> GitHub stores all timestamps in UTC. Your profile shows times relative to your local time zone setting in GitHub preferences (Settings → Appearance → Time zone).
+        </div>
+    </div>
+
+    <script>
+        function updateTimes() {
+            const now = new Date();
+            
+            // Local time
+            document.getElementById('localTime').textContent = now.toLocaleString('en-US', { 
+                weekday: 'long', 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: true
+            });
+            
+            // Local timezone
+            document.getElementById('localTimezone').textContent = `Timezone: ${Intl.DateTimeFormat().resolvedOptions().timeZone} (UTC${now.getTimezoneOffset() > 0 ? '-' : '+'}${Math.abs(now.getTimezoneOffset()/60)})`;
+            
+            // UTC time
+            document.getElementById('utcTime').textContent = now.toUTCString();
+            
+            // Unix timestamp
+            document.getElementById('unixTime').textContent = Math.floor(now.getTime() / 1000);
+            
+            // ISO format
+            document.getElementById('isoTime').textContent = now.toISOString();
+            
+            // Git commit format
+            const gitFormat = now.toLocaleString('en-US', { 
+                weekday: 'short',
+                month: 'short', 
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit',
+                year: 'numeric',
+                timeZoneName: 'short',
+                hour12: false
+            }).replace(/,/g, '');
+            document.getElementById('gitTime').textContent = gitFormat;
+            
+            // README timestamp format
+            const readmeFormat = `<!-- LAST UPDATED: ${now.toISOString()} -->\n**Last updated:** ${now.toUTCString()}`;
+            document.getElementById('readmeTime').textContent = readmeFormat;
+            
+            // Contribution context
+            const contributionHtml = `
+                <div style="display: flex; align-items: center; gap: 20px; margin: 10px 0;">
+                    <div style="text-align: center;">
+                        <div style="font-size: 14px; color: #8b949e;">Today's UTC Date</div>
+                        <div style="font-size: 20px; font-weight: bold;">${now.toISOString().split('T')[0]}</div>
+                    </div>
+                    <div style="text-align: center;">
+                        <div style="font-size: 14px; color: #8b949e;">Day of Year</div>
+                        <div style="font-size: 20px; font-weight: bold;">${Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000)}</div>
+                    </div>
+                    <div style="text-align: center;">
+                        <div style="font-size: 14px; color: #8b949e;">Week Number</div>
+                        <div style="font-size: 20px; font-weight: bold;">${getWeekNumber(now)}</div>
+                    </div>
+                </div>
+            `;
+            document.getElementById('contributionContext').innerHTML = contributionHtml;
+            
+            // Dates
+            document.getElementById('localDate').textContent = now.toLocaleDateString();
+            document.getElementById('utcDate').textContent = now.toISOString().split('T')[0];
+        }
+
+        function getWeekNumber(d) {
+            d = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
+            d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay()||7));
+            const yearStart = new Date(Date.UTC(d.getUTCFullYear(),0,1));
+            return Math.ceil((((d - yearStart) / 86400000) + 1)/7);
+        }
+
+        function copyToClipboard(elementId) {
+            const element = document.getElementById(elementId);
+            const text = element.textContent;
+            navigator.clipboard.writeText(text).then(() => {
+                alert('Copied to clipboard!');
+            });
+        }
+
+        // Update immediately and then every second
+        updateTimes();
+        setInterval(updateTimes, 1000);
+    </script>
+</body>
+</html>
