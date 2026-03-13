@@ -104,32 +104,29 @@
       200
     ],
     "list": [
-{
-  "id": "five_min_test",
-  "title": "⏰ 5 MINUTE TEST",
-  "message": "This notification should appear at 5:50 PM Uganda time",
-  "type": "urgent",
-  "link": "https://example.com",
-  "schedule": {
-    "at": "2026-03-12T01:13:00.000Z"
-  }
-},
-
-
-      
-{
-  "id": "five_min_test",
-  "title": "⏰ 5 MINUTE TEST",
-  "message": "This notification should appear at 5:50 PM Uganda time",
-  "type": "urgent",
-  "link": "https://example.com",
-  "schedule": {
-    "at": "2026-03-12T14:50:00.000Z"
-  }
-},
+      {
+        "id": "five_min_test",
+        "title": "â° 5 MINUTE TEST",
+        "message": "This notification should appear at 5:50 PM Uganda time",
+        "type": "urgent",
+        "link": "https://example.com",
+        "schedule": {
+          "at": "2026-03-12T01:13:00.000Z"
+        }
+      },
+      {
+        "id": "five_min_test",
+        "title": "â° 5 MINUTE TEST",
+        "message": "This notification should appear at 5:50 PM Uganda time",
+        "type": "urgent",
+        "link": "https://example.com",
+        "schedule": {
+          "at": "2026-03-12T14:50:00.000Z"
+        }
+      },
       {
         "id": "march_11_0715",
-        "title": "🌅 Good Morning!",
+        "title": "ð Good Morning!",
         "message": "Start your day with Microsoft Office Learning",
         "type": "info",
         "link": "https://example.com/daily-lesson",
@@ -139,7 +136,7 @@
       },
       {
         "id": "my_new_notif_003",
-        "title": "🎉 Weekend Special!",
+        "title": "ð Weekend Special!",
         "message": "40% off on all courses this weekend",
         "type": "offer",
         "channel": "offers",
@@ -3775,6 +3772,21 @@
       "lastActive": "2026-03-11T23:52:54.792Z",
       "sessionToken": "sess_5obstx053ym",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG426440539618",
+      "name": "jomad mohammed",
+      "phone": "+256700000000",
+      "paid": false,
+      "regDate": "2026-03-13T22:20:26.440Z",
+      "expiryDate": "2026-03-14T22:20:26.440Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "SCHOOL-08AE-1148",
+      "registeredFrom": "http://localhost/school/",
+      "lastActive": "2026-03-13T22:20:26.440Z",
+      "sessionToken": "sess_tijvhl771j",
+      "location": "أوغندا"
     }
   ]
 }
