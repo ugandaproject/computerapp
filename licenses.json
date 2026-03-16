@@ -104,29 +104,26 @@
       200
     ],
     "list": [
-{
-  "id": "five_min_test",
-  "title": "⏰ 5 MINUTE TEST",
-  "message": "This notification should appear at 5:50 PM Uganda time",
-  "type": "urgent",
-  "link": "https://example.com",
-  "schedule": {
-    "at": "2026-03-12T01:13:00.000Z"
-  }
-},
-
-
-      
-{
-  "id": "five_min_test",
-  "title": "⏰ 5 MINUTE TEST",
-  "message": "This notification should appear at 5:50 PM Uganda time",
-  "type": "urgent",
-  "link": "https://example.com",
-  "schedule": {
-    "at": "2026-03-12T14:50:00.000Z"
-  }
-},
+      {
+        "id": "five_min_test",
+        "title": "⏰ 5 MINUTE TEST",
+        "message": "This notification should appear at 5:50 PM Uganda time",
+        "type": "urgent",
+        "link": "https://example.com",
+        "schedule": {
+          "at": "2026-03-12T01:13:00.000Z"
+        }
+      },
+      {
+        "id": "five_min_test",
+        "title": "⏰ 5 MINUTE TEST",
+        "message": "This notification should appear at 5:50 PM Uganda time",
+        "type": "urgent",
+        "link": "https://example.com",
+        "schedule": {
+          "at": "2026-03-12T14:50:00.000Z"
+        }
+      },
       {
         "id": "march_11_0715",
         "title": "🌅 Good Morning!",
@@ -3774,6 +3771,21 @@
       "registeredFrom": "https://localhost/index.html",
       "lastActive": "2026-03-11T23:52:54.792Z",
       "sessionToken": "sess_5obstx053ym",
+      "ipAddress": "client-side"
+    },
+    {
+      "id": "UG120533022578",
+      "name": "Abdulmonem abakar",
+      "phone": "+256761815216",
+      "paid": false,
+      "regDate": "2026-03-16T14:42:00.542Z",
+      "expiryDate": "2026-03-17T14:42:00.542Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0788-0040",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-03-16T14:42:00.542Z",
+      "sessionToken": "sess_5jdgekghfe7",
       "ipAddress": "client-side"
     }
   ]
