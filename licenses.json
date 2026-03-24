@@ -3787,6 +3787,21 @@
       "lastActive": "2026-03-16T14:42:00.542Z",
       "sessionToken": "sess_5jdgekghfe7",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG328777366566",
+      "name": "Yasir yahya",
+      "phone": "+256767201318",
+      "paid": false,
+      "regDate": "2026-03-24T13:02:08.780Z",
+      "expiryDate": "2026-03-25T13:02:08.780Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-25EA-0301",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-03-24T13:02:08.780Z",
+      "sessionToken": "sess_dow4caqh4d",
+      "ipAddress": "client-side"
     }
   ]
 }
