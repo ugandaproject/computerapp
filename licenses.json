@@ -3802,6 +3802,21 @@
       "lastActive": "2026-03-24T13:02:08.780Z",
       "sessionToken": "sess_dow4caqh4d",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG213608773159",
+      "name": "Ajamugisa Gloria",
+      "phone": "+256779205394",
+      "paid": false,
+      "regDate": "2026-03-30T17:36:53.609Z",
+      "expiryDate": "2026-03-31T17:36:53.609Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-10AA-2212",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-03-30T17:36:53.609Z",
+      "sessionToken": "sess_m3h3xge3lkf",
+      "ipAddress": "client-side"
     }
   ]
 }
