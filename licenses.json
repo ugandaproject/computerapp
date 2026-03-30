@@ -3817,6 +3817,21 @@
       "lastActive": "2026-03-30T17:36:53.609Z",
       "sessionToken": "sess_m3h3xge3lkf",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG651935584084",
+      "name": "Ahmed Abdo Alqder",
+      "phone": "+256077839569",
+      "paid": false,
+      "regDate": "2026-03-30T18:17:31.935Z",
+      "expiryDate": "2026-03-31T18:17:31.935Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-17B1-09C5",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-03-30T18:17:31.935Z",
+      "sessionToken": "sess_1eba8zgd68j",
+      "ipAddress": "client-side"
     }
   ]
 }
