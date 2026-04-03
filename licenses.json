@@ -3862,6 +3862,21 @@
       "lastActive": "2026-04-03T12:02:24.284Z",
       "sessionToken": "sess_e0ydu4abnif",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG322221872695",
+      "name": "Mohammed Musa Ismail",
+      "phone": "+256767982468",
+      "paid": false,
+      "regDate": "2026-04-03T13:35:22.232Z",
+      "expiryDate": "2026-04-04T13:35:22.232Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0A70-1914",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-03T13:35:22.232Z",
+      "sessionToken": "sess_7gs3jiqz77x",
+      "ipAddress": "client-side"
     }
   ]
 }
