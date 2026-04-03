@@ -3832,6 +3832,21 @@
       "lastActive": "2026-03-30T18:17:31.935Z",
       "sessionToken": "sess_1eba8zgd68j",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG796461320624",
+      "name": "Mohammed Siddig Mohammed salih",
+      "phone": "+256781419153",
+      "paid": false,
+      "regDate": "2026-04-03T11:29:56.461Z",
+      "expiryDate": "2026-04-04T11:29:56.461Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0F87-17A0",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-03T11:29:56.461Z",
+      "sessionToken": "sess_na52q1mjg4",
+      "ipAddress": "client-side"
     }
   ]
 }
