@@ -3847,6 +3847,21 @@
       "lastActive": "2026-04-03T11:29:56.461Z",
       "sessionToken": "sess_na52q1mjg4",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG744280710591",
+      "name": "Mohammed Ahmed elshikh",
+      "phone": "+256768552049",
+      "paid": false,
+      "regDate": "2026-04-03T12:02:24.284Z",
+      "expiryDate": "2026-04-04T12:02:24.284Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0F8C-1D61",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-03T12:02:24.284Z",
+      "sessionToken": "sess_e0ydu4abnif",
+      "ipAddress": "client-side"
     }
   ]
 }
