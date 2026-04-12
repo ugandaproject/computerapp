@@ -3810,7 +3810,7 @@
       "paid": false,
       "regDate": "2026-04-10T23:56:37.461Z",
       "expiryDate": "2026-04-11T23:56:37.461Z",
-      "subscriptionDays": 1,
+      "subscriptionDays": 3,
       "active": true,
       "deviceId": "SCHOOL-153D-0CDA",
       "registeredFrom": "http://localhost:8000/index.html",
