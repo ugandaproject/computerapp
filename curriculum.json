@@ -1,0 +1,102 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-04-12",
+  "books": [
+    {
+      "id": "headway_beginner_5th",
+      "title": "Headway Beginner 5th Edition",
+      "units": [
+        {
+          "id": "unit_1",
+          "title": "Unit 1: Hello!",
+          "lessons": [
+            {
+              "id": "lesson_1",
+              "title": "Lesson 1: Introductions",
+              "definitions": [
+                {
+                  "id": "def_1",
+                  "title": "Present Simple - Verb 'to be'",
+                  "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
+                  "translation": "نستخدم المضارع البسيط للتحدث عن حقائق، عادات، وأشياء حقيقية دائماً"
+                },
+                {
+                  "id": "def_2",
+                  "title": "I am / I'm",
+                  "meaning": "I'm John.",
+                  "translation": "أنا جون"
+                },
+                {
+                  "id": "def_3",
+                  "title": "I am / I'm",
+                  "meaning": "I'm a teacher.",
+                  "translation": "أنا معلم"
+                },
+                {
+                  "id": "def_4",
+                  "title": "I am / I'm",
+                  "meaning": "I'm from England.",
+                  "translation": "أنا من إنجلترا"
+                },
+                {
+                  "id": "def_5",
+                  "title": "You are / You're",
+                  "meaning": "You're Sarah.",
+                  "translation": "أنت سارة"
+                },
+                {
+                  "id": "def_6",
+                  "title": "You are / You're",
+                  "meaning": "You're a student.",
+                  "translation": "أنت طالبة"
+                },
+                {
+                  "id": "def_7",
+                  "title": "He is / He's",
+                  "meaning": "He's Michael.",
+                  "translation": "هو مايكل"
+                },
+                {
+                  "id": "def_8",
+                  "title": "He is / He's",
+                  "meaning": "He's a doctor.",
+                  "translation": "هو طبيب"
+                },
+                {
+                  "id": "def_9",
+                  "title": "She is / She's",
+                  "meaning": "She's Emma.",
+                  "translation": "هي إيما"
+                },
+                {
+                  "id": "def_10",
+                  "title": "She is / She's",
+                  "meaning": "She's a nurse.",
+                  "translation": "هي ممرضة"
+                },
+                {
+                  "id": "def_11",
+                  "title": "It is / It's",
+                  "meaning": "It's a book.",
+                  "translation": "هذا كتاب"
+                },
+                {
+                  "id": "def_12",
+                  "title": "We are / We're",
+                  "meaning": "We're friends.",
+                  "translation": "نحن أصدقاء"
+                },
+                {
+                  "id": "def_13",
+                  "title": "They are / They're",
+                  "meaning": "They're teachers.",
+                  "translation": "هم معلمون"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
