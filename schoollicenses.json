@@ -106,7 +106,7 @@
     "list": [
       {
         "id": "five_min_test",
-        "title": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ° 5 MINUTE TEST",
+        "title": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ° 5 MINUTE TEST",
         "message": "This notification should appear at 5:50 PM Uganda time",
         "type": "urgent",
         "link": "https://example.com",
@@ -116,7 +116,7 @@
       },
       {
         "id": "five_min_test",
-        "title": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ° 5 MINUTE TEST",
+        "title": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ° 5 MINUTE TEST",
         "message": "This notification should appear at 5:50 PM Uganda time",
         "type": "urgent",
         "link": "https://example.com",
@@ -126,7 +126,7 @@
       },
       {
         "id": "march_11_0715",
-        "title": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ Good Morning!",
+        "title": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Good Morning!",
         "message": "Start your day with Microsoft Office Learning",
         "type": "info",
         "link": "https://example.com/daily-lesson",
@@ -136,7 +136,7 @@
       },
       {
         "id": "my_new_notif_003",
-        "title": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ Weekend Special!",
+        "title": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Weekend Special!",
         "message": "40% off on all courses this weekend",
         "type": "offer",
         "channel": "offers",
@@ -3786,7 +3786,7 @@
       "registeredFrom": "http://localhost/school/",
       "lastActive": "2026-03-13T22:20:26.440Z",
       "sessionToken": "sess_tijvhl771j",
-      "location": "ÃÂÃÂ£ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¯ÃÂÃÂ§"
+      "location": "ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ§"
     },
     {
       "id": "UG912811301830",
@@ -3801,7 +3801,7 @@
       "registeredFrom": "https://localhost/index.html",
       "lastActive": "2026-04-10T21:51:52.811Z",
       "sessionToken": "sess_f5iiha8gtnm",
-      "location": "ÃÂ£ÃÂÃÂºÃÂÃÂ¯ÃÂ§"
+      "location": "ÃÂÃÂ£ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¯ÃÂÃÂ§"
     },
     {
       "id": "UG397461679075",
@@ -3816,7 +3816,7 @@
       "registeredFrom": "http://localhost:8000/index.html",
       "lastActive": "2026-04-10T23:56:37.461Z",
       "sessionToken": "sess_12bdj8qjvazr",
-      "location": "Ø£ÙØºÙØ¯Ø§"
+      "location": "ÃÂ£ÃÂÃÂºÃÂÃÂ¯ÃÂ§"
     },
     {
       "id": "UG100007558357",
@@ -3831,6 +3831,21 @@
       "registeredFrom": "http://localhost:8000/index.html",
       "lastActive": "2026-04-11T07:38:20.007Z",
       "sessionToken": "sess_ro7lzoe9ggl",
+      "location": "Ø£ÙØºÙØ¯Ø§"
+    },
+    {
+      "id": "UG635048817674",
+      "name": "moahmmed ahmedmmmmm",
+      "phone": "+256999888888",
+      "paid": false,
+      "regDate": "2026-04-11T10:00:35.048Z",
+      "expiryDate": "2026-04-12T10:00:35.048Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "SCHOOL-1153-0F72",
+      "registeredFrom": "http://localhost:8000/index.html",
+      "lastActive": "2026-04-11T10:00:35.048Z",
+      "sessionToken": "sess_a0lphrwpidu",
       "location": "أوغندا"
     }
   ]
