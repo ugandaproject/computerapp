@@ -1,0 +1,58 @@
+{
+  "lastUpdated": "2026-04-12T10:00:00.000Z",
+  "users": [
+    {
+      "userId": "UG100007558357",
+      "userName": "rock",
+      "lastActive": "2026-04-12T10:00:00.000Z",
+      "totalCorrect": 45,
+      "totalAttempts": 50,
+      "dailyRecords": {
+        "4/12/2026": [
+          {
+            "title": "I am / I'm",
+            "meaning": "I'm John.",
+            "isCorrect": true,
+            "timestamp": 1744473600000,
+            "grade": "excellent"
+          },
+          {
+            "title": "I am / I'm",
+            "meaning": "I'm a teacher.",
+            "isCorrect": true,
+            "timestamp": 1744473700000,
+            "grade": "verygood"
+          }
+        ]
+      },
+      "weeklyStats": {
+        "week-15": {
+          "correct": 45,
+          "wrong": 5,
+          "records": []
+        }
+      },
+      "mistakes": {
+        "4/12/2026": [
+          {
+            "title": "He is / He's",
+            "meaning": "He's a doctor.",
+            "correctAnswer": "He's a doctor.",
+            "userAttempt": "He doctor",
+            "timestamp": 1744473800000
+          }
+        ]
+      }
+    },
+    {
+      "userId": "UG635048817674",
+      "userName": "moahmmed ahmedmmmmm",
+      "lastActive": "2026-04-11T10:00:00.000Z",
+      "totalCorrect": 12,
+      "totalAttempts": 20,
+      "dailyRecords": {},
+      "weeklyStats": {},
+      "mistakes": {}
+    }
+  ]
+}
