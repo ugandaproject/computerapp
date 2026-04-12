@@ -3907,6 +3907,21 @@
       "lastActive": "2026-04-12T12:22:33.843Z",
       "sessionToken": "sess_z1e9tbo3jwa",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG228575934251",
+      "name": "Abdulwahid shop receiption",
+      "phone": "+256761590065",
+      "paid": false,
+      "regDate": "2026-04-12T13:23:48.575Z",
+      "expiryDate": "2026-04-13T13:23:48.575Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0156-01D8",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-12T13:23:48.575Z",
+      "sessionToken": "sess_k8pb047trp",
+      "ipAddress": "client-side"
     }
   ]
 }
