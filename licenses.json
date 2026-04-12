@@ -3892,6 +3892,21 @@
       "lastActive": "2026-04-11T16:55:25.982Z",
       "sessionToken": "sess_0obmduknshz",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG553839853370",
+      "name": "Motwakel Ahmed adam",
+      "phone": "+256793742384",
+      "paid": false,
+      "regDate": "2026-04-12T12:22:33.843Z",
+      "expiryDate": "2026-04-13T12:22:33.843Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0DEB-0FD7",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-12T12:22:33.843Z",
+      "sessionToken": "sess_z1e9tbo3jwa",
+      "ipAddress": "client-side"
     }
   ]
 }
