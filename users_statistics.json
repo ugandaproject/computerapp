@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T21:10:52.181Z",
+  "lastUpdated": "2026-04-15T21:12:57.250Z",
   "users": [
     {
       "userId": "UG100007558357",
@@ -57,9 +57,9 @@
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-15T21:10:52.176Z",
-      "totalCorrect": 0,
-      "totalAttempts": 0,
+      "lastActive": "2026-04-15T21:12:57.245Z",
+      "totalCorrect": 2,
+      "totalAttempts": 2,
       "dailyRecords": {
         "4/10/2026": [
           {
@@ -451,6 +451,24 @@
             "isCorrect": false,
             "timestamp": 1776099302188
           }
+        ],
+        "4/16/2026": [
+          {
+            "title": "I am / I'm",
+            "meaning": "I'm John.",
+            "isCorrect": true,
+            "timestamp": 1776287515213,
+            "grade": "good",
+            "userAttempt": "Im john"
+          },
+          {
+            "title": "I am / I'm",
+            "meaning": "I'm John.",
+            "isCorrect": true,
+            "timestamp": 1776287533649,
+            "grade": "good",
+            "userAttempt": "Im john"
+          }
         ]
       },
       "weeklyStats": {
@@ -483,6 +501,28 @@
               "timestamp": 1775770341039
             }
           ]
+        },
+        "week-2026-3": {
+          "correct": 2,
+          "wrong": 0,
+          "records": [
+            {
+              "title": "I am / I'm",
+              "meaning": "I'm John.",
+              "isCorrect": true,
+              "timestamp": 1776287515237,
+              "userAttempt": "Im john"
+            },
+            {
+              "title": "I am / I'm",
+              "meaning": "I'm John.",
+              "isCorrect": true,
+              "timestamp": 1776287533652,
+              "userAttempt": "Im john"
+            }
+          ],
+          "startDate": "2026-04-11T21:11:55.237Z",
+          "endDate": "2026-04-15T21:11:55.237Z"
         }
       },
       "mistakes": {
