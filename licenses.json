@@ -3922,6 +3922,21 @@
       "lastActive": "2026-04-12T13:23:48.575Z",
       "sessionToken": "sess_k8pb047trp",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG518153852079",
+      "name": "Hamed Muhammed",
+      "phone": "+256790823695",
+      "paid": false,
+      "regDate": "2026-04-16T11:55:18.166Z",
+      "expiryDate": "2026-04-17T11:55:18.166Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0347-0D8F",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-16T11:55:18.166Z",
+      "sessionToken": "sess_yor2a0zubqm",
+      "ipAddress": "client-side"
     }
   ]
 }
