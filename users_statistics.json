@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T11:03:28.641Z",
+  "lastUpdated": "2026-04-16T11:04:44.675Z",
   "users": [
     {
       "userId": "UG100007558357",
@@ -57,9 +57,9 @@
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-16T11:03:28.617Z",
+      "lastActive": "2026-04-16T11:04:44.675Z",
       "totalCorrect": 2,
-      "totalAttempts": 2,
+      "totalAttempts": 3,
       "dailyRecords": {
         "4/10/2026": [
           {
@@ -753,6 +753,16 @@
             "translation": "أنا جون",
             "userAttempt": "انا جون انا جون",
             "timestamp": 1776099302277
+          }
+        ],
+        "4/16/2026": [
+          {
+            "title": "I am / I'm",
+            "meaning": "I'm John.",
+            "correctAnswer": "I'm John.",
+            "userAttempt": "I am drunk",
+            "timestamp": 1776337483844,
+            "lesson": "I am / I'm"
           }
         ]
       }
