@@ -3937,6 +3937,21 @@
       "lastActive": "2026-04-16T11:55:18.166Z",
       "sessionToken": "sess_yor2a0zubqm",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG406387235576",
+      "name": "mustafa mhedeen omar",
+      "phone": "+256745826917",
+      "paid": false,
+      "regDate": "2026-04-17T09:50:06.387Z",
+      "expiryDate": "2026-04-18T09:50:06.387Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0BFB-0254",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-17T09:50:06.387Z",
+      "sessionToken": "sess_blwvjx5dgmu",
+      "ipAddress": "client-side"
     }
   ]
 }
