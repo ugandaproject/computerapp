@@ -3954,18 +3954,18 @@
       "ipAddress": "client-side"
     },
     {
-      "id": "UG501668978471",
-      "name": "HAMDAN JAMAL",
+      "id": "UG608765312694",
+      "name": "hamdan jamal",
       "phone": "+256784114786",
       "paid": false,
-      "regDate": "2026-04-17T10:08:21.668Z",
-      "expiryDate": "2026-04-18T10:08:21.668Z",
+      "regDate": "2026-04-17T10:10:08.765Z",
+      "expiryDate": "2026-04-18T10:10:08.765Z",
       "subscriptionDays": 1,
       "active": true,
       "deviceId": "WEB-1A38-1E83",
       "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-04-17T10:08:21.668Z",
-      "sessionToken": "sess_q1gw7e71fbm",
+      "lastActive": "2026-04-17T10:10:08.765Z",
+      "sessionToken": "sess_52m8g7a8rkh",
       "ipAddress": "client-side"
     }
   ]
