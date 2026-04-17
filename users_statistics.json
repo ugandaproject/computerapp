@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T12:12:08.107Z",
+  "lastUpdated": "2026-04-17T08:33:59.773Z",
   "users": [
     {
       "userId": "UG100007558357",
@@ -57,9 +57,9 @@
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-16T12:12:08.090Z",
-      "totalCorrect": 20,
-      "totalAttempts": 37,
+      "lastActive": "2026-04-17T08:33:59.751Z",
+      "totalCorrect": 21,
+      "totalAttempts": 38,
       "dailyRecords": {
         "4/10/2026": [
           {
@@ -469,6 +469,17 @@
             "grade": "good",
             "userAttempt": "Im john"
           }
+        ],
+        "4/17/2026": [
+          {
+            "title": "You are / You're",
+            "meaning": "You're a student.",
+            "isCorrect": true,
+            "timestamp": 1776414839042,
+            "time": "11:33",
+            "grade": "good",
+            "userAttempt": "you are you are you are"
+          }
         ]
       },
       "weeklyStats": {
@@ -503,7 +514,7 @@
           ]
         },
         "week-2026-3": {
-          "correct": 2,
+          "correct": 3,
           "wrong": 0,
           "records": [
             {
@@ -519,6 +530,14 @@
               "isCorrect": true,
               "timestamp": 1776287533652,
               "userAttempt": "Im john"
+            },
+            {
+              "title": "You are / You're",
+              "meaning": "You're a student.",
+              "isCorrect": true,
+              "timestamp": 1776414839042,
+              "time": "11:33",
+              "userAttempt": "you are you are you are"
             }
           ],
           "startDate": "2026-04-11T21:11:55.237Z",
