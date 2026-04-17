@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T08:33:59.773Z",
+  "lastUpdated": "2026-04-17T08:34:07.950Z",
   "users": [
     {
       "userId": "UG100007558357",
@@ -57,8 +57,8 @@
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-17T08:33:59.751Z",
-      "totalCorrect": 21,
+      "lastActive": "2026-04-17T08:34:07.950Z",
+      "totalCorrect": 20,
       "totalAttempts": 38,
       "dailyRecords": {
         "4/10/2026": [
@@ -472,12 +472,12 @@
         ],
         "4/17/2026": [
           {
-            "title": "You are / You're",
-            "meaning": "You're a student.",
-            "isCorrect": true,
-            "timestamp": 1776414839042,
-            "time": "11:33",
-            "grade": "good",
+            "title": "He is / He's",
+            "meaning": "He's Michael.",
+            "isCorrect": false,
+            "timestamp": 1776414847619,
+            "time": "11:34",
+            "grade": "wrong",
             "userAttempt": "you are you are you are"
           }
         ]
@@ -514,8 +514,8 @@
           ]
         },
         "week-2026-3": {
-          "correct": 3,
-          "wrong": 0,
+          "correct": 2,
+          "wrong": 1,
           "records": [
             {
               "title": "I am / I'm",
@@ -532,11 +532,11 @@
               "userAttempt": "Im john"
             },
             {
-              "title": "You are / You're",
-              "meaning": "You're a student.",
-              "isCorrect": true,
-              "timestamp": 1776414839042,
-              "time": "11:33",
+              "title": "He is / He's",
+              "meaning": "He's Michael.",
+              "isCorrect": false,
+              "timestamp": 1776414847619,
+              "time": "11:34",
               "userAttempt": "you are you are you are"
             }
           ],
@@ -806,6 +806,16 @@
             "userAttempt": "I'm drunk",
             "timestamp": 1776337596430,
             "lesson": "I am / I'm"
+          }
+        ],
+        "4/17/2026": [
+          {
+            "title": "He is / He's",
+            "meaning": "He's Michael.",
+            "correctAnswer": "He's Michael.",
+            "userAttempt": "you are you are you are",
+            "timestamp": 1776414847619,
+            "time": "11:34"
           }
         ]
       }
