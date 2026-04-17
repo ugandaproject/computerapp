@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T09:11:29.636Z",
+  "lastUpdated": "2026-04-17T15:21:12.196Z",
   "users": [
     {
       "userId": "UG100007558357",
@@ -57,15 +57,15 @@
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-17T09:11:29.617Z",
-      "totalCorrect": 20,
-      "totalAttempts": 39,
+      "lastActive": "2026-04-17T15:21:12.178Z",
+      "totalCorrect": 21,
+      "totalAttempts": 40,
       "dailyRecords": {
         "4/10/2026": [
           {
-            "title": "Present Simple\n(ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù)\n\nð Ø§ÙÙØ§Ø¹Ø¯Ø©: Ø§ÙÙØ¹Ù 'to be' ÙÙ Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ·\nð¤ I use am (Ø£ÙØ§)\nð¥ You use are (Ø£ÙØª)\nð¥ð¥ We use are (ÙØ­Ù)\nð¥ð¥ð¥ They use are (ÙÙ)\nð¨ He uses is (ÙÙ)\nð© She uses is (ÙÙ)\nð¦ It uses is (ÙØ°Ø§/ÙØ°Ù)",
+            "title": "Present Simple\n(ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ)\n\nÃ°ÂÂÂ ÃÂ§ÃÂÃÂÃÂ§ÃÂ¹ÃÂ¯ÃÂ©: ÃÂ§ÃÂÃÂÃÂ¹ÃÂ 'to be' ÃÂÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ·\nÃ°ÂÂÂ¤ I use am (ÃÂ£ÃÂÃÂ§)\nÃ°ÂÂÂ¥ You use are (ÃÂ£ÃÂÃÂª)\nÃ°ÂÂÂ¥Ã°ÂÂÂ¥ We use are (ÃÂÃÂ­ÃÂ)\nÃ°ÂÂÂ¥Ã°ÂÂÂ¥Ã°ÂÂÂ¥ They use are (ÃÂÃÂ)\nÃ°ÂÂÂ¨ He uses is (ÃÂÃÂ)\nÃ°ÂÂÂ© She uses is (ÃÂÃÂ)\nÃ°ÂÂÂ¦ It uses is (ÃÂÃÂ°ÃÂ§/ÃÂÃÂ°ÃÂ)",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -74,9 +74,9 @@
             "timestamp": 1775770321503
           },
           {
-            "title": "Present Simple\n(ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù)\n\nð Ø§ÙÙØ§Ø¹Ø¯Ø©: Ø§ÙÙØ¹Ù 'to be' ÙÙ Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ·\nð¤ I use am (Ø£ÙØ§)\nð¥ You use are (Ø£ÙØª)\nð¥ð¥ We use are (ÙØ­Ù)\nð¥ð¥ð¥ They use are (ÙÙ)\nð¨ He uses is (ÙÙ)\nð© She uses is (ÙÙ)\nð¦ It uses is (ÙØ°Ø§/ÙØ°Ù)",
+            "title": "Present Simple\n(ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ)\n\nÃ°ÂÂÂ ÃÂ§ÃÂÃÂÃÂ§ÃÂ¹ÃÂ¯ÃÂ©: ÃÂ§ÃÂÃÂÃÂ¹ÃÂ 'to be' ÃÂÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ·\nÃ°ÂÂÂ¤ I use am (ÃÂ£ÃÂÃÂ§)\nÃ°ÂÂÂ¥ You use are (ÃÂ£ÃÂÃÂª)\nÃ°ÂÂÂ¥Ã°ÂÂÂ¥ We use are (ÃÂÃÂ­ÃÂ)\nÃ°ÂÂÂ¥Ã°ÂÂÂ¥Ã°ÂÂÂ¥ They use are (ÃÂÃÂ)\nÃ°ÂÂÂ¨ He uses is (ÃÂÃÂ)\nÃ°ÂÂÂ© She uses is (ÃÂÃÂ)\nÃ°ÂÂÂ¦ It uses is (ÃÂÃÂ°ÃÂ§/ÃÂÃÂ°ÃÂ)",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -89,7 +89,7 @@
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -100,7 +100,7 @@
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -111,7 +111,7 @@
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -122,51 +122,51 @@
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø³ÙØ¨Ù",
+            "userAttempt": "ÃÂ³ÃÂÃÂ¨ÃÂ",
             "isCorrect": false,
             "timestamp": 1775984068293
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "ÙÙÙ ÙÙÙ ÙÙÙ",
+            "userAttempt": "ÃÂÃÂÃÂ ÃÂÃÂÃÂ ÃÂÃÂÃÂ",
             "isCorrect": false,
             "timestamp": 1775984097260
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "ÙÙ ÙØ¶ÙÙ ÙØ±Ø± Ø§ÙØ¬ÙÙÙ",
+            "userAttempt": "ÃÂÃÂ ÃÂÃÂ¶ÃÂÃÂ ÃÂÃÂ±ÃÂ± ÃÂ§ÃÂÃÂ¬ÃÂÃÂÃÂ",
             "isCorrect": false,
             "timestamp": 1775984122170
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø­Ø§ÙÙ ÙØ±Ù Ø§Ø®Ø±Ù",
+            "userAttempt": "ÃÂ­ÃÂ§ÃÂÃÂ ÃÂÃÂ±ÃÂ ÃÂ§ÃÂ®ÃÂ±ÃÂ",
             "isCorrect": false,
             "timestamp": 1775984137696
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -177,73 +177,73 @@
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙØ§ Ø¬ÙÙ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "isCorrect": false,
             "timestamp": 1775984188815
           },
           {
             "title": "You are / You're",
             "meaning": "You're a student.",
-            "translation": "Ø£ÙØª Ø·Ø§ÙØ¨Ø©",
+            "translation": "ÃÂ£ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ©",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙØ§Ù Ø¯ÙØ±Ù ÙÙ ÙØ¶ÙÙ ÙØ±Ø± Ø§ÙØ¬ÙÙÙ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ÃÂ ÃÂ¯ÃÂÃÂ±ÃÂ ÃÂÃÂ ÃÂÃÂ¶ÃÂÃÂ ÃÂÃÂ±ÃÂ± ÃÂ§ÃÂÃÂ¬ÃÂÃÂÃÂ",
             "isCorrect": false,
             "timestamp": 1775984235044
           },
           {
             "title": "You are / You're",
             "meaning": "You're a student.",
-            "translation": "Ø£ÙØª Ø·Ø§ÙØ¨Ø©",
+            "translation": "ÃÂ£ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ©",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø®Ø·Ø§ Ø­Ø§ÙÙ ÙØ±Ù Ø§Ø®Ø±Ù",
+            "userAttempt": "ÃÂ®ÃÂ·ÃÂ§ ÃÂ­ÃÂ§ÃÂÃÂ ÃÂÃÂ±ÃÂ ÃÂ§ÃÂ®ÃÂ±ÃÂ",
             "isCorrect": false,
             "timestamp": 1775984239619
           },
           {
             "title": "You are / You're",
             "meaning": "You're a student.",
-            "translation": "Ø£ÙØª Ø·Ø§ÙØ¨Ø©",
+            "translation": "ÃÂ£ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ©",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙØª Ø·Ø§ÙØ¨Ù",
+            "userAttempt": "ÃÂ§ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ",
             "isCorrect": false,
             "timestamp": 1775984250616
           },
           {
             "title": "You are / You're",
             "meaning": "You're a student.",
-            "translation": "Ø£ÙØª Ø·Ø§ÙØ¨Ø©",
+            "translation": "ÃÂ£ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ©",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙØª Ø·Ø§ÙØ¨Ù",
+            "userAttempt": "ÃÂ§ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ",
             "isCorrect": false,
             "timestamp": 1775984252490
           },
           {
             "title": "You are / You're",
             "meaning": "You're a student.",
-            "translation": "Ø£ÙØª Ø·Ø§ÙØ¨Ø©",
+            "translation": "ÃÂ£ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ©",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙØª Ø·Ø§ÙØ¨Ù",
+            "userAttempt": "ÃÂ§ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ",
             "isCorrect": false,
             "timestamp": 1775984270150
           },
           {
             "title": "You are / You're",
             "meaning": "You're a student.",
-            "translation": "Ø£ÙØª Ø·Ø§ÙØ¨Ø©",
+            "translation": "ÃÂ£ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ©",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -254,7 +254,7 @@
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -265,7 +265,7 @@
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -276,7 +276,7 @@
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -287,7 +287,7 @@
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -298,51 +298,51 @@
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦Ù Ø¹Ø§Ø¯Ø§Øª ÙØ§Ø´ÙØ§Ø¡ Ø­ÙÙÙÙ Ø¯Ø§Ø¦ÙØ§",
+            "userAttempt": "ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂª ÃÂÃÂ§ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂ ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§",
             "isCorrect": false,
             "timestamp": 1775989885493
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦Ù Ø¹Ø§Ø¯Ø§Øª ÙØ§Ø´ÙØ§Ø¡ Ø­ÙÙÙÙÙ Ø¯Ø§Ø¦ÙØ§",
+            "userAttempt": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂª ÃÂÃÂ§ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§",
             "isCorrect": false,
             "timestamp": 1775992459303
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙØ§ Ø¬Ù",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ ÃÂ¬ÃÂ",
             "isCorrect": false,
             "timestamp": 1775992488021
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙØ§Ù Ø¬ÙÙ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ÃÂ ÃÂ¬ÃÂÃÂ",
             "isCorrect": false,
             "timestamp": 1775992506765
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm a teacher.",
-            "translation": "Ø£ÙØ§ ÙØ¹ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂÃÂ¹ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -353,7 +353,7 @@
           {
             "title": "I am / I'm",
             "meaning": "I'm a teacher.",
-            "translation": "Ø£ÙØ§ ÙØ¹ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂÃÂ¹ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -364,40 +364,40 @@
           {
             "title": "I am / I'm",
             "meaning": "I'm a teacher.",
-            "translation": "Ø£ÙØ§ ÙØ¹ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂÃÂ¹ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø¨Ø¹Ø¯ÙÙ",
+            "userAttempt": "ÃÂ¨ÃÂ¹ÃÂ¯ÃÂÃÂ",
             "isCorrect": false,
             "timestamp": 1775992673038
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· Ø§ÙØªØ­Ø¯Ø« Ø¹Ù Ø§ÙØ­ÙØ§Ø¦Ù Ø¹Ø§Ø¯Ø§Øª ÙØ§Ø´ÙØ§Ø¡ Ø­ÙÙÙÙÙ Ø¯Ø§Ø¦ÙØ§",
+            "userAttempt": "ÃÂ§ÃÂÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂ§ÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ§ÃÂÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂª ÃÂÃÂ§ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§",
             "isCorrect": false,
             "timestamp": 1775995475453
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§Ø³ÙØ¹",
+            "userAttempt": "ÃÂ§ÃÂ³ÃÂÃÂ¹",
             "isCorrect": false,
             "timestamp": 1775995566866
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -408,22 +408,22 @@
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙØ§Ù Ø¯ÙØ±Ù ÙÙ ÙØ¶ÙÙ ÙØ±Ø± Ø§ÙØ¬ÙÙÙ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ÃÂ ÃÂ¯ÃÂÃÂ±ÃÂ ÃÂÃÂ ÃÂÃÂ¶ÃÂÃÂ ÃÂÃÂ±ÃÂ± ÃÂ§ÃÂÃÂ¬ÃÂÃÂÃÂ",
             "isCorrect": false,
             "timestamp": 1775999337031
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm a teacher.",
-            "translation": "Ø£ÙØ§ ÙØ¹ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂÃÂ¹ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙØ§ ÙØ¹ÙÙ Ø§ÙØ§ ÙØ¹ÙÙ Ø·Ø¨Ø¹Ø§ ÙÙ ÙØµÙ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ ÃÂÃÂ¹ÃÂÃÂ ÃÂ§ÃÂÃÂ§ ÃÂÃÂ¹ÃÂÃÂ ÃÂ·ÃÂ¨ÃÂ¹ÃÂ§ ÃÂÃÂ ÃÂÃÂµÃÂ",
             "isCorrect": false,
             "timestamp": 1775999365657
           }
@@ -432,22 +432,22 @@
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙØ¬ÙÙ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ¬ÃÂÃÂ",
             "isCorrect": false,
             "timestamp": 1776099282046
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
-            "userAttempt": "Ø§ÙØ§ Ø¬ÙÙ Ø§ÙØ§ Ø¬ÙÙ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ ÃÂ§ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "isCorrect": false,
             "timestamp": 1776099302188
           }
@@ -488,6 +488,15 @@
             "time": "12:11",
             "grade": "wrong",
             "userAttempt": "Hi how are you Hi how are you"
+          },
+          {
+            "title": "I am / I'm",
+            "meaning": "I'm a teacher.",
+            "isCorrect": true,
+            "timestamp": 1776439270089,
+            "time": "18:21",
+            "grade": "good",
+            "userAttempt": "I am I am"
           }
         ]
       },
@@ -499,9 +508,9 @@
           "wrong": 2,
           "records": [
             {
-              "title": "Present Simple\n(ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù)\n\nð Ø§ÙÙØ§Ø¹Ø¯Ø©: Ø§ÙÙØ¹Ù 'to be' ÙÙ Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ·\nð¤ I use am (Ø£ÙØ§)\nð¥ You use are (Ø£ÙØª)\nð¥ð¥ We use are (ÙØ­Ù)\nð¥ð¥ð¥ They use are (ÙÙ)\nð¨ He uses is (ÙÙ)\nð© She uses is (ÙÙ)\nð¦ It uses is (ÙØ°Ø§/ÙØ°Ù)",
+              "title": "Present Simple\n(ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ)\n\nÃ°ÂÂÂ ÃÂ§ÃÂÃÂÃÂ§ÃÂ¹ÃÂ¯ÃÂ©: ÃÂ§ÃÂÃÂÃÂ¹ÃÂ 'to be' ÃÂÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ·\nÃ°ÂÂÂ¤ I use am (ÃÂ£ÃÂÃÂ§)\nÃ°ÂÂÂ¥ You use are (ÃÂ£ÃÂÃÂª)\nÃ°ÂÂÂ¥Ã°ÂÂÂ¥ We use are (ÃÂÃÂ­ÃÂ)\nÃ°ÂÂÂ¥Ã°ÂÂÂ¥Ã°ÂÂÂ¥ They use are (ÃÂÃÂ)\nÃ°ÂÂÂ¨ He uses is (ÃÂÃÂ)\nÃ°ÂÂÂ© She uses is (ÃÂÃÂ)\nÃ°ÂÂÂ¦ It uses is (ÃÂÃÂ°ÃÂ§/ÃÂÃÂ°ÃÂ)",
               "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-              "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+              "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
               "book": "Headway Beginner 5th Edition",
               "unit": "Unit 1: Hello!",
               "lesson": "Lesson 1: Introductions",
@@ -510,9 +519,9 @@
               "timestamp": 1775770321503
             },
             {
-              "title": "Present Simple\n(ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù)\n\nð Ø§ÙÙØ§Ø¹Ø¯Ø©: Ø§ÙÙØ¹Ù 'to be' ÙÙ Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ·\nð¤ I use am (Ø£ÙØ§)\nð¥ You use are (Ø£ÙØª)\nð¥ð¥ We use are (ÙØ­Ù)\nð¥ð¥ð¥ They use are (ÙÙ)\nð¨ He uses is (ÙÙ)\nð© She uses is (ÙÙ)\nð¦ It uses is (ÙØ°Ø§/ÙØ°Ù)",
+              "title": "Present Simple\n(ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ)\n\nÃ°ÂÂÂ ÃÂ§ÃÂÃÂÃÂ§ÃÂ¹ÃÂ¯ÃÂ©: ÃÂ§ÃÂÃÂÃÂ¹ÃÂ 'to be' ÃÂÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ·\nÃ°ÂÂÂ¤ I use am (ÃÂ£ÃÂÃÂ§)\nÃ°ÂÂÂ¥ You use are (ÃÂ£ÃÂÃÂª)\nÃ°ÂÂÂ¥Ã°ÂÂÂ¥ We use are (ÃÂÃÂ­ÃÂ)\nÃ°ÂÂÂ¥Ã°ÂÂÂ¥Ã°ÂÂÂ¥ They use are (ÃÂÃÂ)\nÃ°ÂÂÂ¨ He uses is (ÃÂÃÂ)\nÃ°ÂÂÂ© She uses is (ÃÂÃÂ)\nÃ°ÂÂÂ¦ It uses is (ÃÂÃÂ°ÃÂ§/ÃÂÃÂ°ÃÂ)",
               "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-              "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+              "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
               "book": "Headway Beginner 5th Edition",
               "unit": "Unit 1: Hello!",
               "lesson": "Lesson 1: Introductions",
@@ -523,7 +532,7 @@
           ]
         },
         "week-2026-3": {
-          "correct": 2,
+          "correct": 3,
           "wrong": 2,
           "records": [
             {
@@ -555,6 +564,14 @@
               "timestamp": 1776417086892,
               "time": "12:11",
               "userAttempt": "Hi how are you Hi how are you"
+            },
+            {
+              "title": "I am / I'm",
+              "meaning": "I'm a teacher.",
+              "isCorrect": true,
+              "timestamp": 1776439270089,
+              "time": "18:21",
+              "userAttempt": "I am I am"
             }
           ],
           "startDate": "2026-04-11T21:11:55.237Z",
@@ -564,9 +581,9 @@
       "mistakes": {
         "04/10/2026": [
           {
-            "title": "Present Simple\n(ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù)\n\nð Ø§ÙÙØ§Ø¹Ø¯Ø©: Ø§ÙÙØ¹Ù 'to be' ÙÙ Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ·\nð¤ I use am (Ø£ÙØ§)\nð¥ You use are (Ø£ÙØª)\nð¥ð¥ We use are (ÙØ­Ù)\nð¥ð¥ð¥ They use are (ÙÙ)\nð¨ He uses is (ÙÙ)\nð© She uses is (ÙÙ)\nð¦ It uses is (ÙØ°Ø§/ÙØ°Ù)",
+            "title": "Present Simple\n(ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ)\n\nÃ°ÂÂÂ ÃÂ§ÃÂÃÂÃÂ§ÃÂ¹ÃÂ¯ÃÂ©: ÃÂ§ÃÂÃÂÃÂ¹ÃÂ 'to be' ÃÂÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ·\nÃ°ÂÂÂ¤ I use am (ÃÂ£ÃÂÃÂ§)\nÃ°ÂÂÂ¥ You use are (ÃÂ£ÃÂÃÂª)\nÃ°ÂÂÂ¥Ã°ÂÂÂ¥ We use are (ÃÂÃÂ­ÃÂ)\nÃ°ÂÂÂ¥Ã°ÂÂÂ¥Ã°ÂÂÂ¥ They use are (ÃÂÃÂ)\nÃ°ÂÂÂ¨ He uses is (ÃÂÃÂ)\nÃ°ÂÂÂ© She uses is (ÃÂÃÂ)\nÃ°ÂÂÂ¦ It uses is (ÃÂÃÂ°ÃÂ§/ÃÂÃÂ°ÃÂ)",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -574,9 +591,9 @@
             "timestamp": 1775770321893
           },
           {
-            "title": "Present Simple\n(ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù)\n\nð Ø§ÙÙØ§Ø¹Ø¯Ø©: Ø§ÙÙØ¹Ù 'to be' ÙÙ Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ·\nð¤ I use am (Ø£ÙØ§)\nð¥ You use are (Ø£ÙØª)\nð¥ð¥ We use are (ÙØ­Ù)\nð¥ð¥ð¥ They use are (ÙÙ)\nð¨ He uses is (ÙÙ)\nð© She uses is (ÙÙ)\nð¦ It uses is (ÙØ°Ø§/ÙØ°Ù)",
+            "title": "Present Simple\n(ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ)\n\nÃ°ÂÂÂ ÃÂ§ÃÂÃÂÃÂ§ÃÂ¹ÃÂ¯ÃÂ©: ÃÂ§ÃÂÃÂÃÂ¹ÃÂ 'to be' ÃÂÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ·\nÃ°ÂÂÂ¤ I use am (ÃÂ£ÃÂÃÂ§)\nÃ°ÂÂÂ¥ You use are (ÃÂ£ÃÂÃÂª)\nÃ°ÂÂÂ¥Ã°ÂÂÂ¥ We use are (ÃÂÃÂ­ÃÂ)\nÃ°ÂÂÂ¥Ã°ÂÂÂ¥Ã°ÂÂÂ¥ They use are (ÃÂÃÂ)\nÃ°ÂÂÂ¨ He uses is (ÃÂÃÂ)\nÃ°ÂÂÂ© She uses is (ÃÂÃÂ)\nÃ°ÂÂÂ¦ It uses is (ÃÂÃÂ°ÃÂ§/ÃÂÃÂ°ÃÂ)",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
             "lesson": "Lesson 1: Introductions",
@@ -588,190 +605,190 @@
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "userAttempt": "Yyy",
             "timestamp": 1775962718423
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
-            "userAttempt": "Ø³ÙØ¨Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
+            "userAttempt": "ÃÂ³ÃÂÃÂ¨ÃÂ",
             "timestamp": 1775984068418
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
-            "userAttempt": "ÙÙÙ ÙÙÙ ÙÙÙ",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
+            "userAttempt": "ÃÂÃÂÃÂ ÃÂÃÂÃÂ ÃÂÃÂÃÂ",
             "timestamp": 1775984097270
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
-            "userAttempt": "ÙÙ ÙØ¶ÙÙ ÙØ±Ø± Ø§ÙØ¬ÙÙÙ",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
+            "userAttempt": "ÃÂÃÂ ÃÂÃÂ¶ÃÂÃÂ ÃÂÃÂ±ÃÂ± ÃÂ§ÃÂÃÂ¬ÃÂÃÂÃÂ",
             "timestamp": 1775984122176
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
-            "userAttempt": "Ø­Ø§ÙÙ ÙØ±Ù Ø§Ø®Ø±Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
+            "userAttempt": "ÃÂ­ÃÂ§ÃÂÃÂ ÃÂÃÂ±ÃÂ ÃÂ§ÃÂ®ÃÂ±ÃÂ",
             "timestamp": 1775984137697
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "userAttempt": "",
             "timestamp": 1775984167708
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
-            "userAttempt": "Ø§ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "timestamp": 1775984188826
           },
           {
             "title": "You are / You're",
             "meaning": "You're a student.",
-            "translation": "Ø£ÙØª Ø·Ø§ÙØ¨Ø©",
-            "userAttempt": "Ø§ÙØ§Ù Ø¯ÙØ±Ù ÙÙ ÙØ¶ÙÙ ÙØ±Ø± Ø§ÙØ¬ÙÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ©",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ÃÂ ÃÂ¯ÃÂÃÂ±ÃÂ ÃÂÃÂ ÃÂÃÂ¶ÃÂÃÂ ÃÂÃÂ±ÃÂ± ÃÂ§ÃÂÃÂ¬ÃÂÃÂÃÂ",
             "timestamp": 1775984235051
           },
           {
             "title": "You are / You're",
             "meaning": "You're a student.",
-            "translation": "Ø£ÙØª Ø·Ø§ÙØ¨Ø©",
-            "userAttempt": "Ø®Ø·Ø§ Ø­Ø§ÙÙ ÙØ±Ù Ø§Ø®Ø±Ù",
+            "translation": "ÃÂ£ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ©",
+            "userAttempt": "ÃÂ®ÃÂ·ÃÂ§ ÃÂ­ÃÂ§ÃÂÃÂ ÃÂÃÂ±ÃÂ ÃÂ§ÃÂ®ÃÂ±ÃÂ",
             "timestamp": 1775984239621
           },
           {
             "title": "You are / You're",
             "meaning": "You're a student.",
-            "translation": "Ø£ÙØª Ø·Ø§ÙØ¨Ø©",
-            "userAttempt": "Ø§ÙØª Ø·Ø§ÙØ¨Ù",
+            "translation": "ÃÂ£ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ©",
+            "userAttempt": "ÃÂ§ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ",
             "timestamp": 1775984250618
           },
           {
             "title": "You are / You're",
             "meaning": "You're a student.",
-            "translation": "Ø£ÙØª Ø·Ø§ÙØ¨Ø©",
-            "userAttempt": "Ø§ÙØª Ø·Ø§ÙØ¨Ù",
+            "translation": "ÃÂ£ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ©",
+            "userAttempt": "ÃÂ§ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ",
             "timestamp": 1775984252497
           },
           {
             "title": "You are / You're",
             "meaning": "You're a student.",
-            "translation": "Ø£ÙØª Ø·Ø§ÙØ¨Ø©",
-            "userAttempt": "Ø§ÙØª Ø·Ø§ÙØ¨Ù",
+            "translation": "ÃÂ£ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ©",
+            "userAttempt": "ÃÂ§ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ",
             "timestamp": 1775984270158
           },
           {
             "title": "You are / You're",
             "meaning": "You're a student.",
-            "translation": "Ø£ÙØª Ø·Ø§ÙØ¨Ø©",
+            "translation": "ÃÂ£ÃÂÃÂª ÃÂ·ÃÂ§ÃÂÃÂ¨ÃÂ©",
             "userAttempt": "you are a student",
             "timestamp": 1775984322707
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "userAttempt": "I am a John",
             "timestamp": 1775984364825
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "userAttempt": "I am nowadays your turn now it is your turn please repeat the sentence",
             "timestamp": 1775984375465
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "userAttempt": "try again",
             "timestamp": 1775984390891
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "userAttempt": "please repeat the sentence",
             "timestamp": 1775984404776
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
-            "userAttempt": "Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦Ù Ø¹Ø§Ø¯Ø§Øª ÙØ§Ø´ÙØ§Ø¡ Ø­ÙÙÙÙ Ø¯Ø§Ø¦ÙØ§",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂª ÃÂÃÂ§ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂ ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§",
             "timestamp": 1775989885593
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
-            "userAttempt": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦Ù Ø¹Ø§Ø¯Ø§Øª ÙØ§Ø´ÙØ§Ø¡ Ø­ÙÙÙÙÙ Ø¯Ø§Ø¦ÙØ§",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
+            "userAttempt": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂª ÃÂÃÂ§ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§",
             "timestamp": 1775992459499
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
-            "userAttempt": "Ø§ÙØ§ Ø¬Ù",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ ÃÂ¬ÃÂ",
             "timestamp": 1775992488030
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
-            "userAttempt": "Ø§ÙØ§Ù Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ÃÂ ÃÂ¬ÃÂÃÂ",
             "timestamp": 1775992506774
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm a teacher.",
-            "translation": "Ø£ÙØ§ ÙØ¹ÙÙ",
-            "userAttempt": "Ø¨Ø¹Ø¯ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂÃÂ¹ÃÂÃÂ",
+            "userAttempt": "ÃÂ¨ÃÂ¹ÃÂ¯ÃÂÃÂ",
             "timestamp": 1775992673044
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
-            "userAttempt": "Ø§ÙÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· Ø§ÙØªØ­Ø¯Ø« Ø¹Ù Ø§ÙØ­ÙØ§Ø¦Ù Ø¹Ø§Ø¯Ø§Øª ÙØ§Ø´ÙØ§Ø¡ Ø­ÙÙÙÙÙ Ø¯Ø§Ø¦ÙØ§",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
+            "userAttempt": "ÃÂ§ÃÂÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂ§ÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ§ÃÂÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂª ÃÂÃÂ§ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§",
             "timestamp": 1775995475582
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
-            "userAttempt": "Ø§Ø³ÙØ¹",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
+            "userAttempt": "ÃÂ§ÃÂ³ÃÂÃÂ¹",
             "timestamp": 1775995566982
           },
           {
             "title": "Present Simple - Verb 'to be'",
             "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-            "translation": "ÙØ³ØªØ®Ø¯Ù Ø§ÙÙØ¶Ø§Ø±Ø¹ Ø§ÙØ¨Ø³ÙØ· ÙÙØªØ­Ø¯Ø« Ø¹Ù Ø­ÙØ§Ø¦ÙØ Ø¹Ø§Ø¯Ø§ØªØ ÙØ£Ø´ÙØ§Ø¡ Ø­ÙÙÙÙØ© Ø¯Ø§Ø¦ÙØ§Ù",
+            "translation": "ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂÃÂ¶ÃÂ§ÃÂ±ÃÂ¹ ÃÂ§ÃÂÃÂ¨ÃÂ³ÃÂÃÂ· ÃÂÃÂÃÂªÃÂ­ÃÂ¯ÃÂ« ÃÂ¹ÃÂ ÃÂ­ÃÂÃÂ§ÃÂ¦ÃÂÃÂ ÃÂ¹ÃÂ§ÃÂ¯ÃÂ§ÃÂªÃÂ ÃÂÃÂ£ÃÂ´ÃÂÃÂ§ÃÂ¡ ÃÂ­ÃÂÃÂÃÂÃÂÃÂ© ÃÂ¯ÃÂ§ÃÂ¦ÃÂÃÂ§ÃÂ",
             "userAttempt": "64",
             "timestamp": 1775999287421
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
-            "userAttempt": "Ø§ÙØ§Ù Ø¯ÙØ±Ù ÙÙ ÙØ¶ÙÙ ÙØ±Ø± Ø§ÙØ¬ÙÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ÃÂ ÃÂ¯ÃÂÃÂ±ÃÂ ÃÂÃÂ ÃÂÃÂ¶ÃÂÃÂ ÃÂÃÂ±ÃÂ± ÃÂ§ÃÂÃÂ¬ÃÂÃÂÃÂ",
             "timestamp": 1775999337046
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm a teacher.",
-            "translation": "Ø£ÙØ§ ÙØ¹ÙÙ",
-            "userAttempt": "Ø§ÙØ§ ÙØ¹ÙÙ Ø§ÙØ§ ÙØ¹ÙÙ Ø·Ø¨Ø¹Ø§ ÙÙ ÙØµÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂÃÂ¹ÃÂÃÂ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ ÃÂÃÂ¹ÃÂÃÂ ÃÂ§ÃÂÃÂ§ ÃÂÃÂ¹ÃÂÃÂ ÃÂ·ÃÂ¨ÃÂ¹ÃÂ§ ÃÂÃÂ ÃÂÃÂµÃÂ",
             "timestamp": 1775999365662
           }
         ],
@@ -779,15 +796,15 @@
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
-            "userAttempt": "Ø§ÙØ¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ¬ÃÂÃÂ",
             "timestamp": 1776099282221
           },
           {
             "title": "I am / I'm",
             "meaning": "I'm John.",
-            "translation": "Ø£ÙØ§ Ø¬ÙÙ",
-            "userAttempt": "Ø§ÙØ§ Ø¬ÙÙ Ø§ÙØ§ Ø¬ÙÙ",
+            "translation": "ÃÂ£ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
+            "userAttempt": "ÃÂ§ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ ÃÂ§ÃÂÃÂ§ ÃÂ¬ÃÂÃÂ",
             "timestamp": 1776099302277
           }
         ],
