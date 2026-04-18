@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-18T09:40:19.645Z",
+  "lastUpdated": "2026-04-18T12:03:05.842Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-18T09:40:19.645Z",
-      "totalCorrect": 7,
-      "totalAttempts": 8,
+      "lastActive": "2026-04-18T12:03:05.807Z",
+      "totalCorrect": 8,
+      "totalAttempts": 9,
       "dailyRecords": {
         "4/17/2026": [
           {
@@ -82,12 +82,21 @@
             "time": "12:40",
             "grade": "good",
             "userAttempt": "you are such a"
+          },
+          {
+            "title": "I am / I'm",
+            "meaning": "I'm John.",
+            "isCorrect": true,
+            "timestamp": 1776513784754,
+            "time": "15:03",
+            "grade": "good",
+            "userAttempt": "I am John I am John I am John"
           }
         ]
       },
       "weeklyStats": {
         "week-2026-3": {
-          "correct": 7,
+          "correct": 8,
           "wrong": 1,
           "records": [
             {
@@ -153,6 +162,14 @@
               "timestamp": 1776505218705,
               "time": "12:40",
               "userAttempt": "you are such a"
+            },
+            {
+              "title": "I am / I'm",
+              "meaning": "I'm John.",
+              "isCorrect": true,
+              "timestamp": 1776513784754,
+              "time": "15:03",
+              "userAttempt": "I am John I am John I am John"
             }
           ]
         }
