@@ -1,96 +1,334 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-04-12",
+  "lastUpdated": "2026-04-19",
   "books": [
     {
-      "id": "headway_beginner_5th",
+      "id": "headway_beginner_5th_simple",
       "title": "Headway Beginner 5th Edition",
+      "translation": "هيدواي مبتدئ الطبعة الخامسة",
       "units": [
         {
           "id": "unit_1",
           "title": "Unit 1: Hello!",
+          "translation": "الوحدة 1: مرحباً!",
           "lessons": [
             {
-              "id": "lesson_1",
-              "title": "Lesson 1: Introductions",
+              "id": "lesson_1_1",
+              "title": "Introductions",
+              "translation": "التعريف",
               "definitions": [
                 {
                   "id": "def_1",
-                  "title": "Present Simple - Verb 'to be'",
-                  "meaning": "We use Present Simple to talk about facts, habits, and things that are always true.",
-                  "translation": "نستخدم المضارع البسيط للتحدث عن حقائق، عادات، وأشياء حقيقية دائماً"
+                  "title": "I am / I'm",
+                  "meaning": "I am Michael",
+                  "translation": "أنا مايكل"
                 },
                 {
                   "id": "def_2",
-                  "title": "I am / I'm",
-                  "meaning": "I'm John.",
-                  "translation": "أنا جون"
+                  "title": "What's your name?",
+                  "meaning": "What is your name?",
+                  "translation": "ما اسمك؟"
                 },
                 {
                   "id": "def_3",
-                  "title": "I am / I'm",
-                  "meaning": "I'm a teacher.",
-                  "translation": "أنا معلم"
+                  "title": "My name's",
+                  "meaning": "My name is Alice",
+                  "translation": "اسمي أليس"
                 },
                 {
                   "id": "def_4",
-                  "title": "I am / I'm",
-                  "meaning": "I'm from England.",
-                  "translation": "أنا من إنجلترا"
+                  "title": "This is",
+                  "meaning": "This is my friend Michael",
+                  "translation": "هذا صديقي مايكل"
                 },
                 {
                   "id": "def_5",
-                  "title": "You are / You're",
-                  "meaning": "You're Sarah.",
-                  "translation": "أنت سارة"
+                  "title": "Nice to meet you",
+                  "meaning": "Happy to know you",
+                  "translation": "تشرفت بمقابلتك"
                 },
                 {
                   "id": "def_6",
-                  "title": "You are / You're",
-                  "meaning": "You're a student.",
-                  "translation": "أنت طالبة"
+                  "title": "How are you?",
+                  "meaning": "How do you feel?",
+                  "translation": "كيف حالك؟"
                 },
                 {
                   "id": "def_7",
-                  "title": "He is / He's",
-                  "meaning": "He's Michael.",
-                  "translation": "هو مايكل"
+                  "title": "Fine, thanks",
+                  "meaning": "Good, thank you",
+                  "translation": "بخير، شكراً"
                 },
                 {
                   "id": "def_8",
-                  "title": "He is / He's",
-                  "meaning": "He's a doctor.",
-                  "translation": "هو طبيب"
+                  "title": "And you?",
+                  "meaning": "And you?",
+                  "translation": "وأنت؟"
                 },
                 {
                   "id": "def_9",
-                  "title": "She is / She's",
-                  "meaning": "She's Emma.",
-                  "translation": "هي إيما"
+                  "title": "I'm OK",
+                  "meaning": "I am fine",
+                  "translation": "أنا بخير"
                 },
                 {
                   "id": "def_10",
-                  "title": "She is / She's",
-                  "meaning": "She's a nurse.",
-                  "translation": "هي ممرضة"
+                  "title": "Good morning",
+                  "meaning": "Hello in the morning",
+                  "translation": "صباح الخير"
                 },
                 {
                   "id": "def_11",
-                  "title": "It is / It's",
-                  "meaning": "It's a book.",
-                  "translation": "هذا كتاب"
-                },
+                  "title": "Hello",
+                  "meaning": "Hi, I'm Alice",
+                  "translation": "مرحباً، أنا أليس"
+                }
+              ]
+            },
+            {
+              "id": "lesson_1_2",
+              "title": "Everyday objects",
+              "translation": "أشياء يومية",
+              "definitions": [
                 {
                   "id": "def_12",
-                  "title": "We are / We're",
-                  "meaning": "We're friends.",
-                  "translation": "نحن أصدقاء"
+                  "title": "What's this in English?",
+                  "meaning": "How do you say this?",
+                  "translation": "ماذا يسمى هذا بالإنجليزية؟"
                 },
                 {
                   "id": "def_13",
-                  "title": "They are / They're",
-                  "meaning": "They're teachers.",
-                  "translation": "هم معلمون"
+                  "title": "a book",
+                  "meaning": "one book",
+                  "translation": "كتاب"
+                },
+                {
+                  "id": "def_14",
+                  "title": "an apple",
+                  "meaning": "one apple",
+                  "translation": "تفاحة"
+                },
+                {
+                  "id": "def_15",
+                  "title": "a phone",
+                  "meaning": "one phone",
+                  "translation": "هاتف"
+                },
+                {
+                  "id": "def_16",
+                  "title": "a bag",
+                  "meaning": "one bag",
+                  "translation": "حقيبة"
+                },
+                {
+                  "id": "def_17",
+                  "title": "a watch",
+                  "meaning": "one watch",
+                  "translation": "ساعة يد"
+                },
+                {
+                  "id": "def_18",
+                  "title": "a house",
+                  "meaning": "one house",
+                  "translation": "منزل"
+                },
+                {
+                  "id": "def_19",
+                  "title": "a bike",
+                  "meaning": "one bicycle",
+                  "translation": "دراجة"
+                },
+                {
+                  "id": "def_20",
+                  "title": "Plurals",
+                  "meaning": "two or more",
+                  "translation": "الجمع"
+                },
+                {
+                  "id": "def_21",
+                  "title": "books",
+                  "meaning": "two or more books",
+                  "translation": "كتب"
+                },
+                {
+                  "id": "def_22",
+                  "title": "apples",
+                  "meaning": "two or more apples",
+                  "translation": "تفاح"
+                },
+                {
+                  "id": "def_23",
+                  "title": "Numbers 1-10",
+                  "meaning": "one, two, three, four, five, six, seven, eight, nine, ten",
+                  "translation": "واحد، اثنان، ثلاثة، أربعة، خمسة، ستة، سبعة، ثمانية، تسعة، عشرة"
+                }
+              ]
+            },
+            {
+              "id": "lesson_1_3",
+              "title": "Conversations",
+              "translation": "محادثات",
+              "definitions": [
+                {
+                  "id": "def_24",
+                  "title": "Greeting a friend",
+                  "meaning": "Hello, Michael. How are you?",
+                  "translation": "مرحباً مايكل. كيف حالك؟"
+                },
+                {
+                  "id": "def_25",
+                  "title": "Replying",
+                  "meaning": "I'm fine, thanks Alice",
+                  "translation": "أنا بخير، شكراً أليس"
+                },
+                {
+                  "id": "def_26",
+                  "title": "Introducing two people",
+                  "meaning": "Alice, this is Michael. Michael, this is Alice",
+                  "translation": "أليس، هذا مايكل. مايكل، هذه أليس"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_2",
+          "title": "Unit 2: Your world",
+          "translation": "الوحدة 2: عالمك",
+          "lessons": [
+            {
+              "id": "lesson_2_1",
+              "title": "He / She / His / Her",
+              "translation": "هو / هي / له / لها",
+              "definitions": [
+                {
+                  "id": "def_27",
+                  "title": "He is / He's",
+                  "meaning": "Michael is a doctor",
+                  "translation": "مايكل طبيب"
+                },
+                {
+                  "id": "def_28",
+                  "title": "She is / She's",
+                  "meaning": "Alice is a nurse",
+                  "translation": "أليس ممرضة"
+                },
+                {
+                  "id": "def_29",
+                  "title": "His",
+                  "meaning": "His name is Michael",
+                  "translation": "اسمه مايكل"
+                },
+                {
+                  "id": "def_30",
+                  "title": "Her",
+                  "meaning": "Her name is Alice",
+                  "translation": "اسمها أليس"
+                },
+                {
+                  "id": "def_31",
+                  "title": "Where is he from?",
+                  "meaning": "Michael is from Italy",
+                  "translation": "مايكل من إيطاليا"
+                },
+                {
+                  "id": "def_32",
+                  "title": "Where is she from?",
+                  "meaning": "Alice is from China",
+                  "translation": "أليس من الصين"
+                }
+              ]
+            },
+            {
+              "id": "lesson_2_2",
+              "title": "Countries",
+              "translation": "الدول",
+              "definitions": [
+                {
+                  "id": "def_33",
+                  "title": "Country names",
+                  "meaning": "Italy, China, England, France, Egypt, Brazil, Canada, Japan, Spain, Turkey, USA",
+                  "translation": "إيطاليا، الصين، إنجلترا، فرنسا، مصر، البرازيل، كندا، اليابان، إسبانيا، تركيا، أمريكا"
+                },
+                {
+                  "id": "def_34",
+                  "title": "Question",
+                  "meaning": "Where is Michael from?",
+                  "translation": "من أين مايكل؟"
+                },
+                {
+                  "id": "def_35",
+                  "title": "Answer",
+                  "meaning": "He is from England",
+                  "translation": "هو من إنجلترا"
+                },
+                {
+                  "id": "def_36",
+                  "title": "Question",
+                  "meaning": "Where is Alice from?",
+                  "translation": "من أين أليس؟"
+                },
+                {
+                  "id": "def_37",
+                  "title": "Answer",
+                  "meaning": "She is from Egypt",
+                  "translation": "هي من مصر"
+                }
+              ]
+            },
+            {
+              "id": "lesson_2_3",
+              "title": "Numbers 11-30",
+              "translation": "الأرقام 11-30",
+              "definitions": [
+                {
+                  "id": "def_38",
+                  "title": "11-20",
+                  "meaning": "eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty",
+                  "translation": "أحد عشر، اثنا عشر، ثلاثة عشر، أربعة عشر، خمسة عشر، ستة عشر، سبعة عشر، ثمانية عشر، تسعة عشر، عشرون"
+                },
+                {
+                  "id": "def_39",
+                  "title": "21-30",
+                  "meaning": "twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty",
+                  "translation": "واحد وعشرون، اثنان وعشرون، ثلاثة وعشرون، أربعة وعشرون، خمسة وعشرون، ستة وعشرون، سبعة وعشرون، ثمانية وعشرون، تسعة وعشرون، ثلاثون"
+                },
+                {
+                  "id": "def_40",
+                  "title": "How old are you?",
+                  "meaning": "What is your age?",
+                  "translation": "كم عمرك؟"
+                },
+                {
+                  "id": "def_41",
+                  "title": "I am 25",
+                  "meaning": "Michael is twenty-five years old",
+                  "translation": "مايكل عمره خمسة وعشرون سنة"
+                },
+                {
+                  "id": "def_42",
+                  "title": "She is 30",
+                  "meaning": "Alice is thirty years old",
+                  "translation": "أليس عمرها ثلاثون سنة"
+                }
+              ]
+            },
+            {
+              "id": "lesson_2_4",
+              "title": "Reading: A holiday in New York",
+              "translation": "قراءة: عطلة في نيويورك",
+              "definitions": [
+                {
+                  "id": "def_43",
+                  "title": "Reading text",
+                  "meaning": "This is a photo of Michael and Alice from Montreal in Canada. They are on holiday in New York City. Alice is from Canada and Michael is from France. They are married. Alice is an architect. Michael is a doctor.",
+                  "translation": "هذه صورة لمايكل وأليس من مونتريال في كندا. هما في عطلة في مدينة نيويورك. أليس من كندا ومايكل من فرنسا. هما متزوجان. أليس مهندسة معمارية. مايكل طبيب."
+                },
+                {
+                  "id": "def_44",
+                  "title": "Vocabulary",
+                  "meaning": "architect, doctor, married, on holiday, centre, office, hospital",
+                  "translation": "مهندس معماري، طبيب، متزوج، في عطلة، مركز، مكتب، مستشفى"
                 }
               ]
             }
