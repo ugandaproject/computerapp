@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-18T08:10:51.994Z",
+  "lastUpdated": "2026-04-18T08:56:02.036Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-18T08:10:51.993Z",
-      "totalCorrect": 3,
-      "totalAttempts": 4,
+      "lastActive": "2026-04-18T08:56:02.018Z",
+      "totalCorrect": 4,
+      "totalAttempts": 5,
       "dailyRecords": {
         "4/17/2026": [
           {
@@ -46,12 +46,21 @@
             "time": "11:10",
             "grade": "wrong",
             "userAttempt": "New York"
+          },
+          {
+            "title": "I am / I'm",
+            "meaning": "I'm a teacher.",
+            "isCorrect": true,
+            "timestamp": 1776502561018,
+            "time": "11:56",
+            "grade": "good",
+            "userAttempt": "this is a car"
           }
         ]
       },
       "weeklyStats": {
         "week-2026-3": {
-          "correct": 3,
+          "correct": 4,
           "wrong": 1,
           "records": [
             {
@@ -85,6 +94,14 @@
               "timestamp": 1776499851603,
               "time": "11:10",
               "userAttempt": "New York"
+            },
+            {
+              "title": "I am / I'm",
+              "meaning": "I'm a teacher.",
+              "isCorrect": true,
+              "timestamp": 1776502561018,
+              "time": "11:56",
+              "userAttempt": "this is a car"
             }
           ]
         }
