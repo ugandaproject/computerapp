@@ -9,313 +9,313 @@
       "units": [
         {
           "id": "unit_1",
-          "title": "Unit 1: Hello!",
+          "title": "Unit 1: Hello! - مرحباً!",
           "translation": "الوحدة 1: مرحباً!",
           "lessons": [
             {
               "id": "lesson_1_1",
-              "title": "Introductions",
+              "title": "Introductions - التعريف",
               "translation": "التعريف",
               "definitions": [
                 {
                   "id": "def_1",
-                  "title": "I am / I'm",
-                  "use": "تستخدم لتعريف نفسك. قل هذا عندما تريد أن تقول من أنت.",
+                  "title": "Introducing yourself - تعريف النفس",
                   "meaning": "I am Michael",
+                  "use": "تستخدم لتعريف نفسك. قل هذا عندما تريد أن تقول من أنت.",
                   "translation": "أنا مايكل"
                 },
                 {
                   "id": "def_2",
-                  "title": "What's your name?",
+                  "title": "Asking for someone's name - السؤال عن الاسم",
+                  "meaning": "What's your name?",
                   "use": "تستخدم لسؤال شخص عن اسمه. قل هذا عندما تريد معرفة اسم شخص آخر.",
-                  "meaning": "What is your name?",
                   "translation": "ما اسمك؟"
                 },
                 {
                   "id": "def_3",
-                  "title": "My name's",
-                  "use": "تستخدم لتعريف نفسك باسمك. قل هذا بعد أن يسألك شخص 'ما اسمك؟'",
+                  "title": "Giving your name - قول اسمك",
                   "meaning": "My name is Alice",
+                  "use": "تستخدم لتعريف نفسك باسمك. قل هذا بعد أن يسألك شخص 'ما اسمك؟'",
                   "translation": "اسمي أليس"
                 },
                 {
                   "id": "def_4",
-                  "title": "This is",
-                  "use": "تستخدم لتقديم شخص لشخص آخر. قل هذا عندما تريد تعريف صديقك بصديق آخر.",
+                  "title": "Introducing another person - تعريف شخص آخر",
                   "meaning": "This is Michael",
+                  "use": "تستخدم لتقديم شخص لشخص آخر. قل هذا عندما تريد تعريف صديقك بصديق آخر.",
                   "translation": "هذا مايكل"
                 },
                 {
                   "id": "def_5",
-                  "title": "Nice to meet you",
-                  "use": "تستخدم عندما تقابل شخصاً لأول مرة. قل هذا لتكون مهذباً ومحترماً.",
+                  "title": "First meeting greeting - تحية أول لقاء",
                   "meaning": "Nice to meet you",
+                  "use": "تستخدم عندما تقابل شخصاً لأول مرة. قل هذا لتكون مهذباً ومحترماً.",
                   "translation": "تشرفت بمقابلتك"
                 },
                 {
                   "id": "def_6",
-                  "title": "Nice to meet you too",
-                  "use": "تستخدم للرد على شخص قال لك 'Nice to meet you'. قل هذا لإظهار أنك تشعر بنفس الشعور.",
+                  "title": "Responding to first meeting - الرد على تحية أول لقاء",
                   "meaning": "Nice to meet you too",
+                  "use": "تستخدم للرد على شخص قال لك 'Nice to meet you'. قل هذا لإظهار أنك تشعر بنفس الشعور.",
                   "translation": "وأنا أيضاً"
                 }
               ]
             },
             {
               "id": "lesson_1_2",
-              "title": "How are you?",
+              "title": "How are you? - كيف حالك؟",
               "translation": "كيف حالك؟",
               "definitions": [
                 {
                   "id": "def_7",
-                  "title": "How are you?",
-                  "use": "تستخدم لسؤال شخص عن حاله ومشاعره. قل هذا عندما تريد التحية والسؤال عن الأخبار.",
+                  "title": "Asking about someone's well-being - السؤال عن الحال",
                   "meaning": "How are you?",
+                  "use": "تستخدم لسؤال شخص عن حاله ومشاعره. قل هذا عندما تريد التحية والسؤال عن الأخبار.",
                   "translation": "كيف حالك؟"
                 },
                 {
                   "id": "def_8",
-                  "title": "I'm fine",
+                  "title": "Responding that you are fine - الرد بأنك بخير",
+                  "meaning": "I'm fine",
                   "use": "تستخدم للرد عندما يسألك شخص 'How are you؟'. قل هذا عندما تكون بخير.",
-                  "meaning": "I am fine",
                   "translation": "أنا بخير"
                 },
                 {
                   "id": "def_9",
-                  "title": "Thanks",
+                  "title": "Expressing thanks - التعبير عن الشكر",
+                  "meaning": "Thanks",
                   "use": "تستخدم لشكر شخص على شيء فعله من أجلك. قل هذا عندما تريد إظهار الامتنان.",
-                  "meaning": "Thank you",
                   "translation": "شكراً"
                 },
                 {
                   "id": "def_10",
-                  "title": "And you?",
-                  "use": "تستخدم لسؤال الشخص الآخر عن حاله بعد أن أجبت أنت. قل هذا لإظهار الاهتمام بالشخص الآخر.",
+                  "title": "Returning the question - رد السؤال",
                   "meaning": "And you?",
+                  "use": "تستخدم لسؤال الشخص الآخر عن حاله بعد أن أجبت أنت. قل هذا لإظهار الاهتمام بالشخص الآخر.",
                   "translation": "وأنت؟"
                 },
                 {
                   "id": "def_11",
-                  "title": "I'm OK",
+                  "title": "Responding that you are okay - الرد بأنك بخير (متوسط)",
+                  "meaning": "I'm OK",
                   "use": "تستخدم للرد عندما يسألك شخص 'How are you؟'. قل هذا عندما تكون بخير ولكن ليس ممتازاً.",
-                  "meaning": "I am OK",
                   "translation": "أنا بخير"
                 },
                 {
                   "id": "def_12",
-                  "title": "Good morning",
-                  "use": "تستخدم لتحية شخص في الصباح من الفجر حتى الظهر. قل هذا عندما تريد أن تكون مهذباً في الصباح.",
+                  "title": "Morning greeting - تحية الصباح",
                   "meaning": "Good morning",
+                  "use": "تستخدم لتحية شخص في الصباح من الفجر حتى الظهر. قل هذا عندما تريد أن تكون مهذباً في الصباح.",
                   "translation": "صباح الخير"
                 },
                 {
                   "id": "def_13",
-                  "title": "Goodbye",
-                  "use": "تستخدم عندما تترك شخص وتودعهم. قل هذا في نهاية أي محادثة أو لقاء.",
+                  "title": "Farewell - الوداع",
                   "meaning": "Goodbye",
+                  "use": "تستخدم عندما تترك شخص وتودعهم. قل هذا في نهاية أي محادثة أو لقاء.",
                   "translation": "مع السلامة"
                 }
               ]
             },
             {
               "id": "lesson_1_3",
-              "title": "Everyday objects",
+              "title": "Everyday objects - الأشياء اليومية",
               "translation": "أشياء يومية",
               "definitions": [
                 {
                   "id": "def_14",
-                  "title": "What's this in English?",
-                  "use": "تستخدم لسؤال شخص عن اسم شيء ما باللغة الإنجليزية. قل هذا عندما تريد تعلم كلمات جديدة.",
+                  "title": "Asking for the name of an object - السؤال عن اسم شيء",
                   "meaning": "What's this in English?",
+                  "use": "تستخدم لسؤال شخص عن اسم شيء ما باللغة الإنجليزية. قل هذا عندما تريد تعلم كلمات جديدة.",
                   "translation": "ماذا يسمى هذا بالإنجليزية؟"
                 },
                 {
                   "id": "def_15",
-                  "title": "a book",
-                  "use": "تستخدم للإشارة إلى شيء تقرأه. قل هذا عندما تريد أن تقول 'كتاب'.",
+                  "title": "Book - كتاب",
                   "meaning": "a book",
+                  "use": "تستخدم للإشارة إلى شيء تقرأه. قل هذا عندما تريد أن تقول 'كتاب'.",
                   "translation": "كتاب"
                 },
                 {
                   "id": "def_16",
-                  "title": "an apple",
-                  "use": "تستخدم للإشارة إلى فاكهة حمراء أو خضراء. قل هذا عندما تريد أن تقول 'تفاحة'.",
+                  "title": "Apple - تفاحة",
                   "meaning": "an apple",
+                  "use": "تستخدم للإشارة إلى فاكهة حمراء أو خضراء. قل هذا عندما تريد أن تقول 'تفاحة'.",
                   "translation": "تفاحة"
                 },
                 {
                   "id": "def_17",
-                  "title": "a phone",
-                  "use": "تستخدم للإشارة إلى جهاز تتصل به أو ترسل رسائل. قل هذا عندما تريد أن تقول 'هاتف'.",
+                  "title": "Phone - هاتف",
                   "meaning": "a phone",
+                  "use": "تستخدم للإشارة إلى جهاز تتصل به أو ترسل رسائل. قل هذا عندما تريد أن تقول 'هاتف'.",
                   "translation": "هاتف"
                 },
                 {
                   "id": "def_18",
-                  "title": "a bag",
-                  "use": "تستخدم للإشارة إلى شيء تحمل فيه أغراضك. قل هذا عندما تريد أن تقول 'حقيبة'.",
+                  "title": "Bag - حقيبة",
                   "meaning": "a bag",
+                  "use": "تستخدم للإشارة إلى شيء تحمل فيه أغراضك. قل هذا عندما تريد أن تقول 'حقيبة'.",
                   "translation": "حقيبة"
                 },
                 {
                   "id": "def_19",
-                  "title": "a watch",
-                  "use": "تستخدم للإشارة إلى شيء ترتديه في يدك لتعرف الوقت. قل هذا عندما تريد أن تقول 'ساعة'.",
+                  "title": "Watch - ساعة يد",
                   "meaning": "a watch",
+                  "use": "تستخدم للإشارة إلى شيء ترتديه في يدك لتعرف الوقت. قل هذا عندما تريد أن تقول 'ساعة'.",
                   "translation": "ساعة"
                 },
                 {
                   "id": "def_20",
-                  "title": "a house",
-                  "use": "تستخدم للإشارة إلى مكان تعيش فيه. قل هذا عندما تريد أن تقول 'منزل'.",
+                  "title": "House - منزل",
                   "meaning": "a house",
+                  "use": "تستخدم للإشارة إلى مكان تعيش فيه. قل هذا عندما تريد أن تقول 'منزل'.",
                   "translation": "منزل"
                 },
                 {
                   "id": "def_21",
-                  "title": "a bike",
-                  "use": "تستخدم للإشارة إلى مركبة ذات عجلتين. قل هذا عندما تريد أن تقول 'دراجة'.",
+                  "title": "Bike - دراجة",
                   "meaning": "a bike",
+                  "use": "تستخدم للإشارة إلى مركبة ذات عجلتين. قل هذا عندما تريد أن تقول 'دراجة'.",
                   "translation": "دراجة"
                 }
               ]
             },
             {
               "id": "lesson_1_4",
-              "title": "Plurals",
+              "title": "Plurals - الجمع",
               "translation": "الجمع",
               "definitions": [
                 {
                   "id": "def_22",
-                  "title": "one book",
-                  "use": "تستخدم للإشارة إلى كتاب واحد فقط. قل هذا عندما تريد أن تقول 'كتاب واحد'.",
+                  "title": "Singular - مفرد",
                   "meaning": "one book",
+                  "use": "تستخدم للإشارة إلى كتاب واحد فقط. قل هذا عندما تريد أن تقول 'كتاب واحد'.",
                   "translation": "كتاب واحد"
                 },
                 {
                   "id": "def_23",
-                  "title": "two books",
-                  "use": "تستخدم للإشارة إلى أكثر من كتاب. قل هذا عندما تريد أن تقول 'كتابان' أو أكثر.",
+                  "title": "Plural - جمع",
                   "meaning": "two books",
+                  "use": "تستخدم للإشارة إلى أكثر من كتاب. قل هذا عندما تريد أن تقول 'كتابان' أو أكثر.",
                   "translation": "كتابان"
                 },
                 {
                   "id": "def_24",
-                  "title": "one apple",
-                  "use": "تستخدم للإشارة إلى تفاحة واحدة فقط. قل هذا عندما تريد أن تقول 'تفاحة واحدة'.",
+                  "title": "Singular - مفرد",
                   "meaning": "one apple",
+                  "use": "تستخدم للإشارة إلى تفاحة واحدة فقط. قل هذا عندما تريد أن تقول 'تفاحة واحدة'.",
                   "translation": "تفاحة واحدة"
                 },
                 {
                   "id": "def_25",
-                  "title": "three apples",
-                  "use": "تستخدم للإشارة إلى أكثر من تفاحة. قل هذا عندما تريد أن تقول 'ثلاث تفاحات'.",
+                  "title": "Plural - جمع",
                   "meaning": "three apples",
+                  "use": "تستخدم للإشارة إلى أكثر من تفاحة. قل هذا عندما تريد أن تقول 'ثلاث تفاحات'.",
                   "translation": "ثلاث تفاحات"
                 }
               ]
             },
             {
               "id": "lesson_1_5",
-              "title": "Numbers 1-10",
+              "title": "Numbers 1-10 - الأرقام 1-10",
               "translation": "الأرقام 1-10",
               "definitions": [
                 {
                   "id": "def_26",
-                  "title": "one",
+                  "title": "Number one - الرقم واحد",
+                  "meaning": "one",
                   "use": "تستخدم لعد الأشياء. هذا هو الرقم الأول.",
-                  "meaning": "1",
                   "translation": "واحد"
                 },
                 {
                   "id": "def_27",
-                  "title": "two",
+                  "title": "Number two - الرقم اثنان",
+                  "meaning": "two",
                   "use": "تستخدم لعد الأشياء. هذا هو الرقم الثاني.",
-                  "meaning": "2",
                   "translation": "اثنان"
                 },
                 {
                   "id": "def_28",
-                  "title": "three",
+                  "title": "Number three - الرقم ثلاثة",
+                  "meaning": "three",
                   "use": "تستخدم لعد الأشياء. هذا هو الرقم الثالث.",
-                  "meaning": "3",
                   "translation": "ثلاثة"
                 },
                 {
                   "id": "def_29",
-                  "title": "four",
+                  "title": "Number four - الرقم أربعة",
+                  "meaning": "four",
                   "use": "تستخدم لعد الأشياء. هذا هو الرقم الرابع.",
-                  "meaning": "4",
                   "translation": "أربعة"
                 },
                 {
                   "id": "def_30",
-                  "title": "five",
+                  "title": "Number five - الرقم خمسة",
+                  "meaning": "five",
                   "use": "تستخدم لعد الأشياء. هذا هو الرقم الخامس.",
-                  "meaning": "5",
                   "translation": "خمسة"
                 },
                 {
                   "id": "def_31",
-                  "title": "six",
+                  "title": "Number six - الرقم ستة",
+                  "meaning": "six",
                   "use": "تستخدم لعد الأشياء. هذا هو الرقم السادس.",
-                  "meaning": "6",
                   "translation": "ستة"
                 },
                 {
                   "id": "def_32",
-                  "title": "seven",
+                  "title": "Number seven - الرقم سبعة",
+                  "meaning": "seven",
                   "use": "تستخدم لعد الأشياء. هذا هو الرقم السابع.",
-                  "meaning": "7",
                   "translation": "سبعة"
                 },
                 {
                   "id": "def_33",
-                  "title": "eight",
+                  "title": "Number eight - الرقم ثمانية",
+                  "meaning": "eight",
                   "use": "تستخدم لعد الأشياء. هذا هو الرقم الثامن.",
-                  "meaning": "8",
                   "translation": "ثمانية"
                 },
                 {
                   "id": "def_34",
-                  "title": "nine",
+                  "title": "Number nine - الرقم تسعة",
+                  "meaning": "nine",
                   "use": "تستخدم لعد الأشياء. هذا هو الرقم التاسع.",
-                  "meaning": "9",
                   "translation": "تسعة"
                 },
                 {
                   "id": "def_35",
-                  "title": "ten",
+                  "title": "Number ten - الرقم عشرة",
+                  "meaning": "ten",
                   "use": "تستخدم لعد الأشياء. هذا هو الرقم العاشر.",
-                  "meaning": "10",
                   "translation": "عشرة"
                 }
               ]
             },
             {
               "id": "lesson_1_6",
-              "title": "Conversations",
+              "title": "Conversations - محادثات",
               "translation": "محادثات",
               "definitions": [
                 {
                   "id": "def_36",
-                  "title": "Greeting a friend",
-                  "use": "تستخدم عندما ترى صديقك وتريد أن تسأله عن حاله.",
+                  "title": "Greeting a friend - تحية صديق",
                   "meaning": "Hello Michael. How are you?",
+                  "use": "تستخدم عندما ترى صديقك وتريد أن تسأله عن حاله.",
                   "translation": "مرحباً مايكل. كيف حالك؟"
                 },
                 {
                   "id": "def_37",
-                  "title": "Replying to a friend",
-                  "use": "تستخدم عندما يسألك صديقك عن حالك وتريد أن ترد عليه بأدب.",
+                  "title": "Replying to a friend - الرد على صديق",
                   "meaning": "I'm fine thanks Alice. And you?",
+                  "use": "تستخدم عندما يسألك صديقك عن حالك وتريد أن ترد عليه بأدب.",
                   "translation": "أنا بخير شكراً أليس. وأنت؟"
                 },
                 {
                   "id": "def_38",
-                  "title": "Introducing two people",
-                  "use": "تستخدم عندما تريد أن تعرف شخصين على بعضهما للمرة الأولى.",
+                  "title": "Introducing two people - تعريف شخصين ببعضهما",
                   "meaning": "Alice, this is Michael",
+                  "use": "تستخدم عندما تريد أن تعرف شخصين على بعضهما للمرة الأولى.",
                   "translation": "أليس، هذا مايكل"
                 }
               ]
@@ -324,321 +324,2946 @@
         },
         {
           "id": "unit_2",
-          "title": "Unit 2: Your world",
+          "title": "Unit 2: Your world - عالمك",
           "translation": "الوحدة 2: عالمك",
           "lessons": [
             {
               "id": "lesson_2_1",
-              "title": "He / She / His / Her",
+              "title": "He / She / His / Her - هو / هي / له / لها",
               "translation": "هو / هي / له / لها",
               "definitions": [
                 {
                   "id": "def_39",
-                  "title": "He is / He's",
+                  "title": "Third person masculine singular - ضمير الغائب المذكر",
+                  "meaning": "He is / He's",
                   "use": "تستخدم للحديث عن رجل أو ولد. قل هذا عندما تريد أن تصف شخصاً مذكراً.",
-                  "meaning": "Michael is a doctor",
-                  "translation": "مايكل طبيب"
+                  "translation": "هو"
                 },
                 {
                   "id": "def_40",
-                  "title": "She is / She's",
+                  "title": "Third person feminine singular - ضمير الغائب المؤنث",
+                  "meaning": "She is / She's",
                   "use": "تستخدم للحديث عن امرأة أو بنت. قل هذا عندما تريد أن تصف شخصاً مؤنثاً.",
-                  "meaning": "Alice is a nurse",
-                  "translation": "أليس ممرضة"
+                  "translation": "هي"
                 },
                 {
                   "id": "def_41",
-                  "title": "His",
+                  "title": "Possessive for masculine - ضمير الملكية للمذكر",
+                  "meaning": "His",
                   "use": "تستخدم للإشارة إلى شيء يملكه رجل أو ولد. قل هذا عندما تريد أن تقول 'خاصته' لمذكر.",
-                  "meaning": "His name is Michael",
-                  "translation": "اسمه مايكل"
+                  "translation": "له / خاصته"
                 },
                 {
                   "id": "def_42",
-                  "title": "Her",
+                  "title": "Possessive for feminine - ضمير الملكية للمؤنث",
+                  "meaning": "Her",
                   "use": "تستخدم للإشارة إلى شيء تملكه امرأة أو بنت. قل هذا عندما تريد أن تقول 'خاصتها' لمؤنث.",
-                  "meaning": "Her name is Alice",
-                  "translation": "اسمها أليس"
+                  "translation": "لها / خاصتها"
                 },
                 {
                   "id": "def_43",
-                  "title": "Where is he from?",
+                  "title": "Asking about origin for a man - السؤال عن بلد شخص (مذكر)",
+                  "meaning": "Where is he from?",
                   "use": "تستخدم لسؤال عن بلد شخص مذكر. قل هذا عندما تريد معرفة من أين جاء رجل أو ولد.",
-                  "meaning": "Where is Michael from?",
-                  "translation": "من أين مايكل؟"
+                  "translation": "من أين هو؟"
                 },
                 {
                   "id": "def_44",
-                  "title": "He is from",
+                  "title": "Answering about origin for a man - الإجابة عن بلد شخص (مذكر)",
+                  "meaning": "He is from Italy",
                   "use": "تستخدم للإجابة عن سؤال بلد شخص مذكر. قل هذا عندما تريد أن تقول من أين جاء رجل أو ولد.",
-                  "meaning": "Michael is from Italy",
-                  "translation": "مايكل من إيطاليا"
+                  "translation": "هو من إيطاليا"
                 },
                 {
                   "id": "def_45",
-                  "title": "Where is she from?",
+                  "title": "Asking about origin for a woman - السؤال عن بلد شخص (مؤنث)",
+                  "meaning": "Where is she from?",
                   "use": "تستخدم لسؤال عن بلد شخص مؤنث. قل هذا عندما تريد معرفة من أين جاءت امرأة أو بنت.",
-                  "meaning": "Where is Alice from?",
-                  "translation": "من أين أليس؟"
+                  "translation": "من أين هي؟"
                 },
                 {
                   "id": "def_46",
-                  "title": "She is from",
+                  "title": "Answering about origin for a woman - الإجابة عن بلد شخص (مؤنث)",
+                  "meaning": "She is from China",
                   "use": "تستخدم للإجابة عن سؤال بلد شخص مؤنث. قل هذا عندما تريد أن تقول من أين جاءت امرأة أو بنت.",
-                  "meaning": "Alice is from China",
-                  "translation": "أليس من الصين"
+                  "translation": "هي من الصين"
                 }
               ]
             },
             {
               "id": "lesson_2_2",
-              "title": "Countries",
+              "title": "Countries - الدول",
               "translation": "الدول",
               "definitions": [
                 {
                   "id": "def_47",
-                  "title": "Italy",
-                  "use": "اسم دولة في أوروبا. قل هذا عندما تريد أن تقول 'إيطاليا'.",
+                  "title": "Country: Italy - دولة: إيطاليا",
                   "meaning": "Italy",
+                  "use": "اسم دولة في أوروبا. قل هذا عندما تريد أن تقول 'إيطاليا'.",
                   "translation": "إيطاليا"
                 },
                 {
                   "id": "def_48",
-                  "title": "China",
-                  "use": "اسم دولة في آسيا. قل هذا عندما تريد أن تقول 'الصين'.",
+                  "title": "Country: China - دولة: الصين",
                   "meaning": "China",
+                  "use": "اسم دولة في آسيا. قل هذا عندما تريد أن تقول 'الصين'.",
                   "translation": "الصين"
                 },
                 {
                   "id": "def_49",
-                  "title": "England",
-                  "use": "اسم دولة في أوروبا. قل هذا عندما تريد أن تقول 'إنجلترا'.",
+                  "title": "Country: England - دولة: إنجلترا",
                   "meaning": "England",
+                  "use": "اسم دولة في أوروبا. قل هذا عندما تريد أن تقول 'إنجلترا'.",
                   "translation": "إنجلترا"
                 },
                 {
                   "id": "def_50",
-                  "title": "France",
-                  "use": "اسم دولة في أوروبا. قل هذا عندما تريد أن تقول 'فرنسا'.",
+                  "title": "Country: France - دولة: فرنسا",
                   "meaning": "France",
+                  "use": "اسم دولة في أوروبا. قل هذا عندما تريد أن تقول 'فرنسا'.",
                   "translation": "فرنسا"
                 },
                 {
                   "id": "def_51",
-                  "title": "Egypt",
-                  "use": "اسم دولة في أفريقيا. قل هذا عندما تريد أن تقول 'مصر'.",
+                  "title": "Country: Egypt - دولة: مصر",
                   "meaning": "Egypt",
+                  "use": "اسم دولة في أفريقيا. قل هذا عندما تريد أن تقول 'مصر'.",
                   "translation": "مصر"
                 },
                 {
                   "id": "def_52",
-                  "title": "Brazil",
-                  "use": "اسم دولة في أمريكا الجنوبية. قل هذا عندما تريد أن تقول 'البرازيل'.",
+                  "title": "Country: Brazil - دولة: البرازيل",
                   "meaning": "Brazil",
+                  "use": "اسم دولة في أمريكا الجنوبية. قل هذا عندما تريد أن تقول 'البرازيل'.",
                   "translation": "البرازيل"
                 },
                 {
                   "id": "def_53",
-                  "title": "Canada",
-                  "use": "اسم دولة في أمريكا الشمالية. قل هذا عندما تريد أن تقول 'كندا'.",
+                  "title": "Country: Canada - دولة: كندا",
                   "meaning": "Canada",
+                  "use": "اسم دولة في أمريكا الشمالية. قل هذا عندما تريد أن تقول 'كندا'.",
                   "translation": "كندا"
                 },
                 {
                   "id": "def_54",
-                  "title": "Japan",
-                  "use": "اسم دولة في آسيا. قل هذا عندما تريد أن تقول 'اليابان'.",
+                  "title": "Country: Japan - دولة: اليابان",
                   "meaning": "Japan",
+                  "use": "اسم دولة في آسيا. قل هذا عندما تريد أن تقول 'اليابان'.",
                   "translation": "اليابان"
                 },
                 {
                   "id": "def_55",
-                  "title": "Spain",
-                  "use": "اسم دولة في أوروبا. قل هذا عندما تريد أن تقول 'إسبانيا'.",
+                  "title": "Country: Spain - دولة: إسبانيا",
                   "meaning": "Spain",
+                  "use": "اسم دولة في أوروبا. قل هذا عندما تريد أن تقول 'إسبانيا'.",
                   "translation": "إسبانيا"
                 },
                 {
                   "id": "def_56",
-                  "title": "Turkey",
-                  "use": "اسم دولة بين أوروبا وآسيا. قل هذا عندما تريد أن تقول 'تركيا'.",
+                  "title": "Country: Turkey - دولة: تركيا",
                   "meaning": "Turkey",
+                  "use": "اسم دولة بين أوروبا وآسيا. قل هذا عندما تريد أن تقول 'تركيا'.",
                   "translation": "تركيا"
                 },
                 {
                   "id": "def_57",
-                  "title": "USA",
-                  "use": "اسم دولة في أمريكا الشمالية. قل هذا عندما تريد أن تقول 'أمريكا'.",
+                  "title": "Country: USA - دولة: أمريكا",
                   "meaning": "USA",
+                  "use": "اسم دولة في أمريكا الشمالية. قل هذا عندما تريد أن تقول 'أمريكا'.",
                   "translation": "الولايات المتحدة الأمريكية"
                 }
               ]
             },
             {
               "id": "lesson_2_3",
-              "title": "Numbers 11-30",
+              "title": "Numbers 11-30 - الأرقام 11-30",
               "translation": "الأرقام 11-30",
               "definitions": [
                 {
                   "id": "def_58",
-                  "title": "eleven",
+                  "title": "Number eleven - الرقم أحد عشر",
+                  "meaning": "eleven",
                   "use": "الرقم بعد عشرة. تستخدم لعد الأشياء.",
-                  "meaning": "11",
                   "translation": "أحد عشر"
                 },
                 {
                   "id": "def_59",
-                  "title": "twelve",
+                  "title": "Number twelve - الرقم اثنا عشر",
+                  "meaning": "twelve",
                   "use": "الرقم بعد أحد عشر. تستخدم لعد الأشياء.",
-                  "meaning": "12",
                   "translation": "اثنا عشر"
                 },
                 {
                   "id": "def_60",
-                  "title": "thirteen",
+                  "title": "Number thirteen - الرقم ثلاثة عشر",
+                  "meaning": "thirteen",
                   "use": "الرقم بعد اثنا عشر. تستخدم لعد الأشياء.",
-                  "meaning": "13",
                   "translation": "ثلاثة عشر"
                 },
                 {
                   "id": "def_61",
-                  "title": "fourteen",
+                  "title": "Number fourteen - الرقم أربعة عشر",
+                  "meaning": "fourteen",
                   "use": "الرقم بعد ثلاثة عشر. تستخدم لعد الأشياء.",
-                  "meaning": "14",
                   "translation": "أربعة عشر"
                 },
                 {
                   "id": "def_62",
-                  "title": "fifteen",
+                  "title": "Number fifteen - الرقم خمسة عشر",
+                  "meaning": "fifteen",
                   "use": "الرقم بعد أربعة عشر. تستخدم لعد الأشياء.",
-                  "meaning": "15",
                   "translation": "خمسة عشر"
                 },
                 {
                   "id": "def_63",
-                  "title": "sixteen",
+                  "title": "Number sixteen - الرقم ستة عشر",
+                  "meaning": "sixteen",
                   "use": "الرقم بعد خمسة عشر. تستخدم لعد الأشياء.",
-                  "meaning": "16",
                   "translation": "ستة عشر"
                 },
                 {
                   "id": "def_64",
-                  "title": "seventeen",
+                  "title": "Number seventeen - الرقم سبعة عشر",
+                  "meaning": "seventeen",
                   "use": "الرقم بعد ستة عشر. تستخدم لعد الأشياء.",
-                  "meaning": "17",
                   "translation": "سبعة عشر"
                 },
                 {
                   "id": "def_65",
-                  "title": "eighteen",
+                  "title": "Number eighteen - الرقم ثمانية عشر",
+                  "meaning": "eighteen",
                   "use": "الرقم بعد سبعة عشر. تستخدم لعد الأشياء.",
-                  "meaning": "18",
                   "translation": "ثمانية عشر"
                 },
                 {
                   "id": "def_66",
-                  "title": "nineteen",
+                  "title": "Number nineteen - الرقم تسعة عشر",
+                  "meaning": "nineteen",
                   "use": "الرقم بعد ثمانية عشر. تستخدم لعد الأشياء.",
-                  "meaning": "19",
                   "translation": "تسعة عشر"
                 },
                 {
                   "id": "def_67",
-                  "title": "twenty",
+                  "title": "Number twenty - الرقم عشرون",
+                  "meaning": "twenty",
                   "use": "الرقم بعد تسعة عشر. تستخدم لعد الأشياء.",
-                  "meaning": "20",
                   "translation": "عشرون"
                 },
                 {
                   "id": "def_68",
-                  "title": "twenty-one",
+                  "title": "Number twenty-one - الرقم واحد وعشرون",
+                  "meaning": "twenty-one",
                   "use": "الرقم بعد عشرين. تستخدم لعد الأشياء.",
-                  "meaning": "21",
                   "translation": "واحد وعشرون"
                 },
                 {
                   "id": "def_69",
-                  "title": "twenty-two",
+                  "title": "Number twenty-two - الرقم اثنان وعشرون",
+                  "meaning": "twenty-two",
                   "use": "الرقم بعد واحد وعشرين. تستخدم لعد الأشياء.",
-                  "meaning": "22",
                   "translation": "اثنان وعشرون"
                 },
                 {
                   "id": "def_70",
-                  "title": "thirty",
+                  "title": "Number thirty - الرقم ثلاثون",
+                  "meaning": "thirty",
                   "use": "الرقم بعد تسعة وعشرين. تستخدم لعد الأشياء.",
-                  "meaning": "30",
                   "translation": "ثلاثون"
                 },
                 {
                   "id": "def_71",
-                  "title": "How old are you?",
-                  "use": "تستخدم لسؤال شخص عن عمره. قل هذا عندما تريد معرفة كم عمر شخص ما.",
+                  "title": "Asking about age - السؤال عن العمر",
                   "meaning": "How old are you?",
+                  "use": "تستخدم لسؤال شخص عن عمره. قل هذا عندما تريد معرفة كم عمر شخص ما.",
                   "translation": "كم عمرك؟"
                 },
                 {
                   "id": "def_72",
-                  "title": "I am 25",
-                  "use": "تستخدم للإجابة عندما يسألك شخص عن عمرك. قل هذا لتخبرهم كم عمرك.",
+                  "title": "Answering about age - الإجابة عن العمر",
                   "meaning": "I am twenty-five years old",
+                  "use": "تستخدم للإجابة عندما يسألك شخص عن عمرك. قل هذا لتخبرهم كم عمرك.",
                   "translation": "عمري خمسة وعشرون سنة"
                 }
               ]
             },
             {
               "id": "lesson_2_4",
-              "title": "Reading: A holiday in New York",
+              "title": "Reading: A holiday in New York - قراءة: عطلة في نيويورك",
               "translation": "قراءة: عطلة في نيويورك",
               "definitions": [
                 {
                   "id": "def_73",
-                  "title": "Reading text",
-                  "use": "هذا نص للقراءة. اقرأه لتتعلم كلمات وجمل جديدة عن العائلة والعطلة.",
+                  "title": "Reading passage - نص للقراءة",
                   "meaning": "This is a photo of Michael and Alice from Montreal in Canada. They are on holiday in New York City. Alice is from Canada and Michael is from France. They are married. Alice is an architect. Michael is a doctor.",
+                  "use": "هذا نص للقراءة. اقرأه لتتعلم كلمات وجمل جديدة عن العائلة والعطلة.",
                   "translation": "هذه صورة لمايكل وأليس من مونتريال في كندا. هما في عطلة في مدينة نيويورك. أليس من كندا ومايكل من فرنسا. هما متزوجان. أليس مهندسة معمارية. مايكل طبيب."
                 },
                 {
                   "id": "def_74",
-                  "title": "architect",
-                  "use": "شخص يصمم المباني والمنازل. تستخدم لوصف مهنة شخص ما.",
+                  "title": "Profession: Architect - مهنة: مهندس معماري",
                   "meaning": "architect",
+                  "use": "شخص يصمم المباني والمنازل. تستخدم لوصف مهنة شخص ما.",
                   "translation": "مهندس معماري"
                 },
                 {
                   "id": "def_75",
-                  "title": "doctor",
-                  "use": "شخص يعالج المرضى. تستخدم لوصف مهنة شخص ما.",
+                  "title": "Profession: Doctor - مهنة: طبيب",
                   "meaning": "doctor",
+                  "use": "شخص يعالج المرضى. تستخدم لوصف مهنة شخص ما.",
                   "translation": "طبيب"
                 },
                 {
                   "id": "def_76",
-                  "title": "married",
-                  "use": "تستخدم لوصف شخص لديه زوج أو زوجة. قل هذا عندما تريد أن تقول 'متزوج' أو 'متزوجة'.",
+                  "title": "Marital status: Married - الحالة الاجتماعية: متزوج",
                   "meaning": "married",
+                  "use": "تستخدم لوصف شخص لديه زوج أو زوجة. قل هذا عندما تريد أن تقول 'متزوج' أو 'متزوجة'.",
                   "translation": "متزوج / متزوجة"
                 },
                 {
                   "id": "def_77",
-                  "title": "on holiday",
-                  "use": "تستخدم لوصف شخص يسافر للاسترخاء وليس للعمل. قل هذا عندما تريد أن تقول 'في عطلة'.",
+                  "title": "Vacation phrase - عبارة العطلة",
                   "meaning": "on holiday",
+                  "use": "تستخدم لوصف شخص يسافر للاسترخاء وليس للعمل. قل هذا عندما تريد أن تقول 'في عطلة'.",
                   "translation": "في عطلة"
                 },
                 {
                   "id": "def_78",
-                  "title": "office",
-                  "use": "مكان يعمل فيه الناس على مكاتب. قل هذا عندما تريد أن تقول 'مكتب'.",
+                  "title": "Place: Office - مكان: مكتب",
                   "meaning": "office",
+                  "use": "مكان يعمل فيه الناس على مكاتب. قل هذا عندما تريد أن تقول 'مكتب'.",
                   "translation": "مكتب"
                 },
                 {
                   "id": "def_79",
-                  "title": "hospital",
-                  "use": "مكان يعالج فيه الأطباء المرضى. قل هذا عندما تريد أن تقول 'مستشفى'.",
+                  "title": "Place: Hospital - مكان: مستشفى",
                   "meaning": "hospital",
+                  "use": "مكان يعالج فيه الأطباء المرضى. قل هذا عندما تريد أن تقول 'مستشفى'.",
                   "translation": "مستشفى"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_3",
+          "title": "Unit 3: All about you - كل شيء عنك",
+          "translation": "الوحدة 3: كل شيء عنك",
+          "lessons": [
+            {
+              "id": "lesson_3_1",
+              "title": "Jobs and professions - الوظائف والمهن",
+              "translation": "الوظائف والمهن",
+              "definitions": [
+                {
+                  "id": "def_80",
+                  "title": "Asking about someone's job - السؤال عن وظيفة شخص",
+                  "meaning": "What's his job?",
+                  "use": "تستخدم لسؤال شخص عن وظيفته. قل هذا عندما تريد معرفة ماذا يعمل شخص.",
+                  "translation": "ما وظيفته؟"
+                },
+                {
+                  "id": "def_81",
+                  "title": "Profession: Teacher - مهنة: معلم",
+                  "meaning": "teacher",
+                  "use": "شخص يعلم الطلاب في المدرسة. تستخدم لوصف مهنة شخص ما.",
+                  "translation": "معلم"
+                },
+                {
+                  "id": "def_82",
+                  "title": "Profession: Police officer - مهنة: شرطي",
+                  "meaning": "police officer",
+                  "use": "شخص يحمي الناس ويحافظ على الأمن. تستخدم لوصف مهنة شخص ما.",
+                  "translation": "شرطي"
+                },
+                {
+                  "id": "def_83",
+                  "title": "Profession: Taxi driver - مهنة: سائق تاكسي",
+                  "meaning": "taxi driver",
+                  "use": "شخص يقود سيارة أجرة وينقل الناس. تستخدم لوصف مهنة شخص ما.",
+                  "translation": "سائق تاكسي"
+                },
+                {
+                  "id": "def_84",
+                  "title": "Profession: Builder - مهنة: عامل بناء",
+                  "meaning": "builder",
+                  "use": "شخص يبني المنازل والمباني. تستخدم لوصف مهنة شخص ما.",
+                  "translation": "عامل بناء"
+                },
+                {
+                  "id": "def_85",
+                  "title": "Profession: Receptionist - مهنة: موظف استقبال",
+                  "meaning": "receptionist",
+                  "use": "شخص يستقبل الزوار في فندق أو شركة. تستخدم لوصف مهنة شخص ما.",
+                  "translation": "موظف استقبال"
+                },
+                {
+                  "id": "def_86",
+                  "title": "Profession: Businessman - مهنة: رجل أعمال",
+                  "meaning": "businessman",
+                  "use": "رجل يدير شركة أو يعمل في التجارة. تستخدم لوصف مهنة شخص ما.",
+                  "translation": "رجل أعمال"
+                },
+                {
+                  "id": "def_87",
+                  "title": "Profession: Nurse - مهنة: ممرض",
+                  "meaning": "nurse",
+                  "use": "شخص يعتني بالمرضى في المستشفى. تستخدم لوصف مهنة شخص ما.",
+                  "translation": "ممرض"
+                }
+              ]
+            },
+            {
+              "id": "lesson_3_2",
+              "title": "Negatives with he/she - النفي مع هو/هي",
+              "translation": "النفي مع هو/هي",
+              "definitions": [
+                {
+                  "id": "def_88",
+                  "title": "Negative for masculine - النفي للمذكر",
+                  "meaning": "He isn't a teacher",
+                  "use": "تستخدم لتقول أن شخصاً مذكراً ليس لديه وظيفة معينة. قل هذا عندما تريد نفي شيء عن رجل أو ولد.",
+                  "translation": "هو ليس معلماً"
+                },
+                {
+                  "id": "def_89",
+                  "title": "Negative for feminine - النفي للمؤنث",
+                  "meaning": "She isn't a nurse",
+                  "use": "تستخدم لتقول أن شخصاً مؤنثاً ليس لديها وظيفة معينة. قل هذا عندما تريد نفي شيء عن امرأة أو بنت.",
+                  "translation": "هي ليست ممرضة"
+                }
+              ]
+            },
+            {
+              "id": "lesson_3_3",
+              "title": "Personal information - معلومات شخصية",
+              "translation": "معلومات شخصية",
+              "definitions": [
+                {
+                  "id": "def_90",
+                  "title": "Last name / Surname - اسم العائلة",
+                  "meaning": "surname",
+                  "use": "اسم العائلة الذي تشاركه مع والديك. قل هذا عندما تريد أن تقول 'اسم العائلة'.",
+                  "translation": "اسم العائلة"
+                },
+                {
+                  "id": "def_91",
+                  "title": "First name - الاسم الأول",
+                  "meaning": "first name",
+                  "use": "اسمك الشخصي الذي يعطيك إياه والديك. قل هذا عندما تريد أن تقول 'الاسم الأول'.",
+                  "translation": "الاسم الأول"
+                },
+                {
+                  "id": "def_92",
+                  "title": "Address - العنوان",
+                  "meaning": "address",
+                  "use": "المكان الذي تعيش فيه. قل هذا عندما تريد أن تقول 'العنوان'.",
+                  "translation": "العنوان"
+                },
+                {
+                  "id": "def_93",
+                  "title": "Phone number - رقم الهاتف",
+                  "meaning": "phone number",
+                  "use": "الأرقام التي تتصل بها للوصول إلى شخص. قل هذا عندما تريد أن تقول 'رقم الهاتف'.",
+                  "translation": "رقم الهاتف"
+                },
+                {
+                  "id": "def_94",
+                  "title": "Asking for personal information - السؤال عن معلومات شخصية",
+                  "meaning": "What's his surname?",
+                  "use": "تستخدم لسؤال شخص عن اسم عائلته. قل هذا عندما تريد معرفة اسم عائلة شخص ما.",
+                  "translation": "ما اسم عائلته؟"
+                }
+              ]
+            },
+            {
+              "id": "lesson_3_4",
+              "title": "Reading: We're in Paris! - قراءة: نحن في باريس!",
+              "translation": "قراءة: نحن في باريس!",
+              "definitions": [
+                {
+                  "id": "def_95",
+                  "title": "Football team - فريق كرة قدم",
+                  "meaning": "Scottish Rovers",
+                  "use": "اسم فريق كرة قدم من اسكتلندا. تستخدم للإشارة إلى فريق رياضي.",
+                  "translation": "سكوتيش روفرز"
+                },
+                {
+                  "id": "def_96",
+                  "title": "Final match - المباراة النهائية",
+                  "meaning": "final",
+                  "use": "آخر مباراة في البطولة. تستخدم للإشارة إلى نهاية المسابقة.",
+                  "translation": "النهائي"
+                },
+                {
+                  "id": "def_97",
+                  "title": "Captain - قائد الفريق",
+                  "meaning": "captain",
+                  "use": "الشخص المسؤول عن الفريق. تستخدم لوصف قائد فريق رياضي.",
+                  "translation": "قائد"
+                },
+                {
+                  "id": "def_98",
+                  "title": "Excited - متحمس",
+                  "meaning": "excited",
+                  "use": "تشعر بسعادة كبيرة لشيء سيحدث. تستخدم لوصف شعور شخص قبل حدث سعيد.",
+                  "translation": "متحمس"
+                },
+                {
+                  "id": "def_99",
+                  "title": "Nervous - متوتر",
+                  "meaning": "nervous",
+                  "use": "تشعر بالقلق أو الخوف من شيء. تستخدم لوصف شعور شخص قبل شيء مهم.",
+                  "translation": "متوتر"
+                }
+              ]
+            },
+            {
+              "id": "lesson_3_5",
+              "title": "Everyday English: Social expressions - الإنجليزية اليومية: تعبيرات اجتماعية",
+              "translation": "تعبيرات اجتماعية",
+              "definitions": [
+                {
+                  "id": "def_100",
+                  "title": "Apologizing - الاعتذار",
+                  "meaning": "I'm so sorry",
+                  "use": "تستخدم عندما تريد الاعتذار عن خطأ فعلته. قل هذا لتكون مهذباً.",
+                  "translation": "أنا آسف جداً"
+                },
+                {
+                  "id": "def_101",
+                  "title": "Responding to apology - الرد على الاعتذار",
+                  "meaning": "That's OK",
+                  "use": "تستخدم للرد على شخص اعتذر لك. قل هذا لتقول أن الأمر ليس مشكلة.",
+                  "translation": "لا بأس"
+                },
+                {
+                  "id": "def_102",
+                  "title": "Ordering politely - الطلب بأدب",
+                  "meaning": "A black coffee, please",
+                  "use": "تستخدم عندما تطلب شيئاً بأدب. قل 'من فضلك' في نهاية الطلب.",
+                  "translation": "قهوة سوداء من فضلك"
+                },
+                {
+                  "id": "def_103",
+                  "title": "Expressing gratitude - التعبير عن الامتنان",
+                  "meaning": "Thank you very much",
+                  "use": "تستخدم لشكر شخص بشكل قوي. قل هذا عندما تريد إظهار امتنان كبير.",
+                  "translation": "شكراً جزيلاً"
+                },
+                {
+                  "id": "def_104",
+                  "title": "Asking for help - طلب المساعدة",
+                  "meaning": "Excuse me",
+                  "use": "تستخدم لجذب انتباه شخص قبل أن تسأله سؤالاً. قل هذا عندما تريد أن تكون مهذباً.",
+                  "translation": "لو سمحت / عفواً"
+                },
+                {
+                  "id": "def_105",
+                  "title": "Not knowing something - عدم معرفة شيء",
+                  "meaning": "I don't know",
+                  "use": "تستخدم عندما لا تعرف إجابة سؤال. قل هذا بصراحة عندما لا تعرف شيئاً.",
+                  "translation": "لا أعرف"
+                },
+                {
+                  "id": "def_106",
+                  "title": "Not understanding - عدم الفهم",
+                  "meaning": "I don't understand",
+                  "use": "تستخدم عندما لا تفهم ما يقوله شخص. قل هذا لتطلب التوضيح.",
+                  "translation": "أنا لا أفهم"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_4",
+          "title": "Unit 4: Family and friends - العائلة والأصدقاء",
+          "translation": "الوحدة 4: العائلة والأصدقاء",
+          "lessons": [
+            {
+              "id": "lesson_4_1",
+              "title": "Family members - أفراد العائلة",
+              "translation": "أفراد العائلة",
+              "definitions": [
+                {
+                  "id": "def_107",
+                  "title": "Mother - الأم",
+                  "meaning": "mother",
+                  "use": "والدتك. تستخدم للإشارة إلى أمك.",
+                  "translation": "أم"
+                },
+                {
+                  "id": "def_108",
+                  "title": "Father - الأب",
+                  "meaning": "father",
+                  "use": "والدك. تستخدم للإشارة إلى أبيك.",
+                  "translation": "أب"
+                },
+                {
+                  "id": "def_109",
+                  "title": "Brother - الأخ",
+                  "meaning": "brother",
+                  "use": "أخوك الذكر. تستخدم للإشارة إلى أخيك.",
+                  "translation": "أخ"
+                },
+                {
+                  "id": "def_110",
+                  "title": "Sister - الأخت",
+                  "meaning": "sister",
+                  "use": "أختك الأنثى. تستخدم للإشارة إلى أختك.",
+                  "translation": "أخت"
+                },
+                {
+                  "id": "def_111",
+                  "title": "Son - الابن",
+                  "meaning": "son",
+                  "use": "ابنك الذكر. تستخدم للإشارة إلى ولدك.",
+                  "translation": "ابن"
+                },
+                {
+                  "id": "def_112",
+                  "title": "Daughter - الابنة",
+                  "meaning": "daughter",
+                  "use": "ابنتك الأنثى. تستخدم للإشارة إلى بنتك.",
+                  "translation": "ابنة"
+                },
+                {
+                  "id": "def_113",
+                  "title": "Husband - الزوج",
+                  "meaning": "husband",
+                  "use": "الرجل المتزوج من امرأة. تستخدم للإشارة إلى زوجك.",
+                  "translation": "زوج"
+                },
+                {
+                  "id": "def_114",
+                  "title": "Wife - الزوجة",
+                  "meaning": "wife",
+                  "use": "المرأة المتزوجة من رجل. تستخدم للإشارة إلى زوجتك.",
+                  "translation": "زوجة"
+                },
+                {
+                  "id": "def_115",
+                  "title": "Parents - الوالدان",
+                  "meaning": "parents",
+                  "use": "أمك وأبيك معاً. تستخدم للإشارة إلى كلا الوالدين.",
+                  "translation": "الوالدان"
+                },
+                {
+                  "id": "def_116",
+                  "title": "Children - الأطفال",
+                  "meaning": "children",
+                  "use": "أبناؤك وبناتك. تستخدم للإشارة إلى كل الأولاد.",
+                  "translation": "أطفال"
+                }
+              ]
+            },
+            {
+              "id": "lesson_4_2",
+              "title": "Possessive 's - الملكية",
+              "translation": "الملكية",
+              "definitions": [
+                {
+                  "id": "def_117",
+                  "title": "Showing possession with 's - إظهار الملكية",
+                  "meaning": "Michael's bike",
+                  "use": "تستخدم لتظهر أن شيء ما يملكه شخص. ضع 's بعد اسم المالك.",
+                  "translation": "دراجة مايكل"
+                },
+                {
+                  "id": "def_118",
+                  "title": "Showing possession with 's for a name - الملكية لاسم",
+                  "meaning": "Alice's car",
+                  "use": "تستخدم لتظهر أن السيارة تخص أليس. ضع 's بعد الاسم.",
+                  "translation": "سيارة أليس"
+                }
+              ]
+            },
+            {
+              "id": "lesson_4_3",
+              "title": "Common verbs (1): have, love, like, work - أفعال شائعة",
+              "translation": "أفعال شائعة",
+              "definitions": [
+                {
+                  "id": "def_119",
+                  "title": "Verb: have (I/you/we/they) - فعل: يملك (للمتكلم والمخاطب والجمع)",
+                  "meaning": "I have a car",
+                  "use": "تستخدم لتقول أنك تملك شيئاً. قل هذا عندما تريد أن تقول 'لدي'.",
+                  "translation": "لدي سيارة"
+                },
+                {
+                  "id": "def_120",
+                  "title": "Verb: has (he/she/it) - فعل: يملك (للغائب المفرد)",
+                  "meaning": "Michael has a laptop",
+                  "use": "تستخدم لتقول أن شخصاً آخر يملك شيئاً. قل هذا عندما تتحدث عن مايكل أو أليس.",
+                  "translation": "مايكل لديه حاسوب محمول"
+                },
+                {
+                  "id": "def_121",
+                  "title": "Verb: love - فعل: يحب",
+                  "meaning": "I love coffee",
+                  "use": "تستخدم للتعبير عن حب قوي لشيء. أقوى من 'like'.",
+                  "translation": "أنا أحب القهوة"
+                },
+                {
+                  "id": "def_122",
+                  "title": "Verb: like - فعل: يعجب بـ",
+                  "meaning": "She likes football",
+                  "use": "تستخدم للتعبير عن الإعجاب بشيء. أقل قوة من 'love'.",
+                  "translation": "هي تحب كرة القدم"
+                },
+                {
+                  "id": "def_123",
+                  "title": "Verb: work - فعل: يعمل",
+                  "meaning": "They work in an office",
+                  "use": "تستخدم لتقول أن شخصاً لديه وظيفة. قل هذا عندما تريد أن تقول 'يعمل'.",
+                  "translation": "هم يعملون في مكتب"
+                }
+              ]
+            },
+            {
+              "id": "lesson_4_4",
+              "title": "The alphabet - الحروف الأبجدية",
+              "translation": "الحروف الأبجدية",
+              "definitions": [
+                {
+                  "id": "def_124",
+                  "title": "Letter A - حرف A",
+                  "meaning": "A",
+                  "use": "الحرف الأول في الأبجدية الإنجليزية. تستخدم لتهجئة الكلمات.",
+                  "translation": "أي"
+                },
+                {
+                  "id": "def_125",
+                  "title": "Letter B - حرف B",
+                  "meaning": "B",
+                  "use": "الحرف الثاني في الأبجدية الإنجليزية. تستخدم لتهجئة الكلمات.",
+                  "translation": "بي"
+                },
+                {
+                  "id": "def_126",
+                  "title": "Letter C - حرف C",
+                  "meaning": "C",
+                  "use": "الحرف الثالث في الأبجدية الإنجليزية. تستخدم لتهجئة الكلمات.",
+                  "translation": "سي"
+                },
+                {
+                  "id": "def_127",
+                  "title": "Asking for spelling - السؤال عن التهجئة",
+                  "meaning": "How do you spell your name?",
+                  "use": "تستخدم لسؤال شخص عن كيفية تهجئة اسمه. قل هذا عندما تريد معرفة الحروف بالترتيب.",
+                  "translation": "كيف تتهجى اسمك؟"
+                }
+              ]
+            },
+            {
+              "id": "lesson_4_5",
+              "title": "Everyday English: On the phone - الإنجليزية اليومية: على الهاتف",
+              "translation": "على الهاتف",
+              "definitions": [
+                {
+                  "id": "def_128",
+                  "title": "Answering the phone - الرد على الهاتف",
+                  "meaning": "Good morning. Perez Taxis.",
+                  "use": "تستخدم عندما ترد على الهاتف في العمل. قل اسم الشركة بعد التحية.",
+                  "translation": "صباح الخير. تاكسي بيريز."
+                },
+                {
+                  "id": "def_129",
+                  "title": "Booking a taxi - حجز تاكسي",
+                  "meaning": "Can I book a taxi for 11.15, please?",
+                  "use": "تستخدم لحجز تاكسي عبر الهاتف. قل الوقت الذي تريد التاكسي فيه.",
+                  "translation": "هل يمكنني حجز تاكسي الساعة 11.15 من فضلك؟"
+                },
+                {
+                  "id": "def_130",
+                  "title": "Asking for spelling on phone - السؤال عن التهجئة على الهاتف",
+                  "meaning": "How do you spell your surname?",
+                  "use": "تستخدم على الهاتف للتأكد من اسم الشخص. قل هذا عندما تريد تهجئة الاسم.",
+                  "translation": "كيف تتهجى اسم عائلتك؟"
+                },
+                {
+                  "id": "def_131",
+                  "title": "Email address symbols - رموز البريد الإلكتروني",
+                  "meaning": "@ at",
+                  "use": "تستخدم في عناوين البريد الإلكتروني. تنطق 'أت'.",
+                  "translation": "أت"
+                },
+                {
+                  "id": "def_132",
+                  "title": "Email address dot - نقطة في البريد الإلكتروني",
+                  "meaning": ". dot",
+                  "use": "تستخدم في عناوين البريد الإلكتروني بين الأجزاء. تنطق 'دوت'.",
+                  "translation": "نقطة"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_5",
+          "title": "Unit 5: Things I like! - أشياء أحبها!",
+          "translation": "الوحدة 5: أشياء أحبها!",
+          "lessons": [
+            {
+              "id": "lesson_5_1",
+              "title": "Present Simple positive (I/you/we/they) - المضارع البسيط الإثبات",
+              "translation": "المضارع البسيط الإثبات",
+              "definitions": [
+                {
+                  "id": "def_133",
+                  "title": "I like - أنا أحب",
+                  "meaning": "I like sports",
+                  "use": "تستخدم للتعبير عن شيء تستمتع به. قل هذا عندما تريد أن تقول أنك تحب شيئاً.",
+                  "translation": "أنا أحب الرياضة"
+                },
+                {
+                  "id": "def_134",
+                  "title": "You like - أنت تحب",
+                  "meaning": "You like pizza",
+                  "use": "تستخدم للتحدث عن شيء يحبه الشخص الذي تتحدث معه.",
+                  "translation": "أنت تحب البيتزا"
+                },
+                {
+                  "id": "def_135",
+                  "title": "We like - نحن نحب",
+                  "meaning": "We like music",
+                  "use": "تستخدم للتعبير عن شيء تستمتع به أنت وشخص آخر معاً.",
+                  "translation": "نحن نحب الموسيقى"
+                },
+                {
+                  "id": "def_136",
+                  "title": "They like - هم يحبون",
+                  "meaning": "They like coffee",
+                  "use": "تستخدم للتحدث عن شيء يحبه مجموعة من الناس.",
+                  "translation": "هم يحبون القهوة"
+                }
+              ]
+            },
+            {
+              "id": "lesson_5_2",
+              "title": "Present Simple negative (I/you/we/they) - المضارع البسيط النفي",
+              "translation": "المضارع البسيط النفي",
+              "definitions": [
+                {
+                  "id": "def_137",
+                  "title": "I don't like - أنا لا أحب",
+                  "meaning": "I don't like fish",
+                  "use": "تستخدم للتعبير عن شيء لا تستمتع به. ضع 'don't' قبل الفعل.",
+                  "translation": "أنا لا أحب السمك"
+                },
+                {
+                  "id": "def_138",
+                  "title": "You don't like - أنت لا تحب",
+                  "meaning": "You don't like tea",
+                  "use": "تستخدم لتقول أن الشخص الذي تتحدث معه لا يحب شيئاً.",
+                  "translation": "أنت لا تحب الشاي"
+                }
+              ]
+            },
+            {
+              "id": "lesson_5_3",
+              "title": "Present Simple questions (I/you/we/they) - أسئلة المضارع البسيط",
+              "translation": "أسئلة المضارع البسيط",
+              "definitions": [
+                {
+                  "id": "def_139",
+                  "title": "Asking if someone likes something - السؤال هل يحب شخص شيئاً",
+                  "meaning": "Do you like football?",
+                  "use": "تستخدم لسؤال شخص إذا كان يحب شيئاً. ابدأ السؤال بـ 'Do'.",
+                  "translation": "هل تحب كرة القدم؟"
+                },
+                {
+                  "id": "def_140",
+                  "title": "Short answer yes - إجابة قصيرة بنعم",
+                  "meaning": "Yes, I do",
+                  "use": "تستخدم للإجابة بنعم على سؤال يبدأ بـ 'Do'.",
+                  "translation": "نعم، أحب"
+                },
+                {
+                  "id": "def_141",
+                  "title": "Short answer no - إجابة قصيرة بلا",
+                  "meaning": "No, I don't",
+                  "use": "تستخدم للإجابة بلا على سؤال يبدأ بـ 'Do'.",
+                  "translation": "لا، لا أحب"
+                }
+              ]
+            },
+            {
+              "id": "lesson_5_4",
+              "title": "Vocabulary: Food and drinks - مفردات: الطعام والشراب",
+              "translation": "الطعام والشراب",
+              "definitions": [
+                {
+                  "id": "def_142",
+                  "title": "Pizza - بيتزا",
+                  "meaning": "pizza",
+                  "use": "طعام إيطالي شهير. تستخدم عندما تريد أن تقول 'بيتزا'.",
+                  "translation": "بيتزا"
+                },
+                {
+                  "id": "def_143",
+                  "title": "Coffee - قهوة",
+                  "meaning": "coffee",
+                  "use": "مشروب ساخن. تستخدم عندما تريد أن تقول 'قهوة'.",
+                  "translation": "قهوة"
+                },
+                {
+                  "id": "def_144",
+                  "title": "Tea - شاي",
+                  "meaning": "tea",
+                  "use": "مشروب ساخن من أوراق الشاي. تستخدم عندما تريد أن تقول 'شاي'.",
+                  "translation": "شاي"
+                },
+                {
+                  "id": "def_145",
+                  "title": "Water - ماء",
+                  "meaning": "water",
+                  "use": "سائل للشرب. تستخدم عندما تريد أن تقول 'ماء'.",
+                  "translation": "ماء"
+                }
+              ]
+            },
+            {
+              "id": "lesson_5_5",
+              "title": "Vocabulary: Sports - مفردات: الرياضات",
+              "translation": "الرياضات",
+              "definitions": [
+                {
+                  "id": "def_146",
+                  "title": "Football - كرة القدم",
+                  "meaning": "football",
+                  "use": "رياضة جماعية بالكرة. تستخدم عندما تريد أن تقول 'كرة القدم'.",
+                  "translation": "كرة القدم"
+                },
+                {
+                  "id": "def_147",
+                  "title": "Tennis - كرة المضرب",
+                  "meaning": "tennis",
+                  "use": "رياضة بالمضرب والكرة. تستخدم عندما تريد أن تقول 'تنس'.",
+                  "translation": "تنس"
+                }
+              ]
+            },
+            {
+              "id": "lesson_5_6",
+              "title": "Everyday English: How much is it? - الإنجليزية اليومية: كم سعره؟",
+              "translation": "كم سعره؟",
+              "definitions": [
+                {
+                  "id": "def_148",
+                  "title": "Numbers 30-100 - الأرقام 30-100",
+                  "meaning": "thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred",
+                  "use": "تستخدم لعد الأشياء وللسؤال عن الأسعار.",
+                  "translation": "ثلاثون، أربعون، خمسون، ستون، سبعون، ثمانون، تسعون، مئة"
+                },
+                {
+                  "id": "def_149",
+                  "title": "Asking for price - السؤال عن السعر",
+                  "meaning": "How much is it?",
+                  "use": "تستخدم لسؤال عن ثمن شيء. قل هذا عندما تريد معرفة كم يكلف المنتج.",
+                  "translation": "كم سعره؟"
+                },
+                {
+                  "id": "def_150",
+                  "title": "Pounds and pence - الجنيهات والبنسات",
+                  "meaning": "£2.99 two pounds ninety-nine",
+                  "use": "تستخدم في بريطانيا للتحدث عن الأسعار. الجنيه = pound، البنس = p.",
+                  "translation": "جنان ونصف"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_6",
+          "title": "Unit 6: Every day - كل يوم",
+          "translation": "الوحدة 6: كل يوم",
+          "lessons": [
+            {
+              "id": "lesson_6_1",
+              "title": "Present Simple (he/she) - المضارع البسيط مع هو/هي",
+              "translation": "المضارع البسيط مع هو/هي",
+              "definitions": [
+                {
+                  "id": "def_151",
+                  "title": "He likes - هو يحب",
+                  "meaning": "He likes coffee",
+                  "use": "تستخدم للحديث عن شيء يحبه رجل أو ولد. أضف 's' إلى الفعل.",
+                  "translation": "هو يحب القهوة"
+                },
+                {
+                  "id": "def_152",
+                  "title": "She works - هي تعمل",
+                  "meaning": "She works in a hospital",
+                  "use": "تستخدم للحديث عن وظيفة امرأة أو بنت. أضف 's' إلى الفعل.",
+                  "translation": "هي تعمل في مستشفى"
+                },
+                {
+                  "id": "def_153",
+                  "title": "He goes - هو يذهب",
+                  "meaning": "He goes to work by bus",
+                  "use": "فعل 'go' مع هو يصبح 'goes'. تستخدم للحديث عن الذهاب.",
+                  "translation": "هو يذهب إلى العمل بالحافلة"
+                },
+                {
+                  "id": "def_154",
+                  "title": "She does - هي تفعل",
+                  "meaning": "She does her homework",
+                  "use": "فعل 'do' مع هي يصبح 'does'. تستخدم للحديث عن القيام بشيء.",
+                  "translation": "هي تقوم بواجبها"
+                }
+              ]
+            },
+            {
+              "id": "lesson_6_2",
+              "title": "Adverbs of frequency - ظروف التكرار",
+              "translation": "ظروف التكرار",
+              "definitions": [
+                {
+                  "id": "def_155",
+                  "title": "Always - دائماً",
+                  "meaning": "always",
+                  "use": "تستخدم لوصف شيء يحدث كل مرة. 100% من الوقت.",
+                  "translation": "دائماً"
+                },
+                {
+                  "id": "def_156",
+                  "title": "Sometimes - أحياناً",
+                  "meaning": "sometimes",
+                  "use": "تستخدم لوصف شيء يحدث في بعض الأوقات. حوالي 50% من الوقت.",
+                  "translation": "أحياناً"
+                },
+                {
+                  "id": "def_157",
+                  "title": "Never - أبداً",
+                  "meaning": "never",
+                  "use": "تستخدم لوصف شيء لا يحدث أبداً. 0% من الوقت.",
+                  "translation": "أبداً"
+                },
+                {
+                  "id": "def_158",
+                  "title": "Usually - عادةً",
+                  "meaning": "usually",
+                  "use": "تستخدم لوصف شيء يحدث في معظم الأوقات. حوالي 90% من الوقت.",
+                  "translation": "عادةً"
+                },
+                {
+                  "id": "def_159",
+                  "title": "Often - غالباً",
+                  "meaning": "often",
+                  "use": "تستخدم لوصف شيء يحدث مرات كثيرة. حوالي 70% من الوقت.",
+                  "translation": "غالباً"
+                }
+              ]
+            },
+            {
+              "id": "lesson_6_3",
+              "title": "Telling the time - قراءة الساعة",
+              "translation": "قراءة الساعة",
+              "definitions": [
+                {
+                  "id": "def_160",
+                  "title": "What time is it? - كم الساعة؟",
+                  "meaning": "What time is it?",
+                  "use": "تستخدم لسؤال عن الوقت الحالي.",
+                  "translation": "كم الساعة؟"
+                },
+                {
+                  "id": "def_161",
+                  "title": "O'clock - الساعة بالضبط",
+                  "meaning": "It's three o'clock",
+                  "use": "تستخدم عندما تكون الساعة بالضبط بدون دقائق.",
+                  "translation": "الساعة الثالثة تماماً"
+                },
+                {
+                  "id": "def_162",
+                  "title": "Half past - الساعة والنصف",
+                  "meaning": "It's half past three",
+                  "use": "تستخدم عندما تكون الساعة 30 دقيقة. تعني 3:30.",
+                  "translation": "الساعة الثالثة والنصف"
+                },
+                {
+                  "id": "def_163",
+                  "title": "Quarter past - الساعة والربع",
+                  "meaning": "It's quarter past three",
+                  "use": "تستخدم عندما تكون الساعة 15 دقيقة. تعني 3:15.",
+                  "translation": "الساعة الثالثة والربع"
+                },
+                {
+                  "id": "def_164",
+                  "title": "Quarter to - الساعة إلا ربع",
+                  "meaning": "It's quarter to four",
+                  "use": "تستخدم عندما يبقى 15 دقيقة. تعني 3:45.",
+                  "translation": "الساعة الرابعة إلا ربع"
+                }
+              ]
+            },
+            {
+              "id": "lesson_6_4",
+              "title": "Reading: A day in the life - قراءة: يوم في الحياة",
+              "translation": "قراءة: يوم في الحياة",
+              "definitions": [
+                {
+                  "id": "def_165",
+                  "title": "Dog walker - متمشٍ مع الكلاب",
+                  "meaning": "dog walker",
+                  "use": "شخص يمشي مع الكلاب مقابل المال. تستخدم لوصف مهنة.",
+                  "translation": "متمشٍ مع الكلاب"
+                },
+                {
+                  "id": "def_166",
+                  "title": "Get up - يستيقظ",
+                  "meaning": "get up",
+                  "use": "تستخدم للحديث عن ترك السرير في الصباح.",
+                  "translation": "يستيقظ"
+                },
+                {
+                  "id": "def_167",
+                  "title": "Have breakfast - يتناول الفطور",
+                  "meaning": "have breakfast",
+                  "use": "تستخدم للحديث عن أكل وجبة الصباح.",
+                  "translation": "يتناول الفطور"
+                },
+                {
+                  "id": "def_168",
+                  "title": "Go to bed - يذهب إلى السرير",
+                  "meaning": "go to bed",
+                  "use": "تستخدم للحديث عن الذهاب للنوم في الليل.",
+                  "translation": "يذهب إلى السرير"
+                }
+              ]
+            },
+            {
+              "id": "lesson_6_5",
+              "title": "Days of the week - أيام الأسبوع",
+              "translation": "أيام الأسبوع",
+              "definitions": [
+                {
+                  "id": "def_169",
+                  "title": "Monday - الاثنين",
+                  "meaning": "Monday",
+                  "use": "أول يوم عمل في الأسبوع.",
+                  "translation": "الاثنين"
+                },
+                {
+                  "id": "def_170",
+                  "title": "Tuesday - الثلاثاء",
+                  "meaning": "Tuesday",
+                  "use": "اليوم الثاني من أيام العمل.",
+                  "translation": "الثلاثاء"
+                },
+                {
+                  "id": "def_171",
+                  "title": "Wednesday - الأربعاء",
+                  "meaning": "Wednesday",
+                  "use": "اليوم الثالث من أيام العمل.",
+                  "translation": "الأربعاء"
+                },
+                {
+                  "id": "def_172",
+                  "title": "Thursday - الخميس",
+                  "meaning": "Thursday",
+                  "use": "اليوم الرابع من أيام العمل.",
+                  "translation": "الخميس"
+                },
+                {
+                  "id": "def_173",
+                  "title": "Friday - الجمعة",
+                  "meaning": "Friday",
+                  "use": "آخر يوم عمل في الأسبوع.",
+                  "translation": "الجمعة"
+                },
+                {
+                  "id": "def_174",
+                  "title": "Saturday - السبت",
+                  "meaning": "Saturday",
+                  "use": "أول يوم عطلة نهاية الأسبوع.",
+                  "translation": "السبت"
+                },
+                {
+                  "id": "def_175",
+                  "title": "Sunday - الأحد",
+                  "meaning": "Sunday",
+                  "use": "ثاني يوم عطلة نهاية الأسبوع.",
+                  "translation": "الأحد"
+                }
+              ]
+            },
+            {
+              "id": "lesson_6_6",
+              "title": "Prepositions of time - حروف الجر للوقت",
+              "translation": "حروف الجر للوقت",
+              "definitions": [
+                {
+                  "id": "def_176",
+                  "title": "At for time - تستخدم 'في' للوقت",
+                  "meaning": "at 5 o'clock",
+                  "use": "تستخدم قبل الوقت المحدد. قل 'at' ثم الساعة.",
+                  "translation": "في الساعة الخامسة"
+                },
+                {
+                  "id": "def_177",
+                  "title": "On for days - تستخدم 'في' للأيام",
+                  "meaning": "on Monday",
+                  "use": "تستخدم قبل أيام الأسبوع. قل 'on' ثم اسم اليوم.",
+                  "translation": "يوم الاثنين"
+                },
+                {
+                  "id": "def_178",
+                  "title": "In for morning/afternoon/evening - تستخدم 'في' لأجزاء اليوم",
+                  "meaning": "in the morning",
+                  "use": "تستخدم قبل أجزاء اليوم. قل 'in the' ثم الجزء.",
+                  "translation": "في الصباح"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_7",
+          "title": "Unit 7: Favourite things - الأشياء المفضلة",
+          "translation": "الوحدة 7: الأشياء المفضلة",
+          "lessons": [
+            {
+              "id": "lesson_7_1",
+              "title": "Question words - أدوات الاستفهام",
+              "translation": "أدوات الاستفهام",
+              "definitions": [
+                {
+                  "id": "def_179",
+                  "title": "What - ماذا",
+                  "meaning": "What is your name?",
+                  "use": "تستخدم للسؤال عن شيء أو فكرة. قل هذا عندما تريد معرفة شيء.",
+                  "translation": "ما اسمك؟"
+                },
+                {
+                  "id": "def_180",
+                  "title": "Where - أين",
+                  "meaning": "Where is the station?",
+                  "use": "تستخدم للسؤال عن مكان. قل هذا عندما تريد معرفة موقع شيء.",
+                  "translation": "أين المحطة؟"
+                },
+                {
+                  "id": "def_181",
+                  "title": "Who - من",
+                  "meaning": "Who is that?",
+                  "use": "تستخدم للسؤال عن شخص. قل هذا عندما تريد معرفة هوية شخص.",
+                  "translation": "من هذا؟"
+                },
+                {
+                  "id": "def_182",
+                  "title": "Why - لماذا",
+                  "meaning": "Why are you late?",
+                  "use": "تستخدم للسؤال عن سبب. قل هذا عندما تريد معرفة لماذا حدث شيء.",
+                  "translation": "لماذا تأخرت؟"
+                },
+                {
+                  "id": "def_183",
+                  "title": "When - متى",
+                  "meaning": "When is the party?",
+                  "use": "تستخدم للسؤال عن وقت. قل هذا عندما تريد معرفة زمان حدث.",
+                  "translation": "متى الحفلة؟"
+                },
+                {
+                  "id": "def_184",
+                  "title": "How much - كم الثمن",
+                  "meaning": "How much is this?",
+                  "use": "تستخدم للسؤال عن سعر شيء. قل هذا عندما تريد معرفة كم يكلف.",
+                  "translation": "كم ثمن هذا؟"
+                },
+                {
+                  "id": "def_185",
+                  "title": "How many - كم العدد",
+                  "meaning": "How many books?",
+                  "use": "تستخدم للسؤال عن عدد الأشياء التي يمكن عدها.",
+                  "translation": "كم عدد الكتب؟"
+                }
+              ]
+            },
+            {
+              "id": "lesson_7_2",
+              "title": "Subject, object, possessive pronouns - ضمائر الفاعل والمفعول والملكية",
+              "translation": "الضمائر",
+              "definitions": [
+                {
+                  "id": "def_186",
+                  "title": "Subject pronoun I - ضمير الفاعل: أنا",
+                  "meaning": "I like coffee",
+                  "use": "تستخدم عندما تكون أنت من يقوم بالفعل.",
+                  "translation": "أنا أحب القهوة"
+                },
+                {
+                  "id": "def_187",
+                  "title": "Object pronoun me - ضمير المفعول: ني",
+                  "meaning": "He likes me",
+                  "use": "تستخدم عندما يكون الفعل واقعاً عليك.",
+                  "translation": "هو يحبني"
+                },
+                {
+                  "id": "def_188",
+                  "title": "Possessive pronoun mine - ضمير الملكية: لي",
+                  "meaning": "This book is mine",
+                  "use": "تستخدم لتقول أن الشيء يملكه أنت.",
+                  "translation": "هذا الكتاب لي"
+                },
+                {
+                  "id": "def_189",
+                  "title": "Object pronoun him - ضمير المفعول: ه (لمذكر)",
+                  "meaning": "I know him",
+                  "use": "تستخدم عندما يكون الفعل واقعاً على شخص مذكر.",
+                  "translation": "أنا أعرفه"
+                },
+                {
+                  "id": "def_190",
+                  "title": "Object pronoun her - ضمير المفعول: ها (لمؤنث)",
+                  "meaning": "I know her",
+                  "use": "تستخدم عندما يكون الفعل واقعاً على شخص مؤنث.",
+                  "translation": "أنا أعرفها"
+                },
+                {
+                  "id": "def_191",
+                  "title": "Object pronoun them - ضمير المفعول: هم",
+                  "meaning": "I like them",
+                  "use": "تستخدم عندما يكون الفعل واقعاً على مجموعة من الناس.",
+                  "translation": "أنا أحبهم"
+                }
+              ]
+            },
+            {
+              "id": "lesson_7_3",
+              "title": "This and that - هذا وذاك",
+              "translation": "هذا وذاك",
+              "definitions": [
+                {
+                  "id": "def_192",
+                  "title": "This for near things - 'هذا' للأشياء القريبة",
+                  "meaning": "This is my phone",
+                  "use": "تستخدم للإشارة إلى شيء قريب منك.",
+                  "translation": "هذا هاتفي"
+                },
+                {
+                  "id": "def_193",
+                  "title": "That for far things - 'ذاك' للأشياء البعيدة",
+                  "meaning": "That is your house",
+                  "use": "تستخدم للإشارة إلى شيء بعيد عنك.",
+                  "translation": "ذلك منزلك"
+                }
+              ]
+            },
+            {
+              "id": "lesson_7_4",
+              "title": "Adjectives - الصفات",
+              "translation": "الصفات",
+              "definitions": [
+                {
+                  "id": "def_194",
+                  "title": "Delicious - لذيذ",
+                  "meaning": "delicious",
+                  "use": "تستخدم لوصف طعام طعمه جيد جداً.",
+                  "translation": "لذيذ"
+                },
+                {
+                  "id": "def_195",
+                  "title": "Nice - جميل / لطيف",
+                  "meaning": "nice",
+                  "use": "تستخدم لوصف شخص أو شيء تحبه.",
+                  "translation": "جميل"
+                },
+                {
+                  "id": "def_196",
+                  "title": "Lovely - رائع",
+                  "meaning": "lovely",
+                  "use": "تستخدم لوصف شيء جميل جداً.",
+                  "translation": "رائع"
+                },
+                {
+                  "id": "def_197",
+                  "title": "Happy - سعيد",
+                  "meaning": "happy",
+                  "use": "تستخدم لوصف شعور شخص عندما يكون مرتاحاً ومسروراً.",
+                  "translation": "سعيد"
+                },
+                {
+                  "id": "def_198",
+                  "title": "Interesting - مثير للاهتمام",
+                  "meaning": "interesting",
+                  "use": "تستخدم لوصف شيء يجذب انتباهك.",
+                  "translation": "مثير للاهتمام"
+                },
+                {
+                  "id": "def_199",
+                  "title": "Beautiful - جميل",
+                  "meaning": "beautiful",
+                  "use": "تستخدم لوصف شيء جميل جداً (مناظر، أشخاص).",
+                  "translation": "جميل"
+                },
+                {
+                  "id": "def_200",
+                  "title": "Awful - فظيع",
+                  "meaning": "awful",
+                  "use": "تستخدم لوصف شيء سيء جداً.",
+                  "translation": "فظيع"
+                },
+                {
+                  "id": "def_201",
+                  "title": "Disgusting - مقزز",
+                  "meaning": "disgusting",
+                  "use": "تستخدم لوصف طعم أو رائحة سيئة جداً.",
+                  "translation": "مقزز"
+                },
+                {
+                  "id": "def_202",
+                  "title": "Old - قديم",
+                  "meaning": "old",
+                  "use": "تستخدم لوصف شيء له عمر كبير.",
+                  "translation": "قديم"
+                },
+                {
+                  "id": "def_203",
+                  "title": "New - جديد",
+                  "meaning": "new",
+                  "use": "تستخدم لوصف شيء تم صنعه حديثاً.",
+                  "translation": "جديد"
+                },
+                {
+                  "id": "def_204",
+                  "title": "Expensive - غالي",
+                  "meaning": "expensive",
+                  "use": "تستخدم لوصف شيء سعره عالٍ.",
+                  "translation": "غالي"
+                },
+                {
+                  "id": "def_205",
+                  "title": "Cheap - رخيص",
+                  "meaning": "cheap",
+                  "use": "تستخدم لوصف شيء سعره منخفض.",
+                  "translation": "رخيص"
+                },
+                {
+                  "id": "def_206",
+                  "title": "Big - كبير",
+                  "meaning": "big",
+                  "use": "تستخدم لوصف حجم شيء ضخم.",
+                  "translation": "كبير"
+                },
+                {
+                  "id": "def_207",
+                  "title": "Small - صغير",
+                  "meaning": "small",
+                  "use": "تستخدم لوصف حجم شيء ليس كبيراً.",
+                  "translation": "صغير"
+                },
+                {
+                  "id": "def_208",
+                  "title": "Hot - حار",
+                  "meaning": "hot",
+                  "use": "تستخدم لوصف درجة حرارة عالية.",
+                  "translation": "حار"
+                },
+                {
+                  "id": "def_209",
+                  "title": "Cold - بارد",
+                  "meaning": "cold",
+                  "use": "تستخدم لوصف درجة حرارة منخفضة.",
+                  "translation": "بارد"
+                },
+                {
+                  "id": "def_210",
+                  "title": "Clean - نظيف",
+                  "meaning": "clean",
+                  "use": "تستخدم لوصف شيء ليس متسخاً.",
+                  "translation": "نظيف"
+                },
+                {
+                  "id": "def_211",
+                  "title": "Dirty - متسخ",
+                  "meaning": "dirty",
+                  "use": "تستخدم لوصف شيء غير نظيف.",
+                  "translation": "متسخ"
+                }
+              ]
+            },
+            {
+              "id": "lesson_7_5",
+              "title": "Reading: An email from Dubai - قراءة: بريد إلكتروني من دبي",
+              "translation": "قراءة: بريد إلكتروني من دبي",
+              "definitions": [
+                {
+                  "id": "def_212",
+                  "title": "Holiday email - بريد عطلة",
+                  "meaning": "We are on holiday in Dubai",
+                  "use": "تستخدم لكتابة بريد إلكتروني عن عطلتك.",
+                  "translation": "نحن في عطلة في دبي"
+                },
+                {
+                  "id": "def_213",
+                  "title": "Weather - الطقس",
+                  "meaning": "The weather is hot and sunny",
+                  "use": "تستخدم لوصف حالة الجو.",
+                  "translation": "الطقس حار ومشمس"
+                }
+              ]
+            },
+            {
+              "id": "lesson_7_6",
+              "title": "Everyday English: Can I...? - الإنجليزية اليومية: هل يمكنني...؟",
+              "translation": "هل يمكنني...؟",
+              "definitions": [
+                {
+                  "id": "def_214",
+                  "title": "Asking for permission politely - طلب الإذن بأدب",
+                  "meaning": "Can I have a coffee, please?",
+                  "use": "تستخدم لطلب شيء بأدب في مقهى أو مطعم.",
+                  "translation": "هل يمكنني الحصول على قهوة من فضلك؟"
+                },
+                {
+                  "id": "def_215",
+                  "title": "Asking for directions - طلب الاتجاهات",
+                  "meaning": "Can you tell me the way to the station?",
+                  "use": "تستخدم لسؤال شخص عن كيفية الوصول إلى مكان.",
+                  "translation": "هل يمكنك أن تخبرني الطريق إلى المحطة؟"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_8",
+          "title": "Unit 8: Home sweet home - البيت بيتي",
+          "translation": "الوحدة 8: البيت بيتي",
+          "lessons": [
+            {
+              "id": "lesson_8_1",
+              "title": "There is / There are - هناك / يوجد",
+              "translation": "هناك / يوجد",
+              "definitions": [
+                {
+                  "id": "def_216",
+                  "title": "There is (singular) - يوجد (مفرد)",
+                  "meaning": "There is a sofa in the living room",
+                  "use": "تستخدم للقول أن شيء واحد موجود في مكان. استخدمها مع المفرد.",
+                  "translation": "يوجد أريكة في غرفة المعيشة"
+                },
+                {
+                  "id": "def_217",
+                  "title": "There are (plural) - يوجد (جمع)",
+                  "meaning": "There are two chairs",
+                  "use": "تستخدم للقول أن أكثر من شيء موجود في مكان. استخدمها مع الجمع.",
+                  "translation": "يوجد كرسيان"
+                },
+                {
+                  "id": "def_218",
+                  "title": "Negative form - صيغة النفي",
+                  "meaning": "There isn't a TV",
+                  "use": "تستخدم للقول أن شيء غير موجود. استخدم 'isn't' للمفرد و 'aren't' للجمع.",
+                  "translation": "لا يوجد تلفاز"
+                },
+                {
+                  "id": "def_219",
+                  "title": "Question form - صيغة السؤال",
+                  "meaning": "Is there a table?",
+                  "use": "تستخدم للسؤال عن وجود شيء. ابدأ السؤال بـ 'Is there' أو 'Are there'.",
+                  "translation": "هل توجد طاولة؟"
+                }
+              ]
+            },
+            {
+              "id": "lesson_8_2",
+              "title": "Prepositions of place - حروف الجر للمكان",
+              "translation": "حروف الجر للمكان",
+              "definitions": [
+                {
+                  "id": "def_220",
+                  "title": "In - في داخل",
+                  "meaning": "The book is in the bag",
+                  "use": "تستخدم للقول أن شيء داخل شيء آخر.",
+                  "translation": "الكتاب داخل الحقيبة"
+                },
+                {
+                  "id": "def_221",
+                  "title": "On - على",
+                  "meaning": "The phone is on the table",
+                  "use": "تستخدم للقول أن شيء فوق سطح شيء آخر.",
+                  "translation": "الهاتف على الطاولة"
+                },
+                {
+                  "id": "def_222",
+                  "title": "Under - تحت",
+                  "meaning": "The cat is under the chair",
+                  "use": "تستخدم للقول أن شيء أسفل شيء آخر.",
+                  "translation": "القطة تحت الكرسي"
+                },
+                {
+                  "id": "def_223",
+                  "title": "Next to - بجانب",
+                  "meaning": "The lamp is next to the bed",
+                  "use": "تستخدم للقول أن شيء بجوار شيء آخر.",
+                  "translation": "المصباح بجانب السرير"
+                },
+                {
+                  "id": "def_224",
+                  "title": "Behind - خلف",
+                  "meaning": "The picture is behind the sofa",
+                  "use": "تستخدم للقول أن شيء خلف شيء آخر.",
+                  "translation": "الصورة خلف الأريكة"
+                },
+                {
+                  "id": "def_225",
+                  "title": "In front of - أمام",
+                  "meaning": "The TV is in front of the sofa",
+                  "use": "تستخدم للقول أن شيء أمام شيء آخر.",
+                  "translation": "التلفاز أمام الأريكة"
+                }
+              ]
+            },
+            {
+              "id": "lesson_8_3",
+              "title": "Rooms and furniture - الغرف والأثاث",
+              "translation": "الغرف والأثاث",
+              "definitions": [
+                {
+                  "id": "def_226",
+                  "title": "Living room - غرفة المعيشة",
+                  "meaning": "living room",
+                  "use": "الغرفة التي تجلس فيها لمشاهدة التلفاز أو استقبال الضيوف.",
+                  "translation": "غرفة المعيشة"
+                },
+                {
+                  "id": "def_227",
+                  "title": "Bedroom - غرفة النوم",
+                  "meaning": "bedroom",
+                  "use": "الغرفة التي تنام فيها.",
+                  "translation": "غرفة النوم"
+                },
+                {
+                  "id": "def_228",
+                  "title": "Kitchen - المطبخ",
+                  "meaning": "kitchen",
+                  "use": "الغرفة التي تطبخ فيها الطعام.",
+                  "translation": "المطبخ"
+                },
+                {
+                  "id": "def_229",
+                  "title": "Bathroom - الحمام",
+                  "meaning": "bathroom",
+                  "use": "الغرفة التي تستحم فيها وتغسل يديك.",
+                  "translation": "الحمام"
+                },
+                {
+                  "id": "def_230",
+                  "title": "Sofa - أريكة",
+                  "meaning": "sofa",
+                  "use": "قطعة أثاث تجلس عليها أنت وضيوفك.",
+                  "translation": "أريكة"
+                },
+                {
+                  "id": "def_231",
+                  "title": "Table - طاولة",
+                  "meaning": "table",
+                  "use": "قطعة أثاث مسطحة تضع عليها الأشياء.",
+                  "translation": "طاولة"
+                },
+                {
+                  "id": "def_232",
+                  "title": "Chair - كرسي",
+                  "meaning": "chair",
+                  "use": "قطعة أثاث تجلس عليها وحدك.",
+                  "translation": "كرسي"
+                },
+                {
+                  "id": "def_233",
+                  "title": "Bed - سرير",
+                  "meaning": "bed",
+                  "use": "قطعة أثاث تنام عليها.",
+                  "translation": "سرير"
+                },
+                {
+                  "id": "def_234",
+                  "title": "Fridge - ثلاجة",
+                  "meaning": "fridge",
+                  "use": "جهاز يبقي الطعام بارداً.",
+                  "translation": "ثلاجة"
+                },
+                {
+                  "id": "def_235",
+                  "title": "Lamp - مصباح",
+                  "meaning": "lamp",
+                  "use": "جهاز يعطي ضوءاً في الغرفة.",
+                  "translation": "مصباح"
+                }
+              ]
+            },
+            {
+              "id": "lesson_8_4",
+              "title": "Reading: Two different kitchens - قراءة: مطبخان مختلفان",
+              "translation": "قراءة: مطبخان مختلفان",
+              "definitions": [
+                {
+                  "id": "def_236",
+                  "title": "Modern kitchen - مطبخ حديث",
+                  "meaning": "The kitchen has a new fridge and a cooker",
+                  "use": "تستخدم لوصف مطبخ جديد بأجهزة حديثة.",
+                  "translation": "المطبخ به ثلاجة جديدة وموقد"
+                },
+                {
+                  "id": "def_237",
+                  "title": "Old kitchen - مطبخ قديم",
+                  "meaning": "The kitchen is small and old",
+                  "use": "تستخدم لوصف مطبخ قديم وصغير.",
+                  "translation": "المطبخ صغير وقديم"
+                }
+              ]
+            },
+            {
+              "id": "lesson_8_5",
+              "title": "Everyday English: On the phone again - الإنجليزية اليومية: على الهاتف مرة أخرى",
+              "translation": "على الهاتف مرة أخرى",
+              "definitions": [
+                {
+                  "id": "def_238",
+                  "title": "Booking a hotel room - حجز غرفة في فندق",
+                  "meaning": "Do you have a double room?",
+                  "use": "تستخدم لحجز غرفة في فندق عبر الهاتف.",
+                  "translation": "هل لديك غرفة مزدوجة؟"
+                },
+                {
+                  "id": "def_239",
+                  "title": "Giving email address - إعطاء البريد الإلكتروني",
+                  "meaning": "My email address is michael@email.com",
+                  "use": "تستخدم لإعطاء بريدك الإلكتروني لشخص آخر.",
+                  "translation": "بريدي الإلكتروني هو michael@email.com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_9",
+          "title": "Unit 9: Past times - الأوقات الماضية",
+          "translation": "الوحدة 9: الأوقات الماضية",
+          "lessons": [
+            {
+              "id": "lesson_9_1",
+              "title": "Was / were born - وُلِدَ",
+              "translation": "وُلِدَ",
+              "definitions": [
+                {
+                  "id": "def_240",
+                  "title": "I was born - أنا وُلِدت",
+                  "meaning": "I was born in 1990",
+                  "use": "تستخدم لتقول السنة التي وُلِدت فيها. استخدم 'was born' مع I، he، she، it.",
+                  "translation": "لقد وُلِدت في عام 1990"
+                },
+                {
+                  "id": "def_241",
+                  "title": "They were born - هم وُلِدوا",
+                  "meaning": "They were born in 1995",
+                  "use": "تستخدم لتقول السنة التي وُلِد فيها مجموعة من الناس. استخدم 'were born' مع they، we، you.",
+                  "translation": "لقد وُلِدوا في عام 1995"
+                },
+                {
+                  "id": "def_242",
+                  "title": "Asking about birth - السؤال عن الولادة",
+                  "meaning": "When were you born?",
+                  "use": "تستخدم لسؤال شخص عن سنة ميلاده.",
+                  "translation": "متى وُلِدت؟"
+                }
+              ]
+            },
+            {
+              "id": "lesson_9_2",
+              "title": "Past Simple of to be (was/were) - الماضي البسيط لفعل يكون",
+              "translation": "الماضي البسيط لفعل يكون",
+              "definitions": [
+                {
+                  "id": "def_243",
+                  "title": "I was - أنا كنت",
+                  "meaning": "I was at home yesterday",
+                  "use": "تستخدم للحديث عن مكانك في الماضي.",
+                  "translation": "كنت في المنزل أمس"
+                },
+                {
+                  "id": "def_244",
+                  "title": "She was - هي كانت",
+                  "meaning": "She was happy",
+                  "use": "تستخدم للحديث عن شعور شخص في الماضي.",
+                  "translation": "كانت سعيدة"
+                },
+                {
+                  "id": "def_245",
+                  "title": "They were - هم كانوا",
+                  "meaning": "They were at school",
+                  "use": "تستخدم للحديث عن مكان مجموعة في الماضي.",
+                  "translation": "كانوا في المدرسة"
+                },
+                {
+                  "id": "def_246",
+                  "title": "Negative past of to be - نفي الماضي لفعل يكون",
+                  "meaning": "I wasn't late",
+                  "use": "تستخدم لتقول أن شيئاً لم يحدث في الماضي. استخدم 'wasn't' أو 'weren't'.",
+                  "translation": "لم أتأخر"
+                }
+              ]
+            },
+            {
+              "id": "lesson_9_3",
+              "title": "Past Simple irregular verbs: have, do, go - أفعال ماضية غير منتظمة",
+              "translation": "أفعال ماضية غير منتظمة",
+              "definitions": [
+                {
+                  "id": "def_247",
+                  "title": "Had (past of have) - كان لديه (ماضي have)",
+                  "meaning": "I had breakfast at 8am",
+                  "use": "تستخدم للحديث عن شيء أكلته أو شربته في الماضي.",
+                  "translation": "تناولت الفطور الساعة 8 صباحاً"
+                },
+                {
+                  "id": "def_248",
+                  "title": "Did (past of do) - فعل (ماضي do)",
+                  "meaning": "I did my homework",
+                  "use": "تستخدم للحديث عن شيء قمت به في الماضي.",
+                  "translation": "قمت بواجبي المنزلي"
+                },
+                {
+                  "id": "def_249",
+                  "title": "Went (past of go) - ذهب (ماضي go)",
+                  "meaning": "I went to London",
+                  "use": "تستخدم للحديث عن مكان ذهبت إليه في الماضي.",
+                  "translation": "ذهبت إلى لندن"
+                }
+              ]
+            },
+            {
+              "id": "lesson_9_4",
+              "title": "Years - السنوات",
+              "translation": "السنوات",
+              "definitions": [
+                {
+                  "id": "def_250",
+                  "title": "Saying years - نطق السنوات",
+                  "meaning": "1996 = nineteen ninety-six",
+                  "use": "تنطق السنوات كرقمين. للسنة 1996: تسعة عشر ستة وتسعون.",
+                  "translation": "تسعة عشر ستة وتسعون"
+                },
+                {
+                  "id": "def_251",
+                  "title": "Years 2000 and above - السنوات من 2000 فما فوق",
+                  "meaning": "2005 = two thousand and five",
+                  "use": "للألفية الثانية، تنطق 'two thousand and' ثم الرقم.",
+                  "translation": "ألفان وخمسة"
+                }
+              ]
+            },
+            {
+              "id": "lesson_9_5",
+              "title": "Months of the year - أشهر السنة",
+              "translation": "أشهر السنة",
+              "definitions": [
+                {
+                  "id": "def_252",
+                  "title": "January - يناير",
+                  "meaning": "January",
+                  "use": "الشهر الأول في السنة.",
+                  "translation": "يناير"
+                },
+                {
+                  "id": "def_253",
+                  "title": "February - فبراير",
+                  "meaning": "February",
+                  "use": "الشهر الثاني في السنة.",
+                  "translation": "فبراير"
+                },
+                {
+                  "id": "def_254",
+                  "title": "March - مارس",
+                  "meaning": "March",
+                  "use": "الشهر الثالث في السنة.",
+                  "translation": "مارس"
+                },
+                {
+                  "id": "def_255",
+                  "title": "April - أبريل",
+                  "meaning": "April",
+                  "use": "الشهر الرابع في السنة.",
+                  "translation": "أبريل"
+                },
+                {
+                  "id": "def_256",
+                  "title": "May - مايو",
+                  "meaning": "May",
+                  "use": "الشهر الخامس في السنة.",
+                  "translation": "مايو"
+                },
+                {
+                  "id": "def_257",
+                  "title": "June - يونيو",
+                  "meaning": "June",
+                  "use": "الشهر السادس في السنة.",
+                  "translation": "يونيو"
+                },
+                {
+                  "id": "def_258",
+                  "title": "July - يوليو",
+                  "meaning": "July",
+                  "use": "الشهر السابع في السنة.",
+                  "translation": "يوليو"
+                },
+                {
+                  "id": "def_259",
+                  "title": "August - أغسطس",
+                  "meaning": "August",
+                  "use": "الشهر الثامن في السنة.",
+                  "translation": "أغسطس"
+                },
+                {
+                  "id": "def_260",
+                  "title": "September - سبتمبر",
+                  "meaning": "September",
+                  "use": "الشهر التاسع في السنة.",
+                  "translation": "سبتمبر"
+                },
+                {
+                  "id": "def_261",
+                  "title": "October - أكتوبر",
+                  "meaning": "October",
+                  "use": "الشهر العاشر في السنة.",
+                  "translation": "أكتوبر"
+                },
+                {
+                  "id": "def_262",
+                  "title": "November - نوفمبر",
+                  "meaning": "November",
+                  "use": "الشهر الحادي عشر في السنة.",
+                  "translation": "نوفمبر"
+                },
+                {
+                  "id": "def_263",
+                  "title": "December - ديسمبر",
+                  "meaning": "December",
+                  "use": "الشهر الثاني عشر في السنة.",
+                  "translation": "ديسمبر"
+                }
+              ]
+            },
+            {
+              "id": "lesson_9_6",
+              "title": "Reading: Famous people - قراءة: أشخاص مشهورون",
+              "translation": "قراءة: أشخاص مشهورون",
+              "definitions": [
+                {
+                  "id": "def_264",
+                  "title": "Inventor - مخترع",
+                  "meaning": "He was an inventor",
+                  "use": "شخص يخترع أشياء جديدة. تستخدم لوصف مهنة.",
+                  "translation": "كان مخترعاً"
+                },
+                {
+                  "id": "def_265",
+                  "title": "Singer - مغني",
+                  "meaning": "She was a singer",
+                  "use": "شخص يغني الأغاني. تستخدم لوصف مهنة.",
+                  "translation": "كانت مغنية"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_10",
+          "title": "Unit 10: We had a good time! - قضينا وقتاً جميلاً!",
+          "translation": "الوحدة 10: قضينا وقتاً جميلاً!",
+          "lessons": [
+            {
+              "id": "lesson_10_1",
+              "title": "Past Simple regular verbs - الماضي البسيط لأفعال منتظمة",
+              "translation": "الماضي البسيط لأفعال منتظمة",
+              "definitions": [
+                {
+                  "id": "def_266",
+                  "title": "Add -ed for past - أضف -ed للماضي",
+                  "meaning": "I played football",
+                  "use": "لتكوين الماضي لفعل منتظم، أضف 'ed' إلى نهاية الفعل.",
+                  "translation": "لعبت كرة القدم"
+                },
+                {
+                  "id": "def_267",
+                  "title": "Visited - زار",
+                  "meaning": "She visited London",
+                  "use": "ماضي الفعل visit (يزور). أضف 'ed'.",
+                  "translation": "زارت لندن"
+                },
+                {
+                  "id": "def_268",
+                  "title": "Listened - استمع",
+                  "meaning": "We listened to music",
+                  "use": "ماضي الفعل listen (يستمع). أضف 'ed'.",
+                  "translation": "استمعنا إلى الموسيقى"
+                },
+                {
+                  "id": "def_269",
+                  "title": "Cleaned - نظف",
+                  "meaning": "I cleaned my room",
+                  "use": "ماضي الفعل clean (ينظف). أضف 'ed'.",
+                  "translation": "نظفت غرفتي"
+                }
+              ]
+            },
+            {
+              "id": "lesson_10_2",
+              "title": "Past Simple negative (didn't) - الماضي البسيط النفي",
+              "translation": "الماضي البسيط النفي",
+              "definitions": [
+                {
+                  "id": "def_270",
+                  "title": "Didn't + base verb - لم + الفعل الأساسي",
+                  "meaning": "I didn't watch TV",
+                  "use": "لتكوين النفي في الماضي، استخدم 'didn't' ثم الفعل في المصدر.",
+                  "translation": "لم أشاهد التلفاز"
+                },
+                {
+                  "id": "def_271",
+                  "title": "She didn't go - هي لم تذهب",
+                  "meaning": "She didn't go to the party",
+                  "use": "نفي الماضي للفعل go (يذهب). استخدم 'didn't go'.",
+                  "translation": "لم تذهب إلى الحفلة"
+                }
+              ]
+            },
+            {
+              "id": "lesson_10_3",
+              "title": "Past Simple questions (Did) - أسئلة الماضي البسيط",
+              "translation": "أسئلة الماضي البسيط",
+              "definitions": [
+                {
+                  "id": "def_272",
+                  "title": "Did + subject + base verb - هل + الفاعل + الفعل الأساسي",
+                  "meaning": "Did you see the film?",
+                  "use": "لتكوين سؤال في الماضي، ابدأ بـ 'Did' ثم الفاعل ثم الفعل في المصدر.",
+                  "translation": "هل شاهدت الفيلم؟"
+                },
+                {
+                  "id": "def_273",
+                  "title": "Short answer yes - إجابة قصيرة بنعم",
+                  "meaning": "Yes, I did",
+                  "use": "تستخدم للإجابة بنعم على سؤال في الماضي.",
+                  "translation": "نعم، فعلت"
+                },
+                {
+                  "id": "def_274",
+                  "title": "Short answer no - إجابة قصيرة بلا",
+                  "meaning": "No, I didn't",
+                  "use": "تستخدم للإجابة بلا على سؤال في الماضي.",
+                  "translation": "لا، لم أفعل"
+                }
+              ]
+            },
+            {
+              "id": "lesson_10_4",
+              "title": "Past time expressions - تعبيرات الزمن الماضي",
+              "translation": "تعبيرات الزمن الماضي",
+              "definitions": [
+                {
+                  "id": "def_275",
+                  "title": "Yesterday - أمس",
+                  "meaning": "I went to school yesterday",
+                  "use": "تستخدم للحديث عن اليوم الذي قبل اليوم الحالي.",
+                  "translation": "ذهبت إلى المدرسة أمس"
+                },
+                {
+                  "id": "def_276",
+                  "title": "Last week - الأسبوع الماضي",
+                  "meaning": "We visited Paris last week",
+                  "use": "تستخدم للحديث عن الأسبوع الذي قبل هذا الأسبوع.",
+                  "translation": "زرنا باريس الأسبوع الماضي"
+                },
+                {
+                  "id": "def_277",
+                  "title": "Ago - منذ",
+                  "meaning": "I saw him two days ago",
+                  "use": "تستخدم للحديث عن وقت مضى. توضع بعد المدة الزمنية.",
+                  "translation": "رأيته منذ يومين"
+                },
+                {
+                  "id": "def_278",
+                  "title": "Last year - السنة الماضية",
+                  "meaning": "They got married last year",
+                  "use": "تستخدم للحديث عن السنة التي قبل هذه السنة.",
+                  "translation": "تزوجا السنة الماضية"
+                }
+              ]
+            },
+            {
+              "id": "lesson_10_5",
+              "title": "Vocabulary: Free time activities - مفردات: أنشطة وقت الفراغ",
+              "translation": "أنشطة وقت الفراغ",
+              "definitions": [
+                {
+                  "id": "def_279",
+                  "title": "Shopping - التسوق",
+                  "meaning": "go shopping",
+                  "use": "الذهاب لشراء الأشياء من المتاجر.",
+                  "translation": "يذهب للتسوق"
+                },
+                {
+                  "id": "def_280",
+                  "title": "Swimming - السباحة",
+                  "meaning": "go swimming",
+                  "use": "الذهاب للسباحة في المسبح أو البحر.",
+                  "translation": "يذهب للسباحة"
+                },
+                {
+                  "id": "def_281",
+                  "title": "Cycling - ركوب الدراجة",
+                  "meaning": "go cycling",
+                  "use": "الذهاب لركوب الدراجة.",
+                  "translation": "يركب الدراجة"
+                },
+                {
+                  "id": "def_282",
+                  "title": "Walking - المشي",
+                  "meaning": "go for a walk",
+                  "use": "الذهاب للمشي في الخارج.",
+                  "translation": "يذهب في نزهة"
+                },
+                {
+                  "id": "def_283",
+                  "title": "Reading - القراءة",
+                  "meaning": "read a book",
+                  "use": "قراءة كتاب في وقت الفراغ.",
+                  "translation": "يقرأ كتاباً"
+                },
+                {
+                  "id": "def_284",
+                  "title": "Watching TV - مشاهدة التلفاز",
+                  "meaning": "watch TV",
+                  "use": "مشاهدة البرامج على التلفاز.",
+                  "translation": "يشاهد التلفاز"
+                }
+              ]
+            },
+            {
+              "id": "lesson_10_6",
+              "title": "Reading: A holiday in Scotland - قراءة: عطلة في اسكتلندا",
+              "translation": "قراءة: عطلة في اسكتلندا",
+              "definitions": [
+                {
+                  "id": "def_285",
+                  "title": "Castle - قلعة",
+                  "meaning": "We visited a castle",
+                  "use": "مبنى كبير قديم كان يسكنه الملوك.",
+                  "translation": "زرنا قلعة"
+                },
+                {
+                  "id": "def_286",
+                  "title": "Lake - بحيرة",
+                  "meaning": "We walked by the lake",
+                  "use": "مسطح مائي كبير محاط باليابسة.",
+                  "translation": "مشينا بجانب البحيرة"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_11",
+          "title": "Unit 11: Looking good! - مظهر جميل!",
+          "translation": "الوحدة 11: مظهر جميل!",
+          "lessons": [
+            {
+              "id": "lesson_11_1",
+              "title": "Clothes vocabulary - مفردات الملابس",
+              "translation": "مفردات الملابس",
+              "definitions": [
+                {
+                  "id": "def_287",
+                  "title": "Shirt - قميص",
+                  "meaning": "shirt",
+                  "use": "قطعة ملابس تلبس للرجال أو النساء للجزء العلوي من الجسم.",
+                  "translation": "قميص"
+                },
+                {
+                  "id": "def_288",
+                  "title": "T-shirt - تي شيرت",
+                  "meaning": "T-shirt",
+                  "use": "قميص قصير الأكمام بدون أزرار.",
+                  "translation": "تي شيرت"
+                },
+                {
+                  "id": "def_289",
+                  "title": "Trousers - بنطلون",
+                  "meaning": "trousers",
+                  "use": "قطعة ملابس تلبس للساقين.",
+                  "translation": "بنطلون"
+                },
+                {
+                  "id": "def_290",
+                  "title": "Jeans - جينز",
+                  "meaning": "jeans",
+                  "use": "بنطلون مصنوع من قماش الدنيم.",
+                  "translation": "جينز"
+                },
+                {
+                  "id": "def_291",
+                  "title": "Skirt - تنورة",
+                  "meaning": "skirt",
+                  "use": "قطعة ملابس تلبسها النساء للجزء السفلي.",
+                  "translation": "تنورة"
+                },
+                {
+                  "id": "def_292",
+                  "title": "Dress - فستان",
+                  "meaning": "dress",
+                  "use": "قطعة ملابس واحدة للنساء تغطي الجزء العلوي والسفلي.",
+                  "translation": "فستان"
+                },
+                {
+                  "id": "def_293",
+                  "title": "Jacket - جاكيت",
+                  "meaning": "jacket",
+                  "use": "قطعة ملابس تلبس فوق القميص للدفء.",
+                  "translation": "جاكيت"
+                },
+                {
+                  "id": "def_294",
+                  "title": "Shoes - أحذية",
+                  "meaning": "shoes",
+                  "use": "ملابس تلبس للقدمين.",
+                  "translation": "أحذية"
+                },
+                {
+                  "id": "def_295",
+                  "title": "Trainers - أحذية رياضية",
+                  "meaning": "trainers",
+                  "use": "أحذية مريحة للرياضة والمشي.",
+                  "translation": "أحذية رياضية"
+                }
+              ]
+            },
+            {
+              "id": "lesson_11_2",
+              "title": "Colours - الألوان",
+              "translation": "الألوان",
+              "definitions": [
+                {
+                  "id": "def_296",
+                  "title": "Red - أحمر",
+                  "meaning": "red",
+                  "use": "لون التفاح الناضج والدم.",
+                  "translation": "أحمر"
+                },
+                {
+                  "id": "def_297",
+                  "title": "Blue - أزرق",
+                  "meaning": "blue",
+                  "use": "لون السماء والبحر.",
+                  "translation": "أزرق"
+                },
+                {
+                  "id": "def_298",
+                  "title": "Green - أخضر",
+                  "meaning": "green",
+                  "use": "لون العشب والأشجار.",
+                  "translation": "أخضر"
+                },
+                {
+                  "id": "def_299",
+                  "title": "Yellow - أصفر",
+                  "meaning": "yellow",
+                  "use": "لون الشمس والموز.",
+                  "translation": "أصفر"
+                },
+                {
+                  "id": "def_300",
+                  "title": "Black - أسود",
+                  "meaning": "black",
+                  "use": "لون الليل والفحم.",
+                  "translation": "أسود"
+                },
+                {
+                  "id": "def_301",
+                  "title": "White - أبيض",
+                  "meaning": "white",
+                  "use": "لون الثلج والحليب.",
+                  "translation": "أبيض"
+                },
+                {
+                  "id": "def_302",
+                  "title": "Brown - بني",
+                  "meaning": "brown",
+                  "use": "لون الخشب والقهوة.",
+                  "translation": "بني"
+                },
+                {
+                  "id": "def_303",
+                  "title": "Grey - رمادي",
+                  "meaning": "grey",
+                  "use": "لون السحب الممطرة.",
+                  "translation": "رمادي"
+                }
+              ]
+            },
+            {
+              "id": "lesson_11_3",
+              "title": "Describing clothes - وصف الملابس",
+              "translation": "وصف الملابس",
+              "definitions": [
+                {
+                  "id": "def_304",
+                  "title": "Describing colour - وصف اللون",
+                  "meaning": "a blue shirt",
+                  "use": "ضع اللون قبل اسم القطعة. قل 'blue shirt' وليس 'shirt blue'.",
+                  "translation": "قميص أزرق"
+                },
+                {
+                  "id": "def_305",
+                  "title": "Describing size - وصف الحجم",
+                  "meaning": "a small T-shirt",
+                  "use": "ضع الحجم (small، big) قبل اسم القطعة.",
+                  "translation": "تي شيرت صغير"
+                }
+              ]
+            },
+            {
+              "id": "lesson_11_4",
+              "title": "Present Continuous for now - المضارع المستمر للحاضر",
+              "translation": "المضارع المستمر للحاضر",
+              "definitions": [
+                {
+                  "id": "def_306",
+                  "title": "I am wearing - أنا أرتدي الآن",
+                  "meaning": "I am wearing a red T-shirt",
+                  "use": "تستخدم للحديث عن شيء تلبسه الآن في هذه اللحظة.",
+                  "translation": "أنا أرتدي تي شيرت أحمر"
+                },
+                {
+                  "id": "def_307",
+                  "title": "He is wearing - هو يرتدي الآن",
+                  "meaning": "Michael is wearing jeans",
+                  "use": "تستخدم للحديث عن شيء يلبسه شخص آخر الآن.",
+                  "translation": "مايكل يرتدي جينزاً"
+                },
+                {
+                  "id": "def_308",
+                  "title": "They are wearing - هم يرتدون الآن",
+                  "meaning": "They are wearing suits",
+                  "use": "تستخدم للحديث عن شيء يلبسه مجموعة من الناس الآن.",
+                  "translation": "هم يرتدون بدلات"
+                }
+              ]
+            },
+            {
+              "id": "lesson_11_5",
+              "title": "Reading: What are you wearing? - قراءة: ماذا ترتدي؟",
+              "translation": "قراءة: ماذا ترتدي؟",
+              "definitions": [
+                {
+                  "id": "def_309",
+                  "title": "Fashion - موضة",
+                  "meaning": "I love fashion",
+                  "use": "أسلوب الملابس الشعبي في وقت معين.",
+                  "translation": "أنا أحب الموضة"
+                },
+                {
+                  "id": "def_310",
+                  "title": "Smart - أنيق",
+                  "meaning": "You look smart",
+                  "use": "تستخدم لوصف شخص يلبس ملابس جميلة ورسمية.",
+                  "translation": "تبدو أنيقاً"
+                },
+                {
+                  "id": "def_311",
+                  "title": "Casual - غير رسمي",
+                  "meaning": "I wear casual clothes",
+                  "use": "ملابس مريحة وغير رسمية.",
+                  "translation": "أرتدي ملابس غير رسمية"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_12",
+          "title": "Unit 12: Thank you very much! - شكراً جزيلاً!",
+          "translation": "الوحدة 12: شكراً جزيلاً!",
+          "lessons": [
+            {
+              "id": "lesson_12_1",
+              "title": "Would like - يرغب في",
+              "translation": "يرغب في",
+              "definitions": [
+                {
+                  "id": "def_312",
+                  "title": "I would like - أرغب في",
+                  "meaning": "I would like a coffee",
+                  "use": "تستخدم لطلب شيء بأدب. أقوى من 'want' وأكثر تهذيباً.",
+                  "translation": "أرغب في قهوة"
+                },
+                {
+                  "id": "def_313",
+                  "title": "Would you like? - هل ترغب في؟",
+                  "meaning": "Would you like some cake?",
+                  "use": "تستخدم لعرض شيء على شخص بأدب.",
+                  "translation": "هل ترغب في بعض الكعك؟"
+                },
+                {
+                  "id": "def_314",
+                  "title": "I'd like to + verb - أرغب في أن + فعل",
+                  "meaning": "I'd like to go out",
+                  "use": "تستخدم للتعبير عن رغبة في القيام بفعل معين.",
+                  "translation": "أرغب في الخروج"
+                }
+              ]
+            },
+            {
+              "id": "lesson_12_2",
+              "title": "Some and any - بعض / أي",
+              "translation": "بعض / أي",
+              "definitions": [
+                {
+                  "id": "def_315",
+                  "title": "Some in positives - 'بعض' في الإثبات",
+                  "meaning": "I have some money",
+                  "use": "تستخدم 'some' في الجمل المثبتة للتعبير عن كمية غير محددة.",
+                  "translation": "لدي بعض المال"
+                },
+                {
+                  "id": "def_316",
+                  "title": "Any in negatives - 'أي' في النفي",
+                  "meaning": "I don't have any money",
+                  "use": "تستخدم 'any' في الجمل المنفية والأسئلة.",
+                  "translation": "ليس لدي أي مال"
+                },
+                {
+                  "id": "def_317",
+                  "title": "Any in questions - 'أي' في الأسئلة",
+                  "meaning": "Do you have any questions?",
+                  "use": "تستخدم 'any' في الأسئلة.",
+                  "translation": "هل لديك أي أسئلة؟"
+                }
+              ]
+            },
+            {
+              "id": "lesson_12_3",
+              "title": "Like vs Would like - الفرق بين like و would like",
+              "translation": "الفرق بين like و would like",
+              "definitions": [
+                {
+                  "id": "def_318",
+                  "title": "Like (always) - يحب (عادة مستمرة)",
+                  "meaning": "I like coffee",
+                  "use": "تستخدم للحديث عن شيء تحبه دائماً بشكل عام.",
+                  "translation": "أنا أحب القهوة"
+                },
+                {
+                  "id": "def_319",
+                  "title": "Would like (now) - يرغب (الآن)",
+                  "meaning": "I would like a coffee now",
+                  "use": "تستخدم للحديث عن شيء تريده الآن أو قريباً.",
+                  "translation": "أرغب في قهوة الآن"
+                }
+              ]
+            },
+            {
+              "id": "lesson_12_4",
+              "title": "Vocabulary: Food and drink - مفردات: الطعام والشراب",
+              "translation": "الطعام والشراب",
+              "definitions": [
+                {
+                  "id": "def_320",
+                  "title": "Bread - خبز",
+                  "meaning": "bread",
+                  "use": "طعام يصنع من الدقيق والماء.",
+                  "translation": "خبز"
+                },
+                {
+                  "id": "def_321",
+                  "title": "Cheese - جبن",
+                  "meaning": "cheese",
+                  "use": "منتج ألبان يصنع من الحليب.",
+                  "translation": "جبن"
+                },
+                {
+                  "id": "def_322",
+                  "title": "Ham - لحم خنزير مقدد",
+                  "meaning": "ham",
+                  "use": "لحم من فخذ الخنزير.",
+                  "translation": "لحم خنزير مقدد"
+                },
+                {
+                  "id": "def_323",
+                  "title": "Orange juice - عصير برتقال",
+                  "meaning": "orange juice",
+                  "use": "شراب من عصير البرتقال.",
+                  "translation": "عصير برتقال"
+                }
+              ]
+            },
+            {
+              "id": "lesson_12_5",
+              "title": "Everyday English: Signs - الإنجليزية اليومية: اللافتات",
+              "translation": "اللافتات",
+              "definitions": [
+                {
+                  "id": "def_324",
+                  "title": "Exit - مخرج",
+                  "meaning": "Exit",
+                  "use": "لافتة تشير إلى مكان الخروج من مبنى.",
+                  "translation": "مخرج"
+                },
+                {
+                  "id": "def_325",
+                  "title": "Entrance - مدخل",
+                  "meaning": "Entrance",
+                  "use": "لافتة تشير إلى مكان الدخول إلى مبنى.",
+                  "translation": "مدخل"
+                },
+                {
+                  "id": "def_326",
+                  "title": "Push - ادفع",
+                  "meaning": "Push",
+                  "use": "لافتة على باب يجب دفعه لفتحه.",
+                  "translation": "ادفع"
+                },
+                {
+                  "id": "def_327",
+                  "title": "Pull - اسحب",
+                  "meaning": "Pull",
+                  "use": "لافتة على باب يجب سحبه لفتحه.",
+                  "translation": "اسحب"
+                },
+                {
+                  "id": "def_328",
+                  "title": "No parking - ممنوع الوقوف",
+                  "meaning": "No parking",
+                  "use": "لافتة تمنع ركن السيارة في هذا المكان.",
+                  "translation": "ممنوع الوقوف"
+                },
+                {
+                  "id": "def_329",
+                  "title": "Out of order - معطل",
+                  "meaning": "Out of order",
+                  "use": "لافتة على جهاز لا يعمل.",
+                  "translation": "معطل"
+                },
+                {
+                  "id": "def_330",
+                  "title": "Sale - تخفيضات",
+                  "meaning": "Sale",
+                  "use": "لافتة في متجر تعني أن الأسعار مخفضة.",
+                  "translation": "تخفيضات"
+                }
+              ]
+            },
+            {
+              "id": "lesson_12_6",
+              "title": "Birthday conversations - محادثات عيد الميلاد",
+              "translation": "محادثات عيد الميلاد",
+              "definitions": [
+                {
+                  "id": "def_331",
+                  "title": "Asking about birthday - السؤال عن عيد الميلاد",
+                  "meaning": "When is your birthday?",
+                  "use": "تستخدم لسؤال شخص عن تاريخ ميلاده.",
+                  "translation": "متى عيد ميلادك؟"
+                },
+                {
+                  "id": "def_332",
+                  "title": "Birthday present - هدية عيد ميلاد",
+                  "meaning": "What would you like for your birthday?",
+                  "use": "تستخدم لسؤال شخص عن الهدية التي يريدها في عيد ميلاده.",
+                  "translation": "ماذا ترغب في عيد ميلادك؟"
+                },
+                {
+                  "id": "def_333",
+                  "title": "Birthday wish - تمنيات عيد الميلاد",
+                  "meaning": "Happy birthday!",
+                  "use": "تستخدم لتهنئة شخص في يوم ميلاده.",
+                  "translation": "عيد ميلاد سعيد!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_13",
+          "title": "Unit 13: What's happening now? - ماذا يحدث الآن؟",
+          "translation": "الوحدة 13: ماذا يحدث الآن؟",
+          "lessons": [
+            {
+              "id": "lesson_13_1",
+              "title": "Present Continuous positive - المضارع المستمر الإثبات",
+              "translation": "المضارع المستمر الإثبات",
+              "definitions": [
+                {
+                  "id": "def_334",
+                  "title": "I am + verb-ing - أنا + أفعل الآن",
+                  "meaning": "I am working now",
+                  "use": "تستخدم للحديث عن شيء يحدث الآن في هذه اللحظة.",
+                  "translation": "أنا أعمل الآن"
+                },
+                {
+                  "id": "def_335",
+                  "title": "He is + verb-ing - هو يفعل الآن",
+                  "meaning": "He is sleeping",
+                  "use": "تستخدم للحديث عن شيء يفعله شخص آخر الآن.",
+                  "translation": "هو نائم الآن"
+                },
+                {
+                  "id": "def_336",
+                  "title": "They are + verb-ing - هم يفعلون الآن",
+                  "meaning": "They are playing football",
+                  "use": "تستخدم للحديث عن شيء يفعله مجموعة من الناس الآن.",
+                  "translation": "هم يلعبون كرة القدم الآن"
+                }
+              ]
+            },
+            {
+              "id": "lesson_13_2",
+              "title": "Present Continuous negative - المضارع المستمر النفي",
+              "translation": "المضارع المستمر النفي",
+              "definitions": [
+                {
+                  "id": "def_337",
+                  "title": "I am not + verb-ing - أنا لا أفعل الآن",
+                  "meaning": "I am not watching TV",
+                  "use": "تستخدم لتقول أنك لا تفعل شيئاً الآن.",
+                  "translation": "أنا لا أشاهد التلفاز الآن"
+                },
+                {
+                  "id": "def_338",
+                  "title": "She isn't + verb-ing - هي لا تفعل الآن",
+                  "meaning": "She isn't sleeping",
+                  "use": "تستخدم لتقول أن شخصاً آخر لا يفعل شيئاً الآن.",
+                  "translation": "هي ليست نائمة الآن"
+                }
+              ]
+            },
+            {
+              "id": "lesson_13_3",
+              "title": "Present Continuous questions - أسئلة المضارع المستمر",
+              "translation": "أسئلة المضارع المستمر",
+              "definitions": [
+                {
+                  "id": "def_339",
+                  "title": "Are you + verb-ing? - هل أنت تفعل الآن؟",
+                  "meaning": "Are you listening?",
+                  "use": "تستخدم لسؤال شخص إذا كان يفعل شيئاً الآن.",
+                  "translation": "هل تستمع الآن؟"
+                },
+                {
+                  "id": "def_340",
+                  "title": "Is he + verb-ing? - هل هو يفعل الآن؟",
+                  "meaning": "Is he coming?",
+                  "use": "تستخدم لسؤال إذا كان شخص آخر يفعل شيئاً الآن.",
+                  "translation": "هل هو قادم الآن؟"
+                }
+              ]
+            },
+            {
+              "id": "lesson_13_4",
+              "title": "Present Simple vs Present Continuous - المضارع البسيط مقابل المستمر",
+              "translation": "المضارع البسيط مقابل المستمر",
+              "definitions": [
+                {
+                  "id": "def_341",
+                  "title": "Present Simple for habits - المضارع البسيط للعادة",
+                  "meaning": "I usually wear jeans",
+                  "use": "تستخدم للحديث عن عادات وأشياء تحدث دائماً.",
+                  "translation": "أنا عادة أرتدي جينز"
+                },
+                {
+                  "id": "def_342",
+                  "title": "Present Continuous for now - المضارع المستمر للحظة الحالية",
+                  "meaning": "Today I am wearing a suit",
+                  "use": "تستخدم للحديث عن شيء مختلف يحدث الآن فقط.",
+                  "translation": "اليوم أنا أرتدي بدلة"
+                }
+              ]
+            },
+            {
+              "id": "lesson_13_5",
+              "title": "Opposite verbs - أفعال متضادة",
+              "translation": "أفعال متضادة",
+              "definitions": [
+                {
+                  "id": "def_343",
+                  "title": "Ask / Answer - يسأل / يجيب",
+                  "meaning": "ask - answer",
+                  "use": "ask = تطرح سؤالاً، answer = ترد على السؤال.",
+                  "translation": "يسأل - يجيب"
+                },
+                {
+                  "id": "def_344",
+                  "title": "Buy / Sell - يشتري / يبيع",
+                  "meaning": "buy - sell",
+                  "use": "buy = تحصل على شيء مقابل مال، sell = تعطي شيئاً مقابل مال.",
+                  "translation": "يشتري - يبيع"
+                },
+                {
+                  "id": "def_345",
+                  "title": "Love / Hate - يحب / يكره",
+                  "meaning": "love - hate",
+                  "use": "love = تحب شيئاً كثيراً، hate = لا تحب شيئاً أبداً.",
+                  "translation": "يحب - يكره"
+                },
+                {
+                  "id": "def_346",
+                  "title": "Start / Finish - يبدأ / ينهي",
+                  "meaning": "start - finish",
+                  "use": "start = يبدأ شيء، finish = ينهي شيء.",
+                  "translation": "يبدأ - ينهي"
+                },
+                {
+                  "id": "def_347",
+                  "title": "Put on / Take off - يرتدي / يخلع",
+                  "meaning": "put on - take off",
+                  "use": "put on = يلبس قطعة ملابس، take off = يخلع قطعة ملابس.",
+                  "translation": "يرتدي - يخلع"
+                },
+                {
+                  "id": "def_348",
+                  "title": "Remember / Forget - يتذكر / ينسى",
+                  "meaning": "remember - forget",
+                  "use": "remember = يبقى شيء في ذاكرتك، forget = يخرج شيء من ذاكرتك.",
+                  "translation": "يتذكر - ينسى"
+                }
+              ]
+            },
+            {
+              "id": "lesson_13_6",
+              "title": "Everyday English: What's the matter? - الإنجليزية اليومية: ما المشكلة؟",
+              "translation": "ما المشكلة؟",
+              "definitions": [
+                {
+                  "id": "def_349",
+                  "title": "Asking about a problem - السؤال عن مشكلة",
+                  "meaning": "What's the matter?",
+                  "use": "تستخدم لسؤال شخص عن مشكلته أو ما يزعجه.",
+                  "translation": "ما المشكلة؟"
+                },
+                {
+                  "id": "def_350",
+                  "title": "I'm tired - أنا متعب",
+                  "meaning": "I'm tired",
+                  "use": "تستخدم لتقول أنك تشعر بالتعب وتحتاج للراحة.",
+                  "translation": "أنا متعب"
+                },
+                {
+                  "id": "def_351",
+                  "title": "I'm hungry - أنا جائع",
+                  "meaning": "I'm hungry",
+                  "use": "تستخدم لتقول أنك تريد الطعام.",
+                  "translation": "أنا جائع"
+                },
+                {
+                  "id": "def_352",
+                  "title": "I'm thirsty - أنا عطشان",
+                  "meaning": "I'm thirsty",
+                  "use": "تستخدم لتقول أنك تريد الشراب.",
+                  "translation": "أنا عطشان"
+                },
+                {
+                  "id": "def_353",
+                  "title": "I'm cold - أنا أشعر بالبرد",
+                  "meaning": "I'm cold",
+                  "use": "تستخدم لتقول أن درجة الحرارة منخفضة وتشعر بالبرد.",
+                  "translation": "أنا أشعر بالبرد"
+                },
+                {
+                  "id": "def_354",
+                  "title": "I'm hot - أنا أشعر بالحر",
+                  "meaning": "I'm hot",
+                  "use": "تستخدم لتقول أن درجة الحرارة مرتفعة وتشعر بالحر.",
+                  "translation": "أنا أشعر بالحر"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unit_14",
+          "title": "Unit 14: Let's go! - لنذهب!",
+          "translation": "الوحدة 14: لنذهب!",
+          "lessons": [
+            {
+              "id": "lesson_14_1",
+              "title": "Future plans with going to - خطط مستقبلية مع going to",
+              "translation": "خطط مستقبلية مع going to",
+              "definitions": [
+                {
+                  "id": "def_355",
+                  "title": "I am going to - سأفعل (خططت له)",
+                  "meaning": "I am going to travel",
+                  "use": "تستخدم للحديث عن شيء خططت لفعله في المستقبل.",
+                  "translation": "سأسافر (خططت لذلك)"
+                },
+                {
+                  "id": "def_356",
+                  "title": "He is going to - هو سيفعل",
+                  "meaning": "He is going to study",
+                  "use": "تستخدم للحديث عن شيء خطط له شخص آخر في المستقبل.",
+                  "translation": "هو سيدرس"
+                },
+                {
+                  "id": "def_357",
+                  "title": "Future plans negative - نفي الخطط المستقبلية",
+                  "meaning": "I am not going to stay at home",
+                  "use": "تستخدم لتقول أنك لن تفعل شيئاً في المستقبل.",
+                  "translation": "لن أبقى في المنزل"
+                },
+                {
+                  "id": "def_358",
+                  "title": "Future plans question - سؤال عن الخطط المستقبلية",
+                  "meaning": "What are you going to do?",
+                  "use": "تستخدم لسؤال شخص عن خططه المستقبلية.",
+                  "translation": "ماذا ستفعل؟"
+                }
+              ]
+            },
+            {
+              "id": "lesson_14_2",
+              "title": "Present Continuous for future - المضارع المستمر للمستقبل",
+              "translation": "المضارع المستمر للمستقبل",
+              "definitions": [
+                {
+                  "id": "def_359",
+                  "title": "I am leaving tomorrow - سأغادر غداً (حجزت بالفعل)",
+                  "meaning": "I am leaving tomorrow",
+                  "use": "تستخدم للحديث عن خطط مستقبلية مؤكدة ومُرتبة بالفعل.",
+                  "translation": "سأغادر غداً (مرتب بالفعل)"
+                },
+                {
+                  "id": "def_360",
+                  "title": "We are staying at a hotel - سنسكن في فندق (حجزناه)",
+                  "meaning": "We are staying at a hotel",
+                  "use": "تستخدم للحديث عن ترتيبات سفر مؤكدة.",
+                  "translation": "سنسكن في فندق"
+                }
+              ]
+            },
+            {
+              "id": "lesson_14_3",
+              "title": "Holiday vocabulary - مفردات العطلة",
+              "translation": "مفردات العطلة",
+              "definitions": [
+                {
+                  "id": "def_361",
+                  "title": "Airport - مطار",
+                  "meaning": "airport",
+                  "use": "مكان تسافر منه بالطائرة.",
+                  "translation": "مطار"
+                },
+                {
+                  "id": "def_362",
+                  "title": "Flight - رحلة طيران",
+                  "meaning": "flight",
+                  "use": "السفر بالطائرة من مكان إلى آخر.",
+                  "translation": "رحلة طيران"
+                },
+                {
+                  "id": "def_363",
+                  "title": "Hotel - فندق",
+                  "meaning": "hotel",
+                  "use": "مكان تبيت فيه عندما تسافر.",
+                  "translation": "فندق"
+                },
+                {
+                  "id": "def_364",
+                  "title": "Suitcase - حقيبة سفر",
+                  "meaning": "suitcase",
+                  "use": "حقيبة تحمل فيها ملابسك عندما تسافر.",
+                  "translation": "حقيبة سفر"
+                },
+                {
+                  "id": "def_365",
+                  "title": "Passport - جواز سفر",
+                  "meaning": "passport",
+                  "use": "وثيقة رسمية تثبت هويتك للسفر.",
+                  "translation": "جواز سفر"
+                },
+                {
+                  "id": "def_366",
+                  "title": "Ticket - تذكرة",
+                  "meaning": "ticket",
+                  "use": "ورقة تثبت أنك دفعت للسفر أو لدخول مكان.",
+                  "translation": "تذكرة"
+                }
+              ]
+            },
+            {
+              "id": "lesson_14_4",
+              "title": "Transport vocabulary - مفردات المواصلات",
+              "translation": "مفردات المواصلات",
+              "definitions": [
+                {
+                  "id": "def_367",
+                  "title": "Train - قطار",
+                  "meaning": "train",
+                  "use": "وسيلة نقل تسير على قضبان حديدية.",
+                  "translation": "قطار"
+                },
+                {
+                  "id": "def_368",
+                  "title": "Bus - حافلة",
+                  "meaning": "bus",
+                  "use": "وسيلة نقل كبيرة تسير على الطرق.",
+                  "translation": "حافلة"
+                },
+                {
+                  "id": "def_369",
+                  "title": "Car - سيارة",
+                  "meaning": "car",
+                  "use": "وسيلة نقل صغيرة لأربعة أو خمسة أشخاص.",
+                  "translation": "سيارة"
+                },
+                {
+                  "id": "def_370",
+                  "title": "Plane - طائرة",
+                  "meaning": "plane",
+                  "use": "وسيلة نقل تطير في الهواء.",
+                  "translation": "طائرة"
+                },
+                {
+                  "id": "def_371",
+                  "title": "Boat - قارب",
+                  "meaning": "boat",
+                  "use": "وسيلة نقل تسير على الماء.",
+                  "translation": "قارب"
+                }
+              ]
+            },
+            {
+              "id": "lesson_14_5",
+              "title": "Reading: Holiday plans - قراءة: خطط العطلة",
+              "translation": "قراءة: خطط العطلة",
+              "definitions": [
+                {
+                  "id": "def_372",
+                  "title": "Travel plans - خطط السفر",
+                  "meaning": "We are going to visit Spain",
+                  "use": "تستخدم للحديث عن خطط السفر في المستقبل.",
+                  "translation": "سنزور إسبانيا"
+                },
+                {
+                  "id": "def_373",
+                  "title": "Sightseeing - مشاهدة المعالم",
+                  "meaning": "We are going sightseeing",
+                  "use": "زيارة الأماكن الجميلة والمشهورة في مدينة ما.",
+                  "translation": "سنذهب لمشاهدة المعالم"
+                }
+              ]
+            },
+            {
+              "id": "lesson_14_6",
+              "title": "Grammar revision - مراجعة القواعد",
+              "translation": "مراجعة القواعد",
+              "definitions": [
+                {
+                  "id": "def_374",
+                  "title": "Tenses review - مراجعة الأزمنة",
+                  "meaning": "Present Simple, Present Continuous, Past Simple, Future",
+                  "use": "مراجعة سريعة للأزمنة التي تعلمتها في الكتاب.",
+                  "translation": "المضارع البسيط، المضارع المستمر، الماضي البسيط، المستقبل"
                 }
               ]
             }
