@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-18T21:35:44.241Z",
+  "lastUpdated": "2026-04-18T21:36:03.629Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-18T21:35:44.241Z",
-      "totalCorrect": 33,
-      "totalAttempts": 46,
+      "lastActive": "2026-04-18T21:36:03.629Z",
+      "totalCorrect": 34,
+      "totalAttempts": 47,
       "dailyRecords": {
         "4/17/2026": [
           {
@@ -426,6 +426,15 @@
             "time": "00:35",
             "grade": "excellent",
             "userAttempt": "good thank you"
+          },
+          {
+            "title": "And you?",
+            "meaning": "And you?",
+            "isCorrect": true,
+            "timestamp": 1776548163159,
+            "time": "00:36",
+            "grade": "excellent",
+            "userAttempt": "and you"
           }
         ]
       },
