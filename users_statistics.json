@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-18T20:41:58.945Z",
+  "lastUpdated": "2026-04-18T20:42:08.938Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-18T20:41:58.945Z",
-      "totalCorrect": 22,
-      "totalAttempts": 29,
+      "lastActive": "2026-04-18T20:42:08.938Z",
+      "totalCorrect": 23,
+      "totalAttempts": 30,
       "dailyRecords": {
         "4/17/2026": [
           {
@@ -269,6 +269,15 @@
             "isCorrect": true,
             "timestamp": 1776544918538,
             "time": "23:41",
+            "grade": "good",
+            "userAttempt": "I am a teacher"
+          },
+          {
+            "title": "I am / I'm",
+            "meaning": "I'm a teacher.",
+            "isCorrect": true,
+            "timestamp": 1776544928436,
+            "time": "23:42",
             "grade": "good",
             "userAttempt": "I am a teacher"
           }
