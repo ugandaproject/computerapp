@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-18T21:34:04.076Z",
+  "lastUpdated": "2026-04-18T21:34:22.546Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-18T21:34:04.076Z",
-      "totalCorrect": 29,
-      "totalAttempts": 40,
+      "lastActive": "2026-04-18T21:34:22.546Z",
+      "totalCorrect": 30,
+      "totalAttempts": 41,
       "dailyRecords": {
         "4/17/2026": [
           {
@@ -372,6 +372,15 @@
             "time": "00:34",
             "grade": "excellent",
             "userAttempt": "my name is Alice"
+          },
+          {
+            "title": "This is",
+            "meaning": "This is my friend Michael",
+            "isCorrect": true,
+            "timestamp": 1776548061978,
+            "time": "00:34",
+            "grade": "excellent",
+            "userAttempt": "this is my friend Michael"
           }
         ]
       },
