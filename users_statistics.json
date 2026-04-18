@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-18T23:14:47.423Z",
+  "lastUpdated": "2026-04-18T23:15:02.051Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-18T23:14:47.423Z",
-      "totalCorrect": 38,
-      "totalAttempts": 52,
+      "lastActive": "2026-04-18T23:15:02.051Z",
+      "totalCorrect": 39,
+      "totalAttempts": 53,
       "dailyRecords": {
         "4/17/2026": [
           {
@@ -464,7 +464,7 @@
             "userAttempt": "Italy"
           },
           {
-            "title": "Asking about someone's job - Ø§ÙØ³Ø¤Ø§Ù Ø¹Ù ÙØ¸ÙÙØ© Ø´Ø®Øµ",
+            "title": "Asking about someone's job - ÃÂ§ÃÂÃÂ³ÃÂ¤ÃÂ§ÃÂ ÃÂ¹ÃÂ ÃÂÃÂ¸ÃÂÃÂÃÂ© ÃÂ´ÃÂ®ÃÂµ",
             "meaning": "What's his job?",
             "isCorrect": false,
             "timestamp": 1776554070040,
@@ -473,13 +473,22 @@
             "userAttempt": "is his job"
           },
           {
-            "title": "Asking about someone's job - السؤال عن وظيفة شخص",
+            "title": "Asking about someone's job - Ø§ÙØ³Ø¤Ø§Ù Ø¹Ù ÙØ¸ÙÙØ© Ø´Ø®Øµ",
             "meaning": "What's his job?",
             "isCorrect": true,
             "timestamp": 1776554086832,
             "time": "02:14",
             "grade": "excellent",
             "userAttempt": "what's his job"
+          },
+          {
+            "title": "Profession: Teacher - مهنة: معلم",
+            "meaning": "teacher",
+            "isCorrect": true,
+            "timestamp": 1776554101578,
+            "time": "02:15",
+            "grade": "excellent",
+            "userAttempt": "teacher"
           }
         ]
       },
