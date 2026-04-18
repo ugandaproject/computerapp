@@ -20,172 +20,303 @@
                 {
                   "id": "def_1",
                   "title": "I am / I'm",
+                  "use": "تستخدم لتعريف نفسك. قل هذا عندما تريد أن تقول من أنت.",
                   "meaning": "I am Michael",
                   "translation": "أنا مايكل"
                 },
                 {
                   "id": "def_2",
                   "title": "What's your name?",
+                  "use": "تستخدم لسؤال شخص عن اسمه. قل هذا عندما تريد معرفة اسم شخص آخر.",
                   "meaning": "What is your name?",
                   "translation": "ما اسمك؟"
                 },
                 {
                   "id": "def_3",
                   "title": "My name's",
+                  "use": "تستخدم لتعريف نفسك باسمك. قل هذا بعد أن يسألك شخص 'ما اسمك؟'",
                   "meaning": "My name is Alice",
                   "translation": "اسمي أليس"
                 },
                 {
                   "id": "def_4",
                   "title": "This is",
-                  "meaning": "This is my friend Michael",
-                  "translation": "هذا صديقي مايكل"
+                  "use": "تستخدم لتقديم شخص لشخص آخر. قل هذا عندما تريد تعريف صديقك بصديق آخر.",
+                  "meaning": "This is Michael",
+                  "translation": "هذا مايكل"
                 },
                 {
                   "id": "def_5",
                   "title": "Nice to meet you",
-                  "meaning": "Happy to know you",
+                  "use": "تستخدم عندما تقابل شخصاً لأول مرة. قل هذا لتكون مهذباً ومحترماً.",
+                  "meaning": "Nice to meet you",
                   "translation": "تشرفت بمقابلتك"
                 },
                 {
                   "id": "def_6",
-                  "title": "How are you?",
-                  "meaning": "How do you feel?",
-                  "translation": "كيف حالك؟"
-                },
-                {
-                  "id": "def_7",
-                  "title": "Fine, thanks",
-                  "meaning": "Good, thank you",
-                  "translation": "بخير، شكراً"
-                },
-                {
-                  "id": "def_8",
-                  "title": "And you?",
-                  "meaning": "And you?",
-                  "translation": "وأنت؟"
-                },
-                {
-                  "id": "def_9",
-                  "title": "I'm OK",
-                  "meaning": "I am fine",
-                  "translation": "أنا بخير"
-                },
-                {
-                  "id": "def_10",
-                  "title": "Good morning",
-                  "meaning": "Hello in the morning",
-                  "translation": "صباح الخير"
-                },
-                {
-                  "id": "def_11",
-                  "title": "Hello",
-                  "meaning": "Hi, I'm Alice",
-                  "translation": "مرحباً، أنا أليس"
+                  "title": "Nice to meet you too",
+                  "use": "تستخدم للرد على شخص قال لك 'Nice to meet you'. قل هذا لإظهار أنك تشعر بنفس الشعور.",
+                  "meaning": "Nice to meet you too",
+                  "translation": "وأنا أيضاً"
                 }
               ]
             },
             {
               "id": "lesson_1_2",
-              "title": "Everyday objects",
-              "translation": "أشياء يومية",
+              "title": "How are you?",
+              "translation": "كيف حالك؟",
               "definitions": [
                 {
+                  "id": "def_7",
+                  "title": "How are you?",
+                  "use": "تستخدم لسؤال شخص عن حاله ومشاعره. قل هذا عندما تريد التحية والسؤال عن الأخبار.",
+                  "meaning": "How are you?",
+                  "translation": "كيف حالك؟"
+                },
+                {
+                  "id": "def_8",
+                  "title": "I'm fine",
+                  "use": "تستخدم للرد عندما يسألك شخص 'How are you؟'. قل هذا عندما تكون بخير.",
+                  "meaning": "I am fine",
+                  "translation": "أنا بخير"
+                },
+                {
+                  "id": "def_9",
+                  "title": "Thanks",
+                  "use": "تستخدم لشكر شخص على شيء فعله من أجلك. قل هذا عندما تريد إظهار الامتنان.",
+                  "meaning": "Thank you",
+                  "translation": "شكراً"
+                },
+                {
+                  "id": "def_10",
+                  "title": "And you?",
+                  "use": "تستخدم لسؤال الشخص الآخر عن حاله بعد أن أجبت أنت. قل هذا لإظهار الاهتمام بالشخص الآخر.",
+                  "meaning": "And you?",
+                  "translation": "وأنت؟"
+                },
+                {
+                  "id": "def_11",
+                  "title": "I'm OK",
+                  "use": "تستخدم للرد عندما يسألك شخص 'How are you؟'. قل هذا عندما تكون بخير ولكن ليس ممتازاً.",
+                  "meaning": "I am OK",
+                  "translation": "أنا بخير"
+                },
+                {
                   "id": "def_12",
-                  "title": "What's this in English?",
-                  "meaning": "How do you say this?",
-                  "translation": "ماذا يسمى هذا بالإنجليزية؟"
+                  "title": "Good morning",
+                  "use": "تستخدم لتحية شخص في الصباح من الفجر حتى الظهر. قل هذا عندما تريد أن تكون مهذباً في الصباح.",
+                  "meaning": "Good morning",
+                  "translation": "صباح الخير"
                 },
                 {
                   "id": "def_13",
-                  "title": "a book",
-                  "meaning": "one book",
-                  "translation": "كتاب"
-                },
-                {
-                  "id": "def_14",
-                  "title": "an apple",
-                  "meaning": "one apple",
-                  "translation": "تفاحة"
-                },
-                {
-                  "id": "def_15",
-                  "title": "a phone",
-                  "meaning": "one phone",
-                  "translation": "هاتف"
-                },
-                {
-                  "id": "def_16",
-                  "title": "a bag",
-                  "meaning": "one bag",
-                  "translation": "حقيبة"
-                },
-                {
-                  "id": "def_17",
-                  "title": "a watch",
-                  "meaning": "one watch",
-                  "translation": "ساعة يد"
-                },
-                {
-                  "id": "def_18",
-                  "title": "a house",
-                  "meaning": "one house",
-                  "translation": "منزل"
-                },
-                {
-                  "id": "def_19",
-                  "title": "a bike",
-                  "meaning": "one bicycle",
-                  "translation": "دراجة"
-                },
-                {
-                  "id": "def_20",
-                  "title": "Plurals",
-                  "meaning": "two or more",
-                  "translation": "الجمع"
-                },
-                {
-                  "id": "def_21",
-                  "title": "books",
-                  "meaning": "two or more books",
-                  "translation": "كتب"
-                },
-                {
-                  "id": "def_22",
-                  "title": "apples",
-                  "meaning": "two or more apples",
-                  "translation": "تفاح"
-                },
-                {
-                  "id": "def_23",
-                  "title": "Numbers 1-10",
-                  "meaning": "one, two, three, four, five, six, seven, eight, nine, ten",
-                  "translation": "واحد، اثنان، ثلاثة، أربعة، خمسة، ستة، سبعة، ثمانية، تسعة، عشرة"
+                  "title": "Goodbye",
+                  "use": "تستخدم عندما تترك شخص وتودعهم. قل هذا في نهاية أي محادثة أو لقاء.",
+                  "meaning": "Goodbye",
+                  "translation": "مع السلامة"
                 }
               ]
             },
             {
               "id": "lesson_1_3",
+              "title": "Everyday objects",
+              "translation": "أشياء يومية",
+              "definitions": [
+                {
+                  "id": "def_14",
+                  "title": "What's this in English?",
+                  "use": "تستخدم لسؤال شخص عن اسم شيء ما باللغة الإنجليزية. قل هذا عندما تريد تعلم كلمات جديدة.",
+                  "meaning": "What's this in English?",
+                  "translation": "ماذا يسمى هذا بالإنجليزية؟"
+                },
+                {
+                  "id": "def_15",
+                  "title": "a book",
+                  "use": "تستخدم للإشارة إلى شيء تقرأه. قل هذا عندما تريد أن تقول 'كتاب'.",
+                  "meaning": "a book",
+                  "translation": "كتاب"
+                },
+                {
+                  "id": "def_16",
+                  "title": "an apple",
+                  "use": "تستخدم للإشارة إلى فاكهة حمراء أو خضراء. قل هذا عندما تريد أن تقول 'تفاحة'.",
+                  "meaning": "an apple",
+                  "translation": "تفاحة"
+                },
+                {
+                  "id": "def_17",
+                  "title": "a phone",
+                  "use": "تستخدم للإشارة إلى جهاز تتصل به أو ترسل رسائل. قل هذا عندما تريد أن تقول 'هاتف'.",
+                  "meaning": "a phone",
+                  "translation": "هاتف"
+                },
+                {
+                  "id": "def_18",
+                  "title": "a bag",
+                  "use": "تستخدم للإشارة إلى شيء تحمل فيه أغراضك. قل هذا عندما تريد أن تقول 'حقيبة'.",
+                  "meaning": "a bag",
+                  "translation": "حقيبة"
+                },
+                {
+                  "id": "def_19",
+                  "title": "a watch",
+                  "use": "تستخدم للإشارة إلى شيء ترتديه في يدك لتعرف الوقت. قل هذا عندما تريد أن تقول 'ساعة'.",
+                  "meaning": "a watch",
+                  "translation": "ساعة"
+                },
+                {
+                  "id": "def_20",
+                  "title": "a house",
+                  "use": "تستخدم للإشارة إلى مكان تعيش فيه. قل هذا عندما تريد أن تقول 'منزل'.",
+                  "meaning": "a house",
+                  "translation": "منزل"
+                },
+                {
+                  "id": "def_21",
+                  "title": "a bike",
+                  "use": "تستخدم للإشارة إلى مركبة ذات عجلتين. قل هذا عندما تريد أن تقول 'دراجة'.",
+                  "meaning": "a bike",
+                  "translation": "دراجة"
+                }
+              ]
+            },
+            {
+              "id": "lesson_1_4",
+              "title": "Plurals",
+              "translation": "الجمع",
+              "definitions": [
+                {
+                  "id": "def_22",
+                  "title": "one book",
+                  "use": "تستخدم للإشارة إلى كتاب واحد فقط. قل هذا عندما تريد أن تقول 'كتاب واحد'.",
+                  "meaning": "one book",
+                  "translation": "كتاب واحد"
+                },
+                {
+                  "id": "def_23",
+                  "title": "two books",
+                  "use": "تستخدم للإشارة إلى أكثر من كتاب. قل هذا عندما تريد أن تقول 'كتابان' أو أكثر.",
+                  "meaning": "two books",
+                  "translation": "كتابان"
+                },
+                {
+                  "id": "def_24",
+                  "title": "one apple",
+                  "use": "تستخدم للإشارة إلى تفاحة واحدة فقط. قل هذا عندما تريد أن تقول 'تفاحة واحدة'.",
+                  "meaning": "one apple",
+                  "translation": "تفاحة واحدة"
+                },
+                {
+                  "id": "def_25",
+                  "title": "three apples",
+                  "use": "تستخدم للإشارة إلى أكثر من تفاحة. قل هذا عندما تريد أن تقول 'ثلاث تفاحات'.",
+                  "meaning": "three apples",
+                  "translation": "ثلاث تفاحات"
+                }
+              ]
+            },
+            {
+              "id": "lesson_1_5",
+              "title": "Numbers 1-10",
+              "translation": "الأرقام 1-10",
+              "definitions": [
+                {
+                  "id": "def_26",
+                  "title": "one",
+                  "use": "تستخدم لعد الأشياء. هذا هو الرقم الأول.",
+                  "meaning": "1",
+                  "translation": "واحد"
+                },
+                {
+                  "id": "def_27",
+                  "title": "two",
+                  "use": "تستخدم لعد الأشياء. هذا هو الرقم الثاني.",
+                  "meaning": "2",
+                  "translation": "اثنان"
+                },
+                {
+                  "id": "def_28",
+                  "title": "three",
+                  "use": "تستخدم لعد الأشياء. هذا هو الرقم الثالث.",
+                  "meaning": "3",
+                  "translation": "ثلاثة"
+                },
+                {
+                  "id": "def_29",
+                  "title": "four",
+                  "use": "تستخدم لعد الأشياء. هذا هو الرقم الرابع.",
+                  "meaning": "4",
+                  "translation": "أربعة"
+                },
+                {
+                  "id": "def_30",
+                  "title": "five",
+                  "use": "تستخدم لعد الأشياء. هذا هو الرقم الخامس.",
+                  "meaning": "5",
+                  "translation": "خمسة"
+                },
+                {
+                  "id": "def_31",
+                  "title": "six",
+                  "use": "تستخدم لعد الأشياء. هذا هو الرقم السادس.",
+                  "meaning": "6",
+                  "translation": "ستة"
+                },
+                {
+                  "id": "def_32",
+                  "title": "seven",
+                  "use": "تستخدم لعد الأشياء. هذا هو الرقم السابع.",
+                  "meaning": "7",
+                  "translation": "سبعة"
+                },
+                {
+                  "id": "def_33",
+                  "title": "eight",
+                  "use": "تستخدم لعد الأشياء. هذا هو الرقم الثامن.",
+                  "meaning": "8",
+                  "translation": "ثمانية"
+                },
+                {
+                  "id": "def_34",
+                  "title": "nine",
+                  "use": "تستخدم لعد الأشياء. هذا هو الرقم التاسع.",
+                  "meaning": "9",
+                  "translation": "تسعة"
+                },
+                {
+                  "id": "def_35",
+                  "title": "ten",
+                  "use": "تستخدم لعد الأشياء. هذا هو الرقم العاشر.",
+                  "meaning": "10",
+                  "translation": "عشرة"
+                }
+              ]
+            },
+            {
+              "id": "lesson_1_6",
               "title": "Conversations",
               "translation": "محادثات",
               "definitions": [
                 {
-                  "id": "def_24",
+                  "id": "def_36",
                   "title": "Greeting a friend",
-                  "meaning": "Hello, Michael. How are you?",
+                  "use": "تستخدم عندما ترى صديقك وتريد أن تسأله عن حاله.",
+                  "meaning": "Hello Michael. How are you?",
                   "translation": "مرحباً مايكل. كيف حالك؟"
                 },
                 {
-                  "id": "def_25",
-                  "title": "Replying",
-                  "meaning": "I'm fine, thanks Alice",
-                  "translation": "أنا بخير، شكراً أليس"
+                  "id": "def_37",
+                  "title": "Replying to a friend",
+                  "use": "تستخدم عندما يسألك صديقك عن حالك وتريد أن ترد عليه بأدب.",
+                  "meaning": "I'm fine thanks Alice. And you?",
+                  "translation": "أنا بخير شكراً أليس. وأنت؟"
                 },
                 {
-                  "id": "def_26",
+                  "id": "def_38",
                   "title": "Introducing two people",
-                  "meaning": "Alice, this is Michael. Michael, this is Alice",
-                  "translation": "أليس، هذا مايكل. مايكل، هذه أليس"
+                  "use": "تستخدم عندما تريد أن تعرف شخصين على بعضهما للمرة الأولى.",
+                  "meaning": "Alice, this is Michael",
+                  "translation": "أليس، هذا مايكل"
                 }
               ]
             }
@@ -202,38 +333,58 @@
               "translation": "هو / هي / له / لها",
               "definitions": [
                 {
-                  "id": "def_27",
+                  "id": "def_39",
                   "title": "He is / He's",
+                  "use": "تستخدم للحديث عن رجل أو ولد. قل هذا عندما تريد أن تصف شخصاً مذكراً.",
                   "meaning": "Michael is a doctor",
                   "translation": "مايكل طبيب"
                 },
                 {
-                  "id": "def_28",
+                  "id": "def_40",
                   "title": "She is / She's",
+                  "use": "تستخدم للحديث عن امرأة أو بنت. قل هذا عندما تريد أن تصف شخصاً مؤنثاً.",
                   "meaning": "Alice is a nurse",
                   "translation": "أليس ممرضة"
                 },
                 {
-                  "id": "def_29",
+                  "id": "def_41",
                   "title": "His",
+                  "use": "تستخدم للإشارة إلى شيء يملكه رجل أو ولد. قل هذا عندما تريد أن تقول 'خاصته' لمذكر.",
                   "meaning": "His name is Michael",
                   "translation": "اسمه مايكل"
                 },
                 {
-                  "id": "def_30",
+                  "id": "def_42",
                   "title": "Her",
+                  "use": "تستخدم للإشارة إلى شيء تملكه امرأة أو بنت. قل هذا عندما تريد أن تقول 'خاصتها' لمؤنث.",
                   "meaning": "Her name is Alice",
                   "translation": "اسمها أليس"
                 },
                 {
-                  "id": "def_31",
+                  "id": "def_43",
                   "title": "Where is he from?",
+                  "use": "تستخدم لسؤال عن بلد شخص مذكر. قل هذا عندما تريد معرفة من أين جاء رجل أو ولد.",
+                  "meaning": "Where is Michael from?",
+                  "translation": "من أين مايكل؟"
+                },
+                {
+                  "id": "def_44",
+                  "title": "He is from",
+                  "use": "تستخدم للإجابة عن سؤال بلد شخص مذكر. قل هذا عندما تريد أن تقول من أين جاء رجل أو ولد.",
                   "meaning": "Michael is from Italy",
                   "translation": "مايكل من إيطاليا"
                 },
                 {
-                  "id": "def_32",
+                  "id": "def_45",
                   "title": "Where is she from?",
+                  "use": "تستخدم لسؤال عن بلد شخص مؤنث. قل هذا عندما تريد معرفة من أين جاءت امرأة أو بنت.",
+                  "meaning": "Where is Alice from?",
+                  "translation": "من أين أليس؟"
+                },
+                {
+                  "id": "def_46",
+                  "title": "She is from",
+                  "use": "تستخدم للإجابة عن سؤال بلد شخص مؤنث. قل هذا عندما تريد أن تقول من أين جاءت امرأة أو بنت.",
                   "meaning": "Alice is from China",
                   "translation": "أليس من الصين"
                 }
@@ -245,34 +396,81 @@
               "translation": "الدول",
               "definitions": [
                 {
-                  "id": "def_33",
-                  "title": "Country names",
-                  "meaning": "Italy, China, England, France, Egypt, Brazil, Canada, Japan, Spain, Turkey, USA",
-                  "translation": "إيطاليا، الصين، إنجلترا، فرنسا، مصر، البرازيل، كندا، اليابان، إسبانيا، تركيا، أمريكا"
+                  "id": "def_47",
+                  "title": "Italy",
+                  "use": "اسم دولة في أوروبا. قل هذا عندما تريد أن تقول 'إيطاليا'.",
+                  "meaning": "Italy",
+                  "translation": "إيطاليا"
                 },
                 {
-                  "id": "def_34",
-                  "title": "Question",
-                  "meaning": "Where is Michael from?",
-                  "translation": "من أين مايكل؟"
+                  "id": "def_48",
+                  "title": "China",
+                  "use": "اسم دولة في آسيا. قل هذا عندما تريد أن تقول 'الصين'.",
+                  "meaning": "China",
+                  "translation": "الصين"
                 },
                 {
-                  "id": "def_35",
-                  "title": "Answer",
-                  "meaning": "He is from England",
-                  "translation": "هو من إنجلترا"
+                  "id": "def_49",
+                  "title": "England",
+                  "use": "اسم دولة في أوروبا. قل هذا عندما تريد أن تقول 'إنجلترا'.",
+                  "meaning": "England",
+                  "translation": "إنجلترا"
                 },
                 {
-                  "id": "def_36",
-                  "title": "Question",
-                  "meaning": "Where is Alice from?",
-                  "translation": "من أين أليس؟"
+                  "id": "def_50",
+                  "title": "France",
+                  "use": "اسم دولة في أوروبا. قل هذا عندما تريد أن تقول 'فرنسا'.",
+                  "meaning": "France",
+                  "translation": "فرنسا"
                 },
                 {
-                  "id": "def_37",
-                  "title": "Answer",
-                  "meaning": "She is from Egypt",
-                  "translation": "هي من مصر"
+                  "id": "def_51",
+                  "title": "Egypt",
+                  "use": "اسم دولة في أفريقيا. قل هذا عندما تريد أن تقول 'مصر'.",
+                  "meaning": "Egypt",
+                  "translation": "مصر"
+                },
+                {
+                  "id": "def_52",
+                  "title": "Brazil",
+                  "use": "اسم دولة في أمريكا الجنوبية. قل هذا عندما تريد أن تقول 'البرازيل'.",
+                  "meaning": "Brazil",
+                  "translation": "البرازيل"
+                },
+                {
+                  "id": "def_53",
+                  "title": "Canada",
+                  "use": "اسم دولة في أمريكا الشمالية. قل هذا عندما تريد أن تقول 'كندا'.",
+                  "meaning": "Canada",
+                  "translation": "كندا"
+                },
+                {
+                  "id": "def_54",
+                  "title": "Japan",
+                  "use": "اسم دولة في آسيا. قل هذا عندما تريد أن تقول 'اليابان'.",
+                  "meaning": "Japan",
+                  "translation": "اليابان"
+                },
+                {
+                  "id": "def_55",
+                  "title": "Spain",
+                  "use": "اسم دولة في أوروبا. قل هذا عندما تريد أن تقول 'إسبانيا'.",
+                  "meaning": "Spain",
+                  "translation": "إسبانيا"
+                },
+                {
+                  "id": "def_56",
+                  "title": "Turkey",
+                  "use": "اسم دولة بين أوروبا وآسيا. قل هذا عندما تريد أن تقول 'تركيا'.",
+                  "meaning": "Turkey",
+                  "translation": "تركيا"
+                },
+                {
+                  "id": "def_57",
+                  "title": "USA",
+                  "use": "اسم دولة في أمريكا الشمالية. قل هذا عندما تريد أن تقول 'أمريكا'.",
+                  "meaning": "USA",
+                  "translation": "الولايات المتحدة الأمريكية"
                 }
               ]
             },
@@ -282,34 +480,109 @@
               "translation": "الأرقام 11-30",
               "definitions": [
                 {
-                  "id": "def_38",
-                  "title": "11-20",
-                  "meaning": "eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty",
-                  "translation": "أحد عشر، اثنا عشر، ثلاثة عشر، أربعة عشر، خمسة عشر، ستة عشر، سبعة عشر، ثمانية عشر، تسعة عشر، عشرون"
+                  "id": "def_58",
+                  "title": "eleven",
+                  "use": "الرقم بعد عشرة. تستخدم لعد الأشياء.",
+                  "meaning": "11",
+                  "translation": "أحد عشر"
                 },
                 {
-                  "id": "def_39",
-                  "title": "21-30",
-                  "meaning": "twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty",
-                  "translation": "واحد وعشرون، اثنان وعشرون، ثلاثة وعشرون، أربعة وعشرون، خمسة وعشرون، ستة وعشرون، سبعة وعشرون، ثمانية وعشرون، تسعة وعشرون، ثلاثون"
+                  "id": "def_59",
+                  "title": "twelve",
+                  "use": "الرقم بعد أحد عشر. تستخدم لعد الأشياء.",
+                  "meaning": "12",
+                  "translation": "اثنا عشر"
                 },
                 {
-                  "id": "def_40",
+                  "id": "def_60",
+                  "title": "thirteen",
+                  "use": "الرقم بعد اثنا عشر. تستخدم لعد الأشياء.",
+                  "meaning": "13",
+                  "translation": "ثلاثة عشر"
+                },
+                {
+                  "id": "def_61",
+                  "title": "fourteen",
+                  "use": "الرقم بعد ثلاثة عشر. تستخدم لعد الأشياء.",
+                  "meaning": "14",
+                  "translation": "أربعة عشر"
+                },
+                {
+                  "id": "def_62",
+                  "title": "fifteen",
+                  "use": "الرقم بعد أربعة عشر. تستخدم لعد الأشياء.",
+                  "meaning": "15",
+                  "translation": "خمسة عشر"
+                },
+                {
+                  "id": "def_63",
+                  "title": "sixteen",
+                  "use": "الرقم بعد خمسة عشر. تستخدم لعد الأشياء.",
+                  "meaning": "16",
+                  "translation": "ستة عشر"
+                },
+                {
+                  "id": "def_64",
+                  "title": "seventeen",
+                  "use": "الرقم بعد ستة عشر. تستخدم لعد الأشياء.",
+                  "meaning": "17",
+                  "translation": "سبعة عشر"
+                },
+                {
+                  "id": "def_65",
+                  "title": "eighteen",
+                  "use": "الرقم بعد سبعة عشر. تستخدم لعد الأشياء.",
+                  "meaning": "18",
+                  "translation": "ثمانية عشر"
+                },
+                {
+                  "id": "def_66",
+                  "title": "nineteen",
+                  "use": "الرقم بعد ثمانية عشر. تستخدم لعد الأشياء.",
+                  "meaning": "19",
+                  "translation": "تسعة عشر"
+                },
+                {
+                  "id": "def_67",
+                  "title": "twenty",
+                  "use": "الرقم بعد تسعة عشر. تستخدم لعد الأشياء.",
+                  "meaning": "20",
+                  "translation": "عشرون"
+                },
+                {
+                  "id": "def_68",
+                  "title": "twenty-one",
+                  "use": "الرقم بعد عشرين. تستخدم لعد الأشياء.",
+                  "meaning": "21",
+                  "translation": "واحد وعشرون"
+                },
+                {
+                  "id": "def_69",
+                  "title": "twenty-two",
+                  "use": "الرقم بعد واحد وعشرين. تستخدم لعد الأشياء.",
+                  "meaning": "22",
+                  "translation": "اثنان وعشرون"
+                },
+                {
+                  "id": "def_70",
+                  "title": "thirty",
+                  "use": "الرقم بعد تسعة وعشرين. تستخدم لعد الأشياء.",
+                  "meaning": "30",
+                  "translation": "ثلاثون"
+                },
+                {
+                  "id": "def_71",
                   "title": "How old are you?",
-                  "meaning": "What is your age?",
+                  "use": "تستخدم لسؤال شخص عن عمره. قل هذا عندما تريد معرفة كم عمر شخص ما.",
+                  "meaning": "How old are you?",
                   "translation": "كم عمرك؟"
                 },
                 {
-                  "id": "def_41",
+                  "id": "def_72",
                   "title": "I am 25",
-                  "meaning": "Michael is twenty-five years old",
-                  "translation": "مايكل عمره خمسة وعشرون سنة"
-                },
-                {
-                  "id": "def_42",
-                  "title": "She is 30",
-                  "meaning": "Alice is thirty years old",
-                  "translation": "أليس عمرها ثلاثون سنة"
+                  "use": "تستخدم للإجابة عندما يسألك شخص عن عمرك. قل هذا لتخبرهم كم عمرك.",
+                  "meaning": "I am twenty-five years old",
+                  "translation": "عمري خمسة وعشرون سنة"
                 }
               ]
             },
@@ -319,16 +592,53 @@
               "translation": "قراءة: عطلة في نيويورك",
               "definitions": [
                 {
-                  "id": "def_43",
+                  "id": "def_73",
                   "title": "Reading text",
+                  "use": "هذا نص للقراءة. اقرأه لتتعلم كلمات وجمل جديدة عن العائلة والعطلة.",
                   "meaning": "This is a photo of Michael and Alice from Montreal in Canada. They are on holiday in New York City. Alice is from Canada and Michael is from France. They are married. Alice is an architect. Michael is a doctor.",
                   "translation": "هذه صورة لمايكل وأليس من مونتريال في كندا. هما في عطلة في مدينة نيويورك. أليس من كندا ومايكل من فرنسا. هما متزوجان. أليس مهندسة معمارية. مايكل طبيب."
                 },
                 {
-                  "id": "def_44",
-                  "title": "Vocabulary",
-                  "meaning": "architect, doctor, married, on holiday, centre, office, hospital",
-                  "translation": "مهندس معماري، طبيب، متزوج، في عطلة، مركز، مكتب، مستشفى"
+                  "id": "def_74",
+                  "title": "architect",
+                  "use": "شخص يصمم المباني والمنازل. تستخدم لوصف مهنة شخص ما.",
+                  "meaning": "architect",
+                  "translation": "مهندس معماري"
+                },
+                {
+                  "id": "def_75",
+                  "title": "doctor",
+                  "use": "شخص يعالج المرضى. تستخدم لوصف مهنة شخص ما.",
+                  "meaning": "doctor",
+                  "translation": "طبيب"
+                },
+                {
+                  "id": "def_76",
+                  "title": "married",
+                  "use": "تستخدم لوصف شخص لديه زوج أو زوجة. قل هذا عندما تريد أن تقول 'متزوج' أو 'متزوجة'.",
+                  "meaning": "married",
+                  "translation": "متزوج / متزوجة"
+                },
+                {
+                  "id": "def_77",
+                  "title": "on holiday",
+                  "use": "تستخدم لوصف شخص يسافر للاسترخاء وليس للعمل. قل هذا عندما تريد أن تقول 'في عطلة'.",
+                  "meaning": "on holiday",
+                  "translation": "في عطلة"
+                },
+                {
+                  "id": "def_78",
+                  "title": "office",
+                  "use": "مكان يعمل فيه الناس على مكاتب. قل هذا عندما تريد أن تقول 'مكتب'.",
+                  "meaning": "office",
+                  "translation": "مكتب"
+                },
+                {
+                  "id": "def_79",
+                  "title": "hospital",
+                  "use": "مكان يعالج فيه الأطباء المرضى. قل هذا عندما تريد أن تقول 'مستشفى'.",
+                  "meaning": "hospital",
+                  "translation": "مستشفى"
                 }
               ]
             }
