@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-18T21:34:22.546Z",
+  "lastUpdated": "2026-04-18T21:34:39.716Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-18T21:34:22.546Z",
+      "lastActive": "2026-04-18T21:34:39.716Z",
       "totalCorrect": 30,
-      "totalAttempts": 41,
+      "totalAttempts": 42,
       "dailyRecords": {
         "4/17/2026": [
           {
@@ -381,6 +381,15 @@
             "time": "00:34",
             "grade": "excellent",
             "userAttempt": "this is my friend Michael"
+          },
+          {
+            "title": "Nice to meet you",
+            "meaning": "Happy to know you",
+            "isCorrect": false,
+            "timestamp": 1776548079239,
+            "time": "00:34",
+            "grade": "wrong",
+            "userAttempt": "a beating to know you"
           }
         ]
       },
