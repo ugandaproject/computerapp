@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-18T21:55:52.629Z",
+  "lastUpdated": "2026-04-18T23:14:31.114Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-18T21:55:52.629Z",
+      "lastActive": "2026-04-18T23:14:31.096Z",
       "totalCorrect": 37,
-      "totalAttempts": 50,
+      "totalAttempts": 51,
       "dailyRecords": {
         "4/17/2026": [
           {
@@ -462,6 +462,15 @@
             "time": "00:55",
             "grade": "excellent",
             "userAttempt": "Italy"
+          },
+          {
+            "title": "Asking about someone's job - السؤال عن وظيفة شخص",
+            "meaning": "What's his job?",
+            "isCorrect": false,
+            "timestamp": 1776554070040,
+            "time": "02:14",
+            "grade": "wrong",
+            "userAttempt": "is his job"
           }
         ]
       },
