@@ -3997,6 +3997,21 @@
       "lastActive": "2026-04-18T13:52:12.127Z",
       "sessionToken": "sess_tcc64tsma4q",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG185850839166",
+      "name": "Omer alfaroog reception institute",
+      "phone": "+256767065118",
+      "paid": false,
+      "regDate": "2026-04-18T14:56:25.851Z",
+      "expiryDate": "2026-04-19T14:56:25.851Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-2105-05C3",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-18T14:56:25.851Z",
+      "sessionToken": "sess_lreshx2gaq",
+      "ipAddress": "client-side"
     }
   ]
 }
