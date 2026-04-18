@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-18T23:15:17.091Z",
+  "lastUpdated": "2026-04-18T23:15:46.333Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-18T23:15:17.091Z",
-      "totalCorrect": 40,
-      "totalAttempts": 54,
+      "lastActive": "2026-04-18T23:15:46.333Z",
+      "totalCorrect": 41,
+      "totalAttempts": 55,
       "dailyRecords": {
         "4/17/2026": [
           {
@@ -464,7 +464,7 @@
             "userAttempt": "Italy"
           },
           {
-            "title": "Asking about someone's job - ÃÂÃÂ§ÃÂÃÂÃÂÃÂ³ÃÂÃÂ¤ÃÂÃÂ§ÃÂÃÂ ÃÂÃÂ¹ÃÂÃÂ ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂÃÂÃÂ© ÃÂÃÂ´ÃÂÃÂ®ÃÂÃÂµ",
+            "title": "Asking about someone's job - ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© ÃÂÃÂÃÂÃÂ´ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂµ",
             "meaning": "What's his job?",
             "isCorrect": false,
             "timestamp": 1776554070040,
@@ -473,7 +473,7 @@
             "userAttempt": "is his job"
           },
           {
-            "title": "Asking about someone's job - ÃÂ§ÃÂÃÂ³ÃÂ¤ÃÂ§ÃÂ ÃÂ¹ÃÂ ÃÂÃÂ¸ÃÂÃÂÃÂ© ÃÂ´ÃÂ®ÃÂµ",
+            "title": "Asking about someone's job - ÃÂÃÂ§ÃÂÃÂÃÂÃÂ³ÃÂÃÂ¤ÃÂÃÂ§ÃÂÃÂ ÃÂÃÂ¹ÃÂÃÂ ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂÃÂÃÂ© ÃÂÃÂ´ÃÂÃÂ®ÃÂÃÂµ",
             "meaning": "What's his job?",
             "isCorrect": true,
             "timestamp": 1776554086832,
@@ -482,7 +482,7 @@
             "userAttempt": "what's his job"
           },
           {
-            "title": "Profession: Teacher - ÙÙÙØ©: ÙØ¹ÙÙ",
+            "title": "Profession: Teacher - ÃÂÃÂÃÂÃÂ©: ÃÂÃÂ¹ÃÂÃÂ",
             "meaning": "teacher",
             "isCorrect": true,
             "timestamp": 1776554101578,
@@ -491,13 +491,22 @@
             "userAttempt": "teacher"
           },
           {
-            "title": "Profession: Police officer - مهنة: شرطي",
+            "title": "Profession: Police officer - ÙÙÙØ©: Ø´Ø±Ø·Ù",
             "meaning": "police officer",
             "isCorrect": true,
             "timestamp": 1776554116530,
             "time": "02:15",
             "grade": "excellent",
             "userAttempt": "police officer"
+          },
+          {
+            "title": "Profession: Taxi driver - مهنة: سائق تاكسي",
+            "meaning": "taxi driver",
+            "isCorrect": true,
+            "timestamp": 1776554145539,
+            "time": "02:15",
+            "grade": "excellent",
+            "userAttempt": "taxi driver"
           }
         ]
       },
