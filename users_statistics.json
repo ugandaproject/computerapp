@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-17T17:03:25.146Z",
+  "lastUpdated": "2026-04-18T08:10:22.336Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-17T17:03:25.146Z",
-      "totalCorrect": 2,
-      "totalAttempts": 2,
+      "lastActive": "2026-04-18T08:10:22.314Z",
+      "totalCorrect": 3,
+      "totalAttempts": 3,
       "dailyRecords": {
         "4/17/2026": [
           {
@@ -27,11 +27,22 @@
             "grade": "good",
             "userAttempt": "I am a teacher"
           }
+        ],
+        "4/18/2026": [
+          {
+            "title": "I am / I'm",
+            "meaning": "I'm a teacher.",
+            "isCorrect": true,
+            "timestamp": 1776499820821,
+            "time": "11:10",
+            "grade": "good",
+            "userAttempt": "I am a teacher"
+          }
         ]
       },
       "weeklyStats": {
         "week-2026-3": {
-          "correct": 2,
+          "correct": 3,
           "wrong": 0,
           "records": [
             {
@@ -48,6 +59,14 @@
               "isCorrect": true,
               "timestamp": 1776445404664,
               "time": "20:03",
+              "userAttempt": "I am a teacher"
+            },
+            {
+              "title": "I am / I'm",
+              "meaning": "I'm a teacher.",
+              "isCorrect": true,
+              "timestamp": 1776499820821,
+              "time": "11:10",
               "userAttempt": "I am a teacher"
             }
           ]
