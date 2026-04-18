@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-18T12:03:05.842Z",
+  "lastUpdated": "2026-04-18T12:03:30.071Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-18T12:03:05.807Z",
+      "lastActive": "2026-04-18T12:03:30.071Z",
       "totalCorrect": 8,
-      "totalAttempts": 9,
+      "totalAttempts": 10,
       "dailyRecords": {
         "4/17/2026": [
           {
@@ -91,13 +91,22 @@
             "time": "15:03",
             "grade": "good",
             "userAttempt": "I am John I am John I am John"
+          },
+          {
+            "title": "I am / I'm",
+            "meaning": "I'm a teacher.",
+            "isCorrect": false,
+            "timestamp": 1776513809671,
+            "time": "15:03",
+            "grade": "wrong",
+            "userAttempt": "New York"
           }
         ]
       },
       "weeklyStats": {
         "week-2026-3": {
           "correct": 8,
-          "wrong": 1,
+          "wrong": 2,
           "records": [
             {
               "title": "I am / I'm",
@@ -170,6 +179,14 @@
               "timestamp": 1776513784754,
               "time": "15:03",
               "userAttempt": "I am John I am John I am John"
+            },
+            {
+              "title": "I am / I'm",
+              "meaning": "I'm a teacher.",
+              "isCorrect": false,
+              "timestamp": 1776513809671,
+              "time": "15:03",
+              "userAttempt": "New York"
             }
           ]
         }
@@ -183,6 +200,14 @@
             "userAttempt": "New York",
             "timestamp": 1776499851603,
             "time": "11:10"
+          },
+          {
+            "title": "I am / I'm",
+            "meaning": "I'm a teacher.",
+            "correctAnswer": "I'm a teacher.",
+            "userAttempt": "New York",
+            "timestamp": 1776513809671,
+            "time": "15:03"
           }
         ]
       }
