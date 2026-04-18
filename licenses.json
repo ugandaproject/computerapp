@@ -3982,6 +3982,21 @@
       "lastActive": "2026-04-17T10:21:00.342Z",
       "sessionToken": "sess_5rfo0ry7u0n",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG332121715094",
+      "name": "Fadol allah",
+      "phone": "+256766505286",
+      "paid": false,
+      "regDate": "2026-04-18T13:52:12.127Z",
+      "expiryDate": "2026-04-19T13:52:12.127Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-2682-1370",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-18T13:52:12.127Z",
+      "sessionToken": "sess_tcc64tsma4q",
+      "ipAddress": "client-side"
     }
   ]
 }
