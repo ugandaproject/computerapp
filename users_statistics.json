@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-04-19T15:28:26.067Z",
+  "lastUpdated": "2026-04-19T15:29:11.606Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-19T15:28:26.067Z",
+      "lastActive": "2026-04-19T15:29:11.605Z",
       "totalCorrect": 2,
-      "totalAttempts": 4,
+      "totalAttempts": 5,
       "dailyRecords": {
         "4/19/2026": [
           {
-            "title": "Red - ÃÂÃÂ£ÃÂÃÂ­ÃÂÃÂÃÂÃÂ±",
+            "title": "Red - ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±",
             "meaning": "red",
             "isCorrect": true,
             "timestamp": 1776592219631,
@@ -19,7 +19,7 @@
             "userAttempt": "red"
           },
           {
-            "title": "Red - ÃÂ£ÃÂ­ÃÂÃÂ±",
+            "title": "Red - ÃÂÃÂ£ÃÂÃÂ­ÃÂÃÂÃÂÃÂ±",
             "meaning": "red",
             "isCorrect": false,
             "timestamp": 1776592228250,
@@ -28,7 +28,7 @@
             "userAttempt": "Columbus water"
           },
           {
-            "title": "Country: Italy - Ø¯ÙÙØ©: Ø¥ÙØ·Ø§ÙÙØ§",
+            "title": "Country: Italy - ÃÂ¯ÃÂÃÂÃÂ©: ÃÂ¥ÃÂÃÂ·ÃÂ§ÃÂÃÂÃÂ§",
             "meaning": "Italy",
             "isCorrect": false,
             "timestamp": 1776612497830,
@@ -37,13 +37,22 @@
             "userAttempt": "eat Italy"
           },
           {
-            "title": "Country: Italy - دولة: إيطاليا",
+            "title": "Country: Italy - Ø¯ÙÙØ©: Ø¥ÙØ·Ø§ÙÙØ§",
             "meaning": "Italy",
             "isCorrect": true,
             "timestamp": 1776612505663,
             "time": "18:28",
             "grade": "excellent",
             "userAttempt": "Italy"
+          },
+          {
+            "title": "Country: China - دولة: الصين",
+            "meaning": "China",
+            "isCorrect": false,
+            "timestamp": 1776612550652,
+            "time": "18:29",
+            "grade": "wrong",
+            "userAttempt": "two time or robot can say two times and you can say five times as I want whatever that I want"
           }
         ]
       },
