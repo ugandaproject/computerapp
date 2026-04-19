@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-04-19T09:50:28.684Z",
+  "lastUpdated": "2026-04-19T15:28:18.918Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-19T09:50:28.684Z",
+      "lastActive": "2026-04-19T15:28:18.889Z",
       "totalCorrect": 1,
-      "totalAttempts": 2,
+      "totalAttempts": 3,
       "dailyRecords": {
         "4/19/2026": [
           {
-            "title": "Red - Ø£Ø­ÙØ±",
+            "title": "Red - ÃÂ£ÃÂ­ÃÂÃÂ±",
             "meaning": "red",
             "isCorrect": true,
             "timestamp": 1776592219631,
@@ -19,13 +19,22 @@
             "userAttempt": "red"
           },
           {
-            "title": "Red - أحمر",
+            "title": "Red - Ø£Ø­ÙØ±",
             "meaning": "red",
             "isCorrect": false,
             "timestamp": 1776592228250,
             "time": "12:50",
             "grade": "wrong",
             "userAttempt": "Columbus water"
+          },
+          {
+            "title": "Country: Italy - دولة: إيطاليا",
+            "meaning": "Italy",
+            "isCorrect": false,
+            "timestamp": 1776612497830,
+            "time": "18:28",
+            "grade": "wrong",
+            "userAttempt": "eat Italy"
           }
         ]
       },
