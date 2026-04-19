@@ -4027,6 +4027,21 @@
       "lastActive": "2026-04-19T08:23:18.199Z",
       "sessionToken": "sess_fzim222obb",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG260395638424",
+      "name": "Hajir",
+      "phone": "+256766653468",
+      "paid": false,
+      "regDate": "2026-04-19T08:44:20.398Z",
+      "expiryDate": "2026-04-20T08:44:20.398Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0E90-0FC1",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-19T08:44:20.398Z",
+      "sessionToken": "sess_kg2w9je89k",
+      "ipAddress": "client-side"
     }
   ]
 }
