@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-04-19T09:50:20.112Z",
+  "lastUpdated": "2026-04-19T09:50:28.684Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-19T09:50:20.112Z",
+      "lastActive": "2026-04-19T09:50:28.684Z",
       "totalCorrect": 1,
-      "totalAttempts": 1,
+      "totalAttempts": 2,
       "dailyRecords": {
         "4/19/2026": [
           {
-            "title": "Red - أحمر",
+            "title": "Red - Ø£Ø­ÙØ±",
             "meaning": "red",
             "isCorrect": true,
             "timestamp": 1776592219631,
             "time": "12:50",
             "grade": "good",
             "userAttempt": "red"
+          },
+          {
+            "title": "Red - أحمر",
+            "meaning": "red",
+            "isCorrect": false,
+            "timestamp": 1776592228250,
+            "time": "12:50",
+            "grade": "wrong",
+            "userAttempt": "Columbus water"
           }
         ]
       },
