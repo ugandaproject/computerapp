@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-04-19T07:26:12.138Z",
+  "lastUpdated": "2026-04-19T07:26:22.445Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-19T07:26:12.138Z",
+      "lastActive": "2026-04-19T07:26:22.445Z",
       "totalCorrect": 2,
-      "totalAttempts": 3,
+      "totalAttempts": 4,
       "dailyRecords": {
         "4/19/2026": [
           {
-            "title": "Kitchen - ÃÂ§ÃÂÃÂÃÂ·ÃÂ¨ÃÂ®",
+            "title": "Kitchen - ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ·ÃÂÃÂ¨ÃÂÃÂ®",
             "meaning": "kitchen",
             "isCorrect": true,
             "timestamp": 1776581139234,
@@ -19,7 +19,7 @@
             "userAttempt": "kitchen"
           },
           {
-            "title": "Mother - Ø§ÙØ£Ù",
+            "title": "Mother - ÃÂ§ÃÂÃÂ£ÃÂ",
             "meaning": "mother",
             "isCorrect": false,
             "timestamp": 1776583562356,
@@ -28,13 +28,22 @@
             "userAttempt": "mother mother"
           },
           {
-            "title": "Mother - الأم",
+            "title": "Mother - Ø§ÙØ£Ù",
             "meaning": "mother",
             "isCorrect": true,
             "timestamp": 1776583571637,
             "time": "10:26",
             "grade": "good",
             "userAttempt": "mother"
+          },
+          {
+            "title": "Mother - الأم",
+            "meaning": "mother",
+            "isCorrect": false,
+            "timestamp": 1776583582061,
+            "time": "10:26",
+            "grade": "wrong",
+            "userAttempt": "my mother"
           }
         ]
       },
