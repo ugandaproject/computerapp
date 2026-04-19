@@ -4042,6 +4042,21 @@
       "lastActive": "2026-04-19T08:44:20.398Z",
       "sessionToken": "sess_kg2w9je89k",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG740879341440",
+      "name": "Kubra",
+      "phone": "+256783993676",
+      "paid": false,
+      "regDate": "2026-04-19T08:52:20.879Z",
+      "expiryDate": "2026-04-20T08:52:20.879Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-23DC-094B",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-19T08:52:20.879Z",
+      "sessionToken": "sess_jpcs745gtn",
+      "ipAddress": "client-side"
     }
   ]
 }
