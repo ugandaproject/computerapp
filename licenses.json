@@ -4012,6 +4012,21 @@
       "lastActive": "2026-04-18T14:56:25.851Z",
       "sessionToken": "sess_lreshx2gaq",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG998197571109",
+      "name": "Abdulaziz Abaker",
+      "phone": "+256785026521",
+      "paid": false,
+      "regDate": "2026-04-19T08:23:18.199Z",
+      "expiryDate": "2026-04-20T08:23:18.199Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0AF1-1A11",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-19T08:23:18.199Z",
+      "sessionToken": "sess_fzim222obb",
+      "ipAddress": "client-side"
     }
   ]
 }
