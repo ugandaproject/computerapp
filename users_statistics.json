@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-04-19T15:29:20.907Z",
+  "lastUpdated": "2026-04-19T15:29:40.172Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-19T15:29:20.907Z",
-      "totalCorrect": 2,
-      "totalAttempts": 6,
+      "lastActive": "2026-04-19T15:29:40.172Z",
+      "totalCorrect": 3,
+      "totalAttempts": 7,
       "dailyRecords": {
         "4/19/2026": [
           {
-            "title": "Red - ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±",
+            "title": "Red - ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±",
             "meaning": "red",
             "isCorrect": true,
             "timestamp": 1776592219631,
@@ -19,7 +19,7 @@
             "userAttempt": "red"
           },
           {
-            "title": "Red - ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±",
+            "title": "Red - ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±",
             "meaning": "red",
             "isCorrect": false,
             "timestamp": 1776592228250,
@@ -28,7 +28,7 @@
             "userAttempt": "Columbus water"
           },
           {
-            "title": "Country: Italy - ÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂ©: ÃÂÃÂ¥ÃÂÃÂÃÂÃÂ·ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ§",
+            "title": "Country: Italy - ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©: ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§",
             "meaning": "Italy",
             "isCorrect": false,
             "timestamp": 1776612497830,
@@ -37,7 +37,7 @@
             "userAttempt": "eat Italy"
           },
           {
-            "title": "Country: Italy - ÃÂ¯ÃÂÃÂÃÂ©: ÃÂ¥ÃÂÃÂ·ÃÂ§ÃÂÃÂÃÂ§",
+            "title": "Country: Italy - ÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂ©: ÃÂÃÂ¥ÃÂÃÂÃÂÃÂ·ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ§",
             "meaning": "Italy",
             "isCorrect": true,
             "timestamp": 1776612505663,
@@ -46,7 +46,7 @@
             "userAttempt": "Italy"
           },
           {
-            "title": "Country: China - Ø¯ÙÙØ©: Ø§ÙØµÙÙ",
+            "title": "Country: China - ÃÂ¯ÃÂÃÂÃÂ©: ÃÂ§ÃÂÃÂµÃÂÃÂ",
             "meaning": "China",
             "isCorrect": false,
             "timestamp": 1776612550652,
@@ -55,13 +55,22 @@
             "userAttempt": "two time or robot can say two times and you can say five times as I want whatever that I want"
           },
           {
-            "title": "Country: China - دولة: الصين",
+            "title": "Country: China - Ø¯ÙÙØ©: Ø§ÙØµÙÙ",
             "meaning": "China",
             "isCorrect": false,
             "timestamp": 1776612560500,
             "time": "18:29",
             "grade": "wrong",
             "userAttempt": "I got no old business we would send him good or no"
+          },
+          {
+            "title": "Country: England - دولة: إنجلترا",
+            "meaning": "England",
+            "isCorrect": true,
+            "timestamp": 1776612579772,
+            "time": "18:29",
+            "grade": "good",
+            "userAttempt": "England"
           }
         ]
       },
