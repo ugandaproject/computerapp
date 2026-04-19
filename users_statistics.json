@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-04-19T06:45:40.133Z",
+  "lastUpdated": "2026-04-19T07:26:03.569Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-19T06:45:40.133Z",
+      "lastActive": "2026-04-19T07:26:03.550Z",
       "totalCorrect": 1,
-      "totalAttempts": 1,
+      "totalAttempts": 2,
       "dailyRecords": {
         "4/19/2026": [
           {
-            "title": "Kitchen - المطبخ",
+            "title": "Kitchen - Ø§ÙÙØ·Ø¨Ø®",
             "meaning": "kitchen",
             "isCorrect": true,
             "timestamp": 1776581139234,
             "time": "09:45",
             "grade": "good",
             "userAttempt": "kitchen"
+          },
+          {
+            "title": "Mother - الأم",
+            "meaning": "mother",
+            "isCorrect": false,
+            "timestamp": 1776583562356,
+            "time": "10:26",
+            "grade": "wrong",
+            "userAttempt": "mother mother"
           }
         ]
       },
