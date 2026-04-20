@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-04-20T17:19:09.165Z",
+  "lastUpdated": "2026-04-20T17:19:17.997Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-20T17:19:09.165Z",
+      "lastActive": "2026-04-20T17:19:17.997Z",
       "totalCorrect": 1,
-      "totalAttempts": 1,
+      "totalAttempts": 2,
       "dailyRecords": {
         "4/20/2026": [
           {
-            "title": "Country: Italy - دولة: إيطاليا",
+            "title": "Country: Italy - Ø¯ÙÙØ©: Ø¥ÙØ·Ø§ÙÙØ§",
             "meaning": "Italy",
             "isCorrect": true,
             "timestamp": 1776705548654,
             "time": "20:19",
             "grade": "good",
             "userAttempt": "Italy"
+          },
+          {
+            "title": "Country: Italy - دولة: إيطاليا",
+            "meaning": "Italy",
+            "isCorrect": false,
+            "timestamp": 1776705557550,
+            "time": "20:19",
+            "grade": "wrong",
+            "userAttempt": "we're friends"
           }
         ]
       },
