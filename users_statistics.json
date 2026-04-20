@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-04-20T10:17:11.727Z",
+  "lastUpdated": "2026-04-20T10:17:21.072Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-20T10:17:11.727Z",
-      "totalCorrect": 4,
-      "totalAttempts": 4,
+      "lastActive": "2026-04-20T10:17:21.072Z",
+      "totalCorrect": 5,
+      "totalAttempts": 5,
       "dailyRecords": {
         "4/20/2026": [
           {
-            "title": "Bread - ÃÂÃÂ®ÃÂÃÂ¨ÃÂÃÂ²",
+            "title": "Bread - ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ²",
             "meaning": "bread",
             "isCorrect": true,
             "timestamp": 1776680184787,
@@ -19,7 +19,7 @@
             "userAttempt": "bread"
           },
           {
-            "title": "Bread - ÃÂ®ÃÂ¨ÃÂ²",
+            "title": "Bread - ÃÂÃÂ®ÃÂÃÂ¨ÃÂÃÂ²",
             "meaning": "bread",
             "isCorrect": true,
             "timestamp": 1776680202290,
@@ -28,7 +28,7 @@
             "userAttempt": "bread"
           },
           {
-            "title": "Bread - Ø®Ø¨Ø²",
+            "title": "Bread - ÃÂ®ÃÂ¨ÃÂ²",
             "meaning": "bread",
             "isCorrect": true,
             "timestamp": 1776680210402,
@@ -37,10 +37,19 @@
             "userAttempt": "bread"
           },
           {
-            "title": "Cheese - جبن",
+            "title": "Cheese - Ø¬Ø¨Ù",
             "meaning": "cheese",
             "isCorrect": true,
             "timestamp": 1776680231271,
+            "time": "13:17",
+            "grade": "good",
+            "userAttempt": "cheese"
+          },
+          {
+            "title": "Cheese - جبن",
+            "meaning": "cheese",
+            "isCorrect": true,
+            "timestamp": 1776680239799,
             "time": "13:17",
             "grade": "good",
             "userAttempt": "cheese"
