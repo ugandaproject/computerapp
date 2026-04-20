@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-04-20T10:23:05.175Z",
+  "lastUpdated": "2026-04-20T10:23:19.834Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-20T10:23:05.175Z",
+      "lastActive": "2026-04-20T10:23:19.834Z",
       "totalCorrect": 2,
-      "totalAttempts": 2,
+      "totalAttempts": 3,
       "dailyRecords": {
         "4/20/2026": [
           {
-            "title": "They are + verb-ing - ÙÙ ÙÙØ¹ÙÙÙ Ø§ÙØ¢Ù",
+            "title": "They are + verb-ing - ÃÂÃÂ ÃÂÃÂÃÂ¹ÃÂÃÂÃÂ ÃÂ§ÃÂÃÂ¢ÃÂ",
             "meaning": "They are playing football",
             "isCorrect": true,
             "timestamp": 1776680554697,
@@ -19,13 +19,22 @@
             "userAttempt": "they are playing football"
           },
           {
-            "title": "Ask / Answer - يسأل / يجيب",
+            "title": "Ask / Answer - ÙØ³Ø£Ù / ÙØ¬ÙØ¨",
             "meaning": "ask - answer",
             "isCorrect": true,
             "timestamp": 1776680584787,
             "time": "13:23",
             "grade": "excellent",
             "userAttempt": "ask answer"
+          },
+          {
+            "title": "Buy / Sell - يشتري / يبيع",
+            "meaning": "buy - sell",
+            "isCorrect": false,
+            "timestamp": 1776680599375,
+            "time": "13:23",
+            "grade": "wrong",
+            "userAttempt": "bison"
           }
         ]
       },
