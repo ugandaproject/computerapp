@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-04-20T10:22:35.190Z",
+  "lastUpdated": "2026-04-20T10:23:05.175Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-20T10:22:35.190Z",
-      "totalCorrect": 1,
-      "totalAttempts": 1,
+      "lastActive": "2026-04-20T10:23:05.175Z",
+      "totalCorrect": 2,
+      "totalAttempts": 2,
       "dailyRecords": {
         "4/20/2026": [
           {
-            "title": "They are + verb-ing - هم يفعلون الآن",
+            "title": "They are + verb-ing - ÙÙ ÙÙØ¹ÙÙÙ Ø§ÙØ¢Ù",
             "meaning": "They are playing football",
             "isCorrect": true,
             "timestamp": 1776680554697,
             "time": "13:22",
             "grade": "excellent",
             "userAttempt": "they are playing football"
+          },
+          {
+            "title": "Ask / Answer - يسأل / يجيب",
+            "meaning": "ask - answer",
+            "isCorrect": true,
+            "timestamp": 1776680584787,
+            "time": "13:23",
+            "grade": "excellent",
+            "userAttempt": "ask answer"
           }
         ]
       },
