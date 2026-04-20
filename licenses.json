@@ -4057,6 +4057,21 @@
       "lastActive": "2026-04-19T08:52:20.879Z",
       "sessionToken": "sess_jpcs745gtn",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG532581157165",
+      "name": "Bozz",
+      "phone": "+256782574694",
+      "paid": false,
+      "regDate": "2026-04-20T14:15:32.581Z",
+      "expiryDate": "2026-04-21T14:15:32.581Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1B1F-0733",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-20T14:15:32.581Z",
+      "sessionToken": "sess_u02srbaco3q",
+      "ipAddress": "client-side"
     }
   ]
 }
