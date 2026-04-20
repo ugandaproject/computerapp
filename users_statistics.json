@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-04-20T17:19:32.515Z",
+  "lastUpdated": "2026-04-20T17:19:40.324Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-20T17:19:32.515Z",
-      "totalCorrect": 1,
-      "totalAttempts": 3,
+      "lastActive": "2026-04-20T17:19:40.324Z",
+      "totalCorrect": 2,
+      "totalAttempts": 4,
       "dailyRecords": {
         "4/20/2026": [
           {
-            "title": "Country: Italy - ÃÂ¯ÃÂÃÂÃÂ©: ÃÂ¥ÃÂÃÂ·ÃÂ§ÃÂÃÂÃÂ§",
+            "title": "Country: Italy - ÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂ©: ÃÂÃÂ¥ÃÂÃÂÃÂÃÂ·ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ§",
             "meaning": "Italy",
             "isCorrect": true,
             "timestamp": 1776705548654,
@@ -19,7 +19,7 @@
             "userAttempt": "Italy"
           },
           {
-            "title": "Country: Italy - Ø¯ÙÙØ©: Ø¥ÙØ·Ø§ÙÙØ§",
+            "title": "Country: Italy - ÃÂ¯ÃÂÃÂÃÂ©: ÃÂ¥ÃÂÃÂ·ÃÂ§ÃÂÃÂÃÂ§",
             "meaning": "Italy",
             "isCorrect": false,
             "timestamp": 1776705557550,
@@ -28,13 +28,22 @@
             "userAttempt": "we're friends"
           },
           {
-            "title": "Country: Italy - دولة: إيطاليا",
+            "title": "Country: Italy - Ø¯ÙÙØ©: Ø¥ÙØ·Ø§ÙÙØ§",
             "meaning": "Italy",
             "isCorrect": false,
             "timestamp": 1776705572070,
             "time": "20:19",
             "grade": "wrong",
             "userAttempt": "eat Italy"
+          },
+          {
+            "title": "Country: Italy - دولة: إيطاليا",
+            "meaning": "Italy",
+            "isCorrect": true,
+            "timestamp": 1776705579882,
+            "time": "20:19",
+            "grade": "excellent",
+            "userAttempt": "Italy"
           }
         ]
       },
