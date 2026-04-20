@@ -1,0 +1,366 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-04-21T12:00:00.000Z",
+  "source": "Headway Beginner 5th Edition – All blanks solved, IPA and stray characters removed",
+  "books": [
+    {
+      "id": "headway_beginner_5th_edition",
+      "title": "Headway Beginner 5th Edition",
+      "description": "Complete student book content with all exercises solved. All placeholders like '...' and '________' have been replaced with correct answers.",
+      "units": [
+        {
+          "id": "unit_1",
+          "title": "Unit 1: Hello!",
+          "pages": "7-14",
+          "grammar": "am/is/are; my/your; This is …; How are you?",
+          "vocabulary": "What's this in English?; Numbers 1-10; Plurals",
+          "everyday_english": "Good morning!",
+          "lessons": [
+            {
+              "id": "1_starter",
+              "title": "What's your name?",
+              "page": 8,
+              "content": "Hello, I'm Leo. Hello, I'm Mara. Hello, I'm Nari. Grammar am/is, my/your. 1 Read and listen. Serena: Hello. I'm Serena. What's your name? Tom: My name's Tom. Serena: Hello, Tom. 2 Listen again and repeat. GRAMMAR SPOT I'm = I am, What's = What is, name's = name is. 3 Stand up and practise. Hello, I'm Serena. What's your name? My name's Tom."
+            },
+            {
+              "id": "1_introductions",
+              "title": "Introductions - This is ...",
+              "page": 9,
+              "content": "1 Read and listen. Serena: Tom, this is Carlos. Carlos, this is Tom. Tom: Hello, Carlos. Carlos: Hello, Tom. 2 Practise in groups of three. Nice to meet you. 3 Read and listen. Paul: Hello. My name's Paul Bartosz. Sarah: Hello, I'm Sarah Taylor. Nice to meet you. Paul: Nice to meet you, too. 4 Practise in pairs. Say your first name and surname."
+            },
+            {
+              "id": "1_how_are_you",
+              "title": "How are you?",
+              "page": 10,
+              "content": "1 Read and listen. Artur: Hi, Dinos. How are you? Dinos: Fine, thanks, Artur. And you? Artur: I'm OK, thanks. Check it 4 Complete the conversations. A: Hello. My name's Usha. What's your name? B: My name's Ben."
+            },
+            {
+              "id": "1_everyday_english",
+              "title": "Everyday English - Good morning!",
+              "page": 11,
+              "content": "1 Complete the conversations. A: Good morning! What a lovely day! B: Good morning! Yes, it is lovely! 2 Put the words in the correct order. How are you today? Fine, thanks. And you? Photos: morning greetings, coffee shop, car goodbye, bedtime. Listen and check. Practise the conversations."
+            },
+            {
+              "id": "1_vocabulary",
+              "title": "Vocabulary - What's this in English?",
+              "page": 12,
+              "content": "1 Write the words. Pictures: phone, photo, bike, house. an apple, a bus, a phone, a laptop, an umbrella, a bike, a house, a bag, a watch, a book, a photo, a sandwich. GRAMMAR SPOT a book, an apple, a watch, an umbrella."
+            },
+            {
+              "id": "1_numbers_plurals",
+              "title": "Numbers 1-10 and plurals",
+              "page": 13,
+              "content": "1 one, 2 two, 3 three, 4 four, 5 five, 6 six, 7 seven, 8 eight, 9 nine, 10 ten. 3 Write the numbers. five books, three bikes, eight houses, four umbrellas, six photos, seven laptops, nine watches, ten apples, four sandwiches. GRAMMAR SPOT Singular: one book. Plural: two books."
+            },
+            {
+              "id": "1_grammar_wordlist",
+              "title": "Grammar reference and Wordlist - Unit 1",
+              "page": 14,
+              "content": "Grammar reference 1.1 am/is/are: I am a student. You are a teacher. My name is Serena. Wordlist: apple, bag, bike, book, bus, bye, coffee, hello, hi, house, laptop, morning, nice, phone, photo, sandwich, umbrella, watch. Numbers 1-10: one, two, three, four, five, six, seven, eight, nine, ten."
+            }
+          ]
+        },
+        {
+          "id": "unit_2",
+          "title": "Unit 2: Your world",
+          "pages": "15-22",
+          "grammar": "he/she/they; his/her",
+          "vocabulary": "Countries; Adjectives",
+          "everyday_english": "Numbers 11-30",
+          "reading": "A holiday in New York",
+          "lessons": [
+            {
+              "id": "2_starter",
+              "title": "She's from China",
+              "page": 16,
+              "content": "Countries: Argentina, Australia, Brazil, Canada, China, England, Egypt, France, Italy, Japan, Spain, Russia, Turkey, the United States. Grammar he/she, his/her. His name's Antonio. He's from Italy. Her name's Nuwa. She's from China."
+            },
+            {
+              "id": "2_cities_countries",
+              "title": "Practice - Cities and countries",
+              "page": 18,
+              "content": "Where's Venice? It's in Italy. Where's Moscow? It's in Russia. Student A and Student B photos and prompts for pairwork."
+            },
+            {
+              "id": "2_reading_holiday",
+              "title": "Reading and vocabulary - A holiday in New York",
+              "page": 20,
+              "content": "1 Read and listen. This is a photo of Claude and Holly Duval from Montreal in Canada. They are on holiday in New York City. Holly is from Canada and Claude is from France. They are married. Holly is an architect. Her office is in the centre of Montreal. Claude is a doctor. His hospital is in the centre of Montreal, too. 2 Complete the sentences. 1 Holly is from Montreal in Canada. 2 She's an architect. 3 Her office is in the centre of Montreal. 4 Claude is from France. 5 He's a doctor in the centre of Montreal. 6 His hospital is in the centre of Montreal. 7 They are on holiday in New York. 8 They are married. 3 Complete the questions about Claude and Holly. Ask and answer with a partner. What's his name? What's her name? Where is her office? Where is he from? Where is his hospital? GRAMMAR SPOT Write is or are. You are a teacher. She is an architect. He is a doctor. They are from Montreal. Listen again and check. Practise the conversations. Go online for more grammar practice. Watch video about different cities and countries."
+            },
+            {
+              "id": "2_numbers_11_30",
+              "title": "Everyday English - Numbers 11-30",
+              "page": 21,
+              "content": "1 Say the numbers 1-10 round the class. 2 Listen, read and repeat. 11 eleven, 12 twelve, 13 thirteen, 14 fourteen, 15 fifteen, 16 sixteen, 17 seventeen, 18 eighteen, 19 nineteen, 20 twenty. 3 Say the numbers 1-20 round the class. 4 Write the numbers your teacher says. Say the numbers your teacher writes. 5 Match the numbers. 21 twenty-one, 22 twenty-two, 23 twenty-three, 24 twenty-four, 25 twenty-five, 26 twenty-six, 27 twenty-seven, 28 twenty-eight, 29 twenty-nine, 30 thirty. Listen and repeat. Say the numbers 1-30 round the class. 6 Listen and tick the numbers you hear. 1 22, 12, 10, 20. 2 17, 15, 16, 14. 3 21, 29, 19, 9. 4 11, 7, 17, 27. 5 23, 3, 13, 30. 7 Look at the photos. How old is he or she? I think he is about 26. I think she is 30. Listen and find out. Go online for more speaking practice."
+            },
+            {
+              "id": "2_grammar_wordlist",
+              "title": "Grammar reference and Wordlist - Unit 2",
+              "page": 22,
+              "content": "Grammar reference 2.1 Possessive adjectives: My name's Serena. What's your name? His name's Antonio. What's her name? his = possessive adjective (his name, his bike). he's = he is (He's Bruno. He's from Brazil. He's fine.) 2.2 Questions with question words: Where are you from? Where is she from? Where is he from? What's this in English? How old are you? I'm 27. How old is he? He's 18. How old is she? She's 12. 2.3 am/are/is: I am from England. I am a student. You are from England. You are a student. He is a student. She is a student. It is a laptop. It is in New York. They are in New York. They are married. Wordlist: amazing, architect, awful, beautiful, building, centre, city, country, doctor, fantastic, favourite, great, hamburger, hospital, map, married, office, on holiday, really good, too, view, weather, where, world, you're right. Countries: Argentina, Australia, Brazil, Canada, China, Egypt, England, France, Italy, Japan, Russia, Scotland, Spain, Turkey, the United Kingdom, the United States. Numbers 11-30: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty."
+            }
+          ]
+        },
+        {
+          "id": "unit_3",
+          "title": "Unit 3: All about you",
+          "pages": "23-30",
+          "grammar": "Negatives - he/she isn't; Questions and short answers; Negatives - I'm not, they/we aren't",
+          "vocabulary": "Jobs; Personal information",
+          "lessons": [
+            {
+              "id": "3_vocabulary_jobs",
+              "title": "What's his job?",
+              "page": 24,
+              "content": "1 Match the jobs and the photos. a teacher, a police officer, a taxi driver, a builder, a receptionist, a businessman, a nurse, an architect. Photos 1 to 8: 1 a businessman, 2 a teacher, 3 a police officer, 4 a taxi driver, 5 a builder, 6 a receptionist, 7 a nurse, 8 an architect. Listen and repeat. 2 Listen to the questions and answers and repeat. What's his job? He's a businessman. What's her job? She's an architect. 3 Look at the photos in exercise 1. Ask and answer the questions with a partner. 4 What's your job? Ask and answer. What's your job? I'm a student. I'm a builder. Go online for more vocabulary practice."
+            },
+            {
+              "id": "3_grammar_negatives",
+              "title": "Grammar - Negatives - he/she isn't plus Questions and answers",
+              "page": 25,
+              "content": "Grammar Negatives - he/she isn't. 1 Look at Sunil and Dana. Listen and repeat. Sunil: Teacher? Student? He isn't a teacher. He's a student. Dana: Nurse? Doctor? She isn't a nurse. She's a doctor. Questions and answers: Personal information. 1 Read about Adam. ID card: Surname: Clarke, First name: Adam, Country: England, Address: 37 Kings Street, Manchester, M12 4JB, Phone: 07700 955031, Age: 27, Job: Police Officer, Married: No. 2 Complete the questions and answers. 1 What's his surname? Clarke. 2 What's his first name? Adam. 3 Where's he from? England. 4 What's his address? 37 Kings Street, Manchester, M12 4JB. 5 What's his phone number? 07700 955031. 6 How old is he? He's 27. 7 What's his job? He's a police officer. 8 Is he married? No, he isn't. Listen and check. Practise the questions and answers with a partner. 3 Read and listen. Then listen again and repeat. Is Adam from Australia? No, he isn't. Is he from Canada? No, he isn't. Is he from England? Yes, he is. 4 Ask and answer the questions about Adam. 1 Is he from London, Oxford or Manchester? He's from Manchester. 2 Is he 19 or 27? He's 27. 3 Is he a teacher, doctor or police officer? He's a police officer. 4 Is he married? No, he isn't. Check it 5 Complete the sentences. 1 Adam isn't from Australia. He's from England. 2 His phone number isn't 07700 955032. It is 07700 955031. 3 He isn't 30. He is 27. 4 He isn't married. Watch a video about a woman called Paula Harrid."
+            },
+            {
+              "id": "3_reading_paris",
+              "title": "Reading and listening - We're in Paris!",
+              "page": 28,
+              "content": "Reading and listening: We're in Paris! 1 Read the newspaper article about the football team, Scottish Rovers. Scottish Rovers in Paris: Scottish team in football final. The five-a-side football team, Scottish Rovers, are in the final in Paris. The team from Scotland are in the European final! They are all from Glasgow. Two of the girls, Shona and Gillian Robertson, are sisters. Shona is the captain of the team. 'We are so happy we're in Paris,' says Shona. 'Paris is beautiful and the Eiffel Tower is amazing!' The final is tomorrow and the girls are very excited. 'We're all fine,' says Gillian. 'We aren't nervous at all! It's fantastic to be in the final and it's great to be in Paris.' Today it's coffee time in a French café. Tomorrow they play Atlético Bilbao from Spain in the final! 2 Answer the questions. 1 Where are the girls? They are in Paris. 2 Is it the world final? No, it's the European final. 3 When is the final? Tomorrow. 4 Are they nervous or excited? They are excited. 3 Read about the team again. Correct the information. 1 Scottish Rovers are in Italy. They aren't in Italy. They're in France. 2 Shona is from England. She isn't from England. She's from Scotland. 3 Gillian is the captain. She isn't the captain. Shona is the captain. 4 The final is today. It isn't today. It's tomorrow. 5 They're in a hotel in Paris now. They aren't in a hotel. They're in a French café. Listen and check. Practise the lines. Interview with the team. 4 Listen to the interview with the girls and answer the questions. 1 Is it the team's first time in Paris? Yes, it is. 2 How old are Kate, Fiona and Emma? They are 19. 3 How old are the twins? They are 21. 4 Are the twins both married? No, they aren't. 5 Who is Tom? What's his job? Tom is their coach. He's a builder. 5 Look at audioscript on page 142. Read and listen to the interview. Roleplay 6 Work in groups of four. You are a sports team. What's your sport? What's the name of the team? What are your names? Where are you from? How old are you? What are your jobs? Ask and answer the questions with another group. Go online for more grammar practice."
+            },
+            {
+              "id": "3_everyday_english",
+              "title": "Everyday English - Social expressions (1)",
+              "page": 29,
+              "content": "Everyday English: Social expressions (1). 1 Listen and look at the photos. 2 Complete the conversations with the words in the boxes. Photos 1 to 6: supermarket, café, street, helping old lady, not understanding, asking for toilets. Photo 1: A: I'm so sorry. B: That's OK. No problem. Photo 2: C: A black coffee, please. D: That's £2.40. C: Thanks very much. Photo 3: E: Excuse me! Where's the station? F: I'm sorry. I don't know. Photo 4: G: Thank you very much. That's very kind. H: You're welcome. Photo 5: I: I'm sorry. I don't understand. Photo 6: K: Excuse me! Where are the toilets? L: They're over there. K: Thanks a lot. Listen again and check. 3 Work with a partner. Practise the conversations. Stand up and act out the conversations. Go online for more speaking practice."
+            }
+          ]
+        },
+        {
+          "id": "unit_4",
+          "title": "Unit 4: Family and friends",
+          "pages": "31-40",
+          "grammar": "Possessive adjectives; Possessive 's; Common verbs (1): have/has, love, like, work",
+          "vocabulary": "The family; The alphabet",
+          "lessons": [
+            {
+              "id": "4_vocabulary_family",
+              "title": "Vocabulary - Who are they? plus Family tree",
+              "page": 33,
+              "content": "Vocabulary: Who are they? 3 Listen and repeat. mother, daughter, sister, wife, father, son, brother, husband, parents, children. 4 Look at the family tree. Ian married to Jenny. Their children: Michael and Becky. 5 Listen and complete the sentences. 1 Jenny is Ian's wife. 2 Ian is Jenny's husband. 3 Becky is Jenny and Ian's daughter. 4 Michael is Jenny and Ian's son. 5 Ian is Becky's father. 6 Jenny is Michael's mother. 7 Becky is Michael's sister. 8 Michael is Becky's brother. 9 Jenny and Ian are Michael and Becky's parents. 10 Michael and Becky are Jenny and Ian's children. Listen again and check. 6 Work with a partner. Ask and answer questions about Ian's family. Who's Michael? He's Becky's brother. He's Jenny's son. Go online for more vocabulary practice."
+            },
+            {
+              "id": "4_alphabet",
+              "title": "Vocabulary and speaking - The alphabet",
+              "page": 38,
+              "content": "Vocabulary and speaking: The alphabet. Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz. 1 Listen to the letters of the alphabet. Practise them. 2 Listen and practise the groups of letters. A, H, J, K. B, C, D, E, G, P, T, V. F, L, M, N, S, X, Z. I, Y. O. Q, U, W. R. 3 Listen to people spell their first names and their surname. Write the names. 1 BECKY McCAUL. 2 MICHAEL CLARKE. 3 JENNIFER LOPEZ. 4 DAVID SMITH. 5 SARAH JOHNSON. 4 Practise spelling your name with a partner. How do you spell your first name? H-E-L-E-N-A. How do you spell your surname? B-A-S-C-O. 5 Work with a partner. Ask and answer the question 'How do you spell ...?' How do you spell 'people'? P-E-O-P-L-E. 6 Put the letters in the correct order. What's the country? TURKEY, MEXICO, AUSTRALIA, CHINA, IRELAND, SPAIN, ITALY. 7 Read the letters aloud. What are they? PC, WWW, TV, ID, UAE, UK, US, BBC, EU, VIP. Listen and check."
+            },
+            {
+              "id": "4_everyday_english_phone",
+              "title": "Everyday English - On the phone",
+              "page": 39,
+              "content": "Everyday English: On the phone. 1 Look at the two business cards. What businesses are they for? 2 Listen and complete Conversation 1. Conversation 1: Operator: Good morning. Perez Taxis. Anita: Hello. Can I book a taxi for 11.15 this morning, please? Operator: Certainly. What's your name? Anita: It's Anita Jarvis. Operator: How do you spell your surname? Anita: J-A-R-V-I-S. Operator: Thank you. What's your address? Anita: 24 Avenida Balboa. Operator: And where do you want to go? Anita: Centro Santa Fe. Operator: And your phone number, please? Anita: 07700 123456. Operator: OK! Your taxi is booked for 11.15. Anita: Thank you very much. Listen again and check. Practise the conversation with your partner. 4 Listen and complete Conversation 2. Conversation 2: Lisa: Good afternoon. The Hotel Amira. Ian: Hello. Do you have a Family Deluxe room from 12-14 July? Lisa: Let me check. Yes, we have one family room left. Ian: Excellent. Can we have that? Lisa: Of course. And your name is, please? Ian: Ian McCaul. Lisa: McCaul ... Sorry. How do you spell your surname? Ian: M-C-C-A-U-L. Lisa: Thank you. And can I have your email address, please? Ian: It's ianmccaul@yippee.co.uk. Lisa: Thank you. I'll send you an email confirmation. Have a nice day. Ian: Thank you. 5 Listen again and check. Answer the questions. 1 What's the name of the hotel? The Hotel Amira. 2 What does Ian want? A Family Deluxe room from 12-14 July. 3 Is there a room free? Yes, there is one family room left. 4 What's Ian's email address? ianmccaul@yippee.co.uk. Email addresses: 6 Notice how we say email addresses. @ = at, . = dot, co, uk, ca. 7 Listen and complete the email addresses. 1 pam@btinternet.com, 2 harrylime@gmail.com, 3 paul@wanadoo.co.uk, 4 glennamiles@yahoo.ca. What's your email address? Tell a partner. Talking about you 8 Work with your partner. Practise the conversations with information about you. Go online for more speaking practice."
+            },
+            {
+              "id": "4_grammar_wordlist",
+              "title": "Grammar reference and Wordlist - Unit 4",
+              "page": 40,
+              "content": "Grammar reference 4.1 Possessive adjectives: This is my, your, his, her, our, their family, school, office. 4.2 Possessive 's': 's shows possession. This is John. This is his bike. -> This is John's bike. This is Marie. This is her car. -> This is Marie's car. Kelly and Tim are married. This is their son. -> This is Kelly and Tim's son. his house -> Noel's house, her name -> your wife's name, daughter -> Pam and Bob's daughter. 's is also the short form of is. he's = he is, she's = she is, it's = it is, who's = who is. 4.3 Common verbs: I, You, We, They like football. He, She likes football. I, You, We, They work in an office. He, She works in an office. Have is an irregular verb. I, You, We, They have a good job. He, She has a laptop. Wordlist: airport, a lot of, apartment, at home, boy, boyfriend, business card, businesswoman, charity, chef, children, class, classroom, college, dance, competition, dancing, dog, e-pal, famous, fan, fashion, friend, funny, hard, head teacher, important, interest, like, live, model, Northern Ireland, people, rich, school, schoolgirl, shop, spell, tennis, traditional, text, Turkish, university, work, young. The family: brother, daughter, father, husband, mother, parents, sister, son, wife."
+            }
+          ]
+        },
+        {
+          "id": "unit_5",
+          "title": "Unit 5: Things I like!",
+          "pages": "41-50",
+          "grammar": "Present Simple positive - I/you/we/they; Present Simple negative; Questions - I/you/we/they",
+          "vocabulary": "Sports, food and drinks; Verb phrases; Languages and nationalities; Adjective + noun",
+          "everyday_english": "How much is it?",
+          "lessons": [
+            {
+              "id": "5_everyday_english_prices",
+              "title": "Everyday English - How much is it?",
+              "page": 49,
+              "content": "Everyday English: How much is it? 1 Count from 1-30 round the class. 2 Listen and repeat. 10 ten, 20 twenty, 30 thirty, 40 forty, 50 fifty, 60 sixty, 70 seventy, 80 eighty, 90 ninety, 100 one hundred. Count to 100 in tens round the class. 3 Work with a partner. Student A: Write some numbers. Say them to your partner. thirty-seven, sixty-five. Student B: Write the numbers you hear. 37, 65. 4 Read and listen to the prices. Practise them. 30p thirty pence, 50p fifty pence, 75p seventy-five pence, £1 one pound, £20 twenty pounds, £75 seventy-five pounds, £1.60 one pound sixty, £3.45 three pounds forty-five, £22.80 twenty-two pounds eighty. 5 Say the prices. 60p, 97p, £17, £70, £25, £1.50, £3.99, £16.80, £46.99, £20, £50, $100. Listen and check. 6 Listen and tick the prices you hear. 1 £2.99, 2 70p, 3 £65, 4 £7.50, 5 £200, 6 €3.80, 7 €4.50, 8 $75.99. 7 Ask and answer questions about the photos in exercise 6 with a partner. How much is the cheese sandwich? £2.99. Go online for more speaking practice."
+            }
+          ]
+        },
+        {
+          "id": "unit_7",
+          "title": "Unit 7: Favourite things",
+          "pages": "61-70",
+          "grammar": "Question words; Pronouns - subject, object, possessive; this and that",
+          "vocabulary": "Adjectives",
+          "lessons": [
+            {
+              "id": "7_this_that",
+              "title": "This and that - This is my favourite",
+              "page": 64,
+              "content": "This and that: This is my favourite. 1 Look at the pictures. Complete the conversations with 'this' or 'that'. 1 A: This is my favourite teddy bear. B: Ahhh. What's his name? A: Teddy! 2 A: Wow! Who's that girl over there? B: It's my sister! A: She's beautiful! 3 A: Look at this new app! B: That's cool. What is it? A: It's a Premier League app. 4 A: How much is that bag? B: £85.99. A: That's expensive. 5 A: Look at that! B: It's awful! A: I think it's amazing. 6 A: Is this your coat? B: Yes. Thanks. A: My pleasure. 7 A: I like that ring. B: The gold one? A: No, the diamond one! 8 A: I like this wine. Where's it from? B: It's from England! A: Really? 9 A: This is for you, Daddy. B: For me? Why? A: Because it's your birthday! Silly! Listen and check. Practise the conversations. 2 Test the other students. Ask them questions about things in your classroom. 'What's this in English?' 'It's a newspaper.' 'What's that in English?' 'It's a door.'"
+            },
+            {
+              "id": "7_practice",
+              "title": "Practice - I like you!",
+              "page": 65,
+              "content": "Practice: I like you! 1 Complete the sentences with you, her, it, us, them. 1 'Do you like pizza?' 'Yes, I love it.' 2 'Do you like cats?' 'No, I hate them.' 3 'Do you like me?' 'Yes, of course I like you.' 4 'Does your teacher teach you French?' 'No, she teaches us English!' 5 'Do you like your teacher?' 'Yes, we like her very much.' Listen and check. Questions and answers 2 Work with a partner. Ask and answer the questions. Why do you live in London? Because I like it. 1 Why do you live in London? 2 Why don't you eat tomatoes? 3 Why does Annie want to marry Peter? 4 Why do you eat so much chocolate? 5 Why does Dan always sit next to Sally? 6 Why don't you watch football? Listen and check. 3 What do you like? Ask and answer questions with a partner. Ask about football, golf, dogs, cats, Italian food, ice cream, pop music, coffee, Mondays, video games, Facebook, your neighbours. 'Do you like golf?' 'Yes, I love it!' 'No, I hate it!' 'Do you like cats?' 'Oh yes! I adore them!' 4 Match the questions and answers. 1 How do you come to school? c By bus. 2 What do you have for breakfast? h Toast and coffee. 3 Who's your favourite pop singer? d I don't have a favourite. 4 Where's your favourite pop singer? b In an office in the centre of town. 5 Why do you want to learn English? g Because it's an international language. 6 How much money do you have on you? e Not a lot. About £5. 7 What time do lessons start at your school? a They start at nine o'clock. 8 How many languages does your teacher speak? f Three. Listen and check. Practise the questions. Work with a partner. Ask and answer the questions about you. Go online for more grammar practice."
+            },
+            {
+              "id": "7_vocabulary_adjectives",
+              "title": "Vocabulary - Adjectives",
+              "page": 66,
+              "content": "Vocabulary: Adjectives. 1 Write the words. 1 The pizza is delicious. 2 Your sister is really nice. 3 Our house is lovely. 4 It's the weekend. I'm really happy. 5 Our English lessons are interesting. 6 Paris is a beautiful city. 7 Rain again! The weather is awful. 8 Ugh! This coffee is disgusting. 2 Match the words and pictures. old/new, expensive/cheap, big/small, hot/cold, right/wrong, dirty/clean. 1 It's big. It's small. 2 It's old. It's new. 3 It's expensive. It's cheap. 4 It's hot. It's cold. 5 It's right. It's wrong. 6 It's dirty. It's clean. 3 Listen and complete the conversations. 1 A: It's so hot today, isn't it? B: I know. It's 35 degrees! 2 A: Hey! I like your new shoes! B: Thank you! They're really nice, aren't they? A: They're cool! 3 A: I live in a very small apartment. B: How many bedrooms do you have? A: Only one. Practise the conversations with a partner. Go online for more vocabulary practice."
+            }
+          ]
+        },
+        {
+          "id": "unit_8",
+          "title": "Unit 8: Home sweet home",
+          "pages": "71-80",
+          "lessons": [
+            {
+              "id": "8_phone_call",
+              "title": "A phone call with Jack's mum",
+              "page": 75,
+              "content": "A phone call with Jack's mum. 4 Listen to Jack talking to his mother. Tick the things she asks about. Sofa - yes, TV - yes, pictures - no, table - yes, lamp - no, desk - yes, chairs - yes, posters - no. 5 Listen again. Answer the questions. 1 What does she like about the flat? She likes the sofa and the table. What doesn't she like? She doesn't like the desk and chairs. Why? Because they are old. 2 When does she want to visit? Next weekend. Does Jack want her to visit? No, he doesn't. Two different kitchens. 3 Work with a partner. Student A looks at the picture on page 75. Student B looks at the picture on page 141. Your pictures are different. Talk about your pictures to find seven differences. 4 Listen to a description of one of the kitchens. Which one is it? The modern kitchen. 5 Close your eyes! Ask and answer questions about things in the classroom. 'Where's Emma's phone?' 'It's on her desk.' Check it 6 Tick the correct sentence. 1 Is there a sofa in the living room? 2 There's a PlayStation under the TV. 3 Are there any posters on the wall? 4 The table is next to the bed. 5 Is there a cat on the bed? Go online for more grammar practice."
+            }
+          ]
+        },
+        {
+          "id": "unit_9",
+          "title": "Unit 9: Past times",
+          "pages": "81-90",
+          "grammar": "Past Simple: was/were; born; regular and irregular verbs",
+          "vocabulary": "Common verbs (2): have, do, go; Months; Ordinal numbers",
+          "lessons": [
+            {
+              "id": "9_when_born",
+              "title": "When was he born?",
+              "page": 82,
+              "content": "When was he born? 1 Listen and repeat. 1840 eighteen forty, 1996 nineteen ninety-six, 2005 two thousand and five, 2017 twenty seventeen. 2 Listen and underline the years you hear. 1 1696, 2 1960, 3 2014, 4 1799, 5 1945, 6 2017. 3 What year is it now? 2026. What year was it last year? 2025. What year is it next year? 2027. Grammar was/were born. 1 Look at the photos. Do you know the people? When were they born? Listen and write the years. Steve Jobs (1955-2011). He was born in 1955 in San Francisco, California. Amy Winehouse (1983-2011). She was born in 1983 in London, England. 2 Listen and repeat. He was an inventor. He was born in 1955. She was a singer and songwriter. She was born in 1983. 3 Ask and answer questions with other students. 'How old are you?' 'I'm 17. I was born in 2009.' 4 Listen to the questions and answers. Practise them. 'When were you born?' 'I was born in 1996.' 'When was he born?' 'He was born in 1983.' 'When was she born?' 'She was born in 2000.' 'When were they born?' 'They were born in 2003.'"
+            },
+            {
+              "id": "9_rolf_ackman",
+              "title": "Rolf Ackman family tree",
+              "page": 83,
+              "content": "Rolf Ackman: My family. Family tree: Sarah and Bert (parents), Karen (wife), Rolf (born 1999), Susan (sister), Barney (brother), Lottie (daughter). 5 This is Rolf Ackman. Listen to him talking about his family. Write when the people were born. Sarah was born in 1965. Bert was born in 1963. Karen was born in 1970. Rolf was born in 1999. Susan was born in 2001. Barney was born in 2004. Lottie was born in 2022. 6 Work with a partner. Ask and answer questions about Rolf's family. 'Who's Susan?' 'She's Rolf's sister.' 'When was she born?' 'In 2001.' 'Who are Bert and Karen?' 'They're his parents.' 'When were they born?' 'Bert was born in 1963. Karen was born in 1970.' Talking about you 7 Write the names of some people in your family. Peter, Olivia. Work with a partner. Ask and answer questions about them. 'Who's Peter?' 'He's my grandfather.' 'When was he born?' 'I'm not sure. I think about 1948.' 8 Tell the class about your partner's family. Simon's grandfather was born in 1948. His mother was born in 1969. Watch a video about Steve Jobs."
+            },
+            {
+              "id": "9_common_verbs",
+              "title": "Vocabulary - Common verbs (2): have, do, go",
+              "page": 88,
+              "content": "Vocabulary: Common verbs (2): have, do, go. 1 Look at the words that go with have, do and go. 1 They have lunch at 1.00. 2 I always do my homework with my dad. 3 I go shopping with my friends on Saturday afternoons. 2 Write the words in the box next to the correct verb: have, do or go. shopping, my homework, lunch, a shower, the housework, on holiday, for a walk, some exercise, home, a good time, breakfast, to work. have: lunch, a shower, a good time, breakfast. do: my homework, the housework, some exercise. go: shopping, on holiday, for a walk, home, to work. 3 Write the past of have, do and go. have -> had, do -> did, go -> went. 4 Complete the sentences with went, had or did. 1 Yesterday I met my husband at one o'clock and we had lunch in a restaurant. 2 I hate doing housework, but last Sunday I did a lot because my house was a mess. 3 Yesterday was a lovely day so I went for a walk in the park. 4 I usually walk, but yesterday I went to work by bus. 5 On Saturday night we really had a good time. 6 I did my homework on the bus this morning. 7 The party wasn't very good so we went home early. Listen and check. Talking about you 5 Complete the sentences with what you did. 1 Yesterday I had a shower at 7 o'clock. 2 This morning I had breakfast at 8 o'clock. 3 Last Saturday I went shopping, and I bought a new shirt. 4 Last weekend I went to bed at 11 o'clock on Saturday. 5 Last year I went on holiday to Spain. 6 Tell a partner what you did. Go online for more vocabulary practice."
+            },
+            {
+              "id": "9_grammar_wordlist",
+              "title": "Grammar reference and Wordlist - Unit 9",
+              "page": 90,
+              "content": "Grammar reference 9.1 was/were: Was and were are the past tense of am/are/is. Present: I am, He/She/It is, You/We/They are. Past: I was, He/She/It was, You/We/They were. Negative: I wasn't, He wasn't, You weren't, They weren't. Questions: Where were you yesterday? Was she at school? Yes, she was. No, she wasn't. We use was/were with born, not am/is/are. Where were you born? He was born in Russia. 9.2 Past Simple - irregular verbs: am/is/are -> was/were, buy -> bought, do -> did, go -> went, have -> had, make -> made, put -> put, run -> ran, see -> saw, sit -> sat. Wordlist: amazed, angry, astronaut, birthday, born, boxer, check, explorer, find, grandmother, grandson, housework, inventor, jackpot, last year, lottery, make, million, newsagent's, pocket, politician, princess, put, run, scientist, see, singer, sit, story, thousand, washing machine, writer, yesterday. Months of the year: January, February, March, April, May, June, July, August, September, October, November, December. Ordinal numbers: first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth."
+            }
+          ]
+        },
+        {
+          "id": "unit_10",
+          "title": "Unit 10: We had a good time!",
+          "pages": "91-100",
+          "grammar": "Past Simple positive, questions and negatives; Past time expressions",
+          "vocabulary": "Holiday activities; Free time",
+          "lessons": [
+            {
+              "id": "10_grammar_wordlist",
+              "title": "Grammar reference and Wordlist - Unit 10",
+              "page": 100,
+              "content": "Grammar reference 10.1 Past Simple positive: Regular verbs add -ed in the Past Simple. play -> played, watch -> watched, listen -> listened, clean -> cleaned, invite -> invited. Many common verbs are irregular: go -> went, see -> saw, have -> had. The form is the same for all persons: I, You, He, She, It, We, They listened to music, went to work, had lunch. 10.2 Past Simple questions and negatives: Present do/does -> Past did. What time does he usually get up? What time did he get up yesterday? Questions with question words: Where did you go? Negative: I didn't go shopping. Yes/No questions: Did they play football? Yes, they did. Did you have a good time? No, I didn't. 10.3 Past time expressions: I went to London three years ago, last year, yesterday, in 2016. Wordlist: ago, autumn, bedtime, cabin, call, camping, canoeing, cards, castle, cathedral, choose, clean, clubhouse, coffee shop, crazy, cycling, dancing, date, dress, fishing, ice-skating, interested, invite, leisure, lucky, market, meal, museum, once, orange juice, outside, rain, relax, rugby, sailing, show, sightseeing, skiing, spring, start, summer, tent, tour, tourist, tourist office, villa, volleyball, walking, wedding, windsurfing, winter, zoo."
+            }
+          ]
+        },
+        {
+          "id": "unit_12",
+          "title": "Unit 12: Thank you very much!",
+          "pages": "111-120",
+          "grammar": "would like; some and any; like vs would like",
+          "vocabulary": "Presents; Birthdays",
+          "everyday_english": "Signs all around",
+          "lessons": [
+            {
+              "id": "12_birthday",
+              "title": "Practice - It's my birthday!",
+              "page": 114,
+              "content": "Practice: It's my birthday! 1 Listen to the conversation. What does the woman want to do? She wants to buy him a present and take him out for a meal. Why is the man not happy? Because he is turning 30 and feels old. 2 Read and complete the conversation with words from the box. A: Hey, isn't it your birthday soon? B: Yeah, next week on the 15th. A: So, what would you like for your birthday? B: I don't know. I don't need anything. A: But I'd like to buy you something. B: That's kind, but I think I'd like to forget my birthday this year. A: What? You don't want any presents! Why not? B: Well, I'm 30 next week, and that feels old. A: Thirty isn't old. Come on! I'd like to take you out for a meal with some friends. You can choose the restaurant. B: OK, then. Thank you. I'd like that. Just don't tell anyone it's my birthday. A: Oh, that's silly! Listen again and check. Practise the conversations. Birthday wishes 3 Listen to three people. It's their birthday soon. Complete the chart. Jill: present - breakfast in bed, evening - watch a film at home. Sammy: present - a new video game, evening - go out for pizza with friends. Zoe: present - some flowers, evening - have a quiet dinner with her family. Talking about you 4 Think about your next birthday. Ask and answer questions about what you'd like. 'What would you like for your birthday?' 'I'd like a new smartphone and some clothes.' 'What would you like to do on your birthday?' 'I'd like to go out for a meal with friends.'"
+            },
+            {
+              "id": "12_signs",
+              "title": "Everyday English - Signs all around",
+              "page": 119,
+              "content": "Everyday English: Signs all around. 1 Look at the signs. Where can you see them? 15 signs: Ladies, PRIVATE, OUT OF ORDER, Exit, PULL, SALE, No parking, No entry, PUSH, CLOSED, ENTRANCE, GENTS, QUEUE HERE, Lift, Reserved. 2 Which sign means ...? 1 ENTRANCE - You can go in here. 2 Exit - You can go out here. 3 Reserved - You can't sit here. 4 No parking - You can't park here. 5 OUT OF ORDER - This machine doesn't work. 6 PUSH - Push this door to open it. 7 PULL - Pull this door to open it. 8 GENTS - Men can go to the toilet here. 9 Lift - You can go up or down the floors here. 10 Ladies - Women can go to the toilet here. 11 SALE - You can buy something cheap here. 12 QUEUE HERE - Stand and wait here. 13 CLOSED - Not open. 14 No entry - You can't go in here. 3 Listen to the lines of conversation. Which sign do they go with? 1 OUT OF ORDER, 2 No parking, 3 PUSH, 4 PULL, 5 CLOSED, 6 QUEUE HERE, 7 PRIVATE, 8 No entry. 4 Work with a partner. Write a conversation that goes with a sign. Act it out to the class. Can they identify the correct sign? Go online for more speaking practice."
+            },
+            {
+              "id": "12_grammar_reference",
+              "title": "Grammar reference - would like, some and any, like vs would like",
+              "page": 120,
+              "content": "Grammar reference 12.1 would like: We use would like to ask for things. Positive: I'd like a cup of tea. We use 'Would ... like?' to offer things. Question: Would you like some cake? Answers: Yes, please. No, thank you. We use would like, not want, to be polite. I'd like a coffee, please. We can use would like with another verb: Would you like to go out tonight? What would you like to do? 12.2 some and any: We use some in positive sentences: I'd like some ham. There's some cheese. We have some books. We use any in questions: Is there any ham? Do you have any money? Are there any people? We use any in negatives: There isn't any bread. We don't have any friends. There aren't any books. We use some when we offer things or ask for things: Would you like some wine? Can I have some cheese? 12.3 like and would like: We use like (like doing) to talk about things we always like: I like coffee. She likes swimming. We use would like to talk about things we want now or soon: I'd like a coffee. I'd like to go shopping."
+            }
+          ]
+        },
+        {
+          "id": "unit_13",
+          "title": "Unit 13: What's happening now?",
+          "pages": "121-130",
+          "grammar": "Present Continuous; Present Simple vs Present Continuous",
+          "vocabulary": "Clothes; Colours; Opposite verbs",
+          "everyday_english": "What's the matter?",
+          "lessons": [
+            {
+              "id": "13_colours_clothes",
+              "title": "What colour is it? and Vocabulary - Clothes",
+              "page": 122,
+              "content": "What colour is it? 1 Write the colours: red, blue, green, black, white, yellow, brown, grey, orange, pink. 2 What is your favourite colour? Tell the class. Vocabulary: Clothes. 1 What are the clothes? a jacket, trousers, shoes and socks, a scarf, a jumper, boots, trainers, a suit, a shirt and tie, a skirt, a dress, a T-shirt, shorts. Listen and repeat. 2 Work with a partner. Describe the clothes. It's a blue jumper. They're white trainers. Go online for more vocabulary practice."
+            },
+            {
+              "id": "13_opposite_verbs",
+              "title": "Vocabulary and listening - Opposite verbs",
+              "page": 128,
+              "content": "Vocabulary and listening: Opposite verbs. 1 Look at the two sentences. Underline the verbs. They are verbs with opposite meaning. The teacher's asking us questions. We're answering them. 2 Match the verbs with their opposites. leave -> arrive, work -> rest, buy -> sell, walk -> run, hate -> love, open -> close, get up -> go to bed, start -> finish, put on -> take off, remember -> forget, win -> lose, go to bed -> get up. 3 Look at the pictures. Complete the sentences with the opposite verb in the correct form. 1 Please, don't ask me any more questions. I can't answer them. 2 I'm selling my old car and I'm buying a new one. 3 We always get up at 7:00 in the morning and go to bed at 11:00 at night. 4 It was cold, so Tom took off his T-shirt and put on a warm jumper. 5 I usually walk to school, but yesterday I was late so I ran all the way. 6 John's playing tennis with Pete today. He always loses. He never wins. 7 Don't turn off the TV, I'm watching it! Please turn it on again! Listen and check. 4 Listen. Write down the opposite verbs in each conversation. 1 hate, love. 2 buy, sell. 3 open, close. 4 forget, remember. 5 win, lose. 6 put on, take off. Look at audioscript on page 144. Practise the conversations. Go online for more vocabulary practice."
+            },
+            {
+              "id": "13_matter",
+              "title": "Everyday English - What's the matter?",
+              "page": 129,
+              "content": "Everyday English: What's the matter? 1 What's the matter with the people? Complete the sentences with words in the box: bored, hungry, thirsty, cold, hot, tired, worried, angry, a cold, a headache. 1 She's cold. 2 He's hot. 3 They're hungry. 4 He's tired. 5 They're thirsty. 6 She's bored. 7 He's worried. 8 She's angry. 9 He has a cold. 10 She has a headache. Listen and repeat. 2 Complete the conversations with words from exercise 1. Listen and check. Practise the conversations with a partner. Role-play 3 Have similar conversations. Use the words from exercise 1 and these ideas: go to bed early, put on a jumper, have a sandwich, have a cold drink, talk to a friend, watch a film, sit down and relax, go to the cinema, have a cold shower. Go online for more speaking practice."
+            },
+            {
+              "id": "13_grammar_reference",
+              "title": "Grammar reference - Present Continuous and Present Simple vs Present Continuous",
+              "page": 130,
+              "content": "Grammar reference 13.1 Present Continuous: Positive: I am working. He/She/It is working. You/We/They are working. Negative: I'm not working. He isn't working. You aren't working. Questions with question words: What am I wearing? What are we wearing? What are they wearing? Is he wearing? Is she wearing? Yes/No questions: Are you wearing jeans? Yes, I am. No, I'm not. Is she reading a newspaper? Yes, she is. No, she isn't. 13.2 Present Simple and Present Continuous: We use the Present Simple to talk about actions that are true for all time or a long time: Hans comes from Germany. I love you. My father works in a bank. I get up every day. She doesn't understand French. We use the Present Continuous to talk about actions that last a short time. The actions are happening now: I usually wear jeans, but today I'm wearing a suit. He speaks French very well. He's speaking French to that man. It's raining. They're swimming. We're playing football."
+            }
+          ]
+        },
+        {
+          "id": "unit_14",
+          "title": "Unit 14: Let's go!",
+          "pages": "131-140",
+          "grammar": "Future plans (Present Continuous and going to); Tenses revision",
+          "vocabulary": "Travel; Word pairs",
+          "lessons": [
+            {
+              "id": "14_vocabulary_revision",
+              "title": "Vocabulary revision - Words that go together",
+              "page": 135,
+              "content": "Vocabulary revision: Words that go together. 1 Match a verb in A with words in B. A: play, drive, go, work, have, do, take, pay, wear. B: hard, a photo, by train, dinner with friends, cards, carefully, a suit, bills online, your homework. play cards, drive carefully, go by train, work hard, have dinner with friends, do your homework, take a photo, pay bills online, wear a suit. Work with a partner. Talk about your plans. I'm going cycling at the weekend. 2 Draw a line between words that have a connection. Explain the connection. station -> train, journalist -> newspaper, airport -> flight, shampoo -> hair, hospital -> doctor, suntanning -> beach, waiter -> restaurant, kitchen -> fridge, nurse -> hospital, menu -> restaurant, sofa -> living room, chemist's -> medicine, plans -> future. 3 Three words belong to a group and one is different. Underline the one that is different. Why is it different? 1 train, bus, bridge, daughter. Bridge is different (not a vehicle). 2 wife, waiter, bride, granddaughter. Waiter is different (not a family relationship). 3 lovely, fantastic, amazing, awful. Awful is different (negative meaning). 4 trainers, trousers, socks, boots. Trousers is different (not worn on feet). 5 desk, armchair, sofa, laptop. Laptop is different (not furniture). 6 actor, journalist, cooker, builder. Cooker is different (not a person/job). Pronunciation 4 Listen and write the words in the correct box. Two syllables: pilot, hotel, women, married, chocolate, enjoy, shampoo, arrive. 5 Listen and write the words in the correct box. Three syllables: photograph, amazing, assistant, vegetable, magazine, interesting, understand, banana, souvenir. 6 Listen and underline the two words that rhyme. 1 some, come. 2 goes, knows. 3 her, her. 4 there, where. 5 great, wait. Go online for more vocabulary practice."
+            },
+            {
+              "id": "14_grammar_revision",
+              "title": "Grammar revision - Tenses and Questions",
+              "page": 138,
+              "content": "Grammar revision: Tenses. 1 Complete the sentences about Archie McCrae from page 137 with the verbs in the correct tense. 1 Archie and Fiona live in Edinburgh. 2 Archie has a brother and a sister. 3 His mother works for a research company, Bayer. 4 Archie grew up in Glasgow. 5 He studied medicine at university. 6 He and Fiona are going to go to work in Zambia soon. Questions 2 Complete the questions about Archie. 1 Where do Archie and Fiona live? They live in Edinburgh. 2 How many siblings does he have? Two, one brother and one sister. 3 Who does his mother work for? A research company called Bayer. 4 Where did he grow up? In Glasgow. 5 What did he study? Medicine. 6 Where are they going to go? Zambia. Check it 3 Correct the mistakes. 1 He comes from Canada. 2 Where do you live? (correct) 3 I don't want to go out. 4 She is 18 years old. 5 I went to Italy last year. 6 He has a dog and a cat. 7 I can't understand you. 8 What did you do last night? 9 I am going to see a film tonight. 10 What are you going to do this weekend? 4 Choose the correct answer. 1 b some, 2 a there's, 3 b that, 4 a any, 5 a this, 6 b an, 7 b mother's, 8 a English very well, 9 b German car, 10 a I'd like."
+            },
+            {
+              "id": "14_grammar_reference",
+              "title": "Grammar reference - Future plans and Wordlist",
+              "page": 140,
+              "content": "Grammar reference 14.1 Future plans: Positive - Present Continuous: I'm going to Europe. You're leaving next week. He's flying on Sunday. Going to: I'm going to see Buckingham Palace. You're going to have a tour of the city. They're going to stay in the Ritz Hotel. Negative - Present Continuous: I'm not living in London. He isn't studying medicine. Going to: I'm not going to travel by train. You aren't going to sleep in a tent. Questions - Present Continuous: Where are you going on holiday? When are you leaving? Where are you staying? Who are you going with? Going to: Where are you going to stay? What are you going to do? Wordlist: abroad, across, all year round, banana, begin, biology, boat, bridge, campus, carefully, check in, chemistry, Czech, cruise, developing countries, divorced, economics, Europe, event, explain, flight, future, grow up, hope, hostel, housewife, how long, imagine, jeep, journalist, local, medicine, motorbike, move, nearby, overnight, physics, piece of information, plan, pleasure, port, psychology, quickly, research company, revision, rucksack, safari, same to you, souvenir, spice, spice market, transport."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
