@@ -1,0 +1,80 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-04-21T12:00:00.000Z",
+  "source": "Headway Beginner 5th Edition – Emojis in both languages",
+  "books": [
+    {
+      "id": "headway_beginner_5th_edition",
+      "title": "Headway Beginner 5th Edition 📘",
+      "description": "Complete student book content with emojis in English and Arabic text.",
+      "units": [
+        {
+          "id": "unit_1",
+          "title": "Unit 1: Hello! 👋",
+          "pages": "7-14",
+          "grammar": "am/is/are; my/your; This is …; How are you?",
+          "vocabulary": "What's this in English?; Numbers 1-10; Plurals",
+          "everyday_english": "Good morning!",
+          "lessons": [
+            {
+              "id": "1_starter",
+              "title": "What's your name? 🤔",
+              "arabic_title": "ما اسمك؟ 🤔",
+              "page": 8,
+              "content": "Hello 👋, I'm Leo. Hello 👋, I'm Mara. Hello 👋, I'm Nari. Grammar am/is, my/your. 1️⃣ Read and listen 🎧. Serena: Hello 👋. I'm Serena. What's your name? 🤔 Tom: My name's Tom. Serena: Hello 👋, Tom. 2️⃣ Listen again and repeat 🔁. GRAMMAR SPOT 💡: I'm = I am, What's = What is, name's = name is. 3️⃣ Stand up and practise 🧍. Hello 👋, I'm Serena. What's your name? 🤔 My name's Tom.",
+              "translation": "مرحباً 👋، أنا ليو. مرحباً 👋، أنا مارا. مرحباً 👋، أنا ناري. القواعد: أنا/هو، لي/لك. 1️⃣ اقرأ واستمع 🎧. سيرينا: مرحباً 👋، أنا سيرينا. ما اسمك؟ 🤔 توم: اسمي توم. سيرينا: مرحباً 👋 توم. 2️⃣ استمع مرة أخرى وكرر 🔁. ملاحظة القواعد 💡: I'm تعني أنا، What's تعني ما هو، name's تعني الاسم هو. 3️⃣ قف وتدرب 🧍. مرحباً 👋، أنا سيرينا. ما اسمك؟ 🤔 اسمي توم."
+            },
+            {
+              "id": "1_introductions",
+              "title": "Introductions - This is ... 👥",
+              "arabic_title": "تقديم - هذا هو 👥",
+              "page": 9,
+              "content": "1️⃣ Read and listen 🎧. Serena: Tom, this is Carlos. 👋 Carlos, this is Tom. 👋 Tom: Hello 👋, Carlos. Carlos: Hello 👋, Tom. 2️⃣ Practise in groups of three 👥👥👥. Nice to meet you 😊. 3️⃣ Read and listen 🎧. Paul: Hello 👋. My name's Paul Bartosz. Sarah: Hello 👋, I'm Sarah Taylor. Nice to meet you 😊. Paul: Nice to meet you, too 😊. 4️⃣ Practise in pairs 👥. Say your first name and surname 📝.",
+              "translation": "1️⃣ اقرأ واستمع 🎧. سيرينا: توم، هذا كارلوس. 👋 كارلوس، هذا توم. 👋 توم: مرحباً 👋 كارلوس. كارلوس: مرحباً 👋 توم. 2️⃣ تدرب في مجموعات من ثلاثة 👥👥👥. تشرفت بمقابلتك 😊. 3️⃣ اقرأ واستمع 🎧. بول: مرحباً 👋، اسمي بول بارتوش. سارة: مرحباً 👋، أنا سارة تايلور. تشرفت بمقابلتك 😊. بول: وأنا أيضاً 😊. 4️⃣ تدرب في أزواج 👥. قل اسمك الأول واسم عائلتك 📝."
+            },
+            {
+              "id": "1_how_are_you",
+              "title": "How are you? 😊",
+              "arabic_title": "كيف حالك؟ 😊",
+              "page": 10,
+              "content": "1️⃣ Read and listen 🎧. Artur: Hi 👋, Dinos. How are you? 😊 Dinos: Fine ✅, thanks 🙏, Artur. And you? 🤔 Artur: I'm OK 👌, thanks 🙏. Check it ✅ 4️⃣ Complete the conversations 💬. A: Hello 👋. My name's Usha. What's your name? 🤔 B: My name's Ben.",
+              "translation": "1️⃣ اقرأ واستمع 🎧. أرتور: مرحباً 👋 دينوس، كيف حالك؟ 😊 دينوس: بخير ✅، شكراً 🙏 أرتور. وأنت؟ 🤔 أرتور: أنا بخير 👌، شكراً 🙏. تحقق ✅ 4️⃣ أكمل المحادثات 💬. أ: مرحباً 👋، اسمي أوشا. ما اسمك؟ 🤔 ب: اسمي بن."
+            },
+            {
+              "id": "1_everyday_english",
+              "title": "Everyday English - Good morning! 🌅",
+              "arabic_title": "الإنجليزية اليومية - صباح الخير 🌅",
+              "page": 11,
+              "content": "1️⃣ Complete the conversations 💬. A: Good morning! 🌅 What a lovely day! ☀️ B: Good morning! 🌅 Yes, it is lovely! ☀️ 2️⃣ Put the words in the correct order 📝. How are you today? 😊 Fine ✅, thanks 🙏. And you? 🤔 Photos 📸: morning greetings 🌅, coffee shop ☕, car goodbye 👋, bedtime 🛌. Listen 🎧 and check ✅. Practise the conversations 💬.",
+              "translation": "1️⃣ أكمل المحادثات 💬. أ: صباح الخير! 🌅 يا له من يوم جميل! ☀️ ب: صباح الخير! 🌅 نعم، إنه جميل! ☀️ 2️⃣ رتب الكلمات بالترتيب الصحيح 📝. كيف حالك اليوم؟ 😊 بخير ✅، شكراً 🙏. وأنت؟ 🤔 صور 📸: تحيات الصباح 🌅، مقهى ☕، وداع السيارة 👋، وقت النوم 🛌. استمع 🎧 وتحقق ✅. تدرب على المحادثات 💬."
+            },
+            {
+              "id": "1_vocabulary",
+              "title": "Vocabulary - What's this in English? 🔍",
+              "arabic_title": "المفردات - ماذا يسمى هذا بالإنجليزية؟ 🔍",
+              "page": 12,
+              "content": "1️⃣ Write the words ✍️. Pictures 🖼️: phone 📱, photo 🖼️, bike 🚲, house 🏠. an apple 🍎, a bus 🚌, a phone 📱, a laptop 💻, an umbrella ☔, a bike 🚲, a house 🏠, a bag 🎒, a watch ⌚, a book 📖, a photo 🖼️, a sandwich 🥪. GRAMMAR SPOT 💡: a book 📖 (book), an apple 🍎 (apple), a watch ⌚ (watch), an umbrella ☔ (umbrella).",
+              "translation": "1️⃣ اكتب الكلمات ✍️. صور 🖼️: هاتف 📱، صورة 🖼️، دراجة 🚲، منزل 🏠. تفاحة 🍎، حافلة 🚌، هاتف 📱، حاسوب محمول 💻، مظلة ☔، دراجة 🚲، منزل 🏠، حقيبة 🎒، ساعة ⌚، كتاب 📖، صورة 🖼️، شطيرة 🥪. ملاحظة القواعد 💡: كتاب 📖، تفاحة 🍎، ساعة ⌚، مظلة ☔."
+            },
+            {
+              "id": "1_numbers_plurals",
+              "title": "Numbers 1-10 and plurals 🔢",
+              "arabic_title": "الأرقام 1-10 والجمع 🔢",
+              "page": 13,
+              "content": "1️⃣ one 1️⃣, 2️⃣ two 2️⃣, 3️⃣ three 3️⃣, 4️⃣ four 4️⃣, 5️⃣ five 5️⃣, 6️⃣ six 6️⃣, 7️⃣ seven 7️⃣, 8️⃣ eight 8️⃣, 9️⃣ nine 9️⃣, 🔟 ten 🔟. 3️⃣ Write the numbers ✍️. five books 📚 (5 books), three bikes 🚲🚲🚲 (3 bikes), eight houses 🏠🏠🏠🏠🏠🏠🏠🏠 (8 houses), four umbrellas ☔☔☔☔ (4 umbrellas), six photos 🖼️🖼️🖼️🖼️🖼️🖼️ (6 photos), seven laptops 💻💻💻💻💻💻💻 (7 laptops), nine watches ⌚⌚⌚⌚⌚⌚⌚⌚⌚ (9 watches), ten apples 🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎 (10 apples), four sandwiches 🥪🥪🥪🥪 (4 sandwiches). GRAMMAR SPOT 💡: Singular: one book 📖. Plural: two books 📚📚.",
+              "translation": "1️⃣ واحد 1️⃣، 2️⃣ اثنان 2️⃣، 3️⃣ ثلاثة 3️⃣، 4️⃣ أربعة 4️⃣، 5️⃣ خمسة 5️⃣، 6️⃣ ستة 6️⃣، 7️⃣ سبعة 7️⃣، 8️⃣ ثمانية 8️⃣، 9️⃣ تسعة 9️⃣، 🔟 عشرة 🔟. 3️⃣ اكتب الأرقام ✍️. خمسة كتب 📚، ثلاث دراجات 🚲🚲🚲، ثمانية منازل 🏠🏠🏠🏠🏠🏠🏠🏠، أربع مظلات ☔☔☔☔، ست صور 🖼️🖼️🖼️🖼️🖼️🖼️، سبعة حواسيب محمولة 💻💻💻💻💻💻💻، تسع ساعات ⌚⌚⌚⌚⌚⌚⌚⌚⌚، عشر تفاحات 🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎، أربع شطائر 🥪🥪🥪🥪. ملاحظة القواعد 💡: المفرد: كتاب واحد 📖. الجمع: كتابان 📚📚."
+            },
+            {
+              "id": "1_grammar_wordlist",
+              "title": "Grammar reference and Wordlist - Unit 1 📚",
+              "arabic_title": "مرجع القواعد وقائمة المفردات - الوحدة 1 📚",
+              "page": 14,
+              "content": "Grammar reference 💡 1.1 am/is/are: I am a student 👨‍🎓. You are a teacher 👩‍🏫. My name is Serena. Wordlist 📖: apple 🍎, bag 🎒, bike 🚲, book 📖, bus 🚌, bye 👋, coffee ☕, hello 👋, hi 👋, house 🏠, laptop 💻, morning 🌅, nice 😊, phone 📱, photo 🖼️, sandwich 🥪, umbrella ☔, watch ⌚. Numbers 1-10 🔢: one 1️⃣, two 2️⃣, three 3️⃣, four 4️⃣, five 5️⃣, six 6️⃣, seven 7️⃣, eight 8️⃣, nine 9️⃣, ten 🔟.",
+              "translation": "مرجع القواعد 💡 1.1 أنا/هو/هي: أنا طالب 👨‍🎓. أنت معلم 👩‍🏫. اسمي سيرينا. قائمة المفردات 📖: تفاحة 🍎، حقيبة 🎒، دراجة 🚲، كتاب 📖، حافلة 🚌، وداعاً 👋، قهوة ☕، مرحباً 👋، مرحباً 👋، منزل 🏠، حاسوب محمول 💻، صباح 🌅، جميل 😊، هاتف 📱، صورة 🖼️، شطيرة 🥪، مظلة ☔، ساعة ⌚. الأرقام 1-10 🔢: واحد 1️⃣، اثنان 2️⃣، ثلاثة 3️⃣، أربعة 4️⃣، خمسة 5️⃣، ستة 6️⃣، سبعة 7️⃣، ثمانية 8️⃣، تسعة 9️⃣، عشرة 🔟."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
