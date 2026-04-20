@@ -1,0 +1,42 @@
+{
+  "lastUpdated": "2026-04-21T10:30:00.000Z",
+  "students": [
+    {
+      "studentId": "DEV-ABC123XYZ",
+      "studentName": "Ahmed Hassan",
+      "deviceId": "DEV-ABC123XYZ",
+      "registrationDate": "2026-04-21T08:00:00.000Z",
+      "lessonsStudied": [
+        {
+          "lessonId": "lesson1_1",
+          "lessonTitle": "What's your name?",
+          "unitId": "unit1",
+          "unitTitle": "Unit 1: Hello!",
+          "date": "2026-04-21",
+          "time": "10:30:00",
+          "kampalaTime": "2026-04-21T10:30:00.000Z",
+          "sentencesCompleted": 5,
+          "totalSentences": 5,
+          "repetitionsNeeded": 5,
+          "repetitionsDone": 5,
+          "score": 100,
+          "grade": "excellent",
+          "timeSpentMinutes": 15,
+          "mistakes": 0
+        }
+      ],
+      "totalLessons": 1,
+      "totalSentencesLearned": 5,
+      "averageScore": 100,
+      "lastActive": "2026-04-21T10:30:00.000Z"
+    }
+  ],
+  "dailyStats": {
+    "2026-04-21": {
+      "totalStudents": 1,
+      "totalLessonsCompleted": 1,
+      "totalSentencesLearned": 5,
+      "averageScore": 100
+    }
+  }
+}
