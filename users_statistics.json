@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-04-20T10:16:50.825Z",
+  "lastUpdated": "2026-04-20T10:17:11.727Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-20T10:16:50.825Z",
-      "totalCorrect": 3,
-      "totalAttempts": 3,
+      "lastActive": "2026-04-20T10:17:11.727Z",
+      "totalCorrect": 4,
+      "totalAttempts": 4,
       "dailyRecords": {
         "4/20/2026": [
           {
-            "title": "Bread - ÃÂ®ÃÂ¨ÃÂ²",
+            "title": "Bread - ÃÂÃÂ®ÃÂÃÂ¨ÃÂÃÂ²",
             "meaning": "bread",
             "isCorrect": true,
             "timestamp": 1776680184787,
@@ -19,7 +19,7 @@
             "userAttempt": "bread"
           },
           {
-            "title": "Bread - Ø®Ø¨Ø²",
+            "title": "Bread - ÃÂ®ÃÂ¨ÃÂ²",
             "meaning": "bread",
             "isCorrect": true,
             "timestamp": 1776680202290,
@@ -28,13 +28,22 @@
             "userAttempt": "bread"
           },
           {
-            "title": "Bread - خبز",
+            "title": "Bread - Ø®Ø¨Ø²",
             "meaning": "bread",
             "isCorrect": true,
             "timestamp": 1776680210402,
             "time": "13:16",
             "grade": "excellent",
             "userAttempt": "bread"
+          },
+          {
+            "title": "Cheese - جبن",
+            "meaning": "cheese",
+            "isCorrect": true,
+            "timestamp": 1776680231271,
+            "time": "13:17",
+            "grade": "good",
+            "userAttempt": "cheese"
           }
         ]
       },
