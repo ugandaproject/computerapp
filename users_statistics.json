@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-04-20T10:23:28.821Z",
+  "lastUpdated": "2026-04-20T10:23:37.921Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-20T10:23:28.821Z",
-      "totalCorrect": 2,
-      "totalAttempts": 4,
+      "lastActive": "2026-04-20T10:23:37.921Z",
+      "totalCorrect": 3,
+      "totalAttempts": 5,
       "dailyRecords": {
         "4/20/2026": [
           {
-            "title": "They are + verb-ing - ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ",
+            "title": "They are + verb-ing - ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
             "meaning": "They are playing football",
             "isCorrect": true,
             "timestamp": 1776680554697,
@@ -19,7 +19,7 @@
             "userAttempt": "they are playing football"
           },
           {
-            "title": "Ask / Answer - ÃÂÃÂ³ÃÂ£ÃÂ / ÃÂÃÂ¬ÃÂÃÂ¨",
+            "title": "Ask / Answer - ÃÂÃÂÃÂÃÂ³ÃÂÃÂ£ÃÂÃÂ / ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ¨",
             "meaning": "ask - answer",
             "isCorrect": true,
             "timestamp": 1776680584787,
@@ -28,7 +28,7 @@
             "userAttempt": "ask answer"
           },
           {
-            "title": "Buy / Sell - ÙØ´ØªØ±Ù / ÙØ¨ÙØ¹",
+            "title": "Buy / Sell - ÃÂÃÂ´ÃÂªÃÂ±ÃÂ / ÃÂÃÂ¨ÃÂÃÂ¹",
             "meaning": "buy - sell",
             "isCorrect": false,
             "timestamp": 1776680599375,
@@ -37,13 +37,22 @@
             "userAttempt": "bison"
           },
           {
-            "title": "Buy / Sell - يشتري / يبيع",
+            "title": "Buy / Sell - ÙØ´ØªØ±Ù / ÙØ¨ÙØ¹",
             "meaning": "buy - sell",
             "isCorrect": false,
             "timestamp": 1776680608357,
             "time": "13:23",
             "grade": "wrong",
             "userAttempt": "bison"
+          },
+          {
+            "title": "Buy / Sell - يشتري / يبيع",
+            "meaning": "buy - sell",
+            "isCorrect": true,
+            "timestamp": 1776680617496,
+            "time": "13:23",
+            "grade": "excellent",
+            "userAttempt": "buy sell"
           }
         ]
       },
