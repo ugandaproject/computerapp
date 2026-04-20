@@ -1,19 +1,28 @@
 {
-  "lastUpdated": "2026-04-20T10:16:25.226Z",
+  "lastUpdated": "2026-04-20T10:16:42.773Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-20T10:16:25.226Z",
-      "totalCorrect": 1,
-      "totalAttempts": 1,
+      "lastActive": "2026-04-20T10:16:42.773Z",
+      "totalCorrect": 2,
+      "totalAttempts": 2,
       "dailyRecords": {
         "4/20/2026": [
+          {
+            "title": "Bread - Ø®Ø¨Ø²",
+            "meaning": "bread",
+            "isCorrect": true,
+            "timestamp": 1776680184787,
+            "time": "13:16",
+            "grade": "good",
+            "userAttempt": "bread"
+          },
           {
             "title": "Bread - خبز",
             "meaning": "bread",
             "isCorrect": true,
-            "timestamp": 1776680184787,
+            "timestamp": 1776680202290,
             "time": "13:16",
             "grade": "good",
             "userAttempt": "bread"
