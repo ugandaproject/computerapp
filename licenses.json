@@ -4072,6 +4072,21 @@
       "lastActive": "2026-04-20T14:15:32.581Z",
       "sessionToken": "sess_u02srbaco3q",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG332898102415",
+      "name": "Ragig",
+      "phone": "+256784836773",
+      "paid": false,
+      "regDate": "2026-04-21T13:48:52.901Z",
+      "expiryDate": "2026-04-22T13:48:52.901Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-10D7-07A6",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-04-21T13:48:52.901Z",
+      "sessionToken": "sess_1wfgqtxioly",
+      "ipAddress": "client-side"
     }
   ]
 }
