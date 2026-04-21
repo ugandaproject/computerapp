@@ -1,0 +1,446 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-04-21T12:00:00.000Z",
+  "source": "Headway Beginner 5th Edition – Clean English and Arabic text",
+  "books": [
+    {
+      "id": "headway_beginner_5th_edition",
+      "title": "Headway Beginner 5th Edition",
+      "description": "Complete student book content with English content and Arabic translations.",
+      "units": [
+        {
+          "id": "unit_1",
+          "title": "Unit 1: Hello!",
+          "pages": "7-14",
+          "grammar": "am/is/are; my/your; This is …; How are you?",
+          "vocabulary": "What's this in English?; Numbers 1-10; Plurals",
+          "everyday_english": "Good morning!",
+          "lessons": [
+            {
+              "id": "1_starter",
+              "title": "What's your name?",
+              "arabic_title": "ما اسمك؟",
+              "page": 8,
+              "content": "Hello, I'm Leo. Hello, I'm Mara. Hello, I'm Nari. Grammar am/is, my/your. 1 Read and listen. Serena: Hello. I'm Serena. What's your name? Tom: My name's Tom. Serena: Hello, Tom. 2 Listen again and repeat. GRAMMAR SPOT I'm = I am, What's = What is, name's = name is. 3 Stand up and practise. Hello, I'm Serena. What's your name? My name's Tom.",
+              "translation": "مرحبا، أنا ليو. مرحبا، أنا مارا. مرحبا، أنا ناري. القواعد: أنا/هو، لي/لك. 1 اقرأ واستمع. سيرينا: مرحبا، أنا سيرينا. ما اسمك؟ توم: اسمي توم. سيرينا: مرحبا توم. 2 استمع مرة أخرى وكرر. ملاحظة القواعد: I'm تعني أنا، What's تعني ما هو، name's تعني الاسم هو. 3 قف وتدرب. مرحبا، أنا سيرينا. ما اسمك؟ اسمي توم."
+            },
+            {
+              "id": "1_introductions",
+              "title": "Introductions - This is ...",
+              "arabic_title": "تقديم - هذا هو",
+              "page": 9,
+              "content": "1 Read and listen. Serena: Tom, this is Carlos. Carlos, this is Tom. Tom: Hello, Carlos. Carlos: Hello, Tom. 2 Practise in groups of three. Nice to meet you. 3 Read and listen. Paul: Hello. My name's Paul Bartosz. Sarah: Hello, I'm Sarah Taylor. Nice to meet you. Paul: Nice to meet you, too. 4 Practise in pairs. Say your first name and surname.",
+              "translation": "1 اقرأ واستمع. سيرينا: توم، هذا كارلوس. كارلوس، هذا توم. توم: مرحبا كارلوس. كارلوس: مرحبا توم. 2 تدرب في مجموعات من ثلاثة. تشرفت بمقابلتك. 3 اقرأ واستمع. بول: مرحبا، اسمي بول بارتوش. سارة: مرحبا، أنا سارة تايلور. تشرفت بمقابلتك. بول: وأنا أيضا. 4 تدرب في أزواج. قل اسمك الأول واسم عائلتك."
+            },
+            {
+              "id": "1_how_are_you",
+              "title": "How are you?",
+              "arabic_title": "كيف حالك؟",
+              "page": 10,
+              "content": "1 Read and listen. Artur: Hi, Dinos. How are you? Dinos: Fine, thanks, Artur. And you? Artur: I'm OK, thanks. Check it 4 Complete the conversations. A: Hello. My name's Usha. What's your name? B: My name's Ben.",
+              "translation": "1 اقرأ واستمع. أرتور: مرحبا دينوس، كيف حالك؟ دينوس: بخير، شكرا أرتور. وأنت؟ أرتور: أنا بخير، شكرا. تحقق 4 أكمل المحادثات. أ: مرحبا، اسمي أوشا. ما اسمك؟ ب: اسمي بن."
+            },
+            {
+              "id": "1_everyday_english",
+              "title": "Everyday English - Good morning!",
+              "arabic_title": "الإنجليزية اليومية - صباح الخير",
+              "page": 11,
+              "content": "1 Complete the conversations. A: Good morning! What a lovely day! B: Good morning! Yes, it is lovely! 2 Put the words in the correct order. How are you today? Fine, thanks. And you? Photos: morning greetings, coffee shop, car goodbye, bedtime. Listen and check. Practise the conversations.",
+              "translation": "1 أكمل المحادثات. أ: صباح الخير! يا له من يوم جميل! ب: صباح الخير! نعم، إنه جميل! 2 رتب الكلمات بالترتيب الصحيح. كيف حالك اليوم؟ بخير، شكرا. وأنت؟ صور: تحيات الصباح، مقهى، وداع السيارة، وقت النوم. استمع وتحقق. تدرب على المحادثات."
+            },
+            {
+              "id": "1_vocabulary",
+              "title": "Vocabulary - What's this in English?",
+              "arabic_title": "المفردات - ماذا يسمى هذا بالإنجليزية؟",
+              "page": 12,
+              "content": "1 Write the words. Pictures: phone, photo, bike, house. an apple, a bus, a phone, a laptop, an umbrella, a bike, a house, a bag, a watch, a book, a photo, a sandwich. GRAMMAR SPOT a book, an apple, a watch, an umbrella.",
+              "translation": "1 اكتب الكلمات. صور: هاتف، صورة، دراجة، منزل. تفاحة، حافلة، هاتف، حاسوب محمول، مظلة، دراجة، منزل، حقيبة، ساعة، كتاب، صورة، شطيرة. ملاحظة القواعد: كتاب، تفاحة، ساعة، مظلة."
+            },
+            {
+              "id": "1_numbers_plurals",
+              "title": "Numbers 1-10 and plurals",
+              "arabic_title": "الأرقام 1-10 والجمع",
+              "page": 13,
+              "content": "1 one, 2 two, 3 three, 4 four, 5 five, 6 six, 7 seven, 8 eight, 9 nine, 10 ten. 3 Write the numbers. five books, three bikes, eight houses, four umbrellas, six photos, seven laptops, nine watches, ten apples, four sandwiches. GRAMMAR SPOT Singular: one book. Plural: two books.",
+              "translation": "1 واحد، 2 اثنان، 3 ثلاثة، 4 أربعة، 5 خمسة، 6 ستة، 7 سبعة، 8 ثمانية، 9 تسعة، 10 عشرة. 3 اكتب الأرقام. خمسة كتب، ثلاث دراجات، ثمانية منازل، أربع مظلات، ست صور، سبعة حواسيب محمولة، تسع ساعات، عشر تفاحات، أربع شطائر. ملاحظة القواعد: المفرد: كتاب واحد. الجمع: كتابان."
+            },
+            {
+              "id": "1_grammar_wordlist",
+              "title": "Grammar reference and Wordlist - Unit 1",
+              "arabic_title": "مرجع القواعد وقائمة المفردات - الوحدة 1",
+              "page": 14,
+              "content": "Grammar reference 1.1 am/is/are: I am a student. You are a teacher. My name is Serena. Wordlist: apple, bag, bike, book, bus, bye, coffee, hello, hi, house, laptop, morning, nice, phone, photo, sandwich, umbrella, watch. Numbers 1-10: one, two, three, four, five, six, seven, eight, nine, ten.",
+              "translation": "مرجع القواعد 1.1 أنا/هو/هي: أنا طالب. أنت معلم. اسمي سيرينا. قائمة المفردات: تفاحة، حقيبة، دراجة، كتاب، حافلة، وداعا، قهوة، مرحبا، مرحبا، منزل، حاسوب محمول، صباح، جميل، هاتف، صورة، شطيرة، مظلة، ساعة. الأرقام 1-10: واحد، اثنان، ثلاثة، أربعة، خمسة، ستة، سبعة، ثمانية، تسعة، عشرة."
+            }
+          ]
+        },
+        {
+          "id": "unit_2",
+          "title": "Unit 2: Your world",
+          "pages": "15-22",
+          "grammar": "he/she/they; his/her",
+          "vocabulary": "Countries; Adjectives",
+          "everyday_english": "Numbers 11-30",
+          "reading": "A holiday in New York",
+          "lessons": [
+            {
+              "id": "2_starter",
+              "title": "She's from China",
+              "arabic_title": "هي من الصين",
+              "page": 16,
+              "content": "Countries: Argentina, Australia, Brazil, Canada, China, England, Egypt, France, Italy, Japan, Spain, Russia, Turkey, the United States. Grammar he/she, his/her. His name's Antonio. He's from Italy. Her name's Nuwa. She's from China.",
+              "translation": "الدول: الأرجنتين، أستراليا، البرازيل، كندا، الصين، إنجلترا، مصر، فرنسا، إيطاليا، اليابان، إسبانيا، روسيا، تركيا، الولايات المتحدة. القواعد: هو/هي، له/لها. اسمه أنطونيو. هو من إيطاليا. اسمها نوا. هي من الصين."
+            },
+            {
+              "id": "2_cities_countries",
+              "title": "Practice - Cities and countries",
+              "arabic_title": "تدريب - المدن والدول",
+              "page": 18,
+              "content": "Where's Venice? It's in Italy. Where's Moscow? It's in Russia. Student A and Student B photos and prompts for pairwork.",
+              "translation": "أين البندقية؟ إنها في إيطاليا. أين موسكو؟ إنها في روسيا. صور الطالب أ والطالب ب وأسئلة للعمل الثنائي."
+            },
+            {
+              "id": "2_reading_holiday",
+              "title": "Reading and vocabulary - A holiday in New York",
+              "arabic_title": "قراءة ومفردات - عطلة في نيويورك",
+              "page": 20,
+              "content": "1 Read and listen. This is a photo of Claude and Holly Duval from Montreal in Canada. They are on holiday in New York City. Holly is from Canada and Claude is from France. They are married. Holly is an architect. Her office is in the centre of Montreal. Claude is a doctor. His hospital is in the centre of Montreal, too. 2 Complete the sentences. 3 Complete the questions about Claude and Holly. GRAMMAR SPOT Write is or are. You are a teacher. She is an architect. He is a doctor. They are from Montreal.",
+              "translation": "1 اقرأ واستمع. هذه صورة لكلود وهولي دوفال من مونتريال في كندا. هم في عطلة في مدينة نيويورك. هولي من كندا وكلود من فرنسا. هم متزوجون. هولي مهندسة معمارية. مكتبها في وسط مونتريال. كلود طبيب. مستشفاه في وسط مونتريال أيضا. 2 أكمل الجمل. 3 أكمل الأسئلة عن كلود وهولي. ملاحظة القواعد: اكتب is أو are. أنت معلم. هي مهندسة معمارية. هو طبيب. هم من مونتريال."
+            },
+            {
+              "id": "2_numbers_11_30",
+              "title": "Everyday English - Numbers 11-30",
+              "arabic_title": "الإنجليزية اليومية - الأرقام 11-30",
+              "page": 21,
+              "content": "11 eleven, 12 twelve, 13 thirteen, 14 fourteen, 15 fifteen, 16 sixteen, 17 seventeen, 18 eighteen, 19 nineteen, 20 twenty, 21 twenty-one, 22 twenty-two, 23 twenty-three, 24 twenty-four, 25 twenty-five, 26 twenty-six, 27 twenty-seven, 28 twenty-eight, 29 twenty-nine, 30 thirty. How old are you? I'm 27.",
+              "translation": "11 أحد عشر، 12 اثنا عشر، 13 ثلاثة عشر، 14 أربعة عشر، 15 خمسة عشر، 16 ستة عشر، 17 سبعة عشر، 18 ثمانية عشر، 19 تسعة عشر، 20 عشرون، 21 واحد وعشرون، 22 اثنان وعشرون، 23 ثلاثة وعشرون، 24 أربعة وعشرون، 25 خمسة وعشرون، 26 ستة وعشرون، 27 سبعة وعشرون، 28 ثمانية وعشرون، 29 تسعة وعشرون، 30 ثلاثون. كم عمرك؟ عمري 27."
+            },
+            {
+              "id": "2_grammar_wordlist",
+              "title": "Grammar reference and Wordlist - Unit 2",
+              "arabic_title": "مرجع القواعد وقائمة المفردات - الوحدة 2",
+              "page": 22,
+              "content": "Grammar reference 2.1 Possessive adjectives: My name's Serena. What's your name? His name's Antonio. What's her name? 2.2 Questions with question words: Where are you from? Where is she from? What's this in English? How old are you? 2.3 am/are/is: I am from England. You are a student. He is a student. She is a student. They are in New York. Wordlist: amazing, architect, awful, beautiful, building, centre, city, country, doctor, fantastic, favourite, great, hospital, map, married, office, on holiday, weather, where, world. Countries: Argentina, Australia, Brazil, Canada, China, Egypt, England, France, Italy, Japan, Russia, Spain, Turkey, the United States.",
+              "translation": "مرجع القواعد 2.1 صفات الملكية: اسمي سيرينا. ما اسمك؟ اسمه أنطونيو. ما اسمها؟ 2.2 أسئلة بأدوات الاستفهام: من أين أنت؟ من أين هي؟ ماذا يسمى هذا بالإنجليزية؟ كم عمرك؟ 2.3 أنا/هو/هي: أنا من إنجلترا. أنت طالب. هو طالب. هي طالبة. هم في نيويورك. قائمة المفردات: مذهل، مهندس معماري، فظيع، جميل، مبنى، مركز، مدينة، دولة، طبيب، رائع، مفضل، عظيم، مستشفى، خريطة، متزوج، مكتب، في عطلة، الطقس، أين، عالم. الدول: الأرجنتين، أستراليا، البرازيل، كندا، الصين، مصر، إنجلترا، فرنسا، إيطاليا، اليابان، روسيا، إسبانيا، تركيا، الولايات المتحدة."
+            }
+          ]
+        },
+        {
+          "id": "unit_3",
+          "title": "Unit 3: All about you",
+          "pages": "23-30",
+          "grammar": "Negatives - he/she isn't; Questions and short answers; Negatives - I'm not, they/we aren't",
+          "vocabulary": "Jobs; Personal information",
+          "lessons": [
+            {
+              "id": "3_vocabulary_jobs",
+              "title": "What's his job?",
+              "arabic_title": "ما وظيفته؟",
+              "page": 24,
+              "content": "1 Match the jobs and the photos. a teacher, a police officer, a taxi driver, a builder, a receptionist, a businessman, a nurse, an architect. Listen and repeat. 2 Listen to the questions and answers and repeat. What's his job? He's a businessman. What's her job? She's an architect. 3 Look at the photos. Ask and answer. 4 What's your job? I'm a student. I'm a builder.",
+              "translation": "1 طابق الوظائف والصور. معلم، ضابط شرطة، سائق تاكسي، عامل بناء، موظف استقبال، رجل أعمال، ممرض، مهندس معماري. استمع وكرر. 2 استمع للأسئلة والأجوبة وكرر. ما وظيفته؟ هو رجل أعمال. ما وظيفتها؟ هي مهندسة معمارية. 3 انظر إلى الصور. اسأل وأجب. 4 ما وظيفتك؟ أنا طالب. أنا عامل بناء."
+            },
+            {
+              "id": "3_grammar_negatives",
+              "title": "Grammar - Negatives - he/she isn't plus Questions and answers",
+              "arabic_title": "القواعد - النفي مع هو/هي وأسئلة وأجوبة",
+              "page": 25,
+              "content": "Grammar Negatives - he/she isn't. Sunil: Teacher? Student? He isn't a teacher. He's a student. Dana: Nurse? Doctor? She isn't a nurse. She's a doctor. Personal information. Read about Adam. Surname: Clarke, First name: Adam, Country: England, Address: 37 Kings Street, Manchester, Phone: 07700 955031, Age: 27, Job: Police Officer, Married: No. Complete the questions and answers. What's his surname? Clarke. What's his first name? Adam. Where's he from? England. What's his address? 37 Kings Street, Manchester. What's his phone number? 07700 955031. How old is he? He's 27. What's his job? He's a police officer. Is he married? No, he isn't. Is Adam from Australia? No, he isn't. Is he from Canada? No, he isn't. Is he from England? Yes, he is.",
+              "translation": "قواعد النفي - هو/هي ليس. سونيل: معلم؟ طالب؟ هو ليس معلما. هو طالب. دانا: ممرضة؟ طبيبة؟ هي ليست ممرضة. هي طبيبة. معلومات شخصية. اقرأ عن آدم. اسم العائلة: كلارك، الاسم الأول: آدم، البلد: إنجلترا، العنوان: 37 شارع كينغز، مانشستر، الهاتف: 07700 955031، العمر: 27، الوظيفة: ضابط شرطة، متزوج: لا. أكمل الأسئلة والأجوبة. ما اسم عائلته؟ كلارك. ما اسمه الأول؟ آدم. من أين هو؟ إنجلترا. ما عنوانه؟ 37 شارع كينغز، مانشستر. ما رقم هاتفه؟ 07700 955031. كم عمره؟ عمره 27. ما وظيفته؟ هو ضابط شرطة. هل هو متزوج؟ لا، هو ليس متزوجا. هل آدم من أستراليا؟ لا، هو ليس من أستراليا. هل هو من كندا؟ لا، هو ليس من كندا. هل هو من إنجلترا؟ نعم، هو من إنجلترا."
+            },
+            {
+              "id": "3_reading_paris",
+              "title": "Reading and listening - We're in Paris!",
+              "arabic_title": "قراءة واستماع - نحن في باريس!",
+              "page": 28,
+              "content": "Read the newspaper article about the football team, Scottish Rovers. Scottish Rovers in Paris: Scottish team in football final. The five-a-side football team, Scottish Rovers, are in the final in Paris. The team from Scotland are in the European final! They are all from Glasgow. Two of the girls, Shona and Gillian Robertson, are sisters. Shona is the captain of the team. 'We are so happy we're in Paris,' says Shona. 'Paris is beautiful and the Eiffel Tower is amazing!' The final is tomorrow and the girls are very excited. 'We're all fine,' says Gillian. 'We aren't nervous at all! It's fantastic to be in the final and it's great to be in Paris.' Today it's coffee time in a French cafe. Tomorrow they play Atletico Bilbao from Spain in the final! Answer the questions. 1 Where are the girls? They are in Paris. 2 Is it the world final? No, it's the European final. 3 When is the final? Tomorrow. 4 Are they nervous or excited? They are excited.",
+              "translation": "اقرأ المقالة الصحفية عن فريق كرة القدم، سكوتيش روفرز. سكوتيش روفرز في باريس: فريق اسكتلندي في نهائي كرة القدم. فريق كرة القدم الخماسي، سكوتيش روفرز، في النهائي في باريس. الفريق من اسكتلندا في النهائي الأوروبي! كلهم من غلاسكو. اثنتان من الفتيات، شونا وجيليان روبرتسون، أختان. شونا هي قائدة الفريق. 'نحن سعداء جدا لأننا في باريس،' تقول شونا. 'باريس جميلة وبرج إيفل رائع!' النهائي غدا والفتيات متحمسات جدا. 'كلنا بخير،' تقول جيليان. 'نحن لسنا متوترين على الإطلاق! إنه رائع أن نكون في النهائي ومن الرائع أن نكون في باريس.' اليوم هو وقت القهوة في مقهى فرنسي. غدا يلعبون ضد أتليتكو بيلباو من إسبانيا في النهائي! أجب عن الأسئلة. 1 أين الفتيات؟ هم في باريس. 2 هل هو النهائي العالمي؟ لا، إنه النهائي الأوروبي. 3 متى النهائي؟ غدا. 4 هل هم متوترون أم متحمسون؟ هم متحمسون."
+            },
+            {
+              "id": "3_everyday_english",
+              "title": "Everyday English - Social expressions",
+              "arabic_title": "الإنجليزية اليومية - التعبيرات الاجتماعية",
+              "page": 29,
+              "content": "1 Listen and look at the photos. 2 Complete the conversations. A: I'm so sorry. B: That's OK. No problem. C: A black coffee, please. D: That's 2.40 pounds. C: Thanks very much. E: Excuse me! Where's the station? F: I'm sorry. I don't know. G: Thank you very much. That's very kind. H: You're welcome. I: I'm sorry. I don't understand. K: Excuse me! Where are the toilets? L: They're over there. K: Thanks a lot. 3 Practise the conversations.",
+              "translation": "1 استمع وانظر إلى الصور. 2 أكمل المحادثات. أ: أنا آسف جدا. ب: لا بأس. لا مشكلة. ج: قهوة سوداء من فضلك. د: ذلك 2.40 جنيه. ج: شكرا جزيلا. ه: عفوا! أين المحطة؟ و: أنا آسف. لا أعرف. ز: شكرا جزيلا. هذا لطيف جدا. ح: عفوا. ط: أنا آسف. أنا لا أفهم. ك: عفوا! أين دورات المياه؟ ل: هناك. ك: شكرا كثيرا. 3 تدرب على المحادثات."
+            }
+          ]
+        },
+        {
+          "id": "unit_4",
+          "title": "Unit 4: Family and friends",
+          "pages": "31-40",
+          "grammar": "Possessive adjectives; Possessive 's; Common verbs: have/has, love, like, work",
+          "vocabulary": "The family; The alphabet",
+          "lessons": [
+            {
+              "id": "4_vocabulary_family",
+              "title": "Vocabulary - Who are they?",
+              "arabic_title": "المفردات - من هم؟",
+              "page": 33,
+              "content": "Listen and repeat. mother, daughter, sister, wife, father, son, brother, husband, parents, children. Look at the family tree. Ian married to Jenny. Their children: Michael and Becky. Complete the sentences. 1 Jenny is Ian's wife. 2 Ian is Jenny's husband. 3 Becky is Jenny and Ian's daughter. 4 Michael is Jenny and Ian's son. 5 Ian is Becky's father. 6 Jenny is Michael's mother. 7 Becky is Michael's sister. 8 Michael is Becky's brother. 9 Jenny and Ian are Michael and Becky's parents. 10 Michael and Becky are Jenny and Ian's children.",
+              "translation": "استمع وكرر. أم، ابنة، أخت، زوجة، أب، ابن، أخ، زوج، والدان، أطفال. انظر إلى شجرة العائلة. إيان متجوز جيني. أطفالهم: مايكل وبيكي. أكمل الجمل. 1 جيني هي زوجة إيان. 2 إيان هو زوج جيني. 3 بيكي هي ابنة جيني وإيان. 4 مايكل هو ابن جيني وإيان. 5 إيان هو والد بيكي. 6 جيني هي والدة مايكل. 7 بيكي هي أخت مايكل. 8 مايكل هو أخ بيكي. 9 جيني وإيان هما والدا مايكل وبيكي. 10 مايكل وبيكي هما أطفال جيني وإيان."
+            },
+            {
+              "id": "4_alphabet",
+              "title": "Vocabulary and speaking - The alphabet",
+              "arabic_title": "المفردات والتحدث - الحروف الأبجدية",
+              "page": 38,
+              "content": "The alphabet. Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz. Listen to the letters of the alphabet. Practise them. Listen and practise the groups of letters. A, H, J, K. B, C, D, E, G, P, T, V. F, L, M, N, S, X, Z. I, Y. O. Q, U, W. R. Listen to people spell their first names and their surname. Write the names. How do you spell your first name? How do you spell your surname?",
+              "translation": "الحروف الأبجدية. استمع إلى حروف الأبجدية. تدرب عليها. استمع وتدرب على مجموعات الحروف. استمع إلى الناس يتهجون أسمائهم الأولى وأسماء عائلاتهم. اكتب الأسماء. كيف تتهجى اسمك الأول؟ كيف تتهجى اسم عائلتك؟"
+            },
+            {
+              "id": "4_everyday_english_phone",
+              "title": "Everyday English - On the phone",
+              "arabic_title": "الإنجليزية اليومية - على الهاتف",
+              "page": 39,
+              "content": "Conversation 1: Operator: Good morning. Perez Taxis. Anita: Hello. Can I book a taxi for 11.15 this morning, please? Operator: Certainly. What's your name? Anita: It's Anita Jarvis. Operator: How do you spell your surname? Anita: J-A-R-V-I-S. Operator: Thank you. What's your address? Anita: 24 Avenida Balboa. Operator: And where do you want to go? Anita: Centro Santa Fe. Operator: And your phone number, please? Anita: 07700 123456. Operator: OK! Your taxi is booked for 11.15. Anita: Thank you very much. Conversation 2: Lisa: Good afternoon. The Hotel Amira. Ian: Hello. Do you have a Family Deluxe room from 12-14 July? Lisa: Let me check. Yes, we have one family room left. Ian: Excellent. Can we have that? Lisa: Of course. And your name is, please? Ian: Ian McCaul. Lisa: McCaul ... Sorry. How do you spell your surname? Ian: M-C-C-A-U-L. Lisa: Thank you. And can I have your email address, please? Ian: It's ianmccaul@yippee.co.uk. Lisa: Thank you. I'll send you an email confirmation.",
+              "translation": "المحادثة 1: الموظف: صباح الخير. تاكسي بيريز. أنيتا: مرحبا. هل يمكنني حجز تاكسي الساعة 11.15 صباح اليوم من فضلك؟ الموظف: بالتأكيد. ما اسمك؟ أنيتا: أنا أنيتا جارفيس. الموظف: كيف تتهجى اسم عائلتك؟ أنيتا: ج-أ-ر-ف-ي-س. الموظف: شكرا. ما عنوانك؟ أنيتا: 24 أفينيدا بالبوا. الموظف: وإلى أين تريدين الذهاب؟ أنيتا: سنترو سانتا في. الموظف: ورقم هاتفك من فضلك؟ أنيتا: 07700 123456. الموظف: حسنا! تاكسي محجوز الساعة 11.15. أنيتا: شكرا جزيلا. المحادثة 2: ليزا: مساء الخير. فندق أميرة. إيان: مرحبا. هل لديكم غرفة عائلة ديلوكس من 12 إلى 14 يوليو؟ ليزا: دعني أتحقق. نعم، لدينا غرفة عائلة واحدة متبقية. إيان: ممتاز. هل يمكننا حجزها؟ ليزا: بالطبع. وما اسمك من فضلك؟ إيان: إيان ماكول. ليزا: ماكول... آسفة. كيف تتهجى اسم عائلتك؟ إيان: م-ك-ك-أ-و-ل. ليزا: شكرا. وهل يمكنني الحصول على بريدك الإلكتروني من فضلك؟ إيان: إنه ianmccaul@yippee.co.uk. ليزا: شكرا. سأرسل لك تأكيدا عبر البريد الإلكتروني."
+            },
+            {
+              "id": "4_grammar_wordlist",
+              "title": "Grammar reference and Wordlist - Unit 4",
+              "arabic_title": "مرجع القواعد وقائمة المفردات - الوحدة 4",
+              "page": 40,
+              "content": "Grammar reference 4.1 Possessive adjectives: This is my, your, his, her, our, their family. 4.2 Possessive 's': This is John's bike. This is Marie's car. This is Kelly and Tim's son. 4.3 Common verbs: I like football. He likes football. I work in an office. He works in an office. I have a good job. He has a laptop. Wordlist: brother, daughter, father, husband, mother, parents, sister, son, wife, airport, apartment, children, college, friend, people, school, university, work.",
+              "translation": "مرجع القواعد 4.1 صفات الملكية: هذه عائلتي، عائلتك، عائلته، عائلتها، عائلتنا، عائلتهم. 4.2 الملكية ب: هذه دراجة جون. هذه سيارة ماري. هذا ابن كيلي وتيم. 4.3 الأفعال الشائعة: أنا أحب كرة القدم. هو يحب كرة القدم. أنا أعمل في مكتب. هو يعمل في مكتب. لدي وظيفة جيدة. لديه حاسوب محمول. قائمة المفردات: أخ، ابنة، أب، زوج، أم، والدان، أخت، ابن، زوجة، مطار، شقة، أطفال، كلية، صديق، ناس، مدرسة، جامعة، عمل."
+            }
+          ]
+        },
+        {
+          "id": "unit_5",
+          "title": "Unit 5: Things I like!",
+          "pages": "41-50",
+          "grammar": "Present Simple positive - I/you/we/they; Present Simple negative; Questions - I/you/we/they",
+          "vocabulary": "Sports, food and drinks; Verb phrases; Languages and nationalities; Adjective + noun",
+          "everyday_english": "How much is it?",
+          "lessons": [
+            {
+              "id": "5_everyday_english_prices",
+              "title": "Everyday English - How much is it?",
+              "arabic_title": "الإنجليزية اليومية - كم سعره؟",
+              "page": 49,
+              "content": "Count from 1-30. Listen and repeat. 10 ten, 20 twenty, 30 thirty, 40 forty, 50 fifty, 60 sixty, 70 seventy, 80 eighty, 90 ninety, 100 one hundred. Read and listen to the prices. Practise them. 30p thirty pence, 50p fifty pence, 75p seventy-five pence, 1 pound one pound, 20 pounds twenty pounds, 75 pounds seventy-five pounds, 1.60 one pound sixty, 3.45 three pounds forty-five, 22.80 twenty-two pounds eighty. Ask and answer questions about the photos. How much is the cheese sandwich? 2.99 pounds.",
+              "translation": "عد من 1 إلى 30. استمع وكرر. 10 عشرة، 20 عشرون، 30 ثلاثون، 40 أربعون، 50 خمسون، 60 ستون، 70 سبعون، 80 ثمانون، 90 تسعون، 100 مئة. اقرأ واستمع إلى الأسعار. تدرب عليها. 30 بنسا ثلاثون بنسا، 50 بنسا خمسون بنسا، 75 بنسا خمسة وسبعون بنسا، 1 جنيه جنيه واحد، 20 جنيها عشرون جنيها، 75 جنيها خمسة وسبعون جنيها، 1.60 جنيه جنيه وستون بنسا، 3.45 جنيه ثلاثة جنيهات وخمسة وأربعون بنسا، 22.80 جنيها اثنان وعشرون جنيها وثمانون بنسا. اسأل وأجب عن الأسئلة حول الصور. كم سعر شطيرة الجبن؟ 2.99 جنيه."
+            }
+          ]
+        },
+        {
+          "id": "unit_7",
+          "title": "Unit 7: Favourite things",
+          "pages": "61-70",
+          "grammar": "Question words; Pronouns - subject, object, possessive; this and that",
+          "vocabulary": "Adjectives",
+          "lessons": [
+            {
+              "id": "7_this_that",
+              "title": "This and that - This is my favourite",
+              "arabic_title": "هذا وذاك - هذا هو المفضل لدي",
+              "page": 64,
+              "content": "Complete the conversations with 'this' or 'that'. 1 A: This is my favourite teddy bear. B: Ahhh. What's his name? A: Teddy! 2 A: Wow! Who's that girl over there? B: It's my sister! A: She's beautiful! 3 A: Look at this new app! B: That's cool. What is it? A: It's a Premier League app. 4 A: How much is that bag? B: 85.99 pounds. A: That's expensive. 5 A: Look at that! B: It's awful! A: I think it's amazing. 6 A: Is this your coat? B: Yes. Thanks. A: My pleasure. 7 A: I like that ring. B: The gold one? A: No, the diamond one! 8 A: I like this wine. Where's it from? B: It's from England! A: Really? 9 A: This is for you, Daddy. B: For me? Why? A: Because it's your birthday! Silly! Practise the conversations.",
+              "translation": "أكمل المحادثات باستخدام 'هذا' أو 'ذاك'. 1 أ: هذا هو دبدوبي المفضل. ب: آه. ما اسمه؟ أ: تيدي! 2 أ: واو! من تلك الفتاة هناك؟ ب: إنها أختي! أ: إنها جميلة! 3 أ: انظر إلى هذا التطبيق الجديد! ب: هذا رائع. ما هو؟ أ: إنه تطبيق الدوري الممتاز. 4 أ: كم سعر تلك الحقيبة؟ ب: 85.99 جنيها. أ: هذا غالي. 5 أ: انظر إلى ذلك! ب: إنه فظيع! أ: أعتقد أنه مذهل. 6 أ: هل هذا معطفك؟ ب: نعم. شكرا. أ: عفوا. 7 أ: أحب ذلك الخاتم. ب: الذهبي؟ أ: لا، الماسي! 8 أ: أحب هذا النبيذ. من أين هو؟ ب: إنه من إنجلترا! أ: حقا؟ 9 أ: هذه لك يا أبي. ب: لي؟ لماذا؟ أ: لأنه عيد ميلادك! يا لسخافتك! تدرب على المحادثات."
+            },
+            {
+              "id": "7_practice",
+              "title": "Practice - I like you!",
+              "arabic_title": "تدريب - أنا أحبك!",
+              "page": 65,
+              "content": "Complete the sentences with you, her, it, us, them. 1 'Do you like pizza?' 'Yes, I love it.' 2 'Do you like cats?' 'No, I hate them.' 3 'Do you like me?' 'Yes, of course I like you.' 4 'Does your teacher teach you French?' 'No, she teaches us English!' 5 'Do you like your teacher?' 'Yes, we like her very much.' Match the questions and answers. 1 How do you come to school? By bus. 2 What do you have for breakfast? Toast and coffee. 3 Who's your favourite pop singer? I don't have a favourite. 4 Where's your favourite pop singer? In an office. 5 Why do you want to learn English? Because it's an international language. 6 How much money do you have on you? Not a lot. About 5 pounds. 7 What time do lessons start at your school? They start at nine o'clock. 8 How many languages does your teacher speak? Three.",
+              "translation": "أكمل الجمل باستخدام you، her، it، us، them. 1 'هل تحب البيتزا؟' 'نعم، أنا أحبها.' 2 'هل تحب القطط؟' 'لا، أنا أكرهها.' 3 'هل تحبني؟' 'نعم، بالطبع أنا أحبك.' 4 'هل يعلمك معلمك الفرنسية؟' 'لا، إنها تعلمنا الإنجليزية!' 5 'هل تحب معلمتك؟' 'نعم، نحن نحبها كثيرا.' طابق الأسئلة والأجوبة. 1 كيف تأتي إلى المدرسة؟ بالحافلة. 2 ماذا تتناول على الإفطار؟ توست وقهوة. 3 من هو مغني البوب المفضل لديك؟ ليس لدي مفضل. 4 أين هو مغني البوب المفضل لديك؟ في مكتب. 5 لماذا تريد تعلم الإنجليزية؟ لأنها لغة دولية. 6 كم من المال معك؟ ليس كثيرا. حوالي 5 جنيهات. 7 في أي وقت تبدأ الدروس في مدرستك؟ تبدأ في الساعة التاسعة. 8 كم لغة يتحدث معلمك؟ ثلاث."
+            },
+            {
+              "id": "7_vocabulary_adjectives",
+              "title": "Vocabulary - Adjectives",
+              "arabic_title": "المفردات - الصفات",
+              "page": 66,
+              "content": "Write the words. 1 The pizza is delicious. 2 Your sister is really nice. 3 Our house is lovely. 4 It's the weekend. I'm really happy. 5 Our English lessons are interesting. 6 Paris is a beautiful city. 7 Rain again! The weather is awful. 8 Ugh! This coffee is disgusting. Match the words and pictures. old/new, expensive/cheap, big/small, hot/cold, right/wrong, dirty/clean. 1 It's big. It's small. 2 It's old. It's new. 3 It's expensive. It's cheap. 4 It's hot. It's cold. 5 It's right. It's wrong. 6 It's dirty. It's clean.",
+              "translation": "اكتب الكلمات. 1 البيتزا لذيذة. 2 أختك لطيفة حقا. 3 منزلنا جميل. 4 إنه عطلة نهاية الأسبوع. أنا سعيد حقا. 5 دروس الإنجليزية لدينا ممتعة. 6 باريس مدينة جميلة. 7 مطر مرة أخرى! الطقس فظيع. 8 ياه! هذه القهوة مقززة. طابق الكلمات والصور. قديم/جديد، غالي/رخيص، كبير/صغير، حار/بارد، صحيح/خطأ، وسخ/نظيف. 1 إنه كبير. إنه صغير. 2 إنه قديم. إنه جديد. 3 إنه غالي. إنه رخيص. 4 إنه حار. إنه بارد. 5 إنه صحيح. إنه خطأ. 6 إنه وسخ. إنه نظيف."
+            }
+          ]
+        },
+        {
+          "id": "unit_8",
+          "title": "Unit 8: Home sweet home",
+          "pages": "71-80",
+          "lessons": [
+            {
+              "id": "8_phone_call",
+              "title": "A phone call with Jack's mum",
+              "arabic_title": "مكالمة هاتفية مع أم جاك",
+              "page": 75,
+              "content": "Listen to Jack talking to his mother. Tick the things she asks about. Sofa, TV, table, desk, chairs. Listen again. Answer the questions. 1 What does she like about the flat? She likes the sofa and the table. What doesn't she like? She doesn't like the desk and chairs. Why? Because they are old. 2 When does she want to visit? Next weekend. Does Jack want her to visit? No, he doesn't. Two different kitchens. Work with a partner. Your pictures are different. Talk about your pictures to find seven differences. Listen to a description of one of the kitchens. Which one is it? The modern kitchen. Ask and answer questions about things in the classroom. 'Where's Emma's phone?' 'It's on her desk.'",
+              "translation": "استمع إلى جاك يتحدث مع والدته. ضع علامة على الأشياء التي تسأل عنها. أريكة، تلفاز، طاولة، مكتب، كراسي. استمع مرة أخرى. أجب عن الأسئلة. 1 ما الذي يعجبها في الشقة؟ تعجبها الأريكة والطاولة. ما الذي لا يعجبها؟ لا يعجبها المكتب والكراسي. لماذا؟ لأنهما قديمان. 2 متى تريد الزيارة؟ نهاية الأسبوع القادم. هل يريد جاك زيارتها؟ لا، لا يريد. مطبخان مختلفان. اعمل مع شريك. صوركم مختلفة. تحدث عن صوركم لتجد سبعة اختلافات. استمع إلى وصف أحد المطابخ. أي واحد هو؟ المطبخ الحديث. اسأل وأجب عن الأسئلة حول الأشياء في الفصل. 'أين هاتف إيما؟' 'إنه على مكتبها.'"
+            }
+          ]
+        },
+        {
+          "id": "unit_9",
+          "title": "Unit 9: Past times",
+          "pages": "81-90",
+          "grammar": "Past Simple: was/were; born; regular and irregular verbs",
+          "vocabulary": "Common verbs: have, do, go; Months; Ordinal numbers",
+          "lessons": [
+            {
+              "id": "9_when_born",
+              "title": "When was he born?",
+              "arabic_title": "متى ولد؟",
+              "page": 82,
+              "content": "Listen and repeat. 1840 eighteen forty, 1996 nineteen ninety-six, 2005 two thousand and five, 2017 twenty seventeen. Grammar was/were born. Steve Jobs (1955-2011). He was born in 1955 in San Francisco, California. Amy Winehouse (1983-2011). She was born in 1983 in London, England. He was an inventor. She was a singer and songwriter. Ask and answer questions. 'How old are you?' 'I'm 17. I was born in 2009.' 'When were you born?' 'I was born in 1996.' 'When was he born?' 'He was born in 1983.' 'When was she born?' 'She was born in 2000.' 'When were they born?' 'They were born in 2003.'",
+              "translation": "استمع وكرر. 1840 ثمانية عشر وأربعون، 1996 تسعة عشر وستة وتسعون، 2005 ألفان وخمسة، 2017 عشرون وسبعة عشر. القواعد: ولد. ستيف جوبز (1955-2011). ولد في عام 1955 في سان فرانسيسكو، كاليفورنيا. إيمي واينهاوس (1983-2011). ولدت في عام 1983 في لندن، إنجلترا. كان مخترعا. كانت مغنية وكاتبة أغاني. اسأل وأجب. 'كم عمرك؟' 'عمري 17. لقد ولدت في 2009.' 'متى ولدت؟' 'لقد ولدت في 1996.' 'متى ولد؟' 'لقد ولد في 1983.' 'متى ولدت؟' 'لقد ولدت في 2000.' 'متى ولدوا؟' 'لقد ولدوا في 2003.'"
+            },
+            {
+              "id": "9_rolf_ackman",
+              "title": "Rolf Ackman family tree",
+              "arabic_title": "شجرة عائلة رولف أكمان",
+              "page": 83,
+              "content": "Rolf Ackman: My family. Family tree: Sarah and Bert (parents), Karen (wife), Rolf (born 1999), Susan (sister), Barney (brother), Lottie (daughter). Listen to him talking about his family. Write when the people were born. Sarah was born in 1965. Bert was born in 1963. Karen was born in 1970. Rolf was born in 1999. Susan was born in 2001. Barney was born in 2004. Lottie was born in 2022. Work with a partner. Ask and answer questions about Rolf's family. 'Who's Susan?' 'She's Rolf's sister.' 'When was she born?' 'In 2001.' 'Who are Bert and Karen?' 'They're his parents.' 'When were they born?' 'Bert was born in 1963. Karen was born in 1970.'",
+              "translation": "رولف أكمان: عائلتي. شجرة العائلة: سارة وبيرت (الوالدان)، كارين (الزوجة)، رولف (ولد 1999)، سوزان (الأخت)، بارني (الأخ)، لوتي (الابنة). استمع إليه وهو يتحدث عن عائلته. اكتب متى ولد الناس. سارة ولدت في 1965. بيرت ولد في 1963. كارين ولدت في 1970. رولف ولد في 1999. سوزان ولدت في 2001. بارني ولد في 2004. لوتي ولدت في 2022. اعمل مع شريك. اسأل وأجب عن أسئلة حول عائلة رولف. 'من هي سوزان؟' 'إنها أخت رولف.' 'متى ولدت؟' 'في 2001.' 'من هما بيرت وكارين؟' 'إنهما والداه.' 'متى ولدا؟' 'بيرت ولد في 1963. كارين ولدت في 1970.'"
+            },
+            {
+              "id": "9_common_verbs",
+              "title": "Vocabulary - Common verbs: have, do, go",
+              "arabic_title": "المفردات - الأفعال الشائعة: يملك، يفعل، يذهب",
+              "page": 88,
+              "content": "Look at the words that go with have, do and go. 1 They have lunch at 1.00. 2 I always do my homework with my dad. 3 I go shopping with my friends on Saturday afternoons. Write the past of have, do and go. have -> had, do -> did, go -> went. Complete the sentences with went, had or did. 1 Yesterday I met my husband at one o'clock and we had lunch in a restaurant. 2 I hate doing housework, but last Sunday I did a lot because my house was a mess. 3 Yesterday was a lovely day so I went for a walk in the park. 4 I usually walk, but yesterday I went to work by bus. 5 On Saturday night we really had a good time. 6 I did my homework on the bus this morning. 7 The party wasn't very good so we went home early.",
+              "translation": "انظر إلى الكلمات التي تأتي مع have و do و go. 1 هم يتناولون الغداء الساعة 1.00. 2 أنا دائما أقوم بواجبي المنزلي مع والدي. 3 أذهب للتسوق مع أصدقائي بعد ظهر يوم السبت. اكتب الماضي của have و do و go. have -> had، do -> did، go -> went. أكمل الجمل باستخدام went أو had أو did. 1 أمس قابلت زوجي الساعة الواحدة وتناولنا الغداء في مطعم. 2 أكره القيام بالأعمال المنزلية، لكن الأحد الماضي قمت بالكثير لأن منزلي كان فوضوي. 3 أمس كان يوما جميلا فذهبت في نزهة في الحديقة. 4 عادة أمشي، لكن أمس ذهبت إلى العمل بالحافلة. 5 ليلة السبت قضينا وقتا ممتعا حقا. 6 قمت بواجبي المنزلي في الحافلة هذا الصباح. 7 لم تكن الحفلة جيدة جدا فذهبنا إلى المنزل مبكرا."
+            },
+            {
+              "id": "9_grammar_wordlist",
+              "title": "Grammar reference and Wordlist - Unit 9",
+              "arabic_title": "مرجع القواعد وقائمة المفردات - الوحدة 9",
+              "page": 90,
+              "content": "Grammar reference 9.1 was/were: I was, He/She/It was, You/We/They were. Negative: I wasn't, He wasn't, You weren't. Questions: Where were you yesterday? Was she at school? Yes, she was. No, she wasn't. We use was/were with born. Where were you born? He was born in Russia. 9.2 Past Simple - irregular verbs: am/is/are -> was/were, buy -> bought, do -> did, go -> went, have -> had, make -> made, put -> put, run -> ran, see -> saw, sit -> sat. Months of the year: January, February, March, April, May, June, July, August, September, October, November, December. Ordinal numbers: first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth.",
+              "translation": "مرجع القواعد 9.1 كان/كانت: أنا كنت، هو/هي/هو كان، أنتم/نحن/هم كانوا. النفي: أنا لم أكن، هو لم يكن، أنتم لم تكونوا. الأسئلة: أين كنت أمس؟ هل كانت في المدرسة؟ نعم، كانت. لا، لم تكن. نستخدم was/were مع ولد. أين ولدت؟ ولد في روسيا. 9.2 الماضي البسيط - الأفعال غير المنتظمة: أنا/هو/هي -> كان/كانت، اشترى -> اشترى، فعل -> فعل، ذهب -> ذهب، كان لديه -> كان لديه، صنع -> صنع، وضع -> وضع، ركض -> ركض، رأى -> رأى، جلس -> جلس. أشهر السنة: يناير، فبراير، مارس، أبريل، مايو، يونيو، يوليو، أغسطس، سبتمبر، أكتوبر، نوفمبر، ديسمبر. الأعداد الترتيبية: الأول، الثاني، الثالث، الرابع، الخامس، السادس، السابع، الثامن، التاسع، العاشر."
+            }
+          ]
+        },
+        {
+          "id": "unit_10",
+          "title": "Unit 10: We had a good time!",
+          "pages": "91-100",
+          "grammar": "Past Simple positive, questions and negatives; Past time expressions",
+          "vocabulary": "Holiday activities; Free time",
+          "lessons": [
+            {
+              "id": "10_grammar_wordlist",
+              "title": "Grammar reference and Wordlist - Unit 10",
+              "arabic_title": "مرجع القواعد وقائمة المفردات - الوحدة 10",
+              "page": 100,
+              "content": "Grammar reference 10.1 Past Simple positive: Regular verbs add -ed. play -> played, watch -> watched, listen -> listened. Irregular verbs: go -> went, see -> saw, have -> had. 10.2 Past Simple questions and negatives: What time did he get up yesterday? I didn't go shopping. Did they play football? Yes, they did. Did you have a good time? No, I didn't. 10.3 Past time expressions: I went to London three years ago, last year, yesterday, in 2016. Wordlist: ago, camping, castle, cycling, dancing, fishing, museum, sailing, sightseeing, swimming, walking, winter, zoo.",
+              "translation": "مرجع القواعد 10.1 الماضي البسيط الإثبات: الأفعال المنتظمة تضيف ed. لعب -> لعب، شاهد -> شاهد، استمع -> استمع. الأفعال غير المنتظمة: ذهب -> ذهب، رأى -> رأى، كان لديه -> كان لديه. 10.2 أسئلة ونفي الماضي البسيط: في أي وقت استيقظ أمس؟ لم أذهب للتسوق. هل لعبوا كرة القدم؟ نعم، لعبوا. هل قضيت وقتا ممتعا؟ لا، لم أفعل. 10.3 تعبيرات الوقت الماضي: ذهبت إلى لندن منذ ثلاث سنوات، العام الماضي، أمس، في 2016. قائمة المفردات: منذ، تخييم، قلعة، ركوب الدراجات، رقص، صيد السمك، متحف، إبحار، مشاهدة المعالم، سباحة، مشي، شتاء، حديقة حيوان."
+            }
+          ]
+        },
+        {
+          "id": "unit_12",
+          "title": "Unit 12: Thank you very much!",
+          "pages": "111-120",
+          "grammar": "would like; some and any; like vs would like",
+          "vocabulary": "Presents; Birthdays",
+          "everyday_english": "Signs all around",
+          "lessons": [
+            {
+              "id": "12_birthday",
+              "title": "Practice - It's my birthday!",
+              "arabic_title": "تدريب - إنه عيد ميلادي!",
+              "page": 114,
+              "content": "Listen to the conversation. What does the woman want to do? She wants to buy him a present and take him out for a meal. Why is the man not happy? Because he is turning 30 and feels old. Complete the conversation. A: Hey, isn't it your birthday soon? B: Yeah, next week on the 15th. A: So, what would you like for your birthday? B: I don't know. I don't need anything. A: But I'd like to buy you something. B: That's kind, but I think I'd like to forget my birthday this year. A: What? You don't want any presents! Why not? B: Well, I'm 30 next week, and that feels old. A: Thirty isn't old. Come on! I'd like to take you out for a meal with some friends. You can choose the restaurant. B: OK, then. Thank you. I'd like that. Just don't tell anyone it's my birthday. A: Oh, that's silly! Birthday wishes. What would you like for your birthday? I'd like a new smartphone and some clothes. What would you like to do on your birthday? I'd like to go out for a meal with friends.",
+              "translation": "استمع إلى المحادثة. ماذا تريد المرأة أن تفعل؟ تريد شراء هدية له وأخذه لتناول وجبة. لماذا الرجل ليس سعيدا؟ لأنه سيصبح عمره 30 عاما ويشعر بأنه كبير. أكمل المحادثة. أ: هيا، أليس عيد ميلادك قريبا؟ ب: نعم، الأسبوع القادم في الخامس عشر. أ: إذن، ماذا ترغب في عيد ميلادك؟ ب: لا أعرف. لا أحتاج أي شيء. أ: لكني أرغب في شراء شيء لك. ب: هذا لطيف، لكني أعتقد أنني أرغب في نسيان عيد ميلادي هذا العام. أ: ماذا؟ لا تريد أي هدايا! لماذا لا؟ ب: حسنا، سأصبح 30 الأسبوع القادم، وهذا شعور بالكبر. أ: الثلاثون ليس كبيرا. هيا! أرغب في اصطحابك لتناول وجبة مع بعض الأصدقاء. يمكنك اختيار المطعم. ب: حسنا إذن. شكرا. أرغب في ذلك. فقط لا تخبر أحدا أنه عيد ميلادي. أ: أوه، هذا سخيف! تمنيات عيد الميلاد. ماذا ترغب في عيد ميلادك؟ أرغب في هاتف ذكي جديد وبعض الملابس. ماذا ترغب في أن تفعل في عيد ميلادك؟ أرغب في الخروج لتناول وجبة مع الأصدقاء."
+            },
+            {
+              "id": "12_signs",
+              "title": "Everyday English - Signs all around",
+              "arabic_title": "الإنجليزية اليومية - اللافتات في كل مكان",
+              "page": 119,
+              "content": "Look at the signs. Where can you see them? Ladies, PRIVATE, OUT OF ORDER, Exit, PULL, SALE, No parking, No entry, PUSH, CLOSED, ENTRANCE, GENTS, QUEUE HERE, Lift, Reserved. Which sign means? ENTRANCE - You can go in here. Exit - You can go out here. Reserved - You can't sit here. No parking - You can't park here. OUT OF ORDER - This machine doesn't work. PUSH - Push this door to open it. PULL - Pull this door to open it. GENTS - Men can go to the toilet here. Lift - You can go up or down the floors here. Ladies - Women can go to the toilet here. SALE - You can buy something cheap here. QUEUE HERE - Stand and wait here. CLOSED - Not open. No entry - You can't go in here.",
+              "translation": "انظر إلى اللافتات. أين يمكنك رؤيتها؟ سيدات، خاص، معطل، مخرج، اسحب، تخفيضات، ممنوع الوقوف، ممنوع الدخول، ادفع، مغلق، مدخل، رجال، تصطف هنا، مصعد، محجوز. أي لافتة تعني؟ المدخل - يمكنك الدخول من هنا. المخرج - يمكنك الخروج من هنا. محجوز - لا يمكنك الجلوس هنا. ممنوع الوقوف - لا يمكنك ركن سيارتك هنا. معطل - هذا الجهاز لا يعمل. ادفع - ادفع هذا الباب لفتحه. اسحب - اسحب هذا الباب لفتحه. رجال - يمكن للرجال الذهاب إلى المرحاض هنا. مصعد - يمكنك الصعود أو النزول بين الطوابق هنا. سيدات - يمكن للنساء الذهاب إلى المرحاض هنا. تخفيضات - يمكنك شراء شيء رخيص هنا. تصطف هنا - قف وانتظر هنا. مغلق - غير مفتوح. ممنوع الدخول - لا يمكنك الدخول إلى هنا."
+            },
+            {
+              "id": "12_grammar_reference",
+              "title": "Grammar reference - would like, some and any, like vs would like",
+              "arabic_title": "مرجع القواعد - يرغب في، بعض وأي، يحب مقابل يرغب في",
+              "page": 120,
+              "content": "Grammar reference 12.1 would like: I'd like a cup of tea. Would you like some cake? Yes, please. No, thank you. I'd like a coffee, please. Would you like to go out tonight? What would you like to do? 12.2 some and any: I'd like some ham. There's some cheese. We have some books. Is there any ham? Do you have any money? Are there any people? There isn't any bread. We don't have any friends. There aren't any books. Would you like some wine? Can I have some cheese? 12.3 like and would like: I like coffee. She likes swimming. I'd like a coffee. I'd like to go shopping.",
+              "translation": "مرجع القواعد 12.1 يرغب في: أرغب في فنجان شاي. هل ترغب في بعض الكعك؟ نعم من فضلك. لا شكرا. أرغب في قهوة من فضلك. هل ترغب في الخروج الليلة؟ ماذا ترغب في أن تفعل؟ 12.2 بعض وأي: أرغب في بعض لحم الخنزير. هناك بعض الجبن. لدينا بعض الكتب. هل هناك أي لحم خنزير؟ هل لديك أي مال؟ هل هناك أي أشخاص؟ لا يوجد أي خبز. ليس لدينا أي أصدقاء. لا توجد أي كتب. هل ترغب في بعض النبيذ؟ هل يمكنني الحصول على بعض الجبن؟ 12.3 يحب مقابل يرغب في: أنا أحب القهوة. هي تحب السباحة. أرغب في قهوة. أرغب في الذهاب للتسوق."
+            }
+          ]
+        },
+        {
+          "id": "unit_13",
+          "title": "Unit 13: What's happening now?",
+          "pages": "121-130",
+          "grammar": "Present Continuous; Present Simple vs Present Continuous",
+          "vocabulary": "Clothes; Colours; Opposite verbs",
+          "everyday_english": "What's the matter?",
+          "lessons": [
+            {
+              "id": "13_colours_clothes",
+              "title": "What colour is it? and Vocabulary - Clothes",
+              "arabic_title": "ما لونه؟ والمفردات - الملابس",
+              "page": 122,
+              "content": "Write the colours: red, blue, green, black, white, yellow, brown, grey, orange, pink. What is your favourite colour? Vocabulary: Clothes. What are the clothes? a jacket, trousers, shoes and socks, a scarf, a jumper, boots, trainers, a suit, a shirt and tie, a skirt, a dress, a T-shirt, shorts. Listen and repeat. Describe the clothes. It's a blue jumper. They're white trainers.",
+              "translation": "اكتب الألوان: أحمر، أزرق، أخضر، أسود، أبيض، أصفر، بني، رمادي، برتقالي، وردي. ما هو لونك المفضل؟ المفردات: الملابس. ما هي الملابس؟ سترة، بنطلون، أحذية وجوارب، وشاح، كنزة صوفية، أحذية طويلة، أحذية رياضية، بدلة، قميص وربطة عنق، تنورة، فستان، تي شيرت، شورت. استمع وكرر. صف الملابس. إنها كنزة صوفية زرقاء. إنهما حذاءان رياضيان أبيضان."
+            },
+            {
+              "id": "13_opposite_verbs",
+              "title": "Vocabulary and listening - Opposite verbs",
+              "arabic_title": "المفردات والاستماع - الأفعال المتضادة",
+              "page": 128,
+              "content": "Match the verbs with their opposites. leave -> arrive, work -> rest, buy -> sell, walk -> run, hate -> love, open -> close, get up -> go to bed, start -> finish, put on -> take off, remember -> forget, win -> lose. Complete the sentences. 1 Please, don't ask me any more questions. I can't answer them. 2 I'm selling my old car and I'm buying a new one. 3 We always get up at 7:00 in the morning and go to bed at 11:00 at night. 4 It was cold, so Tom took off his T-shirt and put on a warm jumper. 5 I usually walk to school, but yesterday I was late so I ran all the way. 6 John's playing tennis with Pete today. He always loses. He never wins. 7 Don't turn off the TV, I'm watching it! Please turn it on again!",
+              "translation": "طابق الأفعال مع أضدادها. غادر -> وصل، عمل -> استراح، اشترى -> باع، مشى -> ركض، كره -> أحب، فتح -> أغلق، استيقظ -> ذهب إلى السرير، بدأ -> أنهى، ارتدى -> خلع، تذكر -> نسي، ربح -> خسر. أكمل الجمل. 1 من فضلك، لا تسألني المزيد من الأسئلة. لا أستطيع الإجابة عليها. 2 أنا أبيع سيارتي القديمة وأشتري سيارة جديدة. 3 نحن دائما نستيقظ الساعة 7:00 صباحا ونذهب إلى السرير الساعة 11:00 ليلا. 4 كان الجو باردا، فخلع توم تي شيرته وارتدى كنزة صوفية دافئة. 5 عادة أمشي إلى المدرسة، لكن أمس تأخرت فركضت طوال الطريق. 6 جون يلعب التنس مع بيت اليوم. هو دائما يخسر. هو لا يفوز أبدا. 7 لا تغلق التلفاز، أنا أشاهده! من فضلك أعد تشغيله!"
+            },
+            {
+              "id": "13_matter",
+              "title": "Everyday English - What's the matter?",
+              "arabic_title": "الإنجليزية اليومية - ما المشكلة؟",
+              "page": 129,
+              "content": "What's the matter with the people? Complete the sentences: bored, hungry, thirsty, cold, hot, tired, worried, angry, a cold, a headache. 1 She's cold. 2 He's hot. 3 They're hungry. 4 He's tired. 5 They're thirsty. 6 She's bored. 7 He's worried. 8 She's angry. 9 He has a cold. 10 She has a headache. Complete the conversations. Practise with a partner. Role-play similar conversations. Use the words and ideas: go to bed early, put on a jumper, have a sandwich, have a cold drink, talk to a friend, watch a film, sit down and relax, go to the cinema, have a cold shower.",
+              "translation": "ما مشكلة الناس؟ أكمل الجمل: يشعر بالملل، جائع، عطشان، بارد، حار، متعب، قلق، غاضب، مصاب بالزكام، يعاني من صداع. 1 هي تشعر بالبرد. 2 هو يشعر بالحر. 3 هم جائعون. 4 هو متعب. 5 هم عطشان. 6 هي تشعر بالملل. 7 هو قلق. 8 هي غاضبة. 9 هو مصاب بالزكام. 10 هي تعاني من صداع. أكمل المحادثات. تدرب مع شريك. قم بتمثيل محادثات مماثلة. استخدم الكلمات والأفكار: اذهب إلى السرير مبكرا، ارتد كنزة صوفية، تناول شطيرة، تناول مشروبا باردا، تحدث إلى صديق، شاهد فيلما، اجلس واسترخ، اذهب إلى السينما، خذ حماما باردا."
+            },
+            {
+              "id": "13_grammar_reference",
+              "title": "Grammar reference - Present Continuous and Present Simple vs Present Continuous",
+              "arabic_title": "مرجع القواعد - المضارع المستمر والمضارع البسيط مقابل المضارع المستمر",
+              "page": 130,
+              "content": "Grammar reference 13.1 Present Continuous: I am working. He/She/It is working. You/We/They are working. Negative: I'm not working. He isn't working. You aren't working. Questions: What am I wearing? Is he wearing? Are you wearing jeans? Yes, I am. No, I'm not. 13.2 Present Simple and Present Continuous: Hans comes from Germany. I love you. My father works in a bank. I get up every day. I usually wear jeans, but today I'm wearing a suit. He speaks French very well. He's speaking French to that man. It's raining. They're swimming.",
+              "translation": "مرجع القواعد 13.1 المضارع المستمر: أنا أعمل. هو/هي/هو يعمل. أنتم/نحن/هم يعملون. النفي: أنا لا أعمل. هو لا يعمل. أنتم لا تعملون. الأسئلة: ماذا أرتدي؟ هل هو يرتدي؟ هل ترتدي جينز؟ نعم، أنا كذلك. لا، أنا لست كذلك. 13.2 المضارع البسيط والمضارع المستمر: هانز يأتي من ألمانيا. أنا أحبك. والدي يعمل في بنك. أستيقظ كل يوم. عادة أرتدي جينز، لكن اليوم أرتدي بدلة. هو يتحدث الفرنسية بشكل جيد جدا. إنه يتحدث الفرنسية مع ذلك الرجل. إنها تمطر. إنهم يسبحون."
+            }
+          ]
+        },
+        {
+          "id": "unit_14",
+          "title": "Unit 14: Let's go!",
+          "pages": "131-140",
+          "grammar": "Future plans (Present Continuous and going to); Tenses revision",
+          "vocabulary": "Travel; Word pairs",
+          "lessons": [
+            {
+              "id": "14_vocabulary_revision",
+              "title": "Vocabulary revision - Words that go together",
+              "arabic_title": "مراجعة المفردات - الكلمات التي تأتي معا",
+              "page": 135,
+              "content": "Match a verb with words. play cards, drive carefully, go by train, work hard, have dinner with friends, do your homework, take a photo, pay bills online, wear a suit. Talk about your plans. I'm going cycling at the weekend. Draw a line between words that have a connection. station - train, journalist - newspaper, airport - flight, shampoo - hair, hospital - doctor, waiter - restaurant, kitchen - fridge, nurse - hospital, menu - restaurant, sofa - living room. Pronunciation: two syllables: pilot, hotel, women, married, chocolate, enjoy, shampoo, arrive. Three syllables: photograph, amazing, assistant, vegetable, magazine, interesting, understand, banana, souvenir.",
+              "translation": "طابق الفعل مع الكلمات. العب الورق، قد بحذر، اذهب بالقطار، اعمل بجد، تناول العشاء مع الأصدقاء، قم بواجبك المنزلي، التقط صورة، ادفع الفواتير عبر الإنترنت، ارتد بدلة. تحدث عن خططك. سأذهب لركوب الدراجة في عطلة نهاية الأسبوع. ارسم خطا بين الكلمات التي لها ارتباط. محطة - قطار، صحفي - جريدة، مطار - رحلة جوية، شامبو - شعر، مستشفى - طبيب، نادل - مطعم، مطبخ - ثلاجة، ممرض - مستشفى، قائمة طعام - مطعم، أريكة - غرفة معيشة. النطق: مقطعين: طيار، فندق، نساء، متزوج، شوكولاتة، استمتع، شامبو، يصل. ثلاثة مقاطع: صورة فوتوغرافية، مذهل، مساعد، خضروات، مجلة، مثير للاهتمام، يفهم، موزة، تذكار."
+            },
+            {
+              "id": "14_grammar_revision",
+              "title": "Grammar revision - Tenses and Questions",
+              "arabic_title": "مراجعة القواعد - الأزمنة والأسئلة",
+              "page": 138,
+              "content": "Complete the sentences about Archie McCrae. 1 Archie and Fiona live in Edinburgh. 2 Archie has a brother and a sister. 3 His mother works for a research company, Bayer. 4 Archie grew up in Glasgow. 5 He studied medicine at university. 6 He and Fiona are going to go to work in Zambia soon. Complete the questions about Archie. 1 Where do Archie and Fiona live? They live in Edinburgh. 2 How many siblings does he have? Two, one brother and one sister. 3 Who does his mother work for? A research company called Bayer. 4 Where did he grow up? In Glasgow. 5 What did he study? Medicine. 6 Where are they going to go? Zambia. Correct the mistakes. Choose the correct answer.",
+              "translation": "أكمل الجمل عن آرتشي ماكري. 1 آرتشي وفيونا يعيشان في إدنبرة. 2 آرتشي لديه أخ وأخت. 3 والدته تعمل لشركة أبحاث، باير. 4 نشأ آرتشي في غلاسكو. 5 درس الطب في الجامعة. 6 هو وفيونا سيعملان في زامبيا قريبا. أكمل الأسئلة عن آرتشي. 1 أين يعيش آرتشي وفيونا؟ يعيشان في إدنبرة. 2 كم عدد أشقائه؟ اثنان، أخ واحد وأخت واحدة. 3 لمن تعمل والدته؟ لشركة أبحاث تسمى باير. 4 أين نشأ؟ في غلاسكو. 5 ماذا درس؟ الطب. 6 أين سيعملان؟ زامبيا. صحح الأخطاء. اختر الإجابة الصحيحة."
+            },
+            {
+              "id": "14_grammar_reference",
+              "title": "Grammar reference - Future plans and Wordlist",
+              "arabic_title": "مرجع القواعد - الخطط المستقبلية وقائمة المفردات",
+              "page": 140,
+              "content": "Grammar reference 14.1 Future plans: I'm going to Europe. You're leaving next week. He's flying on Sunday. I'm going to see Buckingham Palace. They're going to stay in the Ritz Hotel. Negative: I'm not living in London. He isn't studying medicine. I'm not going to travel by train. Questions: Where are you going on holiday? When are you leaving? Where are you staying? Who are you going with? What are you going to do? Wordlist: abroad, across, airport, boat, bus, car, flight, hotel, plane, station, suitcase, ticket, train, travel.",
+              "translation": "مرجع القواعد 14.1 الخطط المستقبلية: أنا ذاهب إلى أوروبا. أنت تغادر الأسبوع القادم. هو يسافر يوم الأحد. أنا ذاهب لرؤية قصر باكنغهام. هم سيبقون في فندق ريتز. النفي: أنا لا أعيش في لندن. هو لا يدرس الطب. أنا لن أسافر بالقطار. الأسئلة: أين ستذهب في عطلتك؟ متى ستغادر؟ أين ستبقى؟ مع من ستذهب؟ ماذا ستفعل؟ قائمة المفردات: الخارج، عبر، مطار، قارب، حافلة، سيارة، رحلة جوية، فندق، طائرة، محطة، حقيبة سفر، تذكرة، قطار، سفر."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
