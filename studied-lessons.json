@@ -1,0 +1,20 @@
+{
+  "lastUpdated": "2026-04-23T12:00:00.000Z",
+  "users": [
+    {
+      "userId": "UG912811301830",
+      "userName": "Ahmed",
+      "completedLessons": [
+        "0_0",  // unit_index_lesson_index
+        "0_1",
+        "1_0"
+      ],
+      "lastLesson": {
+        "id": "0_2",
+        "title": "Introductions - This is ...",
+        "timestamp": "2026-04-23T12:00:00.000Z"
+      },
+      "lastActive": "2026-04-23T12:00:00.000Z"
+    }
+  ]
+}
