@@ -1,0 +1,164 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-04-23T12:00:00.000Z",
+  "students": [
+    {
+      "userId": "UG912811301830",
+      "userName": "Ahmed",
+      "totalPoints": 850,
+      "totalQuestionsAnswered": 120,
+      "totalCorrectAnswers": 85,
+      "totalWrongAnswers": 35,
+      "accuracy": 70.8,
+      "unitsCompleted": 10,
+      "badges": ["Fast Learner", "Speaking Star"],
+      "rank": "Gold",
+      "quizHistory": [
+        {
+          "unitId": "unit_1",
+          "unitTitle": "Unit 1: Hello!",
+          "date": "2026-04-23T10:30:00.000Z",
+          "score": 80,
+          "pointsEarned": 80,
+          "totalQuestions": 10,
+          "correctAnswers": 8,
+          "wrongAnswers": 2,
+          "passed": true
+        },
+        {
+          "unitId": "unit_2",
+          "unitTitle": "Unit 2: Your world",
+          "date": "2026-04-23T11:00:00.000Z",
+          "score": 70,
+          "pointsEarned": 70,
+          "totalQuestions": 10,
+          "correctAnswers": 7,
+          "wrongAnswers": 3,
+          "passed": true
+        },
+        {
+          "unitId": "unit_3",
+          "unitTitle": "Unit 3: All about you",
+          "date": "2026-04-23T11:30:00.000Z",
+          "score": 90,
+          "pointsEarned": 90,
+          "totalQuestions": 10,
+          "correctAnswers": 9,
+          "wrongAnswers": 1,
+          "passed": true
+        }
+      ],
+      "questionResponses": [
+        {
+          "questionId": "u1_q1",
+          "userAnswer": "my name is Ahmed",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-04-23T10:30:00.000Z"
+        },
+        {
+          "questionId": "u1_q2",
+          "userAnswer": "i am fine",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-04-23T10:30:15.000Z"
+        },
+        {
+          "questionId": "u1_q3",
+          "userAnswer": "hello",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-04-23T10:30:30.000Z"
+        }
+      ]
+    },
+    {
+      "userId": "UG397461679075",
+      "userName": "elhamim",
+      "totalPoints": 450,
+      "totalQuestionsAnswered": 60,
+      "totalCorrectAnswers": 45,
+      "totalWrongAnswers": 15,
+      "accuracy": 75.0,
+      "unitsCompleted": 5,
+      "badges": ["Hard Worker"],
+      "rank": "Silver",
+      "quizHistory": [
+        {
+          "unitId": "unit_1",
+          "unitTitle": "Unit 1: Hello!",
+          "date": "2026-04-23T09:00:00.000Z",
+          "score": 100,
+          "pointsEarned": 100,
+          "totalQuestions": 10,
+          "correctAnswers": 10,
+          "wrongAnswers": 0,
+          "passed": true
+        },
+        {
+          "unitId": "unit_2",
+          "unitTitle": "Unit 2: Your world",
+          "date": "2026-04-23T09:30:00.000Z",
+          "score": 60,
+          "pointsEarned": 60,
+          "totalQuestions": 10,
+          "correctAnswers": 6,
+          "wrongAnswers": 4,
+          "passed": true
+        }
+      ],
+      "questionResponses": []
+    },
+    {
+      "userId": "UG100007558357",
+      "userName": "rock",
+      "totalPoints": 320,
+      "totalQuestionsAnswered": 50,
+      "totalCorrectAnswers": 32,
+      "totalWrongAnswers": 18,
+      "accuracy": 64.0,
+      "unitsCompleted": 4,
+      "badges": [],
+      "rank": "Bronze",
+      "quizHistory": [],
+      "questionResponses": []
+    }
+  ],
+  "leaderboard": [
+    {
+      "rank": 1,
+      "userId": "UG912811301830",
+      "userName": "Ahmed",
+      "totalPoints": 850,
+      "accuracy": 70.8
+    },
+    {
+      "rank": 2,
+      "userId": "UG397461679075",
+      "userName": "elhamim",
+      "totalPoints": 450,
+      "accuracy": 75.0
+    },
+    {
+      "rank": 3,
+      "userId": "UG100007558357",
+      "userName": "rock",
+      "totalPoints": 320,
+      "accuracy": 64.0
+    }
+  ],
+  "rankThresholds": {
+    "Bronze": 0,
+    "Silver": 500,
+    "Gold": 1000,
+    "Platinum": 2000,
+    "Diamond": 5000
+  },
+  "badgeRequirements": {
+    "Fast Learner": "Complete 3 units in one day",
+    "Speaking Star": "Get 90%+ accuracy on a unit",
+    "Hard Worker": "Answer 50+ questions",
+    "Perfect Score": "Get 100% on a unit",
+    "Marathon Runner": "Complete all 14 units"
+  }
+}
