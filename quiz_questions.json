@@ -8,8 +8,6 @@
   "points_per_question": 10,
   "points_deduction_per_wrong": 5,
   "passing_percentage": 60,
-  "total_points_possible": 1400,
-  "total_questions": 140,
   "units": [
     {
       "id": "unit_1",
@@ -21,100 +19,100 @@
           "english": "Hello, what is your name?",
           "arabic": "مرحبا، ما اسمك؟",
           "expected_answer": "my name is",
+          "expected_answer_ar": "اسمي هو",
           "keywords": ["name", "is"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "What's your name?"
+          "points": 10
         },
         {
           "id": "u1_q2",
           "english": "How are you today?",
           "arabic": "كيف حالك اليوم؟",
           "expected_answer": "i am fine thanks",
+          "expected_answer_ar": "أنا بخير شكرا",
           "keywords": ["fine", "thanks", "good", "ok"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "How are you?"
+          "points": 10
         },
         {
           "id": "u1_q3",
           "english": "Say hello to someone.",
-          "arabic": "قل مرحبا لشخص ما.",
+          "arabic": "قل مرحبا لشخص ما",
           "expected_answer": "hello",
+          "expected_answer_ar": "مرحبا",
           "keywords": ["hello", "hi"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Hello!"
+          "points": 10
         },
         {
           "id": "u1_q4",
           "english": "What is this in English? (a book)",
           "arabic": "ماذا يسمى هذا بالإنجليزية؟ (كتاب)",
           "expected_answer": "it is a book",
+          "expected_answer_ar": "إنه كتاب",
           "keywords": ["book"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Vocabulary"
+          "points": 10
         },
         {
           "id": "u1_q5",
           "english": "Count from one to five.",
-          "arabic": "عد من واحد إلى خمسة.",
+          "arabic": "عد من واحد إلى خمسة بالإنجليزية",
           "expected_answer": "one two three four five",
+          "expected_answer_ar": "واحد اثنان ثلاثة أربعة خمسة",
           "keywords": ["one", "two", "three", "four", "five"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Numbers 1-10"
+          "points": 10
         },
         {
           "id": "u1_q6",
           "english": "Introduce yourself using 'I am'.",
-          "arabic": "قدم نفسك باستخدام 'أنا'.",
+          "arabic": "قدم نفسك باستخدام 'أنا'",
           "expected_answer": "i am",
+          "expected_answer_ar": "أنا",
           "keywords": ["i", "am"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Grammar am/is/are"
+          "points": 10
         },
         {
           "id": "u1_q7",
           "english": "What is this? (a phone)",
           "arabic": "ما هذا؟ (هاتف)",
           "expected_answer": "it is a phone",
+          "expected_answer_ar": "إنه هاتف",
           "keywords": ["phone"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Vocabulary - phone"
+          "points": 10
         },
         {
           "id": "u1_q8",
           "english": "Say 'Good morning'.",
-          "arabic": "قل 'صباح الخير'.",
+          "arabic": "قل صباح الخير",
           "expected_answer": "good morning",
+          "expected_answer_ar": "صباح الخير",
           "keywords": ["good", "morning"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Everyday English"
+          "points": 10
         },
         {
           "id": "u1_q9",
           "english": "What is your teacher's name?",
           "arabic": "ما اسم معلمك؟",
           "expected_answer": "my teacher name is",
+          "expected_answer_ar": "اسم معلمي هو",
           "keywords": ["teacher", "name"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Introductions"
+          "points": 10
         },
         {
           "id": "u1_q10",
           "english": "Say goodbye.",
-          "arabic": "قل وداعا.",
+          "arabic": "قل وداعا",
           "expected_answer": "goodbye",
+          "expected_answer_ar": "وداعا",
           "keywords": ["goodbye", "bye"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Everyday English"
+          "points": 10
         }
       ]
     },
@@ -128,100 +126,100 @@
           "english": "Where are you from?",
           "arabic": "من أين أنت؟",
           "expected_answer": "i am from",
+          "expected_answer_ar": "أنا من",
           "keywords": ["from"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "She's from China"
+          "points": 10
         },
         {
           "id": "u2_q2",
           "english": "What country is this? (Italy)",
           "arabic": "ما هي هذه الدولة؟ (إيطاليا)",
           "expected_answer": "italy",
+          "expected_answer_ar": "إيطاليا",
           "keywords": ["italy"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Countries"
+          "points": 10
         },
         {
           "id": "u2_q3",
           "english": "What country is this? (Egypt)",
           "arabic": "ما هي هذه الدولة؟ (مصر)",
           "expected_answer": "egypt",
+          "expected_answer_ar": "مصر",
           "keywords": ["egypt"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Countries"
+          "points": 10
         },
         {
           "id": "u2_q4",
           "english": "Where is Venice?",
           "arabic": "أين البندقية؟",
           "expected_answer": "venice is in italy",
+          "expected_answer_ar": "البندقية في إيطاليا",
           "keywords": ["venice", "italy"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Cities and countries"
+          "points": 10
         },
         {
           "id": "u2_q5",
           "english": "Where is Moscow?",
           "arabic": "أين موسكو؟",
           "expected_answer": "moscow is in russia",
+          "expected_answer_ar": "موسكو في روسيا",
           "keywords": ["moscow", "russia"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Cities and countries"
+          "points": 10
         },
         {
           "id": "u2_q6",
           "english": "What is your favorite country?",
           "arabic": "ما هي دولتك المفضلة؟",
           "expected_answer": "my favorite country is",
+          "expected_answer_ar": "دولتي المفضلة هي",
           "keywords": ["favorite", "country"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Countries"
+          "points": 10
         },
         {
           "id": "u2_q7",
           "english": "Count from 11 to 15.",
-          "arabic": "عد من 11 إلى 15.",
+          "arabic": "عد من 11 إلى 15 بالإنجليزية",
           "expected_answer": "eleven twelve thirteen fourteen fifteen",
+          "expected_answer_ar": "أحد عشر، اثنا عشر، ثلاثة عشر، أربعة عشر، خمسة عشر",
           "keywords": ["eleven", "twelve", "thirteen", "fourteen", "fifteen"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Numbers 11-30"
+          "points": 10
         },
         {
           "id": "u2_q8",
           "english": "How old are you?",
           "arabic": "كم عمرك؟",
           "expected_answer": "i am years old",
+          "expected_answer_ar": "عمري",
           "keywords": ["years", "old"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Numbers 11-30"
+          "points": 10
         },
         {
           "id": "u2_q9",
           "english": "What is his name? (Antonio)",
           "arabic": "ما اسمه؟ (أنطونيو)",
           "expected_answer": "his name is antonio",
+          "expected_answer_ar": "اسمه أنطونيو",
           "keywords": ["his", "name", "antonio"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Grammar he/she"
+          "points": 10
         },
         {
           "id": "u2_q10",
           "english": "Where is she from? (Nuwa from China)",
           "arabic": "من أين هي؟ (نوا من الصين)",
           "expected_answer": "she is from china",
+          "expected_answer_ar": "هي من الصين",
           "keywords": ["she", "from", "china"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "She's from China"
+          "points": 10
         }
       ]
     },
@@ -235,100 +233,100 @@
           "english": "What is your job?",
           "arabic": "ما هي وظيفتك؟",
           "expected_answer": "i am a",
+          "expected_answer_ar": "أنا",
           "keywords": ["am", "a"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "What's his job?"
+          "points": 10
         },
         {
           "id": "u3_q2",
           "english": "What is his job? (businessman)",
           "arabic": "ما وظيفته؟ (رجل أعمال)",
           "expected_answer": "he is a businessman",
+          "expected_answer_ar": "هو رجل أعمال",
           "keywords": ["businessman"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Jobs"
+          "points": 10
         },
         {
           "id": "u3_q3",
           "english": "What is her job? (architect)",
           "arabic": "ما وظيفتها؟ (مهندسة معمارية)",
           "expected_answer": "she is an architect",
+          "expected_answer_ar": "هي مهندسة معمارية",
           "keywords": ["architect"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Jobs"
+          "points": 10
         },
         {
           "id": "u3_q4",
           "english": "Are you a student?",
           "arabic": "هل أنت طالب؟",
           "expected_answer": "yes i am a student",
+          "expected_answer_ar": "نعم أنا طالب",
           "keywords": ["yes", "student"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Personal information"
+          "points": 10
         },
         {
           "id": "u3_q5",
           "english": "What is your address?",
           "arabic": "ما هو عنوانك؟",
           "expected_answer": "my address is",
+          "expected_answer_ar": "عنواني هو",
           "keywords": ["address"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Personal information"
+          "points": 10
         },
         {
           "id": "u3_q6",
           "english": "Are you married?",
           "arabic": "هل أنت متزوج؟",
           "expected_answer": "yes i am married",
+          "expected_answer_ar": "نعم أنا متزوج",
           "keywords": ["married"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Personal information"
+          "points": 10
         },
         {
           "id": "u3_q7",
           "english": "Where are the girls in the Paris story?",
           "arabic": "أين الفتيات في قصة باريس؟",
           "expected_answer": "they are in paris",
+          "expected_answer_ar": "هم في باريس",
           "keywords": ["paris"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "We're in Paris!"
+          "points": 10
         },
         {
           "id": "u3_q8",
           "english": "Are they nervous or excited?",
           "arabic": "هل هم متوترون أم متحمسون؟",
           "expected_answer": "they are excited",
+          "expected_answer_ar": "هم متحمسون",
           "keywords": ["excited"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "We're in Paris!"
+          "points": 10
         },
         {
           "id": "u3_q9",
           "english": "Say 'Excuse me'.",
-          "arabic": "قل 'عفوا'.",
+          "arabic": "قل عفوا",
           "expected_answer": "excuse me",
+          "expected_answer_ar": "عفوا",
           "keywords": ["excuse", "me"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Social expressions"
+          "points": 10
         },
         {
           "id": "u3_q10",
           "english": "Say 'Thank you very much'.",
-          "arabic": "قل 'شكرا جزيلا'.",
+          "arabic": "قل شكرا جزيلا",
           "expected_answer": "thank you very much",
+          "expected_answer_ar": "شكرا جزيلا",
           "keywords": ["thank", "you", "very", "much"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Social expressions"
+          "points": 10
         }
       ]
     },
@@ -342,100 +340,100 @@
           "english": "Do you have any brothers or sisters?",
           "arabic": "هل لديك أي إخوة أو أخوات؟",
           "expected_answer": "i have",
+          "expected_answer_ar": "لدي",
           "keywords": ["have", "brother", "sister"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Vocabulary - Family"
+          "points": 10
         },
         {
           "id": "u4_q2",
           "english": "What is your mother's name?",
           "arabic": "ما اسم والدتك؟",
           "expected_answer": "my mother name is",
+          "expected_answer_ar": "اسم والدتي هو",
           "keywords": ["mother", "name"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Family"
+          "points": 10
         },
         {
           "id": "u4_q3",
           "english": "What is your father's name?",
           "arabic": "ما اسم والدك؟",
           "expected_answer": "my father name is",
+          "expected_answer_ar": "اسم والدي هو",
           "keywords": ["father", "name"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Family"
+          "points": 10
         },
         {
           "id": "u4_q4",
           "english": "Spell your first name.",
-          "arabic": "تهجى اسمك الأول.",
+          "arabic": "تهجى اسمك الأول حرفا حرفا",
           "expected_answer": "",
+          "expected_answer_ar": "قل حروف اسمك الأول",
           "keywords": [],
           "type": "spelling",
-          "points": 10,
-          "lesson_reference": "The alphabet"
+          "points": 10
         },
         {
           "id": "u4_q5",
           "english": "Spell your surname.",
-          "arabic": "تهجى اسم عائلتك.",
+          "arabic": "تهجى اسم عائلتك حرفا حرفا",
           "expected_answer": "",
+          "expected_answer_ar": "قل حروف اسم عائلتك",
           "keywords": [],
           "type": "spelling",
-          "points": 10,
-          "lesson_reference": "The alphabet"
+          "points": 10
         },
         {
           "id": "u4_q6",
           "english": "Do you like football?",
           "arabic": "هل تحب كرة القدم؟",
           "expected_answer": "yes i like football",
+          "expected_answer_ar": "نعم أحب كرة القدم",
           "keywords": ["like", "football"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Common verbs"
+          "points": 10
         },
         {
           "id": "u4_q7",
           "english": "Where do you work?",
           "arabic": "أين تعمل؟",
           "expected_answer": "i work in",
+          "expected_answer_ar": "أعمل في",
           "keywords": ["work"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Common verbs"
+          "points": 10
         },
         {
           "id": "u4_q8",
           "english": "Do you have a laptop?",
           "arabic": "هل لديك حاسوب محمول؟",
           "expected_answer": "yes i have a laptop",
+          "expected_answer_ar": "نعم لدي حاسوب محمول",
           "keywords": ["have", "laptop"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Common verbs"
+          "points": 10
         },
         {
           "id": "u4_q9",
           "english": "Who is Jenny to Ian?",
           "arabic": "من هي جيني بالنسبة لإيان؟",
           "expected_answer": "jenny is ian wife",
+          "expected_answer_ar": "جيني هي زوجة إيان",
           "keywords": ["wife"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Family tree"
+          "points": 10
         },
         {
           "id": "u4_q10",
           "english": "Who is Michael to Becky?",
           "arabic": "من هو مايكل بالنسبة لبيكي؟",
           "expected_answer": "michael is becky brother",
+          "expected_answer_ar": "مايكل هو أخ بيكي",
           "keywords": ["brother"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Family tree"
+          "points": 10
         }
       ]
     },
@@ -449,100 +447,100 @@
           "english": "What food do you like?",
           "arabic": "ما هو الطعام الذي تحبه؟",
           "expected_answer": "i like",
+          "expected_answer_ar": "أحب",
           "keywords": ["like"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Food and drinks"
+          "points": 10
         },
         {
           "id": "u5_q2",
           "english": "Do you like pizza?",
           "arabic": "هل تحب البيتزا؟",
           "expected_answer": "yes i like pizza",
+          "expected_answer_ar": "نعم أحب البيتزا",
           "keywords": ["like", "pizza"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Food"
+          "points": 10
         },
         {
           "id": "u5_q3",
           "english": "What sport do you like?",
           "arabic": "ما هي الرياضة التي تحبها؟",
           "expected_answer": "i like",
+          "expected_answer_ar": "أحب",
           "keywords": ["like"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Sports"
+          "points": 10
         },
         {
           "id": "u5_q4",
           "english": "How much is a coffee?",
           "arabic": "كم سعر القهوة؟",
           "expected_answer": "it is",
+          "expected_answer_ar": "سعره",
           "keywords": ["pounds", "dollars"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "How much is it?"
+          "points": 10
         },
         {
           "id": "u5_q5",
           "english": "Count from 20 to 30.",
-          "arabic": "عد من 20 إلى 30.",
+          "arabic": "عد من 20 إلى 30 بالإنجليزية",
           "expected_answer": "twenty twenty one twenty two twenty three twenty four twenty five twenty six twenty seven twenty eight twenty nine thirty",
+          "expected_answer_ar": "عشرون، واحد وعشرون، اثنان وعشرون، ثلاثة وعشرون، أربعة وعشرون، خمسة وعشرون، ستة وعشرون، سبعة وعشرون، ثمانية وعشرون، تسعة وعشرون، ثلاثون",
           "keywords": ["twenty", "thirty"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Numbers"
+          "points": 10
         },
         {
           "id": "u5_q6",
           "english": "What language do you speak?",
           "arabic": "ما هي اللغة التي تتحدثها؟",
           "expected_answer": "i speak",
+          "expected_answer_ar": "أتحدث",
           "keywords": ["speak"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Languages"
+          "points": 10
         },
         {
           "id": "u5_q7",
           "english": "Do you like tea or coffee?",
           "arabic": "هل تحب الشاي أم القهوة؟",
           "expected_answer": "i like",
+          "expected_answer_ar": "أحب",
           "keywords": ["like", "tea", "coffee"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Food and drinks"
+          "points": 10
         },
         {
           "id": "u5_q8",
           "english": "What is your favorite drink?",
           "arabic": "ما هو مشروبك المفضل؟",
           "expected_answer": "my favorite drink is",
+          "expected_answer_ar": "مشروبي المفضل هو",
           "keywords": ["favorite", "drink"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Food and drinks"
+          "points": 10
         },
         {
           "id": "u5_q9",
           "english": "Do you like watching TV?",
           "arabic": "هل تحب مشاهدة التلفاز؟",
           "expected_answer": "yes i like watching tv",
+          "expected_answer_ar": "نعم أحب مشاهدة التلفاز",
           "keywords": ["like", "watching", "tv"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Free time"
+          "points": 10
         },
         {
           "id": "u5_q10",
           "english": "What is your hobby?",
           "arabic": "ما هي هوايتك؟",
           "expected_answer": "my hobby is",
+          "expected_answer_ar": "هوايتي هي",
           "keywords": ["hobby"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Free time"
+          "points": 10
         }
       ]
     },
@@ -556,100 +554,100 @@
           "english": "What time do you wake up?",
           "arabic": "في أي وقت تستيقظ؟",
           "expected_answer": "i wake up at",
+          "expected_answer_ar": "أستيقظ الساعة",
           "keywords": ["wake", "up"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Daily routine"
+          "points": 10
         },
         {
           "id": "u6_q2",
           "english": "What do you eat for breakfast?",
           "arabic": "ماذا تأكل على الإفطار؟",
           "expected_answer": "i eat",
+          "expected_answer_ar": "آكل",
           "keywords": ["eat", "breakfast"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Meals"
+          "points": 10
         },
         {
           "id": "u6_q3",
           "english": "What time do you go to bed?",
           "arabic": "في أي وقت تذهب إلى السرير؟",
           "expected_answer": "i go to bed at",
+          "expected_answer_ar": "أذهب إلى السرير الساعة",
           "keywords": ["go", "bed"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Daily routine"
+          "points": 10
         },
         {
           "id": "u6_q4",
           "english": "Do you take a shower in the morning?",
           "arabic": "هل تستحم في الصباح؟",
           "expected_answer": "yes i take a shower",
+          "expected_answer_ar": "نعم أستحم في الصباح",
           "keywords": ["shower"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Daily activities"
+          "points": 10
         },
         {
           "id": "u6_q5",
           "english": "What do you do in the evening?",
           "arabic": "ماذا تفعل في المساء؟",
           "expected_answer": "i",
+          "expected_answer_ar": "أنا",
           "keywords": ["watch", "read", "eat", "relax"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Daily routine"
+          "points": 10
         },
         {
           "id": "u6_q6",
           "english": "What time do you have lunch?",
           "arabic": "في أي وقت تتناول الغداء؟",
           "expected_answer": "i have lunch at",
+          "expected_answer_ar": "أتناول الغداء الساعة",
           "keywords": ["lunch"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Meals"
+          "points": 10
         },
         {
           "id": "u6_q7",
           "english": "Do you exercise in the morning?",
           "arabic": "هل تمارس الرياضة في الصباح؟",
           "expected_answer": "yes i exercise",
+          "expected_answer_ar": "نعم أمارس الرياضة",
           "keywords": ["exercise"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Daily activities"
+          "points": 10
         },
         {
           "id": "u6_q8",
           "english": "What do you usually do on weekends?",
           "arabic": "ماذا تفعل عادة في عطلات نهاية الأسبوع؟",
           "expected_answer": "i usually",
+          "expected_answer_ar": "عادة أنا",
           "keywords": ["usually", "weekend"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Weekend activities"
+          "points": 10
         },
         {
           "id": "u6_q9",
           "english": "Do you brush your teeth every day?",
           "arabic": "هل تنظف أسنانك كل يوم؟",
           "expected_answer": "yes i brush my teeth",
+          "expected_answer_ar": "نعم أنظف أسناني",
           "keywords": ["brush", "teeth"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Daily routine"
+          "points": 10
         },
         {
           "id": "u6_q10",
           "english": "What time do you start work or school?",
           "arabic": "في أي وقت تبدأ العمل أو المدرسة؟",
           "expected_answer": "i start at",
+          "expected_answer_ar": "أبدأ الساعة",
           "keywords": ["start"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Daily routine"
+          "points": 10
         }
       ]
     },
@@ -663,100 +661,100 @@
           "english": "What is your favorite color?",
           "arabic": "ما هو لونك المفضل؟",
           "expected_answer": "my favorite color is",
+          "expected_answer_ar": "لوني المفضل هو",
           "keywords": ["favorite", "color"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Colours"
+          "points": 10
         },
         {
           "id": "u7_q2",
           "english": "What is your favorite animal?",
           "arabic": "ما هو حيوانك المفضل؟",
           "expected_answer": "my favorite animal is",
+          "expected_answer_ar": "حيواني المفضل هو",
           "keywords": ["favorite", "animal"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Animals"
+          "points": 10
         },
         {
           "id": "u7_q3",
           "english": "Do you like this or that?",
           "arabic": "هل تحب هذا أم ذاك؟",
           "expected_answer": "i like this",
+          "expected_answer_ar": "أحب هذا",
           "keywords": ["like", "this", "that"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "This and that"
+          "points": 10
         },
         {
           "id": "u7_q4",
           "english": "What is your favorite food?",
           "arabic": "ما هو طعامك المفضل؟",
           "expected_answer": "my favorite food is",
+          "expected_answer_ar": "طعامي المفضل هو",
           "keywords": ["favorite", "food"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Adjectives"
+          "points": 10
         },
         {
           "id": "u7_q5",
           "english": "Is the pizza delicious?",
           "arabic": "هل البيتزا لذيذة؟",
           "expected_answer": "yes the pizza is delicious",
+          "expected_answer_ar": "نعم البيتزا لذيذة",
           "keywords": ["delicious"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Adjectives"
+          "points": 10
         },
         {
           "id": "u7_q6",
           "english": "Is your house big or small?",
           "arabic": "هل منزلك كبير أم صغير؟",
           "expected_answer": "my house is",
+          "expected_answer_ar": "منزلي",
           "keywords": ["big", "small"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Adjectives"
+          "points": 10
         },
         {
           "id": "u7_q7",
           "english": "What is your favorite movie?",
           "arabic": "ما هو فيلمك المفضل؟",
           "expected_answer": "my favorite movie is",
+          "expected_answer_ar": "فيلمي المفضل هو",
           "keywords": ["favorite", "movie"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Favourite things"
+          "points": 10
         },
         {
           "id": "u7_q8",
           "english": "Do you like music?",
           "arabic": "هل تحب الموسيقى؟",
           "expected_answer": "yes i like music",
+          "expected_answer_ar": "نعم أحب الموسيقى",
           "keywords": ["like", "music"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Free time"
+          "points": 10
         },
         {
           "id": "u7_q9",
           "english": "What is your favorite season?",
           "arabic": "ما هو فصلك المفضل؟",
           "expected_answer": "my favorite season is",
+          "expected_answer_ar": "فصلي المفضل هو",
           "keywords": ["favorite", "season"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Seasons"
+          "points": 10
         },
         {
           "id": "u7_q10",
           "english": "Do you like hot or cold weather?",
           "arabic": "هل تحب الطقس الحار أم البارد؟",
           "expected_answer": "i like",
+          "expected_answer_ar": "أحب",
           "keywords": ["hot", "cold", "weather"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Weather"
+          "points": 10
         }
       ]
     },
@@ -770,100 +768,100 @@
           "english": "Do you live in a house or an apartment?",
           "arabic": "هل تعيش في منزل أم شقة؟",
           "expected_answer": "i live in a",
+          "expected_answer_ar": "أعيش في",
           "keywords": ["live", "house", "apartment"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Home"
+          "points": 10
         },
         {
           "id": "u8_q2",
           "english": "How many rooms are in your home?",
           "arabic": "كم عدد الغرف في منزلك؟",
           "expected_answer": "there are",
+          "expected_answer_ar": "يوجد",
           "keywords": ["rooms"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Rooms"
+          "points": 10
         },
         {
           "id": "u8_q3",
           "english": "Do you have a sofa in your living room?",
           "arabic": "هل لديك أريكة في غرفة المعيشة؟",
           "expected_answer": "yes i have a sofa",
+          "expected_answer_ar": "نعم لدي أريكة",
           "keywords": ["sofa"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Furniture"
+          "points": 10
         },
         {
           "id": "u8_q4",
           "english": "Where is your phone?",
           "arabic": "أين هاتفك؟",
           "expected_answer": "my phone is on",
+          "expected_answer_ar": "هاتفي على",
           "keywords": ["phone", "on", "table", "desk"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Phone call"
+          "points": 10
         },
         {
           "id": "u8_q5",
           "english": "What furniture do you have in your bedroom?",
           "arabic": "ما هو الأثاث الموجود في غرفة نومك؟",
           "expected_answer": "i have a",
+          "expected_answer_ar": "لدي",
           "keywords": ["bed", "desk", "chair", "wardrobe"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Furniture"
+          "points": 10
         },
         {
           "id": "u8_q6",
           "english": "Do you have a television in your living room?",
           "arabic": "هل لديك تلفاز في غرفة المعيشة؟",
           "expected_answer": "yes i have a television",
+          "expected_answer_ar": "نعم لدي تلفاز",
           "keywords": ["television", "tv"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Home appliances"
+          "points": 10
         },
         {
           "id": "u8_q7",
           "english": "Is your kitchen big or small?",
           "arabic": "هل مطبخك كبير أم صغير؟",
           "expected_answer": "my kitchen is",
+          "expected_answer_ar": "مطبخي",
           "keywords": ["kitchen", "big", "small"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Rooms"
+          "points": 10
         },
         {
           "id": "u8_q8",
           "english": "Do you have a garden?",
           "arabic": "هل لديك حديقة؟",
           "expected_answer": "yes i have a garden",
+          "expected_answer_ar": "نعم لدي حديقة",
           "keywords": ["garden"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Home"
+          "points": 10
         },
         {
           "id": "u8_q9",
           "english": "Where do you eat dinner?",
           "arabic": "أين تتناول العشاء؟",
           "expected_answer": "i eat dinner in the",
+          "expected_answer_ar": "أتناول العشاء في",
           "keywords": ["dinner", "kitchen", "dining"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Daily routine"
+          "points": 10
         },
         {
           "id": "u8_q10",
           "english": "Do you like your home?",
           "arabic": "هل تحب منزلك؟",
           "expected_answer": "yes i like my home",
+          "expected_answer_ar": "نعم أحب منزلي",
           "keywords": ["like", "home"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Home sweet home"
+          "points": 10
         }
       ]
     },
@@ -877,100 +875,100 @@
           "english": "Where were you born?",
           "arabic": "أين ولدت؟",
           "expected_answer": "i was born in",
+          "expected_answer_ar": "ولدت في",
           "keywords": ["born"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "When was he born?"
+          "points": 10
         },
         {
           "id": "u9_q2",
           "english": "When were you born?",
           "arabic": "متى ولدت؟",
           "expected_answer": "i was born in",
+          "expected_answer_ar": "ولدت في عام",
           "keywords": ["born"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "When was he born?"
+          "points": 10
         },
         {
           "id": "u9_q3",
           "english": "What did you do yesterday?",
           "arabic": "ماذا فعلت أمس؟",
           "expected_answer": "i",
+          "expected_answer_ar": "أنا",
           "keywords": ["went", "ate", "watched", "played"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Past Simple"
+          "points": 10
         },
         {
           "id": "u9_q4",
           "english": "Did you have a good time last weekend?",
           "arabic": "هل قضيت وقتا ممتعا نهاية الأسبوع الماضي؟",
           "expected_answer": "yes i had a good time",
+          "expected_answer_ar": "نعم قضيت وقتا ممتعا",
           "keywords": ["had", "good", "time"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "We had a good time"
+          "points": 10
         },
         {
           "id": "u9_q5",
           "english": "What is the first month of the year?",
           "arabic": "ما هو الشهر الأول من السنة؟",
           "expected_answer": "january",
+          "expected_answer_ar": "يناير",
           "keywords": ["january"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Months"
+          "points": 10
         },
         {
           "id": "u9_q6",
           "english": "What is the last month of the year?",
           "arabic": "ما هو آخر شهر في السنة؟",
           "expected_answer": "december",
+          "expected_answer_ar": "ديسمبر",
           "keywords": ["december"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Months"
+          "points": 10
         },
         {
           "id": "u9_q7",
           "english": "Did you go shopping yesterday?",
           "arabic": "هل ذهبت للتسوق أمس؟",
           "expected_answer": "yes i went shopping",
+          "expected_answer_ar": "نعم ذهبت للتسوق",
           "keywords": ["went", "shopping"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Common verbs"
+          "points": 10
         },
         {
           "id": "u9_q8",
           "english": "What did you eat for dinner yesterday?",
           "arabic": "ماذا أكلت على العشاء أمس؟",
           "expected_answer": "i ate",
+          "expected_answer_ar": "أكلت",
           "keywords": ["ate"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Past Simple"
+          "points": 10
         },
         {
           "id": "u9_q9",
           "english": "Where did you go last summer?",
           "arabic": "أين ذهبت الصيف الماضي؟",
           "expected_answer": "i went to",
+          "expected_answer_ar": "ذهبت إلى",
           "keywords": ["went"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Holiday activities"
+          "points": 10
         },
         {
           "id": "u9_q10",
           "english": "Did you watch a movie yesterday?",
           "arabic": "هل شاهدت فيلما أمس؟",
           "expected_answer": "yes i watched a movie",
+          "expected_answer_ar": "نعم شاهدت فيلما",
           "keywords": ["watched", "movie"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Free time"
+          "points": 10
         }
       ]
     },
@@ -984,100 +982,100 @@
           "english": "Did you enjoy your last holiday?",
           "arabic": "هل استمتعت بعطلتك الأخيرة؟",
           "expected_answer": "yes i enjoyed my holiday",
+          "expected_answer_ar": "نعم استمتعت بعطلتي",
           "keywords": ["enjoyed", "holiday"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Holiday activities"
+          "points": 10
         },
         {
           "id": "u10_q2",
           "english": "What did you do last summer?",
           "arabic": "ماذا فعلت الصيف الماضي؟",
           "expected_answer": "i",
+          "expected_answer_ar": "أنا",
           "keywords": ["went", "visited", "swam"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Free time"
+          "points": 10
         },
         {
           "id": "u10_q3",
           "english": "Do you like camping?",
           "arabic": "هل تحب التخييم؟",
           "expected_answer": "yes i like camping",
+          "expected_answer_ar": "نعم أحب التخييم",
           "keywords": ["camping"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Holiday activities"
+          "points": 10
         },
         {
           "id": "u10_q4",
           "english": "Have you ever been to a museum?",
           "arabic": "هل سبق لك أن زرت متحفا؟",
           "expected_answer": "yes i have been to a museum",
+          "expected_answer_ar": "نعم لقد زرت متحفا",
           "keywords": ["museum"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Free time"
+          "points": 10
         },
         {
           "id": "u10_q5",
           "english": "What do you like to do on holiday?",
           "arabic": "ماذا تحب أن تفعل في العطلة؟",
           "expected_answer": "i like to",
+          "expected_answer_ar": "أحب أن",
           "keywords": ["swim", "travel", "relax"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Holiday activities"
+          "points": 10
         },
         {
           "id": "u10_q6",
           "english": "Did you visit any interesting places last year?",
           "arabic": "هل زرت أي أماكن مثيرة للاهتمام العام الماضي؟",
           "expected_answer": "yes i visited",
+          "expected_answer_ar": "نعم زرت",
           "keywords": ["visited"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Travel"
+          "points": 10
         },
         {
           "id": "u10_q7",
           "english": "Do you prefer beach or mountain holidays?",
           "arabic": "هل تفضل عطلات الشاطئ أم الجبال؟",
           "expected_answer": "i prefer",
+          "expected_answer_ar": "أفضل",
           "keywords": ["beach", "mountain"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Holiday preferences"
+          "points": 10
         },
         {
           "id": "u10_q8",
           "english": "What was the best holiday you ever had?",
           "arabic": "ما هي أفضل عطلة قضيتها على الإطلاق؟",
           "expected_answer": "the best holiday was",
+          "expected_answer_ar": "أفضل عطلة كانت",
           "keywords": ["best", "holiday"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Past experiences"
+          "points": 10
         },
         {
           "id": "u10_q9",
           "english": "Do you like traveling by plane?",
           "arabic": "هل تحب السفر بالطائرة؟",
           "expected_answer": "yes i like traveling by plane",
+          "expected_answer_ar": "نعم أحب السفر بالطائرة",
           "keywords": ["traveling", "plane"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Travel"
+          "points": 10
         },
         {
           "id": "u10_q10",
           "english": "What do you usually pack for a holiday?",
           "arabic": "ماذا تحزم عادة للعطلة؟",
           "expected_answer": "i pack",
+          "expected_answer_ar": "أحزم",
           "keywords": ["pack", "clothes", "suitcase"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Travel preparations"
+          "points": 10
         }
       ]
     },
@@ -1091,100 +1089,100 @@
           "english": "What is your favorite food?",
           "arabic": "ما هو طعامك المفضل؟",
           "expected_answer": "my favorite food is",
+          "expected_answer_ar": "طعامي المفضل هو",
           "keywords": ["favorite", "food"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Food vocabulary"
+          "points": 10
         },
         {
           "id": "u11_q2",
           "english": "Do you like vegetables?",
           "arabic": "هل تحب الخضروات؟",
           "expected_answer": "yes i like vegetables",
+          "expected_answer_ar": "نعم أحب الخضروات",
           "keywords": ["like", "vegetables"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Food"
+          "points": 10
         },
         {
           "id": "u11_q3",
           "english": "What do you usually eat for lunch?",
           "arabic": "ماذا تأكل عادة على الغداء؟",
           "expected_answer": "i usually eat",
+          "expected_answer_ar": "عادة آكل",
           "keywords": ["lunch", "eat"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Meals"
+          "points": 10
         },
         {
           "id": "u11_q4",
           "english": "Do you like spicy food?",
           "arabic": "هل تحب الطعام الحار؟",
           "expected_answer": "yes i like spicy food",
+          "expected_answer_ar": "نعم أحب الطعام الحار",
           "keywords": ["spicy"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Food adjectives"
+          "points": 10
         },
         {
           "id": "u11_q5",
           "english": "What is your favorite dessert?",
           "arabic": "ما هي حلوتك المفضلة؟",
           "expected_answer": "my favorite dessert is",
+          "expected_answer_ar": "حلوتي المفضلة هي",
           "keywords": ["dessert"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Desserts"
+          "points": 10
         },
         {
           "id": "u11_q6",
           "english": "Do you cook at home?",
           "arabic": "هل تطبخ في المنزل؟",
           "expected_answer": "yes i cook at home",
+          "expected_answer_ar": "نعم أطبخ في المنزل",
           "keywords": ["cook"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Cooking"
+          "points": 10
         },
         {
           "id": "u11_q7",
           "english": "What is your favorite restaurant?",
           "arabic": "ما هو مطعمك المفضل؟",
           "expected_answer": "my favorite restaurant is",
+          "expected_answer_ar": "مطعمي المفضل هو",
           "keywords": ["restaurant"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Eating out"
+          "points": 10
         },
         {
           "id": "u11_q8",
           "english": "Do you like fruit?",
           "arabic": "هل تحب الفواكه؟",
           "expected_answer": "yes i like fruit",
+          "expected_answer_ar": "نعم أحب الفواكه",
           "keywords": ["fruit"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Food"
+          "points": 10
         },
         {
           "id": "u11_q9",
           "english": "What do you drink for breakfast?",
           "arabic": "ماذا تشرب على الإفطار؟",
           "expected_answer": "i drink",
+          "expected_answer_ar": "أشرب",
           "keywords": ["drink", "breakfast"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Drinks"
+          "points": 10
         },
         {
           "id": "u11_q10",
           "english": "Do you like fast food?",
           "arabic": "هل تحب الوجبات السريعة؟",
           "expected_answer": "yes i like fast food",
+          "expected_answer_ar": "نعم أحب الوجبات السريعة",
           "keywords": ["fast", "food"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Food"
+          "points": 10
         }
       ]
     },
@@ -1198,100 +1196,100 @@
           "english": "What would you like for your birthday?",
           "arabic": "ماذا ترغب في عيد ميلادك؟",
           "expected_answer": "i would like",
+          "expected_answer_ar": "أرغب في",
           "keywords": ["would", "like"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Birthday wishes"
+          "points": 10
         },
         {
           "id": "u12_q2",
           "english": "Would you like some coffee?",
           "arabic": "هل ترغب في بعض القهوة؟",
           "expected_answer": "yes please",
+          "expected_answer_ar": "نعم من فضلك",
           "keywords": ["yes", "please"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "would like"
+          "points": 10
         },
         {
           "id": "u12_q3",
           "english": "What does this sign mean? (ENTRANCE)",
           "arabic": "ماذا تعني هذه اللافتة؟ (مدخل)",
           "expected_answer": "you can go in here",
+          "expected_answer_ar": "يمكنك الدخول من هنا",
           "keywords": ["go", "in"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Signs"
+          "points": 10
         },
         {
           "id": "u12_q4",
           "english": "What does this sign mean? (EXIT)",
           "arabic": "ماذا تعني هذه اللافتة؟ (مخرج)",
           "expected_answer": "you can go out here",
+          "expected_answer_ar": "يمكنك الخروج من هنا",
           "keywords": ["go", "out"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Signs"
+          "points": 10
         },
         {
           "id": "u12_q5",
           "english": "Would you like to go out tonight?",
           "arabic": "هل ترغب في الخروج الليلة؟",
           "expected_answer": "yes i would",
+          "expected_answer_ar": "نعم أرغب",
           "keywords": ["yes", "would"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Invitations"
+          "points": 10
         },
         {
           "id": "u12_q6",
           "english": "Do you have any money?",
           "arabic": "هل لديك أي مال؟",
           "expected_answer": "yes i have some money",
+          "expected_answer_ar": "نعم لدي بعض المال",
           "keywords": ["have", "money"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "some and any"
+          "points": 10
         },
         {
           "id": "u12_q7",
           "english": "I like coffee. What do you like?",
           "arabic": "أنا أحب القهوة. ماذا تحب؟",
           "expected_answer": "i like",
+          "expected_answer_ar": "أحب",
           "keywords": ["like"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "like vs would like"
+          "points": 10
         },
         {
           "id": "u12_q8",
           "english": "What would you like to do this weekend?",
           "arabic": "ماذا ترغب في أن تفعل هذا الأسبوع؟",
           "expected_answer": "i would like to",
+          "expected_answer_ar": "أرغب في",
           "keywords": ["would", "like"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Future plans"
+          "points": 10
         },
         {
           "id": "u12_q9",
           "english": "Is there any bread?",
           "arabic": "هل هناك أي خبز؟",
           "expected_answer": "yes there is some bread",
+          "expected_answer_ar": "نعم هناك بعض الخبز",
           "keywords": ["bread"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "some and any"
+          "points": 10
         },
         {
           "id": "u12_q10",
           "english": "Can I have some cheese?",
           "arabic": "هل يمكنني الحصول على بعض الجبن؟",
           "expected_answer": "yes here you are",
+          "expected_answer_ar": "نعم تفضل",
           "keywords": ["yes", "cheese"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Requests"
+          "points": 10
         }
       ]
     },
@@ -1305,100 +1303,100 @@
           "english": "What are you wearing today?",
           "arabic": "ماذا ترتدي اليوم؟",
           "expected_answer": "i am wearing",
+          "expected_answer_ar": "أرتدي",
           "keywords": ["wearing"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Clothes"
+          "points": 10
         },
         {
           "id": "u13_q2",
           "english": "What color is your shirt?",
           "arabic": "ما هو لون قميصك؟",
           "expected_answer": "my shirt is",
+          "expected_answer_ar": "قميصي لونه",
           "keywords": ["color", "shirt"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Colours"
+          "points": 10
         },
         {
           "id": "u13_q3",
           "english": "Are you studying English now?",
           "arabic": "هل تدرس الإنجليزية الآن؟",
           "expected_answer": "yes i am studying english",
+          "expected_answer_ar": "نعم أدرس الإنجليزية",
           "keywords": ["studying", "english"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Present Continuous"
+          "points": 10
         },
         {
           "id": "u13_q4",
           "english": "What is the opposite of 'open'?",
           "arabic": "ما هو عكس 'مفتوح'؟",
           "expected_answer": "close",
+          "expected_answer_ar": "مغلق",
           "keywords": ["close"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Opposite verbs"
+          "points": 10
         },
         {
           "id": "u13_q5",
           "english": "What is the opposite of 'remember'?",
           "arabic": "ما هو عكس 'يتذكر'؟",
           "expected_answer": "forget",
+          "expected_answer_ar": "ينسى",
           "keywords": ["forget"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Opposite verbs"
+          "points": 10
         },
         {
           "id": "u13_q6",
           "english": "What's the matter? Are you tired?",
           "arabic": "ما المشكلة؟ هل أنت متعب؟",
           "expected_answer": "yes i am tired",
+          "expected_answer_ar": "نعم أنا متعب",
           "keywords": ["tired"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "What's the matter?"
+          "points": 10
         },
         {
           "id": "u13_q7",
           "english": "What is the opposite of 'put on'?",
           "arabic": "ما هو عكس 'يرتدي'؟",
           "expected_answer": "take off",
+          "expected_answer_ar": "يخلع",
           "keywords": ["take", "off"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Opposite verbs"
+          "points": 10
         },
         {
           "id": "u13_q8",
           "english": "Are you wearing jeans?",
           "arabic": "هل ترتدي جينز؟",
           "expected_answer": "yes i am wearing jeans",
+          "expected_answer_ar": "نعم أرتدي جينز",
           "keywords": ["jeans"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Clothes"
+          "points": 10
         },
         {
           "id": "u13_q9",
           "english": "What is happening outside?",
           "arabic": "ماذا يحدث في الخارج؟",
           "expected_answer": "it is",
+          "expected_answer_ar": "إنها",
           "keywords": ["raining", "sunny", "cloudy"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Present Continuous"
+          "points": 10
         },
         {
           "id": "u13_q10",
           "english": "Are you listening to me?",
           "arabic": "هل تستمع إلي؟",
           "expected_answer": "yes i am listening",
+          "expected_answer_ar": "نعم أنا أستمع",
           "keywords": ["listening"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Present Continuous"
+          "points": 10
         }
       ]
     },
@@ -1412,100 +1410,100 @@
           "english": "Where are you going on your next holiday?",
           "arabic": "أين ستذهب في عطلتك القادمة؟",
           "expected_answer": "i am going to",
+          "expected_answer_ar": "سأذهب إلى",
           "keywords": ["going", "to"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Future plans"
+          "points": 10
         },
         {
           "id": "u14_q2",
           "english": "How are you going to travel?",
           "arabic": "كيف ستسافر؟",
           "expected_answer": "i am going by",
+          "expected_answer_ar": "سأسافر بواسطة",
           "keywords": ["by", "plane", "train", "car", "bus"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Travel"
+          "points": 10
         },
         {
           "id": "u14_q3",
           "english": "What are you going to do tomorrow?",
           "arabic": "ماذا ستفعل غدا؟",
           "expected_answer": "i am going to",
+          "expected_answer_ar": "سأفعل",
           "keywords": ["going", "to"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Future plans"
+          "points": 10
         },
         {
           "id": "u14_q4",
           "english": "Are you going to travel abroad this year?",
           "arabic": "هل ستسافر إلى الخارج هذا العام؟",
           "expected_answer": "yes i am going to travel",
+          "expected_answer_ar": "نعم سأسافر",
           "keywords": ["travel"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Travel plans"
+          "points": 10
         },
         {
           "id": "u14_q5",
           "english": "What do you need for a trip?",
           "arabic": "ماذا تحتاج للرحلة؟",
           "expected_answer": "i need a",
+          "expected_answer_ar": "أحتاج",
           "keywords": ["suitcase", "ticket", "passport"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Travel vocabulary"
+          "points": 10
         },
         {
           "id": "u14_q6",
           "english": "When are you leaving?",
           "arabic": "متى ستغادر؟",
           "expected_answer": "i am leaving on",
+          "expected_answer_ar": "سأغادر في",
           "keywords": ["leaving"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Future plans"
+          "points": 10
         },
         {
           "id": "u14_q7",
           "english": "Who are you going with?",
           "arabic": "مع من ستذهب؟",
           "expected_answer": "i am going with",
+          "expected_answer_ar": "سأذهب مع",
           "keywords": ["with"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Travel companions"
+          "points": 10
         },
         {
           "id": "u14_q8",
           "english": "Where are you staying?",
           "arabic": "أين ستبقى؟",
           "expected_answer": "i am staying at",
+          "expected_answer_ar": "سأبقى في",
           "keywords": ["staying", "hotel"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Accommodation"
+          "points": 10
         },
         {
           "id": "u14_q9",
           "english": "Do you have your ticket?",
           "arabic": "هل لديك تذكرتك؟",
           "expected_answer": "yes i have my ticket",
+          "expected_answer_ar": "نعم لدي تذكرتي",
           "keywords": ["ticket"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Travel"
+          "points": 10
         },
         {
           "id": "u14_q10",
           "english": "What are you going to see there?",
           "arabic": "ماذا سترى هناك؟",
           "expected_answer": "i am going to see",
+          "expected_answer_ar": "سأرى",
           "keywords": ["see"],
           "type": "speaking",
-          "points": 10,
-          "lesson_reference": "Sightseeing"
+          "points": 10
         }
       ]
     }
