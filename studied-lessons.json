@@ -1,18 +1,19 @@
 {
-  "lastUpdated": "2026-04-22T23:27:06.705Z",
+  "lastUpdated": "2026-04-23T00:15:18.328Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
       "completedLessons": [
-        "0_1"
+        "0_1",
+        "0_0"
       ],
       "lastLesson": {
-        "id": "0_1",
-        "title": "Introductions - This is ...",
-        "timestamp": "2026-04-22T23:27:05.658Z"
+        "id": "0_0",
+        "title": "What's your name?",
+        "timestamp": "2026-04-23T00:15:17.437Z"
       },
-      "lastActive": "2026-04-22T23:27:06.705Z"
+      "lastActive": "2026-04-23T00:15:18.328Z"
     }
   ]
 }
