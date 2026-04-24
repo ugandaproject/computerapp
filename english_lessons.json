@@ -1,0 +1,496 @@
+{
+  "version": "2.0.0",
+  "lastUpdated": "2026-04-24T12:00:00.000Z",
+  "title": "Headway English Lessons - Complete Course",
+  "title_arabic": "دروس Headway التعليمية - دورة كاملة",
+
+  "units": [
+    {
+      "id": "unit_1",
+      "title": "Unit 1: Hello!",
+      "title_arabic": "الوحدة 1: مرحبا!",
+      
+      "grammar_focus": {
+        "title": "Verb 'To Be' (I am / You are / He is / She is / It is)",
+        "title_arabic": "فعل الكينونة (أنا / أنت / هو / هي / إنه)",
+        "explanation": {
+          "english": "The verb 'to be' is one of the most important verbs in English. We use it to talk about names, feelings, and identities. Present simple forms: 'I am' (for yourself), 'You are' (for the person you're talking to), 'He is' (for a man/boy), 'She is' (for a woman/girl), 'It is' (for an object or animal).",
+          "arabic": "فعل 'to be' هو من أهم الأفعال في الإنجليزية. نستخدمه للحديث عن الأسماء والمشاعر والهويات. صيغ المضارع البسيط: 'I am' (لنفسك)، 'You are' (للشخص الذي تتحدث معه)، 'He is' (لرجل/ولد)، 'She is' (لامرأة/بنت)، 'It is' (لشيء أو حيوان)."
+        },
+        "examples": [
+          {"english": "Hello, what is your name?", "arabic": "مرحبا، ما اسمك؟"},
+          {"english": "My name is Ahmed.", "arabic": "اسمي أحمد."},
+          {"english": "I am a student.", "arabic": "أنا طالب."},
+          {"english": "You are my friend.", "arabic": "أنت صديقي."},
+          {"english": "He is a teacher.", "arabic": "هو معلم."},
+          {"english": "She is happy.", "arabic": "هي سعيدة."},
+          {"english": "It is a book.", "arabic": "إنه كتاب."},
+          {"english": "How are you today?", "arabic": "كيف حالك اليوم؟"},
+          {"english": "I am fine, thanks.", "arabic": "أنا بخير شكرا."},
+          {"english": "Say hello to someone.", "arabic": "قل مرحبا لشخص ما."},
+          {"english": "Good morning!", "arabic": "صباح الخير!"},
+          {"english": "Goodbye!", "arabic": "وداعا!"}
+        ]
+      },
+      
+      "vocabulary": [
+        {"word": "hello", "meaning": "مرحبًا", "example": "Hello, what is your name?", "example_arabic": "مرحبا، ما اسمك؟"},
+        {"word": "good morning", "meaning": "صباح الخير", "example": "Good morning, teacher!", "example_arabic": "صباح الخير يا معلم!"},
+        {"word": "goodbye", "meaning": "مع السلامة", "example": "Goodbye, see you later!", "example_arabic": "مع السلامة، أراك لاحقا!"}
+      ]
+    },
+
+    {
+      "id": "unit_2",
+      "title": "Unit 2: Your world",
+      "title_arabic": "الوحدة 2: عالمك",
+      
+      "grammar_focus": {
+        "title": "Asking 'Where are you from?' and 'Where is...?'",
+        "title_arabic": "السؤال عن الأصل 'من أين أنت؟' و 'أين تقع...؟'",
+        "explanation": {
+          "english": "We use 'Where are you from?' to ask about someone's country or city. We answer with 'I am from...' The word 'from' shows origin. For cities we say 'Where is (city name)?' and answer 'It is in (country)'. For age we say 'How old are you?' and answer 'I am (number) years old.'",
+          "arabic": "نستخدم 'Where are you from؟' للسؤال عن بلد أو مدينة شخص ما. نجيب بـ 'I am from...' كلمة 'from' تظهر الأصل. للمدن نقول 'Where is (اسم المدينة)؟' ونجيب 'It is in (البلد)'. للعمر نقول 'How old are you؟' ونجيب 'I am (الرقم) years old.'"
+        },
+        "examples": [
+          {"english": "Where are you from?", "arabic": "من أين أنت؟"},
+          {"english": "I am from Egypt.", "arabic": "أنا من مصر."},
+          {"english": "What country is this? It is Italy.", "arabic": "ما هذه الدولة؟ إنها إيطاليا."},
+          {"english": "Where is Venice? Venice is in Italy.", "arabic": "أين البندقية؟ البندقية في إيطاليا."},
+          {"english": "Where is Moscow? Moscow is in Russia.", "arabic": "أين موسكو؟ موسكو في روسيا."},
+          {"english": "How old are you?", "arabic": "كم عمرك؟"},
+          {"english": "I am twenty-five years old.", "arabic": "عمري خمسة وعشرون سنة."},
+          {"english": "What is his name? His name is Antonio.", "arabic": "ما اسمه؟ اسمه أنطونيو."},
+          {"english": "What is her name? Her name is Nuwa.", "arabic": "ما اسمها؟ اسمها نوا."},
+          {"english": "Where is she from? She is from China.", "arabic": "من أين هي؟ هي من الصين."}
+        ]
+      }
+    },
+
+    {
+      "id": "unit_3",
+      "title": "Unit 3: All about you",
+      "title_arabic": "الوحدة 3: كل شيء عنك",
+      
+      "grammar_focus": {
+        "title": "Jobs and Professions using 'a' and 'an'",
+        "title_arabic": "المهن والوظائف باستخدام 'a' و 'an'",
+        "explanation": {
+          "english": "To ask about someone's job, we say 'What is your job?' To answer, we say 'I am a/an...' Use 'a' before words that start with a consonant sound (a businessman), and 'an' before words that start with a vowel sound (an architect). We also use 'they are' for groups of people.",
+          "arabic": "للسؤال عن وظيفة شخص ما، نقول 'What is your job؟' للإجابة، نقول 'I am a/an...' نستخدم 'a' قبل الكلمات التي تبدأ بصوت ساكن، و 'an' قبل الكلمات التي تبدأ بصوت متحرك. نستخدم أيضًا 'they are' للمجموعات."
+        },
+        "examples": [
+          {"english": "What is your job?", "arabic": "ما هي وظيفتك؟"},
+          {"english": "I am a teacher.", "arabic": "أنا معلم."},
+          {"english": "He is a businessman.", "arabic": "هو رجل أعمال."},
+          {"english": "She is an architect.", "arabic": "هي مهندسة معمارية."},
+          {"english": "Are you a student?", "arabic": "هل أنت طالب؟"},
+          {"english": "Yes, I am a student.", "arabic": "نعم، أنا طالب."},
+          {"english": "What is your address?", "arabic": "ما هو عنوانك؟"},
+          {"english": "My address is 12 Oxford Street.", "arabic": "عنواني هو 12 شارع أكسفورد."},
+          {"english": "Are you married?", "arabic": "هل أنت متزوج؟"},
+          {"english": "Yes, I am married.", "arabic": "نعم، أنا متزوج."},
+          {"english": "Excuse me!", "arabic": "عفوا!"},
+          {"english": "Thank you very much!", "arabic": "شكرا جزيلا!"}
+        ]
+      }
+    },
+
+    {
+      "id": "unit_4",
+      "title": "Unit 4: Family and friends",
+      "title_arabic": "الوحدة 4: العائلة والأصدقاء",
+      
+      "grammar_focus": {
+        "title": "Family Vocabulary and 'Have/Has'",
+        "title_arabic": "مفردات العائلة و 'Have/Has'",
+        "explanation": {
+          "english": "We use 'have' for I/you/we/they, and 'has' for he/she/it. 'I have' means something belongs to me or is with me. For spelling, we say each letter one by one. Example: 'A - H - M - E - D' for Ahmed.",
+          "arabic": "نستخدم 'have' مع I/you/we/they، و 'has' مع he/she/it. 'I have' تعني أن شيئًا ما يخصني أو معي. للتهجئة، نقول كل حرف على حدة. مثال: للمزيد A - H - M - E - D لكلمة Ahmed."
+        },
+        "examples": [
+          {"english": "Do you have any brothers or sisters?", "arabic": "هل لديك أي إخوة أو أخوات؟"},
+          {"english": "I have one brother and two sisters.", "arabic": "لدي أخ واحد وأختان."},
+          {"english": "What is your mother's name?", "arabic": "ما اسم والدتك؟"},
+          {"english": "My mother's name is Fatima.", "arabic": "اسم والدتي هو فاطمة."},
+          {"english": "What is your father's name?", "arabic": "ما اسم والدك؟"},
+          {"english": "My father's name is Ali.", "arabic": "اسم والدي هو علي."},
+          {"english": "Spell your name: A-H-M-E-D", "arabic": "تهجى اسمك: A-H-M-E-D"},
+          {"english": "Do you like football?", "arabic": "هل تحب كرة القدم؟"},
+          {"english": "Yes, I like football.", "arabic": "نعم، أحب كرة القدم."},
+          {"english": "Do you have a laptop?", "arabic": "هل لديك حاسوب محمول؟"},
+          {"english": "Yes, I have a laptop.", "arabic": "نعم، لدي حاسوب محمول."},
+          {"english": "Who is Jenny to Ian? Jenny is Ian's wife.", "arabic": "من هي جيني بالنسبة لإيان؟ جيني هي زوجة إيان."},
+          {"english": "Who is Michael to Becky? Michael is Becky's brother.", "arabic": "من هو مايكل بالنسبة لبيكي؟ مايكل هو أخ بيكي."}
+        ]
+      }
+    },
+
+    {
+      "id": "unit_5",
+      "title": "Unit 5: Things I like!",
+      "title_arabic": "الوحدة 5: أشياء أحبها!",
+      
+      "grammar_focus": {
+        "title": "Expressing Likes using 'I like'",
+        "title_arabic": "التعبير عن الإعجاب باستخدام 'I like'",
+        "explanation": {
+          "english": "We use 'I like' to talk about things we enjoy. We can use it with food, sports, hobbies, and drinks. To ask someone if they like something, we say 'Do you like...?' To answer, we say 'Yes, I like...' or 'No, I don't like...'",
+          "arabic": "نستخدم 'I like' للحديث عن الأشياء التي نستمتع بها. يمكننا استخدامها مع الطعام والرياضة والهوايات والمشروبات. لسؤال شخص إذا كان يحب شيئًا ما، نقول 'Do you like...؟' للإجابة، نقول 'Yes, I like...' أو 'No, I don't like...'"
+        },
+        "examples": [
+          {"english": "What food do you like?", "arabic": "ما هو الطعام الذي تحبه؟"},
+          {"english": "I like pizza and pasta.", "arabic": "أحب البيتزا والمعكرونة."},
+          {"english": "Do you like pizza?", "arabic": "هل تحب البيتزا؟"},
+          {"english": "Yes, I like pizza.", "arabic": "نعم، أحب البيتزا."},
+          {"english": "What sport do you like?", "arabic": "ما هي الرياضة التي تحبها؟"},
+          {"english": "I like football.", "arabic": "أحب كرة القدم."},
+          {"english": "How much is a coffee?", "arabic": "كم سعر القهوة؟"},
+          {"english": "It is two dollars.", "arabic": "سعرها دولاران."},
+          {"english": "Count from 20 to 30: twenty, twenty-one, twenty-two... thirty", "arabic": "عد من 20 إلى 30: twenty, twenty-one, twenty-two... thirty"},
+          {"english": "What language do you speak?", "arabic": "ما هي اللغة التي تتحدثها؟"},
+          {"english": "I speak English and Arabic.", "arabic": "أتحدث الإنجليزية والعربية."},
+          {"english": "Do you like tea or coffee?", "arabic": "هل تحب الشاي أم القهوة؟"},
+          {"english": "I like coffee.", "arabic": "أحب القهوة."},
+          {"english": "What is your favorite drink?", "arabic": "ما هو مشروبك المفضل؟"},
+          {"english": "My favorite drink is juice.", "arabic": "مشروبي المفضل هو العصير."},
+          {"english": "Do you like watching TV?", "arabic": "هل تحب مشاهدة التلفاز؟"},
+          {"english": "Yes, I like watching TV.", "arabic": "نعم، أحب مشاهدة التلفاز."},
+          {"english": "What is your hobby?", "arabic": "ما هي هوايتك؟"},
+          {"english": "My hobby is reading books.", "arabic": "هوايتي هي قراءة الكتب."}
+        ]
+      }
+    },
+
+    {
+      "id": "unit_6",
+      "title": "Unit 6: Daily routine",
+      "title_arabic": "الوحدة 6: الروتين اليومي",
+      
+      "grammar_focus": {
+        "title": "Present Simple for Daily Routines",
+        "title_arabic": "المضارع البسيط للروتين اليومي",
+        "explanation": {
+          "english": "We use the present simple tense to talk about things we do every day or regularly. We use 'at' with specific times (at 7 AM), 'in the morning/afternoon/evening', and 'on' with weekends. We add 's' to the verb for he/she/it.",
+          "arabic": "نستخدم زمن المضارع البسيط للحديث عن الأشياء التي نفعلها كل يوم أو بانتظام. نستخدم 'at' مع الأوقات المحددة، و 'in the morning/afternoon/evening'، و 'on' مع عطلات نهاية الأسبوع. نضيف 's' إلى الفعل مع he/she/it."
+        },
+        "examples": [
+          {"english": "What time do you wake up?", "arabic": "في أي وقت تستيقظ؟"},
+          {"english": "I wake up at 7 AM.", "arabic": "أستيقظ الساعة 7 صباحا."},
+          {"english": "What do you eat for breakfast?", "arabic": "ماذا تأكل على الإفطار؟"},
+          {"english": "I eat eggs and toast.", "arabic": "آكل بيضا وخبزا محمصا."},
+          {"english": "What time do you go to bed?", "arabic": "في أي وقت تذهب إلى السرير؟"},
+          {"english": "I go to bed at 10 PM.", "arabic": "أذهب إلى السرير الساعة 10 مساء."},
+          {"english": "Do you take a shower in the morning?", "arabic": "هل تستحم في الصباح؟"},
+          {"english": "Yes, I take a shower.", "arabic": "نعم، أستحم."},
+          {"english": "What do you do in the evening?", "arabic": "ماذا تفعل في المساء؟"},
+          {"english": "I watch TV in the evening.", "arabic": "أشاهد التلفاز في المساء."},
+          {"english": "What time do you have lunch?", "arabic": "في أي وقت تتناول الغداء؟"},
+          {"english": "I have lunch at 1 PM.", "arabic": "أتناول الغداء الساعة 1 ظهرا."},
+          {"english": "Do you exercise in the morning?", "arabic": "هل تمارس الرياضة في الصباح؟"},
+          {"english": "Yes, I exercise.", "arabic": "نعم، أمارس الرياضة."},
+          {"english": "What do you usually do on weekends?", "arabic": "ماذا تفعل عادة في عطلات نهاية الأسبوع؟"},
+          {"english": "I usually visit my family.", "arabic": "عادة أزور عائلتي."},
+          {"english": "Do you brush your teeth every day?", "arabic": "هل تنظف أسنانك كل يوم؟"},
+          {"english": "Yes, I brush my teeth.", "arabic": "نعم، أنظف أسناني."},
+          {"english": "What time do you start work?", "arabic": "في أي وقت تبدأ العمل؟"},
+          {"english": "I start at 8 AM.", "arabic": "أبدأ الساعة 8 صباحا."}
+        ]
+      }
+    },
+
+    {
+      "id": "unit_7",
+      "title": "Unit 7: Favourite things",
+      "title_arabic": "الوحدة 7: الأشياء المفضلة",
+      
+      "grammar_focus": {
+        "title": "Using 'My favorite... is' and 'This/That'",
+        "title_arabic": "استخدام 'My favorite... is' و 'This/That'",
+        "explanation": {
+          "english": "We use 'my favorite' to talk about the thing we like the most. 'This' is for something near us, 'that' is for something far. 'Delicious' means very tasty. We use 'is it... or...?' to ask about choices.",
+          "arabic": "نستخدم 'my favorite' للحديث عن الشيء الذي نحبه أكثر من غيره. 'This' يستخدم لشيء قريب منا، 'that' لشيء بعيد. 'Delicious' تعني لذيذ جدا. نستخدم 'is it... or...؟' للسؤال عن الخيارات."
+        },
+        "examples": [
+          {"english": "What is your favorite color?", "arabic": "ما هو لونك المفضل؟"},
+          {"english": "My favorite color is blue.", "arabic": "لوني المفضل هو الأزرق."},
+          {"english": "What is your favorite animal?", "arabic": "ما هو حيوانك المفضل؟"},
+          {"english": "My favorite animal is cat.", "arabic": "حيواني المفضل هو القط."},
+          {"english": "Do you like this or that?", "arabic": "هل تحب هذا أم ذاك؟"},
+          {"english": "I like this one.", "arabic": "أحب هذا."},
+          {"english": "What is your favorite food?", "arabic": "ما هو طعامك المفضل؟"},
+          {"english": "My favorite food is pizza.", "arabic": "طعامي المفضل هو البيتزا."},
+          {"english": "Is the pizza delicious?", "arabic": "هل البيتزا لذيذة؟"},
+          {"english": "Yes, the pizza is delicious.", "arabic": "نعم، البيتزا لذيذة."},
+          {"english": "Is your house big or small?", "arabic": "هل منزلك كبير أم صغير؟"},
+          {"english": "My house is big.", "arabic": "منزلي كبير."},
+          {"english": "What is your favorite movie?", "arabic": "ما هو فيلمك المفضل؟"},
+          {"english": "My favorite movie is Titanic.", "arabic": "فيلمي المفضل هو تيتانيك."},
+          {"english": "Do you like music?", "arabic": "هل تحب الموسيقى؟"},
+          {"english": "Yes, I like music.", "arabic": "نعم، أحب الموسيقى."},
+          {"english": "What is your favorite season?", "arabic": "ما هو فصلك المفضل؟"},
+          {"english": "My favorite season is summer.", "arabic": "فصلي المفضل هو الصيف."},
+          {"english": "Do you like hot or cold weather?", "arabic": "هل تحب الطقس الحار أم البارد؟"},
+          {"english": "I like warm weather.", "arabic": "أحب الطقس الدافئ."}
+        ]
+      }
+    },
+
+    {
+      "id": "unit_8",
+      "title": "Unit 8: Home sweet home",
+      "title_arabic": "الوحدة 8: البيت بيتي",
+      
+      "grammar_focus": {
+        "title": "Prepositions of Place: 'in', 'on', 'at'",
+        "title_arabic": "حروف الجر للمكان: 'in'، 'on'، 'at'",
+        "explanation": {
+          "english": "We use 'in' for rooms and closed spaces (in the kitchen), 'on' for surfaces (on the table), 'at' for specific locations (at home). 'There is' is for singular things, 'there are' is for plural things.",
+          "arabic": "نستخدم 'in' للغرف والأماكن المغلقة، و 'on' للأسطح، و 'at' للمواقع المحددة. 'There is' للأشياء المفردة، و 'there are' للأشياء الجمع."
+        },
+        "examples": [
+          {"english": "Do you live in a house or an apartment?", "arabic": "هل تعيش في منزل أم شقة؟"},
+          {"english": "I live in a house.", "arabic": "أعيش في منزل."},
+          {"english": "How many rooms are in your home?", "arabic": "كم عدد الغرف في منزلك؟"},
+          {"english": "There are three rooms.", "arabic": "يوجد ثلاث غرف."},
+          {"english": "Do you have a sofa in your living room?", "arabic": "هل لديك أريكة في غرفة المعيشة؟"},
+          {"english": "Yes, I have a sofa.", "arabic": "نعم، لدي أريكة."},
+          {"english": "Where is your phone?", "arabic": "أين هاتفك؟"},
+          {"english": "My phone is on the table.", "arabic": "هاتفي على الطاولة."},
+          {"english": "What furniture do you have in your bedroom?", "arabic": "ما هو الأثاث الموجود في غرفة نومك؟"},
+          {"english": "I have a bed and a desk.", "arabic": "لدي سرير ومكتب."},
+          {"english": "Do you have a television in your living room?", "arabic": "هل لديك تلفاز في غرفة المعيشة؟"},
+          {"english": "Yes, I have a television.", "arabic": "نعم، لدي تلفاز."},
+          {"english": "Is your kitchen big or small?", "arabic": "هل مطبخك كبير أم صغير؟"},
+          {"english": "My kitchen is small.", "arabic": "مطبخي صغير."},
+          {"english": "Do you have a garden?", "arabic": "هل لديك حديقة؟"},
+          {"english": "Yes, I have a garden.", "arabic": "نعم، لدي حديقة."},
+          {"english": "Where do you eat dinner?", "arabic": "أين تتناول العشاء؟"},
+          {"english": "I eat dinner in the kitchen.", "arabic": "أتناول العشاء في المطبخ."},
+          {"english": "Do you like your home?", "arabic": "هل تحب منزلك؟"},
+          {"english": "Yes, I like my home.", "arabic": "نعم، أحب منزلي."}
+        ]
+      }
+    },
+
+    {
+      "id": "unit_9",
+      "title": "Unit 9: Past times",
+      "title_arabic": "الوحدة 9: الأوقات الماضية",
+      
+      "grammar_focus": {
+        "title": "Past Simple - 'Was/Were' and Regular Verbs",
+        "title_arabic": "الماضي البسيط - 'Was/Were' والأفعال المنتظمة",
+        "explanation": {
+          "english": "For the past tense, we use 'was' with I/he/she/it, and 'were' with you/we/they. For actions, we add '-ed' to regular verbs (watch → watched). 'Did' is used to make questions in the past. Months: January, February, March, April, May, June, July, August, September, October, November, December.",
+          "arabic": "للماضي، نستخدم 'was' مع I/he/she/it، و 'were' مع you/we/they. للأفعال، نضيف '-ed' للأفعال المنتظمة. 'Did' يستخدم لتكوين الأسئلة في الماضي. الأشهر: يناير، فبراير، مارس، أبريل، مايو، يونيو، يوليو، أغسطس، سبتمبر، أكتوبر، نوفمبر، ديسمبر."
+        },
+        "examples": [
+          {"english": "Where were you born?", "arabic": "أين ولدت؟"},
+          {"english": "I was born in Cairo.", "arabic": "ولدت في القاهرة."},
+          {"english": "When were you born?", "arabic": "متى ولدت؟"},
+          {"english": "I was born in 1990.", "arabic": "ولدت في عام 1990."},
+          {"english": "What did you do yesterday?", "arabic": "ماذا فعلت أمس؟"},
+          {"english": "I watched a movie.", "arabic": "شاهدت فيلما."},
+          {"english": "Did you have a good time last weekend?", "arabic": "هل قضيت وقتا ممتعا نهاية الأسبوع الماضي؟"},
+          {"english": "Yes, I had a good time.", "arabic": "نعم، قضيت وقتا ممتعا."},
+          {"english": "What is the first month of the year?", "arabic": "ما هو الشهر الأول من السنة؟"},
+          {"english": "January.", "arabic": "يناير."},
+          {"english": "What is the last month of the year?", "arabic": "ما هو آخر شهر في السنة؟"},
+          {"english": "December.", "arabic": "ديسمبر."},
+          {"english": "Did you go shopping yesterday?", "arabic": "هل ذهبت للتسوق أمس؟"},
+          {"english": "Yes, I went shopping.", "arabic": "نعم، ذهبت للتسوق."},
+          {"english": "What did you eat for dinner yesterday?", "arabic": "ماذا أكلت على العشاء أمس؟"},
+          {"english": "I ate chicken and rice.", "arabic": "أكلت دجاجا وأرزا."},
+          {"english": "Where did you go last summer?", "arabic": "أين ذهبت الصيف الماضي؟"},
+          {"english": "I went to the beach.", "arabic": "ذهبت إلى الشاطئ."},
+          {"english": "Did you watch a movie yesterday?", "arabic": "هل شاهدت فيلما أمس؟"},
+          {"english": "Yes, I watched a movie.", "arabic": "نعم، شاهدت فيلما."}
+        ]
+      }
+    },
+
+    {
+      "id": "unit_10",
+      "title": "Unit 10: We had a good time!",
+      "title_arabic": "الوحدة 10: قضينا وقتا ممتعا!",
+      
+      "grammar_focus": {
+        "title": "Past Simple - Irregular Verbs",
+        "title_arabic": "الماضي البسيط - الأفعال الشاذة",
+        "explanation": {
+          "english": "Many common verbs have irregular past forms. Examples: have → had, go → went, enjoy → enjoyed (regular), see → saw, eat → ate, visit → visited (regular). 'Have you ever been to...?' asks about experience in your life.",
+          "arabic": "العديد من الأفعال الشائعة لها أشكال ماضي شاذة. أمثلة: have → had، go → went، enjoy → enjoyed (منتظم)، see → saw، eat → ate، visit → visited (منتظم). 'Have you ever been to...؟' يسأل عن تجربة في حياتك."
+        },
+        "examples": [
+          {"english": "Did you enjoy your last holiday?", "arabic": "هل استمتعت بعطلتك الأخيرة؟"},
+          {"english": "Yes, I enjoyed my holiday.", "arabic": "نعم، استمتعت بعطلتي."},
+          {"english": "What did you do last summer?", "arabic": "ماذا فعلت الصيف الماضي؟"},
+          {"english": "I went to the mountains.", "arabic": "ذهبت إلى الجبال."},
+          {"english": "Do you like camping?", "arabic": "هل تحب التخييم؟"},
+          {"english": "Yes, I like camping.", "arabic": "نعم، أحب التخييم."},
+          {"english": "Have you ever been to a museum?", "arabic": "هل سبق لك أن زرت متحفا؟"},
+          {"english": "Yes, I have been to a museum.", "arabic": "نعم، لقد زرت متحفا."},
+          {"english": "What do you like to do on holiday?", "arabic": "ماذا تحب أن تفعل في العطلة؟"},
+          {"english": "I like to swim and relax.", "arabic": "أحب أن أسبح وأسترخي."},
+          {"english": "Did you visit any interesting places last year?", "arabic": "هل زرت أي أماكن مثيرة للاهتمام العام الماضي؟"},
+          {"english": "Yes, I visited Paris.", "arabic": "نعم، زرت باريس."},
+          {"english": "Do you prefer beach or mountain holidays?", "arabic": "هل تفضل عطلات الشاطئ أم الجبال؟"},
+          {"english": "I prefer beach holidays.", "arabic": "أفضل عطلات الشاطئ."},
+          {"english": "What was the best holiday you ever had?", "arabic": "ما هي أفضل عطلة قضيتها على الإطلاق؟"},
+          {"english": "The best holiday was in Italy.", "arabic": "أفضل عطلة كانت في إيطاليا."},
+          {"english": "Do you like traveling by plane?", "arabic": "هل تحب السفر بالطائرة؟"},
+          {"english": "Yes, I like traveling by plane.", "arabic": "نعم، أحب السفر بالطائرة."},
+          {"english": "What do you usually pack for a holiday?", "arabic": "ماذا تحزم عادة للعطلة؟"},
+          {"english": "I pack clothes and a camera.", "arabic": "أحزم ملابس وكاميرا."}
+        ]
+      }
+    },
+
+    {
+      "id": "unit_11",
+      "title": "Unit 11: Let's eat!",
+      "title_arabic": "الوحدة 11: دعنا نأكل!",
+      
+      "grammar_focus": {
+        "title": "Countable and Uncountable Nouns - 'Some' and 'Any'",
+        "title_arabic": "الأسماء المعدودة وغير المعدودة - 'Some' و 'Any'",
+        "explanation": {
+          "english": "Countable nouns have plural forms (apple → apples). Uncountable nouns don't have plurals (water, rice, bread). We use 'some' in positive sentences (I have some apples), and 'any' in questions and negatives (Do you have any water? I don't have any bread).",
+          "arabic": "الأسماء المعدودة لها صيغ جمع. الأسماء غير المعدودة ليس لها جمع. نستخدم 'some' في الجمل الإيجابية، و 'any' في الأسئلة والنفي."
+        },
+        "examples": [
+          {"english": "What is your favorite food?", "arabic": "ما هو طعامك المفضل؟"},
+          {"english": "My favorite food is pasta.", "arabic": "طعامي المفضل هو المعكرونة."},
+          {"english": "Do you like vegetables?", "arabic": "هل تحب الخضروات؟"},
+          {"english": "Yes, I like vegetables.", "arabic": "نعم، أحب الخضروات."},
+          {"english": "What do you usually eat for lunch?", "arabic": "ماذا تأكل عادة على الغداء؟"},
+          {"english": "I usually eat a sandwich.", "arabic": "عادة آكل ساندويتش."},
+          {"english": "Do you like spicy food?", "arabic": "هل تحب الطعام الحار؟"},
+          {"english": "Yes, I like spicy food.", "arabic": "نعم، أحب الطعام الحار."},
+          {"english": "What is your favorite dessert?", "arabic": "ما هي حلوتك المفضلة؟"},
+          {"english": "My favorite dessert is ice cream.", "arabic": "حلوتي المفضلة هي الآيس كريم."},
+          {"english": "Do you cook at home?", "arabic": "هل تطبخ في المنزل؟"},
+          {"english": "Yes, I cook at home.", "arabic": "نعم، أطبخ في المنزل."},
+          {"english": "What is your favorite restaurant?", "arabic": "ما هو مطعمك المفضل؟"},
+          {"english": "My favorite restaurant is Pizza Hut.", "arabic": "مطعمي المفضل هو بيتزا هت."},
+          {"english": "Do you like fruit?", "arabic": "هل تحب الفواكه؟"},
+          {"english": "Yes, I like fruit.", "arabic": "نعم، أحب الفواكه."},
+          {"english": "What do you drink for breakfast?", "arabic": "ماذا تشرب على الإفطار؟"},
+          {"english": "I drink orange juice.", "arabic": "أشرب عصير البرتقال."},
+          {"english": "Do you like fast food?", "arabic": "هل تحب الوجبات السريعة؟"},
+          {"english": "Sometimes I like fast food.", "arabic": "أحيانا أحب الوجبات السريعة."}
+        ]
+      }
+    },
+
+    {
+      "id": "unit_12",
+      "title": "Unit 12: Thank you very much!",
+      "title_arabic": "الوحدة 12: شكرا جزيلا!",
+      
+      "grammar_focus": {
+        "title": "'Would like' for Offers and Requests",
+        "title_arabic": "'Would like' للعروض والطلبات",
+        "explanation": {
+          "english": "'Would like' is a polite way to say 'want'. 'Would you like...?' is for offers. 'I would like...' is for requests. 'Yes, please' is a polite yes. 'Here you are' is what we say when giving something. Signs: 'ENTRANCE' means you can go in, 'EXIT' means you can go out.",
+          "arabic": "'Would like' هي طريقة مهذبة لقول 'أريد'. 'Would you like...؟' تستخدم للعروض. 'I would like...' تستخدم للطلبات. 'Yes, please' هي نعم مهذبة. 'Here you are' نقولها عند إعطاء شيء. اللوحات الإرشادية: 'ENTRANCE' تعني يمكنك الدخول، 'EXIT' تعني يمكنك الخروج."
+        },
+        "examples": [
+          {"english": "What would you like for your birthday?", "arabic": "ماذا ترغب في عيد ميلادك؟"},
+          {"english": "I would like a new phone.", "arabic": "أرغب في هاتف جديد."},
+          {"english": "Would you like some coffee?", "arabic": "هل ترغب في بعض القهوة؟"},
+          {"english": "Yes, please.", "arabic": "نعم، من فضلك."},
+          {"english": "What does ENTRANCE mean? You can go in here.", "arabic": "ماذا تعني ENTRANCE؟ يمكنك الدخول من هنا."},
+          {"english": "What does EXIT mean? You can go out here.", "arabic": "ماذا تعني EXIT؟ يمكنك الخروج من هنا."},
+          {"english": "Would you like to go out tonight?", "arabic": "هل ترغب في الخروج الليلة؟"},
+          {"english": "Yes, I would.", "arabic": "نعم، أرغب."},
+          {"english": "Do you have any money?", "arabic": "هل لديك أي مال؟"},
+          {"english": "Yes, I have some money.", "arabic": "نعم، لدي بعض المال."},
+          {"english": "I like coffee. What do you like?", "arabic": "أنا أحب القهوة. ماذا تحب؟"},
+          {"english": "I like tea.", "arabic": "أحب الشاي."},
+          {"english": "What would you like to do this weekend?", "arabic": "ماذا ترغب في أن تفعل هذا الأسبوع؟"},
+          {"english": "I would like to go to the park.", "arabic": "أرغب في الذهاب إلى الحديقة."},
+          {"english": "Is there any bread?", "arabic": "هل هناك أي خبز؟"},
+          {"english": "Yes, there is some bread.", "arabic": "نعم، هناك بعض الخبز."},
+          {"english": "Can I have some cheese?", "arabic": "هل يمكنني الحصول على بعض الجبن؟"},
+          {"english": "Yes, here you are.", "arabic": "نعم، تفضل."}
+        ]
+      }
+    },
+
+    {
+      "id": "unit_13",
+      "title": "Unit 13: What's happening now?",
+      "title_arabic": "الوحدة 13: ماذا يحدث الآن؟",
+      
+      "grammar_focus": {
+        "title": "Present Continuous - Actions happening now",
+        "title_arabic": "المضارع المستمر - أفعال تحدث الآن",
+        "explanation": {
+          "english": "The present continuous tense describes actions happening right now. Form: subject + am/is/are + verb-ing. Examples: I am wearing, he is studying, they are listening. Opposites: open/close, remember/forget, put on/take off.",
+          "arabic": "زمن المضارع المستمر يصف الأفعال التي تحدث الآن. الصيغة: الفاعل + am/is/are + الفعل+ing. أمثلة: أنا أرتدي، هو يدرس، هم يستمعون. المتضادات: open/close، remember/forget، put on/take off."
+        },
+        "examples": [
+          {"english": "What are you wearing today?", "arabic": "ماذا ترتدي اليوم؟"},
+          {"english": "I am wearing a blue shirt.", "arabic": "أرتدي قميصا أزرق."},
+          {"english": "What color is your shirt?", "arabic": "ما هو لون قميصك؟"},
+          {"english": "My shirt is white.", "arabic": "قميصي أبيض."},
+          {"english": "Are you studying English now?", "arabic": "هل تدرس الإنجليزية الآن؟"},
+          {"english": "Yes, I am studying English.", "arabic": "نعم، أدرس الإنجليزية."},
+          {"english": "What is the opposite of 'open'?", "arabic": "ما هو عكس 'مفتوح'؟"},
+          {"english": "Close.", "arabic": "مغلق."},
+          {"english": "What is the opposite of 'remember'?", "arabic": "ما هو عكس 'يتذكر'؟"},
+          {"english": "Forget.", "arabic": "ينسى."},
+          {"english": "What's the matter? Are you tired?", "arabic": "ما المشكلة؟ هل أنت متعب؟"},
+          {"english": "Yes, I am tired.", "arabic": "نعم، أنا متعب."},
+          {"english": "What is the opposite of 'put on'?", "arabic": "ما هو عكس 'يرتدي'؟"},
+          {"english": "Take off.", "arabic": "يخلع."},
+          {"english": "Are you wearing jeans?", "arabic": "هل ترتدي جينز؟"},
+          {"english": "Yes, I am wearing jeans.", "arabic": "نعم، أرتدي جينز."},
+          {"english": "What is happening outside?", "arabic": "ماذا يحدث في الخارج؟"},
+          {"english": "It is raining.", "arabic": "إنها تمطر."},
+          {"english": "Are you listening to me?", "arabic": "هل تستمع إلي؟"},
+          {"english": "Yes, I am listening.", "arabic": "نعم، أنا أستمع."}
+        ]
+      }
+    },
+
+    {
+      "id": "unit_14",
+      "title": "Unit 14: Let's go!",
+      "title_arabic": "الوحدة 14: دعنا نذهب!",
+      
+      "grammar_focus": {
+        "title": "Future with 'Going to'",
+        "title_arabic": "المستقبل باستخدام 'Going to'",
+        "explanation": {
+          "english": "We use 'going to' to talk about future plans and intentions. Form: subject + am/is/are + going to + verb. Examples: I am going to travel, she is going to study. We also use 'leaving' for departure time, and 'staying' for accommodation.",
+          "arabic": "نستخدم 'going to' للحديث عن الخطط والنوايا المستقبلية. الصيغة: الفاعل + am/is/are + going to + الفعل. أمثلة: سأسافر، هي ستدرس. نستخدم أيضًا 'leaving' لوقت المغادرة، و 'staying' للسكن."
+        },
+        "examples": [
+          {"english": "Where are you going on your next holiday?", "arabic": "أين ستذهب في عطلتك القادمة؟"},
+          {"english": "I am going to Spain.", "arabic": "سأذهب إلى إسبانيا."},
+          {"english": "How are you going to travel?", "arabic": "كيف ستسافر؟"},
+          {"english": "I am going by plane.", "arabic": "سأسافر بالطائرة."},
+          {"english": "What are you going to do tomorrow?", "arabic": "ماذا ستفعل غدا؟"},
+          {"english": "I am going to visit my friend.", "arabic": "سأزور صديقي."},
+          {"english": "Are you going to travel abroad this year?", "arabic": "هل ستسافر إلى الخارج هذا العام؟"},
+          {"english": "Yes, I am going to travel.", "arabic": "نعم، سأسافر."},
+          {"english": "What do you need for a trip?", "arabic": "ماذا تحتاج للرحلة؟"},
+          {"english": "I need a passport and a ticket.", "arabic": "أحتاج جواز سفر وتذكرة."},
+          {"english": "When are you leaving?", "arabic": "متى ستغادر؟"},
+          {"english": "I am leaving on Monday.", "arabic": "سأغادر يوم الاثنين."},
+          {"english": "Who are you going with?", "arabic": "مع من ستذهب؟"},
+          {"english": "I am going with my family.", "arabic": "سأذهب مع عائلتي."},
+          {"english": "Where are you staying?", "arabic": "أين ستبقى؟"},
+          {"english": "I am staying at a hotel.", "arabic": "سأبقى في فندق."},
+          {"english": "Do you have your ticket?", "arabic": "هل لديك تذكرتك؟"},
+          {"english": "Yes, I have my ticket.", "arabic": "نعم، لدي تذكرتي."},
+          {"english": "What are you going to see there?", "arabic": "ماذا سترى هناك؟"},
+          {"english": "I am going to see the museum.", "arabic": "سأرى المتحف."}
+        ]
+      }
+    }
+  ]
+}
