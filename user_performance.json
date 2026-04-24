@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T21:13:15.409Z",
+  "lastUpdated": "2026-04-24T21:13:26.799Z",
   "users": [
     {
       "userId": "UG398721877017",
@@ -144,13 +144,13 @@
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-24T21:13:15.409Z",
-      "totalCorrect": 0,
-      "totalAttempts": 2,
+      "lastActive": "2026-04-24T21:13:26.799Z",
+      "totalCorrect": 1,
+      "totalAttempts": 3,
       "dailyRecords": {
         "4/25/2026": [
           {
-            "title": "Unit 1: Hello! - Ø§ÙÙØ­Ø¯Ø© 1: ÙØ±Ø­Ø¨Ø§!",
+            "title": "Unit 1: Hello! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 1: ÃÂÃÂ±ÃÂ­ÃÂ¨ÃÂ§!",
             "meaning": "Hello, what is your name?",
             "isCorrect": false,
             "timestamp": 1777065180201,
@@ -159,13 +159,22 @@
             "userAttempt": "I know what's your name"
           },
           {
-            "title": "Unit 1: Hello! - الوحدة 1: مرحبا!",
+            "title": "Unit 1: Hello! - Ø§ÙÙØ­Ø¯Ø© 1: ÙØ±Ø­Ø¨Ø§!",
             "meaning": "Hello, what is your name?",
             "isCorrect": false,
             "timestamp": 1777065194993,
             "time": "00:13",
             "grade": "wrong",
             "userAttempt": "hello what's your name"
+          },
+          {
+            "title": "Unit 1: Hello! - الوحدة 1: مرحبا!",
+            "meaning": "Hello, what is your name?",
+            "isCorrect": true,
+            "timestamp": 1777065206339,
+            "time": "00:13",
+            "grade": "good",
+            "userAttempt": "hello what is your name"
           }
         ]
       },
