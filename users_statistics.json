@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-04-20T17:19:40.324Z",
+  "lastUpdated": "2026-04-25T10:16:39.876Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-04-20T17:19:40.324Z",
-      "totalCorrect": 2,
-      "totalAttempts": 4,
+      "lastActive": "2026-04-25T10:16:39.857Z",
+      "totalCorrect": 3,
+      "totalAttempts": 5,
       "dailyRecords": {
         "4/20/2026": [
           {
-            "title": "Country: Italy - ÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂ©: ÃÂÃÂ¥ÃÂÃÂÃÂÃÂ·ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ§",
+            "title": "Country: Italy - ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©: ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§",
             "meaning": "Italy",
             "isCorrect": true,
             "timestamp": 1776705548654,
@@ -19,7 +19,7 @@
             "userAttempt": "Italy"
           },
           {
-            "title": "Country: Italy - ÃÂ¯ÃÂÃÂÃÂ©: ÃÂ¥ÃÂÃÂ·ÃÂ§ÃÂÃÂÃÂ§",
+            "title": "Country: Italy - ÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂ©: ÃÂÃÂ¥ÃÂÃÂÃÂÃÂ·ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ§",
             "meaning": "Italy",
             "isCorrect": false,
             "timestamp": 1776705557550,
@@ -28,7 +28,7 @@
             "userAttempt": "we're friends"
           },
           {
-            "title": "Country: Italy - Ø¯ÙÙØ©: Ø¥ÙØ·Ø§ÙÙØ§",
+            "title": "Country: Italy - ÃÂ¯ÃÂÃÂÃÂ©: ÃÂ¥ÃÂÃÂ·ÃÂ§ÃÂÃÂÃÂ§",
             "meaning": "Italy",
             "isCorrect": false,
             "timestamp": 1776705572070,
@@ -37,13 +37,24 @@
             "userAttempt": "eat Italy"
           },
           {
-            "title": "Country: Italy - دولة: إيطاليا",
+            "title": "Country: Italy - Ø¯ÙÙØ©: Ø¥ÙØ·Ø§ÙÙØ§",
             "meaning": "Italy",
             "isCorrect": true,
             "timestamp": 1776705579882,
             "time": "20:19",
             "grade": "excellent",
             "userAttempt": "Italy"
+          }
+        ],
+        "4/25/2026": [
+          {
+            "title": "Asking for price - السؤال عن السعر",
+            "meaning": "How much is it?",
+            "isCorrect": true,
+            "timestamp": 1777112198804,
+            "time": "13:16",
+            "grade": "good",
+            "userAttempt": "how much is it"
           }
         ]
       },
