@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-04-25T14:12:25.951Z",
+  "lastUpdated": "2026-04-25T14:12:38.857Z",
   "users": [
     {
       "userId": "UG770789074876",
       "userName": "Elregig Eltahir",
-      "lastActive": "2026-04-25T14:12:25.951Z",
+      "lastActive": "2026-04-25T14:12:38.857Z",
       "totalCorrect": 1,
-      "totalAttempts": 1,
+      "totalAttempts": 2,
       "dailyRecords": {
         "4/25/2026": [
           {
-            "title": "Unit 10: We had a good time! - الوحدة 10: قضينا وقتا ممتعا!",
+            "title": "Unit 10: We had a good time! - Ø§ÙÙØ­Ø¯Ø© 10: ÙØ¶ÙÙØ§ ÙÙØªØ§ ÙÙØªØ¹Ø§!",
             "meaning": "Did you enjoy your last holiday?",
             "isCorrect": true,
             "timestamp": 1777126345447,
             "time": "17:12",
             "grade": "good",
             "userAttempt": "did you enjoy your last holiday"
+          },
+          {
+            "title": "Unit 10: We had a good time! - الوحدة 10: قضينا وقتا ممتعا!",
+            "meaning": "Did you enjoy your last holiday?",
+            "isCorrect": false,
+            "timestamp": 1777126358417,
+            "time": "17:12",
+            "grade": "wrong",
+            "userAttempt": "plus holiday"
           }
         ]
       },
