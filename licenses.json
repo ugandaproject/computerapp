@@ -4102,6 +4102,21 @@
       "lastActive": "2026-05-01T10:48:17.227Z",
       "sessionToken": "sess_grtmpxyvvew",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG791939262556",
+      "name": "Mo dafe",
+      "phone": "+256781009708",
+      "paid": false,
+      "regDate": "2026-05-01T13:23:11.947Z",
+      "expiryDate": "2026-05-02T13:23:11.947Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-10F3-1B9F",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-01T13:23:11.947Z",
+      "sessionToken": "sess_v8tc5mlp44p",
+      "ipAddress": "client-side"
     }
   ]
 }
