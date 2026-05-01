@@ -4089,18 +4089,18 @@
       "ipAddress": "client-side"
     },
     {
-      "id": "UG442788945114",
+      "id": "UG453303582177",
       "name": "ABDULWAHED YAGOUB",
       "phone": "+256775241752",
       "paid": true,
-      "regDate": "2026-05-01T10:47:22.788Z",
-      "expiryDate": "2026-05-31T10:47:22.788Z",
+      "regDate": "2026-05-01T10:47:33.303Z",
+      "expiryDate": "2026-05-31T10:47:33.303Z",
       "subscriptionDays": 30,
       "active": true,
       "deviceId": "WEB-063C-141F",
       "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-05-01T10:47:22.788Z",
-      "sessionToken": "sess_z9jpeongred",
+      "lastActive": "2026-05-01T10:47:33.303Z",
+      "sessionToken": "sess_gw9zm7qpqvt",
       "ipAddress": "client-side"
     }
   ]
