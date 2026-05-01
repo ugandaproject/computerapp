@@ -4087,6 +4087,21 @@
       "lastActive": "2026-04-21T13:48:52.901Z",
       "sessionToken": "sess_1wfgqtxioly",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG442788945114",
+      "name": "ABDULWAHED YAGOUB",
+      "phone": "+256775241752",
+      "paid": true,
+      "regDate": "2026-05-01T10:47:22.788Z",
+      "expiryDate": "2026-05-31T10:47:22.788Z",
+      "subscriptionDays": 30,
+      "active": true,
+      "deviceId": "WEB-063C-141F",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-01T10:47:22.788Z",
+      "sessionToken": "sess_z9jpeongred",
+      "ipAddress": "client-side"
     }
   ]
 }
