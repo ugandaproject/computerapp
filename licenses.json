@@ -4132,6 +4132,21 @@
       "lastActive": "2026-05-02T14:01:29.810Z",
       "sessionToken": "sess_sypody48lj9",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG361315790251",
+      "name": "sarfiel bereket",
+      "phone": "+256700238129",
+      "paid": false,
+      "regDate": "2026-05-02T18:09:21.315Z",
+      "expiryDate": "2026-05-03T18:09:21.315Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0167-093A",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-02T18:09:21.315Z",
+      "sessionToken": "sess_bq5d9nlklz7",
+      "ipAddress": "client-side"
     }
   ]
 }
