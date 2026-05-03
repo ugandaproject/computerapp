@@ -4147,6 +4147,21 @@
       "lastActive": "2026-05-02T18:09:21.315Z",
       "sessionToken": "sess_bq5d9nlklz7",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG199653248416",
+      "name": "CALVIN KHAWIZ Soup",
+      "phone": "+256767841144",
+      "paid": false,
+      "regDate": "2026-05-03T13:33:19.654Z",
+      "expiryDate": "2026-05-04T13:33:19.654Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1F6B-216C",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-03T13:33:19.654Z",
+      "sessionToken": "sess_6e5th5u4af",
+      "ipAddress": "client-side"
     }
   ]
 }
