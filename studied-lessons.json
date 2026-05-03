@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T14:25:53.366Z",
+  "lastUpdated": "2026-05-03T23:39:37.200Z",
   "users": [
     {
       "userId": "UG912811301830",
@@ -28,6 +28,19 @@
         "timestamp": "2026-04-25T14:25:51.048Z"
       },
       "lastActive": "2026-04-25T14:25:53.366Z"
+    },
+    {
+      "userId": "UG811902812057",
+      "userName": "Omer farog",
+      "completedLessons": [
+        "0_0"
+      ],
+      "lastLesson": {
+        "id": "0_0",
+        "title": "What's your name?",
+        "timestamp": "2026-05-03T23:39:35.861Z"
+      },
+      "lastActive": "2026-05-03T23:39:37.200Z"
     }
   ]
 }
