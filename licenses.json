@@ -4162,6 +4162,21 @@
       "lastActive": "2026-05-03T13:33:19.654Z",
       "sessionToken": "sess_6e5th5u4af",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG833090023498",
+      "name": "Musa ali",
+      "phone": "+256769071011",
+      "paid": false,
+      "regDate": "2026-05-05T15:10:33.090Z",
+      "expiryDate": "2026-05-06T15:10:33.090Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1489-0C78",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-05T15:10:33.090Z",
+      "sessionToken": "sess_rho5g5m2z4f",
+      "ipAddress": "client-side"
     }
   ]
 }
