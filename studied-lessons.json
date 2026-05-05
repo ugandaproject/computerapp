@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T23:39:37.200Z",
+  "lastUpdated": "2026-05-05T15:42:46.523Z",
   "users": [
     {
       "userId": "UG912811301830",
@@ -20,14 +20,15 @@
       "userId": "UG770789074876",
       "userName": "Elregig Eltahir",
       "completedLessons": [
-        "0_0"
+        "0_0",
+        "0_3"
       ],
       "lastLesson": {
-        "id": "0_0",
-        "title": "What's your name?",
-        "timestamp": "2026-04-25T14:25:51.048Z"
+        "id": "0_3",
+        "title": "Everyday English - Good morning!",
+        "timestamp": "2026-05-05T15:42:35.375Z"
       },
-      "lastActive": "2026-04-25T14:25:53.366Z"
+      "lastActive": "2026-05-05T15:42:46.523Z"
     },
     {
       "userId": "UG811902812057",
