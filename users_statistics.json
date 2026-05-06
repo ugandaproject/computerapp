@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-05-06T11:22:56.885Z",
+  "lastUpdated": "2026-05-06T11:23:01.507Z",
   "users": [
     {
       "userId": "UG811902812057",
       "userName": "Omer farog",
-      "lastActive": "2026-05-06T11:22:56.885Z",
+      "lastActive": "2026-05-06T11:23:01.507Z",
       "totalCorrect": 0,
-      "totalAttempts": 1,
+      "totalAttempts": 2,
       "dailyRecords": {
         "5/6/2026": [
           {
-            "title": "They were - هم كانوا",
+            "title": "They were - ÙÙ ÙØ§ÙÙØ§",
             "meaning": "They were at school",
             "isCorrect": false,
             "timestamp": 1778066574489,
             "time": "14:22",
             "grade": "wrong",
             "userAttempt": "Lil Wayne at the school"
+          },
+          {
+            "title": "They were - هم كانوا",
+            "meaning": "They were at school",
+            "isCorrect": false,
+            "timestamp": 1778066581013,
+            "time": "14:23",
+            "grade": "wrong",
+            "userAttempt": "David at school"
           }
         ]
       },
