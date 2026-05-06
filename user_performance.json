@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T11:17:26.690Z",
+  "lastUpdated": "2026-05-06T11:18:22.374Z",
   "users": [
     {
       "userId": "UG770789074876",
@@ -10,7 +10,7 @@
       "dailyRecords": {
         "5/3/2026": [
           {
-            "title": "Unit 11: Let's eat! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 11: ÃÂ¯ÃÂ¹ÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂ!",
+            "title": "Unit 11: Let's eat! - ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 11: ÃÂÃÂ¯ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ§ ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ!",
             "meaning": "What is your favorite food?",
             "isCorrect": true,
             "timestamp": 1777800115891,
@@ -26,13 +26,13 @@
     {
       "userId": "UG811902812057",
       "userName": "Omer farog",
-      "lastActive": "2026-05-06T11:17:26.690Z",
-      "totalCorrect": 2,
-      "totalAttempts": 2,
+      "lastActive": "2026-05-06T11:18:22.374Z",
+      "totalCorrect": 3,
+      "totalAttempts": 3,
       "dailyRecords": {
         "5/3/2026": [
           {
-            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
+            "title": "Unit 11: Let's eat! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 11: ÃÂ¯ÃÂ¹ÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂ!",
             "meaning": "What is your favorite food?",
             "isCorrect": true,
             "timestamp": 1777801222802,
@@ -43,13 +43,22 @@
         ],
         "5/6/2026": [
           {
-            "title": "Unit 2: Your world - الوحدة 2: عالمك",
+            "title": "Unit 2: Your world - Ø§ÙÙØ­Ø¯Ø© 2: Ø¹Ø§ÙÙÙ",
             "meaning": "Where are you from?",
             "isCorrect": true,
             "timestamp": 1778066245129,
             "time": "14:17",
             "grade": "good",
             "userAttempt": "where are you from"
+          },
+          {
+            "title": "Unit 2: Your world - الوحدة 2: عالمك",
+            "meaning": "I am from Egypt.",
+            "isCorrect": true,
+            "timestamp": 1778066301386,
+            "time": "14:18",
+            "grade": "excellent",
+            "userAttempt": "I am from Egypt"
           }
         ]
       },
