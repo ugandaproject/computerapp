@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T16:41:00.998Z",
+  "lastUpdated": "2026-05-08T16:41:54.458Z",
   "users": [
     {
       "userId": "UG811902812057",
@@ -10,7 +10,7 @@
       "dailyRecords": {
         "5/6/2026": [
           {
-            "title": "They were - ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§",
+            "title": "They were - ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§",
             "meaning": "They were at school",
             "isCorrect": false,
             "timestamp": 1778066574489,
@@ -19,7 +19,7 @@
             "userAttempt": "Lil Wayne at the school"
           },
           {
-            "title": "They were - ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ§",
+            "title": "They were - ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§",
             "meaning": "They were at school",
             "isCorrect": false,
             "timestamp": 1778066581013,
@@ -28,7 +28,7 @@
             "userAttempt": "David at school"
           },
           {
-            "title": "They were - ÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂ§",
+            "title": "They were - ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ§",
             "meaning": "They were at school",
             "isCorrect": true,
             "timestamp": 1778066587780,
@@ -37,7 +37,7 @@
             "userAttempt": "they were at school"
           },
           {
-            "title": "Negative past of to be - ÙÙÙ Ø§ÙÙØ§Ø¶Ù ÙÙØ¹Ù ÙÙÙÙ",
+            "title": "Negative past of to be - ÃÂÃÂÃÂ ÃÂ§ÃÂÃÂÃÂ§ÃÂ¶ÃÂ ÃÂÃÂÃÂ¹ÃÂ ÃÂÃÂÃÂÃÂ",
             "meaning": "I wasn't late",
             "isCorrect": true,
             "timestamp": 1778066602485,
@@ -53,19 +53,28 @@
     {
       "userId": "UG770789074876",
       "userName": "Elregig Eltahir",
-      "lastActive": "2026-05-08T16:41:00.998Z",
+      "lastActive": "2026-05-08T16:41:54.452Z",
       "totalCorrect": 0,
-      "totalAttempts": 1,
+      "totalAttempts": 2,
       "dailyRecords": {
         "5/8/2026": [
           {
-            "title": "There is (singular) - يوجد (مفرد)",
+            "title": "There is (singular) - ÙÙØ¬Ø¯ (ÙÙØ±Ø¯)",
             "meaning": "There is a sofa in the living room",
             "isCorrect": false,
             "timestamp": 1778258459059,
             "time": "19:40",
             "grade": "wrong",
             "userAttempt": "honey could"
+          },
+          {
+            "title": "There is (singular) - يوجد (مفرد)",
+            "meaning": "There is a sofa in the living room",
+            "isCorrect": false,
+            "timestamp": 1778258512769,
+            "time": "19:41",
+            "grade": "wrong",
+            "userAttempt": "is there a"
           }
         ]
       },
