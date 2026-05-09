@@ -1,0 +1,608 @@
+{
+  "version": "2.0.0",
+  "lastUpdated": "2026-05-09T12:00:00.000Z",
+  "bookTitle": "Headway Beginner 5th Edition",
+  "bookTitle_arabic": "كتاب Headway Beginner الطبعة الخامسة",
+  
+  "units": [
+    {
+      "id": 1,
+      "title": "Unit 1: Hello!",
+      "title_arabic": "الوحدة 1: مرحبا!",
+      "lessons": [
+        {
+          "name": "Everyday Objects",
+          "name_arabic": "الأشياء اليومية",
+          "words": [
+            {"word": "apple", "meaning": "تفاحة", "pronunciation": "/ˈæpl/"},
+            {"word": "bag", "meaning": "حقيبة", "pronunciation": "/bæɡ/"},
+            {"word": "bike", "meaning": "دراجة هوائية", "pronunciation": "/baɪk/"},
+            {"word": "book", "meaning": "كتاب", "pronunciation": "/bʊk/"},
+            {"word": "bus", "meaning": "حافلة", "pronunciation": "/bʌs/"},
+            {"word": "coffee", "meaning": "قهوة", "pronunciation": "/ˈkɒfi/"},
+            {"word": "house", "meaning": "منزل", "pronunciation": "/haʊs/"},
+            {"word": "laptop", "meaning": "حاسوب محمول", "pronunciation": "/ˈlæptɒp/"},
+            {"word": "phone", "meaning": "هاتف", "pronunciation": "/fəʊn/"},
+            {"word": "photo", "meaning": "صورة", "pronunciation": "/ˈfəʊtəʊ/"},
+            {"word": "sandwich", "meaning": "ساندويتش", "pronunciation": "/ˈsænwɪtʃ/"},
+            {"word": "umbrella", "meaning": "مظلة", "pronunciation": "/ʌmˈbrelə/"},
+            {"word": "watch", "meaning": "ساعة يد", "pronunciation": "/wɒtʃ/"}
+          ]
+        },
+        {
+          "name": "Numbers 1-10",
+          "name_arabic": "الأرقام 1-10",
+          "words": [
+            {"word": "one", "meaning": "واحد", "pronunciation": "/wʌn/"},
+            {"word": "two", "meaning": "اثنان", "pronunciation": "/tuː/"},
+            {"word": "three", "meaning": "ثلاثة", "pronunciation": "/θriː/"},
+            {"word": "four", "meaning": "أربعة", "pronunciation": "/fɔː/"},
+            {"word": "five", "meaning": "خمسة", "pronunciation": "/faɪv/"},
+            {"word": "six", "meaning": "ستة", "pronunciation": "/sɪks/"},
+            {"word": "seven", "meaning": "سبعة", "pronunciation": "/ˈsevn/"},
+            {"word": "eight", "meaning": "ثمانية", "pronunciation": "/eɪt/"},
+            {"word": "nine", "meaning": "تسعة", "pronunciation": "/naɪn/"},
+            {"word": "ten", "meaning": "عشرة", "pronunciation": "/ten/"}
+          ]
+        },
+        {
+          "name": "Greetings",
+          "name_arabic": "التحيات",
+          "words": [
+            {"word": "hello", "meaning": "مرحبا", "pronunciation": "/həˈləʊ/"},
+            {"word": "good morning", "meaning": "صباح الخير", "pronunciation": "/ɡʊd ˈmɔːnɪŋ/"},
+            {"word": "goodbye", "meaning": "مع السلامة", "pronunciation": "/ɡʊdˈbaɪ/"},
+            {"word": "good evening", "meaning": "مساء الخير", "pronunciation": "/ɡʊd ˈiːvnɪŋ/"},
+            {"word": "good night", "meaning": "تصبح على خير", "pronunciation": "/ɡʊd naɪt/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Unit 2: Your world",
+      "title_arabic": "الوحدة 2: عالمك",
+      "lessons": [
+        {
+          "name": "Countries",
+          "name_arabic": "الدول",
+          "words": [
+            {"word": "Argentina", "meaning": "الأرجنتين", "pronunciation": "/ˌɑːdʒənˈtiːnə/"},
+            {"word": "Australia", "meaning": "أستراليا", "pronunciation": "/ɒˈstreɪliə/"},
+            {"word": "Brazil", "meaning": "البرازيل", "pronunciation": "/brəˈzɪl/"},
+            {"word": "Canada", "meaning": "كندا", "pronunciation": "/ˈkænədə/"},
+            {"word": "China", "meaning": "الصين", "pronunciation": "/ˈtʃaɪnə/"},
+            {"word": "Egypt", "meaning": "مصر", "pronunciation": "/ˈiːdʒɪpt/"},
+            {"word": "England", "meaning": "إنجلترا", "pronunciation": "/ˈɪŋɡlənd/"},
+            {"word": "France", "meaning": "فرنسا", "pronunciation": "/frɑːns/"},
+            {"word": "Italy", "meaning": "إيطاليا", "pronunciation": "/ˈɪtəli/"},
+            {"word": "Japan", "meaning": "اليابان", "pronunciation": "/dʒəˈpæn/"},
+            {"word": "Russia", "meaning": "روسيا", "pronunciation": "/ˈrʌʃə/"},
+            {"word": "Spain", "meaning": "إسبانيا", "pronunciation": "/speɪn/"},
+            {"word": "Turkey", "meaning": "تركيا", "pronunciation": "/ˈtɜːki/"}
+          ]
+        },
+        {
+          "name": "Adjectives",
+          "name_arabic": "الصفات",
+          "words": [
+            {"word": "amazing", "meaning": "مذهل", "pronunciation": "/əˈmeɪzɪŋ/"},
+            {"word": "beautiful", "meaning": "جميل", "pronunciation": "/ˈbjuːtɪfl/"},
+            {"word": "big", "meaning": "كبير", "pronunciation": "/bɪɡ/"},
+            {"word": "small", "meaning": "صغير", "pronunciation": "/smɔːl/"},
+            {"word": "fantastic", "meaning": "رائع", "pronunciation": "/fænˈtæstɪk/"},
+            {"word": "great", "meaning": "عظيم", "pronunciation": "/ɡreɪt/"},
+            {"word": "awful", "meaning": "فظيع", "pronunciation": "/ˈɔːfl/"},
+            {"word": "married", "meaning": "متزوج", "pronunciation": "/ˈmærid/"}
+          ]
+        },
+        {
+          "name": "Numbers 11-30",
+          "name_arabic": "الأرقام 11-30",
+          "words": [
+            {"word": "eleven", "meaning": "أحد عشر", "pronunciation": "/ɪˈlevn/"},
+            {"word": "twelve", "meaning": "اثنا عشر", "pronunciation": "/twelv/"},
+            {"word": "thirteen", "meaning": "ثلاثة عشر", "pronunciation": "/ˌθɜːˈtiːn/"},
+            {"word": "fourteen", "meaning": "أربعة عشر", "pronunciation": "/ˌfɔːˈtiːn/"},
+            {"word": "fifteen", "meaning": "خمسة عشر", "pronunciation": "/ˌfɪfˈtiːn/"},
+            {"word": "sixteen", "meaning": "ستة عشر", "pronunciation": "/ˌsɪksˈtiːn/"},
+            {"word": "seventeen", "meaning": "سبعة عشر", "pronunciation": "/ˌsevnˈtiːn/"},
+            {"word": "eighteen", "meaning": "ثمانية عشر", "pronunciation": "/ˌeɪˈtiːn/"},
+            {"word": "nineteen", "meaning": "تسعة عشر", "pronunciation": "/ˌnaɪnˈtiːn/"},
+            {"word": "twenty", "meaning": "عشرون", "pronunciation": "/ˈtwenti/"},
+            {"word": "twenty-one", "meaning": "واحد وعشرون", "pronunciation": "/ˌtwenti ˈwʌn/"},
+            {"word": "thirty", "meaning": "ثلاثون", "pronunciation": "/ˈθɜːti/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Unit 3: All about you",
+      "title_arabic": "الوحدة 3: كل شيء عنك",
+      "lessons": [
+        {
+          "name": "Jobs",
+          "name_arabic": "المهن",
+          "words": [
+            {"word": "teacher", "meaning": "معلم", "pronunciation": "/ˈtiːtʃə/"},
+            {"word": "doctor", "meaning": "طبيب", "pronunciation": "/ˈdɒktə/"},
+            {"word": "nurse", "meaning": "ممرض", "pronunciation": "/nɜːs/"},
+            {"word": "police officer", "meaning": "ضابط شرطة", "pronunciation": "/pəˈliːs ˌɒfɪsə/"},
+            {"word": "taxi driver", "meaning": "سائق تاكسي", "pronunciation": "/ˈtæksi ˌdraɪvə/"},
+            {"word": "builder", "meaning": "بناء", "pronunciation": "/ˈbɪldə/"},
+            {"word": "receptionist", "meaning": "موظف استقبال", "pronunciation": "/rɪˈsepʃənɪst/"},
+            {"word": "businessman", "meaning": "رجل أعمال", "pronunciation": "/ˈbɪznəsmæn/"},
+            {"word": "architect", "meaning": "مهندس معماري", "pronunciation": "/ˈɑːkɪtekt/"},
+            {"word": "student", "meaning": "طالب", "pronunciation": "/ˈstjuːdnt/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Unit 4: Family and friends",
+      "title_arabic": "الوحدة 4: العائلة والأصدقاء",
+      "lessons": [
+        {
+          "name": "Family Members",
+          "name_arabic": "أفراد العائلة",
+          "words": [
+            {"word": "mother", "meaning": "أم", "pronunciation": "/ˈmʌðə/"},
+            {"word": "father", "meaning": "أب", "pronunciation": "/ˈfɑːðə/"},
+            {"word": "parents", "meaning": "الوالدان", "pronunciation": "/ˈpeərənts/"},
+            {"word": "brother", "meaning": "أخ", "pronunciation": "/ˈbrʌðə/"},
+            {"word": "sister", "meaning": "أخت", "pronunciation": "/ˈsɪstə/"},
+            {"word": "son", "meaning": "ابن", "pronunciation": "/sʌn/"},
+            {"word": "daughter", "meaning": "ابنة", "pronunciation": "/ˈdɔːtə/"},
+            {"word": "husband", "meaning": "زوج", "pronunciation": "/ˈhʌzbənd/"},
+            {"word": "wife", "meaning": "زوجة", "pronunciation": "/waɪf/"},
+            {"word": "children", "meaning": "أطفال", "pronunciation": "/ˈtʃɪldrən/"},
+            {"word": "friend", "meaning": "صديق", "pronunciation": "/frend/"}
+          ]
+        },
+        {
+          "name": "The Alphabet",
+          "name_arabic": "الحروف الأبجدية",
+          "words": [
+            {"word": "A", "meaning": "أ", "pronunciation": "/eɪ/"},
+            {"word": "B", "meaning": "ب", "pronunciation": "/biː/"},
+            {"word": "C", "meaning": "ك", "pronunciation": "/siː/"},
+            {"word": "D", "meaning": "د", "pronunciation": "/diː/"},
+            {"word": "E", "meaning": "إ", "pronunciation": "/iː/"},
+            {"word": "F", "meaning": "ف", "pronunciation": "/ef/"},
+            {"word": "G", "meaning": "ج", "pronunciation": "/dʒiː/"},
+            {"word": "H", "meaning": "ه", "pronunciation": "/eɪtʃ/"},
+            {"word": "I", "meaning": "اي", "pronunciation": "/aɪ/"},
+            {"word": "J", "meaning": "جاي", "pronunciation": "/dʒeɪ/"},
+            {"word": "K", "meaning": "كاي", "pronunciation": "/keɪ/"},
+            {"word": "L", "meaning": "إل", "pronunciation": "/el/"},
+            {"word": "M", "meaning": "إم", "pronunciation": "/em/"},
+            {"word": "N", "meaning": "إن", "pronunciation": "/en/"},
+            {"word": "O", "meaning": "أو", "pronunciation": "/əʊ/"},
+            {"word": "P", "meaning": "بي", "pronunciation": "/piː/"},
+            {"word": "Q", "meaning": "كيو", "pronunciation": "/kjuː/"},
+            {"word": "R", "meaning": "آر", "pronunciation": "/ɑː/"},
+            {"word": "S", "meaning": "إس", "pronunciation": "/es/"},
+            {"word": "T", "meaning": "تي", "pronunciation": "/tiː/"},
+            {"word": "U", "meaning": "يو", "pronunciation": "/juː/"},
+            {"word": "V", "meaning": "في", "pronunciation": "/viː/"},
+            {"word": "W", "meaning": "دبليو", "pronunciation": "/ˈdʌbljuː/"},
+            {"word": "X", "meaning": "إكس", "pronunciation": "/eks/"},
+            {"word": "Y", "meaning": "واي", "pronunciation": "/waɪ/"},
+            {"word": "Z", "meaning": "زيد", "pronunciation": "/zed/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Unit 5: Things I like!",
+      "title_arabic": "الوحدة 5: أشياء أحبها!",
+      "lessons": [
+        {
+          "name": "Food and Drinks",
+          "name_arabic": "الطعام والشراب",
+          "words": [
+            {"word": "pizza", "meaning": "بيتزا", "pronunciation": "/ˈpiːtsə/"},
+            {"word": "pasta", "meaning": "معكرونة", "pronunciation": "/ˈpæstə/"},
+            {"word": "hamburger", "meaning": "هامبرغر", "pronunciation": "/ˈhæmbɜːɡə/"},
+            {"word": "chicken", "meaning": "دجاج", "pronunciation": "/ˈtʃɪkɪn/"},
+            {"word": "rice", "meaning": "أرز", "pronunciation": "/raɪs/"},
+            {"word": "salad", "meaning": "سلطة", "pronunciation": "/ˈsæləd/"},
+            {"word": "chocolate", "meaning": "شوكولاتة", "pronunciation": "/ˈtʃɒklət/"},
+            {"word": "ice cream", "meaning": "آيس كريم", "pronunciation": "/ˌaɪs ˈkriːm/"},
+            {"word": "coffee", "meaning": "قهوة", "pronunciation": "/ˈkɒfi/"},
+            {"word": "tea", "meaning": "شاي", "pronunciation": "/tiː/"},
+            {"word": "orange juice", "meaning": "عصير برتقال", "pronunciation": "/ˈɒrɪndʒ dʒuːs/"},
+            {"word": "water", "meaning": "ماء", "pronunciation": "/ˈwɔːtə/"}
+          ]
+        },
+        {
+          "name": "Sports",
+          "name_arabic": "الرياضات",
+          "words": [
+            {"word": "football", "meaning": "كرة القدم", "pronunciation": "/ˈfʊtbɔːl/"},
+            {"word": "tennis", "meaning": "تنس", "pronunciation": "/ˈtenɪs/"},
+            {"word": "basketball", "meaning": "كرة السلة", "pronunciation": "/ˈbɑːskɪtbɔːl/"},
+            {"word": "swimming", "meaning": "سباحة", "pronunciation": "/ˈswɪmɪŋ/"},
+            {"word": "running", "meaning": "جري", "pronunciation": "/ˈrʌnɪŋ/"},
+            {"word": "cycling", "meaning": "ركوب الدراجات", "pronunciation": "/ˈsaɪklɪŋ/"}
+          ]
+        },
+        {
+          "name": "Languages and Nationalities",
+          "name_arabic": "اللغات والجنسيات",
+          "words": [
+            {"word": "English", "meaning": "الإنجليزية", "pronunciation": "/ˈɪŋɡlɪʃ/"},
+            {"word": "Arabic", "meaning": "العربية", "pronunciation": "/ˈærəbɪk/"},
+            {"word": "French", "meaning": "الفرنسية", "pronunciation": "/frentʃ/"},
+            {"word": "Spanish", "meaning": "الإسبانية", "pronunciation": "/ˈspænɪʃ/"},
+            {"word": "German", "meaning": "الألمانية", "pronunciation": "/ˈdʒɜːmən/"},
+            {"word": "Italian", "meaning": "الإيطالية", "pronunciation": "/ɪˈtæliən/"},
+            {"word": "Chinese", "meaning": "الصينية", "pronunciation": "/ˌtʃaɪˈniːz/"},
+            {"word": "Japanese", "meaning": "اليابانية", "pronunciation": "/ˌdʒæpəˈniːz/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Unit 6: Every day",
+      "title_arabic": "الوحدة 6: كل يوم",
+      "lessons": [
+        {
+          "name": "Daily Activities",
+          "name_arabic": "الأنشطة اليومية",
+          "words": [
+            {"word": "wake up", "meaning": "يستيقظ", "pronunciation": "/weɪk ʌp/"},
+            {"word": "get up", "meaning": "ينهض من السرير", "pronunciation": "/ɡet ʌp/"},
+            {"word": "have breakfast", "meaning": "يتناول الفطور", "pronunciation": "/hæv ˈbrekfəst/"},
+            {"word": "have lunch", "meaning": "يتناول الغداء", "pronunciation": "/hæv lʌntʃ/"},
+            {"word": "have dinner", "meaning": "يتناول العشاء", "pronunciation": "/hæv ˈdɪnə/"},
+            {"word": "go to work", "meaning": "يذهب إلى العمل", "pronunciation": "/ɡəʊ tə wɜːk/"},
+            {"word": "go home", "meaning": "يعود إلى المنزل", "pronunciation": "/ɡəʊ həʊm/"},
+            {"word": "watch TV", "meaning": "يشاهد التلفاز", "pronunciation": "/wɒtʃ ˌtiː ˈviː/"},
+            {"word": "go to bed", "meaning": "يذهب إلى السرير", "pronunciation": "/ɡəʊ tə bed/"},
+            {"word": "sleep", "meaning": "ينام", "pronunciation": "/sliːp/"},
+            {"word": "work", "meaning": "يعمل", "pronunciation": "/wɜːk/"},
+            {"word": "study", "meaning": "يدرس", "pronunciation": "/ˈstʌdi/"}
+          ]
+        },
+        {
+          "name": "Days of the Week",
+          "name_arabic": "أيام الأسبوع",
+          "words": [
+            {"word": "Monday", "meaning": "الاثنين", "pronunciation": "/ˈmʌndeɪ/"},
+            {"word": "Tuesday", "meaning": "الثلاثاء", "pronunciation": "/ˈtjuːzdeɪ/"},
+            {"word": "Wednesday", "meaning": "الأربعاء", "pronunciation": "/ˈwenzdeɪ/"},
+            {"word": "Thursday", "meaning": "الخميس", "pronunciation": "/ˈθɜːzdeɪ/"},
+            {"word": "Friday", "meaning": "الجمعة", "pronunciation": "/ˈfraɪdeɪ/"},
+            {"word": "Saturday", "meaning": "السبت", "pronunciation": "/ˈsætədeɪ/"},
+            {"word": "Sunday", "meaning": "الأحد", "pronunciation": "/ˈsʌndeɪ/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Unit 7: Favourite things",
+      "title_arabic": "الوحدة 7: الأشياء المفضلة",
+      "lessons": [
+        {
+          "name": "Adjectives for Describing",
+          "name_arabic": "صفات الوصف",
+          "words": [
+            {"word": "delicious", "meaning": "لذيذ", "pronunciation": "/dɪˈlɪʃəs/"},
+            {"word": "nice", "meaning": "لطيف", "pronunciation": "/naɪs/"},
+            {"word": "lovely", "meaning": "جميل", "pronunciation": "/ˈlʌvli/"},
+            {"word": "happy", "meaning": "سعيد", "pronunciation": "/ˈhæpi/"},
+            {"word": "interesting", "meaning": "مثير للاهتمام", "pronunciation": "/ˈɪntrəstɪŋ/"},
+            {"word": "exciting", "meaning": "مثير", "pronunciation": "/ɪkˈsaɪtɪŋ/"},
+            {"word": "boring", "meaning": "ممل", "pronunciation": "/ˈbɔːrɪŋ/"},
+            {"word": "expensive", "meaning": "غالي", "pronunciation": "/ɪkˈspensɪv/"},
+            {"word": "cheap", "meaning": "رخيص", "pronunciation": "/tʃiːp/"},
+            {"word": "old", "meaning": "قديم", "pronunciation": "/əʊld/"},
+            {"word": "new", "meaning": "جديد", "pronunciation": "/njuː/"},
+            {"word": "hot", "meaning": "حار", "pronunciation": "/hɒt/"},
+            {"word": "cold", "meaning": "بارد", "pronunciation": "/kəʊld/"},
+            {"word": "right", "meaning": "صحيح", "pronunciation": "/raɪt/"},
+            {"word": "wrong", "meaning": "خطأ", "pronunciation": "/rɒŋ/"},
+            {"word": "clean", "meaning": "نظيف", "pronunciation": "/kliːn/"},
+            {"word": "dirty", "meaning": "قذر", "pronunciation": "/ˈdɜːti/"}
+          ]
+        },
+        {
+          "name": "Colours",
+          "name_arabic": "الألوان",
+          "words": [
+            {"word": "red", "meaning": "أحمر", "pronunciation": "/red/"},
+            {"word": "blue", "meaning": "أزرق", "pronunciation": "/bluː/"},
+            {"word": "green", "meaning": "أخضر", "pronunciation": "/ɡriːn/"},
+            {"word": "yellow", "meaning": "أصفر", "pronunciation": "/ˈjeləʊ/"},
+            {"word": "black", "meaning": "أسود", "pronunciation": "/blæk/"},
+            {"word": "white", "meaning": "أبيض", "pronunciation": "/waɪt/"},
+            {"word": "brown", "meaning": "بني", "pronunciation": "/braʊn/"},
+            {"word": "orange", "meaning": "برتقالي", "pronunciation": "/ˈɒrɪndʒ/"},
+            {"word": "pink", "meaning": "وردي", "pronunciation": "/pɪŋk/"},
+            {"word": "purple", "meaning": "بنفسجي", "pronunciation": "/ˈpɜːpl/"},
+            {"word": "grey", "meaning": "رمادي", "pronunciation": "/ɡreɪ/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Unit 8: Home sweet home",
+      "title_arabic": "الوحدة 8: البيت بيتي",
+      "lessons": [
+        {
+          "name": "Rooms and Furniture",
+          "name_arabic": "الغرف والأثاث",
+          "words": [
+            {"word": "house", "meaning": "منزل", "pronunciation": "/haʊs/"},
+            {"word": "apartment", "meaning": "شقة", "pronunciation": "/əˈpɑːtmənt/"},
+            {"word": "room", "meaning": "غرفة", "pronunciation": "/ruːm/"},
+            {"word": "living room", "meaning": "غرفة المعيشة", "pronunciation": "/ˈlɪvɪŋ ruːm/"},
+            {"word": "bedroom", "meaning": "غرفة النوم", "pronunciation": "/ˈbedruːm/"},
+            {"word": "kitchen", "meaning": "مطبخ", "pronunciation": "/ˈkɪtʃɪn/"},
+            {"word": "bathroom", "meaning": "حمام", "pronunciation": "/ˈbɑːθruːm/"},
+            {"word": "dining room", "meaning": "غرفة الطعام", "pronunciation": "/ˈdaɪnɪŋ ruːm/"},
+            {"word": "sofa", "meaning": "أريكة", "pronunciation": "/ˈsəʊfə/"},
+            {"word": "table", "meaning": "طاولة", "pronunciation": "/ˈteɪbl/"},
+            {"word": "chair", "meaning": "كرسي", "pronunciation": "/tʃeə/"},
+            {"word": "bed", "meaning": "سرير", "pronunciation": "/bed/"},
+            {"word": "desk", "meaning": "مكتب", "pronunciation": "/desk/"},
+            {"word": "wardrobe", "meaning": "خزانة ملابس", "pronunciation": "/ˈwɔːdrəʊb/"},
+            {"word": "fridge", "meaning": "ثلاجة", "pronunciation": "/frɪdʒ/"},
+            {"word": "cooker", "meaning": "موقد", "pronunciation": "/ˈkʊkə/"},
+            {"word": "television", "meaning": "تلفاز", "pronunciation": "/ˈtelɪvɪʒn/"},
+            {"word": "lamp", "meaning": "مصباح", "pronunciation": "/læmp/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Unit 9: Past times",
+      "title_arabic": "الوحدة 9: الأوقات الماضية",
+      "lessons": [
+        {
+          "name": "Months of the Year",
+          "name_arabic": "أشهر السنة",
+          "words": [
+            {"word": "January", "meaning": "يناير", "pronunciation": "/ˈdʒænjuəri/"},
+            {"word": "February", "meaning": "فبراير", "pronunciation": "/ˈfebruəri/"},
+            {"word": "March", "meaning": "مارس", "pronunciation": "/mɑːtʃ/"},
+            {"word": "April", "meaning": "أبريل", "pronunciation": "/ˈeɪprəl/"},
+            {"word": "May", "meaning": "مايو", "pronunciation": "/meɪ/"},
+            {"word": "June", "meaning": "يونيو", "pronunciation": "/dʒuːn/"},
+            {"word": "July", "meaning": "يوليو", "pronunciation": "/dʒuˈlaɪ/"},
+            {"word": "August", "meaning": "أغسطس", "pronunciation": "/ˈɔːɡəst/"},
+            {"word": "September", "meaning": "سبتمبر", "pronunciation": "/sepˈtembə/"},
+            {"word": "October", "meaning": "أكتوبر", "pronunciation": "/ɒkˈtəʊbə/"},
+            {"word": "November", "meaning": "نوفمبر", "pronunciation": "/nəʊˈvembə/"},
+            {"word": "December", "meaning": "ديسمبر", "pronunciation": "/dɪˈsembə/"}
+          ]
+        },
+        {
+          "name": "Past Time Words",
+          "name_arabic": "كلمات الزمن الماضي",
+          "words": [
+            {"word": "yesterday", "meaning": "أمس", "pronunciation": "/ˈjestədeɪ/"},
+            {"word": "last week", "meaning": "الأسبوع الماضي", "pronunciation": "/lɑːst wiːk/"},
+            {"word": "last month", "meaning": "الشهر الماضي", "pronunciation": "/lɑːst mʌnθ/"},
+            {"word": "last year", "meaning": "العام الماضي", "pronunciation": "/lɑːst jɪə/"},
+            {"word": "ago", "meaning": "منذ", "pronunciation": "/əˈɡəʊ/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Unit 10: We had a good time!",
+      "title_arabic": "الوحدة 10: قضينا وقتا ممتعا!",
+      "lessons": [
+        {
+          "name": "Holiday Activities",
+          "name_arabic": "أنشطة العطلة",
+          "words": [
+            {"word": "holiday", "meaning": "عطلة", "pronunciation": "/ˈhɒlədeɪ/"},
+            {"word": "beach", "meaning": "شاطئ", "pronunciation": "/biːtʃ/"},
+            {"word": "mountain", "meaning": "جبل", "pronunciation": "/ˈmaʊntən/"},
+            {"word": "hotel", "meaning": "فندق", "pronunciation": "/həʊˈtel/"},
+            {"word": "camping", "meaning": "تخييم", "pronunciation": "/ˈkæmpɪŋ/"},
+            {"word": "sightseeing", "meaning": "مشاهدة المعالم", "pronunciation": "/ˈsaɪtsiːɪŋ/"},
+            {"word": "swim", "meaning": "يسبح", "pronunciation": "/swɪm/"},
+            {"word": "relax", "meaning": "يسترخي", "pronunciation": "/rɪˈlæks/"},
+            {"word": "travel", "meaning": "يسافر", "pronunciation": "/ˈtrævl/"},
+            {"word": "fly", "meaning": "يطير", "pronunciation": "/flaɪ/"},
+            {"word": "enjoy", "meaning": "يستمتع", "pronunciation": "/ɪnˈdʒɔɪ/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Unit 11: Let's eat!",
+      "title_arabic": "الوحدة 11: دعنا نأكل!",
+      "lessons": [
+        {
+          "name": "Countable Food",
+          "name_arabic": "أطعمة معدودة",
+          "words": [
+            {"word": "apple", "meaning": "تفاحة", "pronunciation": "/ˈæpl/"},
+            {"word": "banana", "meaning": "موزة", "pronunciation": "/bəˈnɑːnə/"},
+            {"word": "orange", "meaning": "برتقالة", "pronunciation": "/ˈɒrɪndʒ/"},
+            {"word": "tomato", "meaning": "طماطم", "pronunciation": "/təˈmɑːtəʊ/"},
+            {"word": "potato", "meaning": "بطاطس", "pronunciation": "/pəˈteɪtəʊ/"},
+            {"word": "carrot", "meaning": "جزر", "pronunciation": "/ˈkærət/"},
+            {"word": "egg", "meaning": "بيضة", "pronunciation": "/eɡ/"},
+            {"word": "sandwich", "meaning": "ساندويتش", "pronunciation": "/ˈsænwɪtʃ/"}
+          ]
+        },
+        {
+          "name": "Uncountable Food",
+          "name_arabic": "أطعمة غير معدودة",
+          "words": [
+            {"word": "bread", "meaning": "خبز", "pronunciation": "/bred/"},
+            {"word": "cheese", "meaning": "جبن", "pronunciation": "/tʃiːz/"},
+            {"word": "rice", "meaning": "أرز", "pronunciation": "/raɪs/"},
+            {"word": "pasta", "meaning": "معكرونة", "pronunciation": "/ˈpæstə/"},
+            {"word": "sugar", "meaning": "سكر", "pronunciation": "/ˈʃʊɡə/"},
+            {"word": "salt", "meaning": "ملح", "pronunciation": "/sɒlt/"},
+            {"word": "water", "meaning": "ماء", "pronunciation": "/ˈwɔːtə/"},
+            {"word": "milk", "meaning": "حليب", "pronunciation": "/mɪlk/"},
+            {"word": "juice", "meaning": "عصير", "pronunciation": "/dʒuːs/"},
+            {"word": "coffee", "meaning": "قهوة", "pronunciation": "/ˈkɒfi/"},
+            {"word": "tea", "meaning": "شاي", "pronunciation": "/tiː/"},
+            {"word": "chocolate", "meaning": "شوكولاتة", "pronunciation": "/ˈtʃɒklət/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Unit 12: Thank you very much!",
+      "title_arabic": "الوحدة 12: شكرا جزيلا!",
+      "lessons": [
+        {
+          "name": "Polite Expressions",
+          "name_arabic": "تعبيرات مهذبة",
+          "words": [
+            {"word": "please", "meaning": "من فضلك", "pronunciation": "/pliːz/"},
+            {"word": "thank you", "meaning": "شكرا لك", "pronunciation": "/ˈθæŋk juː/"},
+            {"word": "you're welcome", "meaning": "على الرحب والسعة", "pronunciation": "/jɔː ˈwelkəm/"},
+            {"word": "excuse me", "meaning": "عفوا", "pronunciation": "/ɪkˈskjuːz miː/"},
+            {"word": "sorry", "meaning": "آسف", "pronunciation": "/ˈsɒri/"},
+            {"word": "no problem", "meaning": "لا مشكلة", "pronunciation": "/nəʊ ˈprɒbləm/"}
+          ]
+        },
+        {
+          "name": "Signs",
+          "name_arabic": "اللوحات الإرشادية",
+          "words": [
+            {"word": "entrance", "meaning": "مدخل", "pronunciation": "/ˈentrəns/"},
+            {"word": "exit", "meaning": "مخرج", "pronunciation": "/ˈeksɪt/"},
+            {"word": "push", "meaning": "ادفع", "pronunciation": "/pʊʃ/"},
+            {"word": "pull", "meaning": "اسحب", "pronunciation": "/pʊl/"},
+            {"word": "open", "meaning": "مفتوح", "pronunciation": "/ˈəʊpən/"},
+            {"word": "closed", "meaning": "مغلق", "pronunciation": "/kləʊzd/"},
+            {"word": "sale", "meaning": "تخفيضات", "pronunciation": "/seɪl/"},
+            {"word": "queue here", "meaning": "اصطف هنا", "pronunciation": "/kjuː hɪə/"},
+            {"word": "no parking", "meaning": "ممنوع الوقوف", "pronunciation": "/nəʊ ˈpɑːkɪŋ/"},
+            {"word": "no entry", "meaning": "ممنوع الدخول", "pronunciation": "/nəʊ ˈentri/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Unit 13: What's happening now?",
+      "title_arabic": "الوحدة 13: ماذا يحدث الآن؟",
+      "lessons": [
+        {
+          "name": "Clothes",
+          "name_arabic": "الملابس",
+          "words": [
+            {"word": "shirt", "meaning": "قميص", "pronunciation": "/ʃɜːt/"},
+            {"word": "trousers", "meaning": "بنطلون", "pronunciation": "/ˈtraʊzəz/"},
+            {"word": "jeans", "meaning": "جينز", "pronunciation": "/dʒiːnz/"},
+            {"word": "jacket", "meaning": "جاكيت", "pronunciation": "/ˈdʒækɪt/"},
+            {"word": "coat", "meaning": "معطف", "pronunciation": "/kəʊt/"},
+            {"word": "dress", "meaning": "فستان", "pronunciation": "/dres/"},
+            {"word": "skirt", "meaning": "تنورة", "pronunciation": "/skɜːt/"},
+            {"word": "jumper", "meaning": "كنزة صوفية", "pronunciation": "/ˈdʒʌmpə/"},
+            {"word": "suit", "meaning": "بدلة", "pronunciation": "/suːt/"},
+            {"word": "tie", "meaning": "ربطة عنق", "pronunciation": "/taɪ/"},
+            {"word": "shoes", "meaning": "أحذية", "pronunciation": "/ʃuːz/"},
+            {"word": "trainers", "meaning": "حذاء رياضي", "pronunciation": "/ˈtreɪnəz/"},
+            {"word": "boots", "meaning": "أحذية طويلة", "pronunciation": "/buːts/"},
+            {"word": "socks", "meaning": "جوارب", "pronunciation": "/sɒks/"},
+            {"word": "t-shirt", "meaning": "تي شيرت", "pronunciation": "/ˈtiː ʃɜːt/"},
+            {"word": "shorts", "meaning": "شورت", "pronunciation": "/ʃɔːts/"},
+            {"word": "hat", "meaning": "قبعة", "pronunciation": "/hæt/"},
+            {"word": "scarf", "meaning": "وشاح", "pronunciation": "/skɑːf/"}
+          ]
+        },
+        {
+          "name": "Opposite Verbs",
+          "name_arabic": "أفعال متضادة",
+          "words": [
+            {"word": "open", "meaning": "يفتح", "pronunciation": "/ˈəʊpən/"},
+            {"word": "close", "meaning": "يغلق", "pronunciation": "/kləʊz/"},
+            {"word": "remember", "meaning": "يتذكر", "pronunciation": "/rɪˈmembə/"},
+            {"word": "forget", "meaning": "ينسى", "pronunciation": "/fəˈɡet/"},
+            {"word": "put on", "meaning": "يرتدي", "pronunciation": "/pʊt ɒn/"},
+            {"word": "take off", "meaning": "يخلع", "pronunciation": "/teɪk ɒf/"},
+            {"word": "buy", "meaning": "يشتري", "pronunciation": "/baɪ/"},
+            {"word": "sell", "meaning": "يبيع", "pronunciation": "/sel/"},
+            {"word": "love", "meaning": "يحب", "pronunciation": "/lʌv/"},
+            {"word": "hate", "meaning": "يكره", "pronunciation": "/heɪt/"},
+            {"word": "start", "meaning": "يبدأ", "pronunciation": "/stɑːt/"},
+            {"word": "finish", "meaning": "ينهي", "pronunciation": "/ˈfɪnɪʃ/"},
+            {"word": "arrive", "meaning": "يصل", "pronunciation": "/əˈraɪv/"},
+            {"word": "leave", "meaning": "يغادر", "pronunciation": "/liːv/"},
+            {"word": "win", "meaning": "يفوز", "pronunciation": "/wɪn/"},
+            {"word": "lose", "meaning": "يخسر", "pronunciation": "/luːz/"}
+          ]
+        },
+        {
+          "name": "Feelings and Conditions",
+          "name_arabic": "المشاعر والحالات",
+          "words": [
+            {"word": "happy", "meaning": "سعيد", "pronunciation": "/ˈhæpi/"},
+            {"word": "sad", "meaning": "حزين", "pronunciation": "/sæd/"},
+            {"word": "tired", "meaning": "متعب", "pronunciation": "/ˈtaɪəd/"},
+            {"word": "hungry", "meaning": "جائع", "pronunciation": "/ˈhʌŋɡri/"},
+            {"word": "thirsty", "meaning": "عطشان", "pronunciation": "/ˈθɜːsti/"},
+            {"word": "hot", "meaning": "حار", "pronunciation": "/hɒt/"},
+            {"word": "cold", "meaning": "بارد", "pronunciation": "/kəʊld/"},
+            {"word": "worried", "meaning": "قلق", "pronunciation": "/ˈwʌrid/"},
+            {"word": "angry", "meaning": "غاضب", "pronunciation": "/ˈæŋɡri/"},
+            {"word": "bored", "meaning": "يشعر بالملل", "pronunciation": "/bɔːd/"},
+            {"word": "excited", "meaning": "متحمس", "pronunciation": "/ɪkˈsaɪtɪd/"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Unit 14: Let's go!",
+      "title_arabic": "الوحدة 14: دعنا نذهب!",
+      "lessons": [
+        {
+          "name": "Transportation",
+          "name_arabic": "وسائل النقل",
+          "words": [
+            {"word": "car", "meaning": "سيارة", "pronunciation": "/kɑː/"},
+            {"word": "bus", "meaning": "حافلة", "pronunciation": "/bʌs/"},
+            {"word": "train", "meaning": "قطار", "pronunciation": "/treɪn/"},
+            {"word": "plane", "meaning": "طائرة", "pronunciation": "/pleɪn/"},
+            {"word": "boat", "meaning": "قارب", "pronunciation": "/bəʊt/"},
+            {"word": "bicycle", "meaning": "دراجة", "pronunciation": "/ˈbaɪsɪkl/"},
+            {"word": "motorbike", "meaning": "دراجة نارية", "pronunciation": "/ˈməʊtəbaɪk/"},
+            {"word": "taxi", "meaning": "تاكسي", "pronunciation": "/ˈtæksi/"},
+            {"word": "underground", "meaning": "مترو الأنفاق", "pronunciation": "/ˈʌndəɡraʊnd/"}
+          ]
+        },
+        {
+          "name": "Future Plans",
+          "name_arabic": "الخطط المستقبلية",
+          "words": [
+            {"word": "tomorrow", "meaning": "غدا", "pronunciation": "/təˈmɒrəʊ/"},
+            {"word": "next week", "meaning": "الأسبوع القادم", "pronunciation": "/nekst wiːk/"},
+            {"word": "next month", "meaning": "الشهر القادم", "pronunciation": "/nekst mʌnθ/"},
+            {"word": "next year", "meaning": "السنة القادمة", "pronunciation": "/nekst jɪə/"},
+            {"word": "go", "meaning": "يذهب", "pronunciation": "/ɡəʊ/"},
+            {"word": "travel", "meaning": "يسافر", "pronunciation": "/ˈtrævl/"},
+            {"word": "stay", "meaning": "يبقى", "pronunciation": "/steɪ/"},
+            {"word": "visit", "meaning": "يزور", "pronunciation": "/ˈvɪzɪt/"},
+            {"word": "fly", "meaning": "يطير", "pronunciation": "/flaɪ/"},
+            {"word": "drive", "meaning": "يقود", "pronunciation": "/draɪv/"}
+          ]
+        }
+      ]
+    }
+  ]
+}
