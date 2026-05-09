@@ -1,22 +1,32 @@
 {
-  "lastUpdated": "2026-05-09T18:09:09.051Z",
+  "lastUpdated": "2026-05-09T18:09:18.649Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-05-09T18:09:09.051Z",
-      "totalCorrect": 1,
-      "totalAttempts": 1,
+      "lastActive": "2026-05-09T18:09:18.649Z",
+      "totalCorrect": 2,
+      "totalAttempts": 2,
       "dailyRecords": {
         "5/9/2026": [
           {
             "title": "Unit 5: Things I like! - Food and Drinks",
             "word": "hamburger",
-            "meaning": "هامبرغر",
+            "meaning": "ÙØ§ÙØ¨Ø±ØºØ±",
             "isCorrect": true,
             "timestamp": 1778350148574,
             "time": "21:09",
             "grade": "good",
+            "userAttempt": "hamburger"
+          },
+          {
+            "title": "Unit 5: Things I like! - Food and Drinks",
+            "word": "hamburger",
+            "meaning": "هامبرغر",
+            "isCorrect": true,
+            "timestamp": 1778350158249,
+            "time": "21:09",
+            "grade": "excellent",
             "userAttempt": "hamburger"
           }
         ]
