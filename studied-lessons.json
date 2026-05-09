@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T16:35:38.882Z",
+  "lastUpdated": "2026-05-09T17:38:03.840Z",
   "users": [
     {
       "userId": "UG912811301830",
@@ -22,14 +22,15 @@
       "completedLessons": [
         "0_0",
         "0_3",
-        "0_1"
+        "0_1",
+        "0_4"
       ],
       "lastLesson": {
-        "id": "0_1",
-        "title": "Introductions - This is ...",
-        "timestamp": "2026-05-08T16:35:36.974Z"
+        "id": "0_4",
+        "title": "Vocabulary - What's this in English?",
+        "timestamp": "2026-05-09T17:37:46.956Z"
       },
-      "lastActive": "2026-05-08T16:35:38.882Z"
+      "lastActive": "2026-05-09T17:38:03.840Z"
     },
     {
       "userId": "UG811902812057",
