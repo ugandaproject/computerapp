@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-05-10T13:46:19.458Z",
+  "lastUpdated": "2026-05-10T13:46:31.455Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-05-10T13:46:19.458Z",
+      "lastActive": "2026-05-10T13:46:31.455Z",
       "totalCorrect": 4,
-      "totalAttempts": 4,
+      "totalAttempts": 5,
       "dailyRecords": {
         "5/10/2026": [
           {
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
-            "unit_arabic": "ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 1: ÃÂÃÂÃÂÃÂ±ÃÂÃÂ­ÃÂÃÂ¨ÃÂÃÂ§!",
+            "unit_arabic": "ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ© 1: ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ§!",
             "lesson": "Numbers 1-10",
-            "lesson_arabic": "ÃÂÃÂ§ÃÂÃÂÃÂÃÂ£ÃÂÃÂ±ÃÂÃÂÃÂÃÂ§ÃÂÃÂ 1-10",
+            "lesson_arabic": "ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ 1-10",
             "word": "one",
-            "meaning": "ÃÂÃÂÃÂÃÂ§ÃÂÃÂ­ÃÂÃÂ¯",
-            "pronunciation": "/wÃÂÃÂn/",
+            "meaning": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ¯",
+            "pronunciation": "/wÃÂÃÂÃÂÃÂn/",
             "isCorrect": true,
             "timestamp": 1778410750785,
             "date": "5/10/2026",
@@ -30,12 +30,12 @@
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
-            "unit_arabic": "ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 1: ÃÂÃÂ±ÃÂ­ÃÂ¨ÃÂ§!",
+            "unit_arabic": "ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 1: ÃÂÃÂÃÂÃÂ±ÃÂÃÂ­ÃÂÃÂ¨ÃÂÃÂ§!",
             "lesson": "Greetings",
-            "lesson_arabic": "ÃÂ§ÃÂÃÂªÃÂ­ÃÂÃÂ§ÃÂª",
+            "lesson_arabic": "ÃÂÃÂ§ÃÂÃÂÃÂÃÂªÃÂÃÂ­ÃÂÃÂÃÂÃÂ§ÃÂÃÂª",
             "word": "hello",
-            "meaning": "ÃÂÃÂ±ÃÂ­ÃÂ¨ÃÂ§",
-            "pronunciation": "/hÃÂÃÂlÃÂÃÂ/",
+            "meaning": "ÃÂÃÂÃÂÃÂ±ÃÂÃÂ­ÃÂÃÂ¨ÃÂÃÂ§",
+            "pronunciation": "/hÃÂÃÂÃÂÃÂlÃÂÃÂÃÂÃÂ/",
             "isCorrect": true,
             "timestamp": 1778412425987,
             "date": "5/10/2026",
@@ -47,12 +47,12 @@
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 2: Your world",
-            "unit_arabic": "Ø§ÙÙØ­Ø¯Ø© 2: Ø¹Ø§ÙÙÙ",
+            "unit_arabic": "ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 2: ÃÂ¹ÃÂ§ÃÂÃÂÃÂ",
             "lesson": "Countries",
-            "lesson_arabic": "Ø§ÙØ¯ÙÙ",
+            "lesson_arabic": "ÃÂ§ÃÂÃÂ¯ÃÂÃÂ",
             "word": "Argentina",
-            "meaning": "Ø§ÙØ£Ø±Ø¬ÙØªÙÙ",
-            "pronunciation": "/ËÉËdÊÉnËtiËnÉ/",
+            "meaning": "ÃÂ§ÃÂÃÂ£ÃÂ±ÃÂ¬ÃÂÃÂªÃÂÃÂ",
+            "pronunciation": "/ÃÂÃÂÃÂdÃÂÃÂnÃÂtiÃÂnÃÂ/",
             "isCorrect": true,
             "timestamp": 1778413259480,
             "date": "5/10/2026",
@@ -64,18 +64,35 @@
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 2: Your world",
-            "unit_arabic": "الوحدة 2: عالمك",
+            "unit_arabic": "Ø§ÙÙØ­Ø¯Ø© 2: Ø¹Ø§ÙÙÙ",
             "lesson": "Countries",
-            "lesson_arabic": "الدول",
+            "lesson_arabic": "Ø§ÙØ¯ÙÙ",
             "word": "Brazil",
-            "meaning": "البرازيل",
-            "pronunciation": "/brəˈzɪl/",
+            "meaning": "Ø§ÙØ¨Ø±Ø§Ø²ÙÙ",
+            "pronunciation": "/brÉËzÉªl/",
             "isCorrect": true,
             "timestamp": 1778420769016,
             "date": "5/10/2026",
             "time": "16:46",
             "grade": "good",
             "userAttempt": "Brazil"
+          },
+          {
+            "type": "word",
+            "book": "Headway Beginner 5th Edition",
+            "unit": "Unit 2: Your world",
+            "unit_arabic": "الوحدة 2: عالمك",
+            "lesson": "Countries",
+            "lesson_arabic": "الدول",
+            "word": "Brazil",
+            "meaning": "البرازيل",
+            "pronunciation": "/brəˈzɪl/",
+            "isCorrect": false,
+            "timestamp": 1778420790905,
+            "date": "5/10/2026",
+            "time": "16:46",
+            "grade": "wrong",
+            "userAttempt": "Australia"
           }
         ]
       },
