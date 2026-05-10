@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-05-10T09:08:00.832Z",
+  "lastUpdated": "2026-05-10T09:08:36.395Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-05-10T09:08:00.832Z",
-      "totalCorrect": 1,
-      "totalAttempts": 2,
+      "lastActive": "2026-05-10T09:08:36.395Z",
+      "totalCorrect": 2,
+      "totalAttempts": 3,
       "dailyRecords": {
         "5/10/2026": [
           {
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 11: Let's eat!",
-            "unit_arabic": "Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
+            "unit_arabic": "ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 11: ÃÂ¯ÃÂ¹ÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂ!",
             "lesson": "Countable Food",
-            "lesson_arabic": "Ø£Ø·Ø¹ÙØ© ÙØ¹Ø¯ÙØ¯Ø©",
+            "lesson_arabic": "ÃÂ£ÃÂ·ÃÂ¹ÃÂÃÂ© ÃÂÃÂ¹ÃÂ¯ÃÂÃÂ¯ÃÂ©",
             "word": "apple",
-            "meaning": "ØªÙØ§Ø­Ø©",
-            "pronunciation": "/ËÃ¦pl/",
+            "meaning": "ÃÂªÃÂÃÂ§ÃÂ­ÃÂ©",
+            "pronunciation": "/ÃÂÃÂ¦pl/",
             "isCorrect": false,
             "timestamp": 1778403927468,
             "date": "5/10/2026",
@@ -30,18 +30,35 @@
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 12: Thank you very much!",
-            "unit_arabic": "الوحدة 12: شكرا جزيلا!",
+            "unit_arabic": "Ø§ÙÙØ­Ø¯Ø© 12: Ø´ÙØ±Ø§ Ø¬Ø²ÙÙØ§!",
             "lesson": "Signs",
-            "lesson_arabic": "اللوحات الإرشادية",
+            "lesson_arabic": "Ø§ÙÙÙØ­Ø§Øª Ø§ÙØ¥Ø±Ø´Ø§Ø¯ÙØ©",
             "word": "entrance",
-            "meaning": "مدخل",
-            "pronunciation": "/ˈentrəns/",
+            "meaning": "ÙØ¯Ø®Ù",
+            "pronunciation": "/ËentrÉns/",
             "isCorrect": true,
             "timestamp": 1778404079384,
             "date": "5/10/2026",
             "time": "12:07",
             "grade": "excellent",
             "userAttempt": "entrance"
+          },
+          {
+            "type": "word",
+            "book": "Headway Beginner 5th Edition",
+            "unit": "Unit 12: Thank you very much!",
+            "unit_arabic": "الوحدة 12: شكرا جزيلا!",
+            "lesson": "Signs",
+            "lesson_arabic": "اللوحات الإرشادية",
+            "word": "exit",
+            "meaning": "مخرج",
+            "pronunciation": "/ˈeksɪt/",
+            "isCorrect": true,
+            "timestamp": 1778404115346,
+            "date": "5/10/2026",
+            "time": "12:08",
+            "grade": "excellent",
+            "userAttempt": "exit"
           }
         ]
       },
