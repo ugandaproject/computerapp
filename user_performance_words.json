@@ -1,30 +1,47 @@
 {
-  "lastUpdated": "2026-05-10T09:05:29.507Z",
+  "lastUpdated": "2026-05-10T09:08:00.832Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-05-10T09:05:29.507Z",
-      "totalCorrect": 0,
-      "totalAttempts": 1,
+      "lastActive": "2026-05-10T09:08:00.832Z",
+      "totalCorrect": 1,
+      "totalAttempts": 2,
       "dailyRecords": {
         "5/10/2026": [
           {
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 11: Let's eat!",
-            "unit_arabic": "الوحدة 11: دعنا نأكل!",
+            "unit_arabic": "Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
             "lesson": "Countable Food",
-            "lesson_arabic": "أطعمة معدودة",
+            "lesson_arabic": "Ø£Ø·Ø¹ÙØ© ÙØ¹Ø¯ÙØ¯Ø©",
             "word": "apple",
-            "meaning": "تفاحة",
-            "pronunciation": "/ˈæpl/",
+            "meaning": "ØªÙØ§Ø­Ø©",
+            "pronunciation": "/ËÃ¦pl/",
             "isCorrect": false,
             "timestamp": 1778403927468,
             "date": "5/10/2026",
             "time": "12:05",
             "grade": "wrong",
             "userAttempt": "enjoy it right"
+          },
+          {
+            "type": "word",
+            "book": "Headway Beginner 5th Edition",
+            "unit": "Unit 12: Thank you very much!",
+            "unit_arabic": "الوحدة 12: شكرا جزيلا!",
+            "lesson": "Signs",
+            "lesson_arabic": "اللوحات الإرشادية",
+            "word": "entrance",
+            "meaning": "مدخل",
+            "pronunciation": "/ˈentrəns/",
+            "isCorrect": true,
+            "timestamp": 1778404079384,
+            "date": "5/10/2026",
+            "time": "12:07",
+            "grade": "excellent",
+            "userAttempt": "entrance"
           }
         ]
       },
