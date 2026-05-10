@@ -4209,18 +4209,18 @@
       "ipAddress": "client-side"
     },
     {
-      "id": "UG313721560320",
+      "id": "UG374414348121",
       "name": "TeganiabdallaIsmail",
       "phone": "+256766871857",
       "paid": false,
-      "regDate": "2026-05-10T18:55:13.724Z",
-      "expiryDate": "2026-05-11T18:55:13.724Z",
+      "regDate": "2026-05-10T18:56:14.414Z",
+      "expiryDate": "2026-05-11T18:56:14.414Z",
       "subscriptionDays": 1,
       "active": true,
       "deviceId": "WEB-1B5B-1943",
       "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-05-10T18:55:13.724Z",
-      "sessionToken": "sess_wnn98b733n",
+      "lastActive": "2026-05-10T18:56:14.414Z",
+      "sessionToken": "sess_v6e2kih3ftf",
       "ipAddress": "client-side"
     }
   ]
