@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-05-10T09:09:07.213Z",
+  "lastUpdated": "2026-05-10T09:09:24.173Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-05-10T09:09:07.213Z",
-      "totalCorrect": 2,
-      "totalAttempts": 4,
+      "lastActive": "2026-05-10T09:09:24.173Z",
+      "totalCorrect": 3,
+      "totalAttempts": 5,
       "dailyRecords": {
         "5/10/2026": [
           {
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 11: Let's eat!",
-            "unit_arabic": "ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 11: ÃÂÃÂ¯ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ§ ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ!",
+            "unit_arabic": "ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ© 11: ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ!",
             "lesson": "Countable Food",
-            "lesson_arabic": "ÃÂÃÂ£ÃÂÃÂ·ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ© ÃÂÃÂÃÂÃÂ¹ÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¯ÃÂÃÂ©",
+            "lesson_arabic": "ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ©",
             "word": "apple",
-            "meaning": "ÃÂÃÂªÃÂÃÂÃÂÃÂ§ÃÂÃÂ­ÃÂÃÂ©",
-            "pronunciation": "/ÃÂÃÂÃÂÃÂ¦pl/",
+            "meaning": "ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ©",
+            "pronunciation": "/ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦pl/",
             "isCorrect": false,
             "timestamp": 1778403927468,
             "date": "5/10/2026",
@@ -30,12 +30,12 @@
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 12: Thank you very much!",
-            "unit_arabic": "ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 12: ÃÂ´ÃÂÃÂ±ÃÂ§ ÃÂ¬ÃÂ²ÃÂÃÂÃÂ§!",
+            "unit_arabic": "ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 12: ÃÂÃÂ´ÃÂÃÂÃÂÃÂ±ÃÂÃÂ§ ÃÂÃÂ¬ÃÂÃÂ²ÃÂÃÂÃÂÃÂÃÂÃÂ§!",
             "lesson": "Signs",
-            "lesson_arabic": "ÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂ§ÃÂª ÃÂ§ÃÂÃÂ¥ÃÂ±ÃÂ´ÃÂ§ÃÂ¯ÃÂÃÂ©",
+            "lesson_arabic": "ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ§ÃÂÃÂª ÃÂÃÂ§ÃÂÃÂÃÂÃÂ¥ÃÂÃÂ±ÃÂÃÂ´ÃÂÃÂ§ÃÂÃÂ¯ÃÂÃÂÃÂÃÂ©",
             "word": "entrance",
-            "meaning": "ÃÂÃÂ¯ÃÂ®ÃÂ",
-            "pronunciation": "/ÃÂentrÃÂns/",
+            "meaning": "ÃÂÃÂÃÂÃÂ¯ÃÂÃÂ®ÃÂÃÂ",
+            "pronunciation": "/ÃÂÃÂentrÃÂÃÂns/",
             "isCorrect": true,
             "timestamp": 1778404079384,
             "date": "5/10/2026",
@@ -47,12 +47,12 @@
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 12: Thank you very much!",
-            "unit_arabic": "Ø§ÙÙØ­Ø¯Ø© 12: Ø´ÙØ±Ø§ Ø¬Ø²ÙÙØ§!",
+            "unit_arabic": "ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 12: ÃÂ´ÃÂÃÂ±ÃÂ§ ÃÂ¬ÃÂ²ÃÂÃÂÃÂ§!",
             "lesson": "Signs",
-            "lesson_arabic": "Ø§ÙÙÙØ­Ø§Øª Ø§ÙØ¥Ø±Ø´Ø§Ø¯ÙØ©",
+            "lesson_arabic": "ÃÂ§ÃÂÃÂÃÂÃÂ­ÃÂ§ÃÂª ÃÂ§ÃÂÃÂ¥ÃÂ±ÃÂ´ÃÂ§ÃÂ¯ÃÂÃÂ©",
             "word": "exit",
-            "meaning": "ÙØ®Ø±Ø¬",
-            "pronunciation": "/ËeksÉªt/",
+            "meaning": "ÃÂÃÂ®ÃÂ±ÃÂ¬",
+            "pronunciation": "/ÃÂeksÃÂªt/",
             "isCorrect": true,
             "timestamp": 1778404115346,
             "date": "5/10/2026",
@@ -64,18 +64,35 @@
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 12: Thank you very much!",
-            "unit_arabic": "الوحدة 12: شكرا جزيلا!",
+            "unit_arabic": "Ø§ÙÙØ­Ø¯Ø© 12: Ø´ÙØ±Ø§ Ø¬Ø²ÙÙØ§!",
             "lesson": "Signs",
-            "lesson_arabic": "اللوحات الإرشادية",
+            "lesson_arabic": "Ø§ÙÙÙØ­Ø§Øª Ø§ÙØ¥Ø±Ø´Ø§Ø¯ÙØ©",
             "word": "push",
-            "meaning": "ادفع",
-            "pronunciation": "/pʊʃ/",
+            "meaning": "Ø§Ø¯ÙØ¹",
+            "pronunciation": "/pÊÊ/",
             "isCorrect": false,
             "timestamp": 1778404146810,
             "date": "5/10/2026",
             "time": "12:09",
             "grade": "wrong",
             "userAttempt": "bush"
+          },
+          {
+            "type": "word",
+            "book": "Headway Beginner 5th Edition",
+            "unit": "Unit 12: Thank you very much!",
+            "unit_arabic": "الوحدة 12: شكرا جزيلا!",
+            "lesson": "Signs",
+            "lesson_arabic": "اللوحات الإرشادية",
+            "word": "push",
+            "meaning": "ادفع",
+            "pronunciation": "/pʊʃ/",
+            "isCorrect": true,
+            "timestamp": 1778404163738,
+            "date": "5/10/2026",
+            "time": "12:09",
+            "grade": "excellent",
+            "userAttempt": "push"
           }
         ]
       },
