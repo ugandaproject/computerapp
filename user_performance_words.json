@@ -1,0 +1,34 @@
+{
+  "lastUpdated": "2026-05-10T09:05:29.507Z",
+  "users": [
+    {
+      "userId": "UG912811301830",
+      "userName": "Ahmed",
+      "lastActive": "2026-05-10T09:05:29.507Z",
+      "totalCorrect": 0,
+      "totalAttempts": 1,
+      "dailyRecords": {
+        "5/10/2026": [
+          {
+            "type": "word",
+            "book": "Headway Beginner 5th Edition",
+            "unit": "Unit 11: Let's eat!",
+            "unit_arabic": "الوحدة 11: دعنا نأكل!",
+            "lesson": "Countable Food",
+            "lesson_arabic": "أطعمة معدودة",
+            "word": "apple",
+            "meaning": "تفاحة",
+            "pronunciation": "/ˈæpl/",
+            "isCorrect": false,
+            "timestamp": 1778403927468,
+            "date": "5/10/2026",
+            "time": "12:05",
+            "grade": "wrong",
+            "userAttempt": "enjoy it right"
+          }
+        ]
+      },
+      "mistakes": {}
+    }
+  ]
+}
