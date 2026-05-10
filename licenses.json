@@ -4192,6 +4192,21 @@
       "lastActive": "2026-05-05T15:22:06.086Z",
       "sessionToken": "sess_d1mwhgy65sm",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG339801199048",
+      "name": "Malka",
+      "phone": "+256791192006",
+      "paid": false,
+      "regDate": "2026-05-10T14:28:59.810Z",
+      "expiryDate": "2026-05-11T14:28:59.810Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-068E-05AD",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-10T14:28:59.810Z",
+      "sessionToken": "sess_arwhok09zib",
+      "ipAddress": "client-side"
     }
   ]
 }
