@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-05-10T11:27:08.911Z",
+  "lastUpdated": "2026-05-10T11:41:02.369Z",
   "users": [
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
-      "lastActive": "2026-05-10T11:27:08.911Z",
-      "totalCorrect": 2,
-      "totalAttempts": 2,
+      "lastActive": "2026-05-10T11:41:02.369Z",
+      "totalCorrect": 3,
+      "totalAttempts": 3,
       "dailyRecords": {
         "5/10/2026": [
           {
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
-            "unit_arabic": "Ø§ÙÙØ­Ø¯Ø© 1: ÙØ±Ø­Ø¨Ø§!",
+            "unit_arabic": "ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 1: ÃÂÃÂ±ÃÂ­ÃÂ¨ÃÂ§!",
             "lesson": "Numbers 1-10",
-            "lesson_arabic": "Ø§ÙØ£Ø±ÙØ§Ù 1-10",
+            "lesson_arabic": "ÃÂ§ÃÂÃÂ£ÃÂ±ÃÂÃÂ§ÃÂ 1-10",
             "word": "one",
-            "meaning": "ÙØ§Ø­Ø¯",
-            "pronunciation": "/wÊn/",
+            "meaning": "ÃÂÃÂ§ÃÂ­ÃÂ¯",
+            "pronunciation": "/wÃÂn/",
             "isCorrect": true,
             "timestamp": 1778410750785,
             "date": "5/10/2026",
@@ -30,18 +30,35 @@
             "type": "word",
             "book": "Headway Beginner 5th Edition",
             "unit": "Unit 1: Hello!",
-            "unit_arabic": "الوحدة 1: مرحبا!",
+            "unit_arabic": "Ø§ÙÙØ­Ø¯Ø© 1: ÙØ±Ø­Ø¨Ø§!",
             "lesson": "Greetings",
-            "lesson_arabic": "التحيات",
+            "lesson_arabic": "Ø§ÙØªØ­ÙØ§Øª",
             "word": "hello",
-            "meaning": "مرحبا",
-            "pronunciation": "/həˈləʊ/",
+            "meaning": "ÙØ±Ø­Ø¨Ø§",
+            "pronunciation": "/hÉËlÉÊ/",
             "isCorrect": true,
             "timestamp": 1778412425987,
             "date": "5/10/2026",
             "time": "14:27",
             "grade": "excellent",
             "userAttempt": "hello"
+          },
+          {
+            "type": "word",
+            "book": "Headway Beginner 5th Edition",
+            "unit": "Unit 2: Your world",
+            "unit_arabic": "الوحدة 2: عالمك",
+            "lesson": "Countries",
+            "lesson_arabic": "الدول",
+            "word": "Argentina",
+            "meaning": "الأرجنتين",
+            "pronunciation": "/ˌɑːdʒənˈtiːnə/",
+            "isCorrect": true,
+            "timestamp": 1778413259480,
+            "date": "5/10/2026",
+            "time": "14:40",
+            "grade": "excellent",
+            "userAttempt": "Argentina"
           }
         ]
       },
