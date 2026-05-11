@@ -4222,6 +4222,21 @@
       "lastActive": "2026-05-10T18:56:14.414Z",
       "sessionToken": "sess_v6e2kih3ftf",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG551560858099",
+      "name": "ishag teacher",
+      "phone": "+256768045595",
+      "paid": false,
+      "regDate": "2026-05-11T09:59:11.560Z",
+      "expiryDate": "2026-05-12T09:59:11.560Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0190-2421",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-11T09:59:11.560Z",
+      "sessionToken": "sess_2szqfyt47pc",
+      "ipAddress": "client-side"
     }
   ]
 }
