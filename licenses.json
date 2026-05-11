@@ -4237,6 +4237,21 @@
       "lastActive": "2026-05-11T09:59:11.560Z",
       "sessionToken": "sess_2szqfyt47pc",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG221486362949",
+      "name": "AKAO GLORIA",
+      "phone": "+256779198880",
+      "paid": false,
+      "regDate": "2026-05-11T13:13:41.488Z",
+      "expiryDate": "2026-05-12T13:13:41.488Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-2011-0BA3",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-11T13:13:41.488Z",
+      "sessionToken": "sess_sw73aljqoel",
+      "ipAddress": "client-side"
     }
   ]
 }
