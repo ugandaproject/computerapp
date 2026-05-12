@@ -4282,6 +4282,21 @@
       "lastActive": "2026-05-12T10:41:21.989Z",
       "sessionToken": "sess_fnumjkb6dou",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG634622010889",
+      "name": "morsal130",
+      "phone": "+256787184359",
+      "paid": false,
+      "regDate": "2026-05-12T10:43:54.622Z",
+      "expiryDate": "2026-05-13T10:43:54.622Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-196F-03E6",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-12T10:43:54.622Z",
+      "sessionToken": "sess_revpzjud55l",
+      "ipAddress": "client-side"
     }
   ]
 }
