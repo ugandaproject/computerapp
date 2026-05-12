@@ -4312,6 +4312,21 @@
       "lastActive": "2026-05-12T11:20:36.175Z",
       "sessionToken": "sess_an27zyogdod",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG877096862341",
+      "name": "Mohammed ahmed 130",
+      "phone": "+256789788380",
+      "paid": false,
+      "regDate": "2026-05-12T12:27:57.096Z",
+      "expiryDate": "2026-05-13T12:27:57.096Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-12EA-05E9",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-12T12:27:57.096Z",
+      "sessionToken": "sess_6hcba8fzrcx",
+      "ipAddress": "client-side"
     }
   ]
 }
