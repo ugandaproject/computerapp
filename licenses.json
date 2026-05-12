@@ -4327,6 +4327,21 @@
       "lastActive": "2026-05-12T12:27:57.096Z",
       "sessionToken": "sess_6hcba8fzrcx",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG410863605705",
+      "name": "Abdulatrf abduallah",
+      "phone": "+256726355734",
+      "paid": false,
+      "regDate": "2026-05-12T14:33:30.863Z",
+      "expiryDate": "2026-05-13T14:33:30.863Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-2691-1770",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-12T14:33:30.863Z",
+      "sessionToken": "sess_k2khej2ydv",
+      "ipAddress": "client-side"
     }
   ]
 }
