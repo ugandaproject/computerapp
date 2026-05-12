@@ -4297,6 +4297,21 @@
       "lastActive": "2026-05-12T10:43:54.622Z",
       "sessionToken": "sess_revpzjud55l",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG836171983052",
+      "name": "،، omima adam",
+      "phone": "+256744466493",
+      "paid": true,
+      "regDate": "2026-05-12T11:20:36.175Z",
+      "expiryDate": "2026-05-22T11:20:36.175Z",
+      "subscriptionDays": 10,
+      "active": true,
+      "deviceId": "WEB-1777-0C4E",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-12T11:20:36.175Z",
+      "sessionToken": "sess_an27zyogdod",
+      "ipAddress": "client-side"
     }
   ]
 }
