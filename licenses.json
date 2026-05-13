@@ -4344,18 +4344,18 @@
       "ipAddress": "client-side"
     },
     {
-      "id": "UG449503704740",
-      "name": "shamsaldin830",
-      "phone": "+256790406104",
+      "id": "UG749785790566",
+      "name": "AhmedAbbas",
+      "phone": "+256771925222",
       "paid": false,
-      "regDate": "2026-05-13T10:00:49.504Z",
-      "expiryDate": "2026-05-14T10:00:49.504Z",
+      "regDate": "2026-05-13T10:05:49.787Z",
+      "expiryDate": "2026-05-14T10:05:49.787Z",
       "subscriptionDays": 1,
       "active": true,
-      "deviceId": "WEB-1AAA-19F5",
+      "deviceId": "WEB-0089-0CAB",
       "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-05-13T10:00:49.504Z",
-      "sessionToken": "sess_y08r23139v",
+      "lastActive": "2026-05-13T10:05:49.787Z",
+      "sessionToken": "sess_7eja2sbh6ib",
       "ipAddress": "client-side"
     }
   ]
