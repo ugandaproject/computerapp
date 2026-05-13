@@ -4357,6 +4357,21 @@
       "lastActive": "2026-05-13T10:05:49.787Z",
       "sessionToken": "sess_7eja2sbh6ib",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG663542339576",
+      "name": "Tegani Abdalla",
+      "phone": "+256705191632",
+      "paid": false,
+      "regDate": "2026-05-13T10:54:23.543Z",
+      "expiryDate": "2026-05-14T10:54:23.543Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0572-1411",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-13T10:54:23.543Z",
+      "sessionToken": "sess_24p3vq99nxp",
+      "ipAddress": "client-side"
     }
   ]
 }
