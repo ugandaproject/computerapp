@@ -4402,6 +4402,21 @@
       "lastActive": "2026-05-15T06:48:12.445Z",
       "sessionToken": "sess_nfxc4l0zxhs",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG171846577812",
+      "name": "Rashida osman9",
+      "phone": "+256776400141",
+      "paid": false,
+      "regDate": "2026-05-15T06:56:11.849Z",
+      "expiryDate": "2026-05-16T06:56:11.849Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1B39-0712",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-15T06:56:11.849Z",
+      "sessionToken": "sess_d8l7gmefbl6",
+      "ipAddress": "client-side"
     }
   ]
 }
