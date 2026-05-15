@@ -4479,18 +4479,18 @@
       "ipAddress": "client-side"
     },
     {
-      "id": "UG105732021254",
+      "id": "UG155652291734",
       "name": "Issa said",
       "phone": "+256791447972",
       "paid": true,
-      "regDate": "2026-05-15T16:38:25.732Z",
-      "expiryDate": "2026-05-25T16:38:25.732Z",
+      "regDate": "2026-05-15T16:39:15.652Z",
+      "expiryDate": "2026-05-25T16:39:15.652Z",
       "subscriptionDays": 10,
       "active": true,
       "deviceId": "WEB-19C2-16E9",
       "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-05-15T16:38:25.732Z",
-      "sessionToken": "sess_wo43ou86mbs",
+      "lastActive": "2026-05-15T16:39:15.652Z",
+      "sessionToken": "sess_xi8wvo3268",
       "ipAddress": "client-side"
     }
   ]
