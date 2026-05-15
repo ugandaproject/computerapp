@@ -4374,18 +4374,18 @@
       "ipAddress": "client-side"
     },
     {
-      "id": "UG911318300515",
-      "name": "Islam ahmed",
-      "phone": "+256775146055",
+      "id": "UG083934700048",
+      "name": "Nidal adam9",
+      "phone": "+256783142059",
       "paid": false,
-      "regDate": "2026-05-15T06:35:11.318Z",
-      "expiryDate": "2026-05-16T06:35:11.318Z",
+      "regDate": "2026-05-15T06:38:03.935Z",
+      "expiryDate": "2026-05-16T06:38:03.935Z",
       "subscriptionDays": 1,
       "active": true,
-      "deviceId": "WEB-010A-1955",
+      "deviceId": "WEB-17A0-07CB",
       "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-05-15T06:35:11.318Z",
-      "sessionToken": "sess_8arkgogepdn",
+      "lastActive": "2026-05-15T06:38:03.935Z",
+      "sessionToken": "sess_owo6q4emigf",
       "ipAddress": "client-side"
     }
   ]
