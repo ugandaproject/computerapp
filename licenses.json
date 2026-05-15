@@ -4432,6 +4432,21 @@
       "lastActive": "2026-05-15T07:11:34.358Z",
       "sessionToken": "sess_awyw2fwvg9n",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG428547208321",
+      "name": "Abugaseim abdulkareem9",
+      "phone": "+256768365203",
+      "paid": false,
+      "regDate": "2026-05-15T07:33:48.549Z",
+      "expiryDate": "2026-05-16T07:33:48.549Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0F74-00A1",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-15T07:33:48.549Z",
+      "sessionToken": "sess_fwovvqc5bju",
+      "ipAddress": "client-side"
     }
   ]
 }
