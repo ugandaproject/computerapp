@@ -4492,6 +4492,21 @@
       "lastActive": "2026-05-15T16:41:08.880Z",
       "sessionToken": "sess_pg991cb88oh",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG960418490048",
+      "name": "Nuoradin",
+      "phone": "+256077258322",
+      "paid": true,
+      "regDate": "2026-05-15T16:52:40.418Z",
+      "expiryDate": "2026-05-25T16:52:40.418Z",
+      "subscriptionDays": 10,
+      "active": true,
+      "deviceId": "WEB-1844-1B11",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-15T16:52:40.418Z",
+      "sessionToken": "sess_0pvdyuanw9g",
+      "ipAddress": "client-side"
     }
   ]
 }
