@@ -4372,6 +4372,21 @@
       "lastActive": "2026-05-13T10:54:23.543Z",
       "sessionToken": "sess_24p3vq99nxp",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG911318300515",
+      "name": "Islam ahmed",
+      "phone": "+256775146055",
+      "paid": false,
+      "regDate": "2026-05-15T06:35:11.318Z",
+      "expiryDate": "2026-05-16T06:35:11.318Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-010A-1955",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-15T06:35:11.318Z",
+      "sessionToken": "sess_8arkgogepdn",
+      "ipAddress": "client-side"
     }
   ]
 }
