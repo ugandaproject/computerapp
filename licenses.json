@@ -4462,6 +4462,21 @@
       "lastActive": "2026-05-15T07:55:20.645Z",
       "sessionToken": "sess_qn1dd1a9hrn",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG335530928611",
+      "name": "Hassan Mohammdain graphic",
+      "phone": "+256769383676",
+      "paid": false,
+      "regDate": "2026-05-15T09:12:15.532Z",
+      "expiryDate": "2026-05-16T09:12:15.532Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-14CB-202F",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-15T09:12:15.532Z",
+      "sessionToken": "sess_pspzkxz8dl",
+      "ipAddress": "client-side"
     }
   ]
 }
