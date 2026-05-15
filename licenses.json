@@ -4417,6 +4417,21 @@
       "lastActive": "2026-05-15T06:59:25.865Z",
       "sessionToken": "sess_80a9smme61k",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG094357518644",
+      "name": "Rashida",
+      "phone": "+256776400141",
+      "paid": false,
+      "regDate": "2026-05-15T07:11:34.358Z",
+      "expiryDate": "2026-05-16T07:11:34.358Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1B39-0712",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-15T07:11:34.358Z",
+      "sessionToken": "sess_awyw2fwvg9n",
+      "ipAddress": "client-side"
     }
   ]
 }
