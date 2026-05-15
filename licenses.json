@@ -4404,18 +4404,18 @@
       "ipAddress": "client-side"
     },
     {
-      "id": "UG171846577812",
-      "name": "Rashida osman9",
-      "phone": "+256776400141",
+      "id": "UG365863237804",
+      "name": "Tawir jafarq",
+      "phone": "+256767436635",
       "paid": false,
-      "regDate": "2026-05-15T06:56:11.849Z",
-      "expiryDate": "2026-05-16T06:56:11.849Z",
+      "regDate": "2026-05-15T06:59:25.865Z",
+      "expiryDate": "2026-05-16T06:59:25.865Z",
       "subscriptionDays": 1,
       "active": true,
-      "deviceId": "WEB-1B39-0712",
+      "deviceId": "WEB-0B69-1FCD",
       "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-05-15T06:56:11.849Z",
-      "sessionToken": "sess_d8l7gmefbl6",
+      "lastActive": "2026-05-15T06:59:25.865Z",
+      "sessionToken": "sess_80a9smme61k",
       "ipAddress": "client-side"
     }
   ]
