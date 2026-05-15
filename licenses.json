@@ -4447,6 +4447,21 @@
       "lastActive": "2026-05-15T07:33:48.549Z",
       "sessionToken": "sess_fwovvqc5bju",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG720641306800",
+      "name": "Abubakar shatafaldin",
+      "phone": "+256767402370",
+      "paid": false,
+      "regDate": "2026-05-15T07:55:20.645Z",
+      "expiryDate": "2026-05-16T07:55:20.645Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1942-179C",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-15T07:55:20.645Z",
+      "sessionToken": "sess_qn1dd1a9hrn",
+      "ipAddress": "client-side"
     }
   ]
 }
