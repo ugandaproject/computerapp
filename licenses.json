@@ -4507,6 +4507,21 @@
       "lastActive": "2026-05-15T16:52:40.418Z",
       "sessionToken": "sess_0pvdyuanw9g",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG001192487151",
+      "name": "ALRABEA HUSSEIN MOHAMMED ADAM",
+      "phone": "+256768885458",
+      "paid": true,
+      "regDate": "2026-05-17T13:36:41.192Z",
+      "expiryDate": "2026-05-27T13:36:41.192Z",
+      "subscriptionDays": 10,
+      "active": true,
+      "deviceId": "WEB-05E1-225A",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-17T13:36:41.192Z",
+      "sessionToken": "sess_i3kjjujatqq",
+      "ipAddress": "client-side"
     }
   ]
 }
