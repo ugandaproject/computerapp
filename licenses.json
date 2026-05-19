@@ -4537,6 +4537,21 @@
       "lastActive": "2026-05-19T10:37:48.579Z",
       "sessionToken": "sess_atci8jemw4f",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG003018599176",
+      "name": "Shams aldeen adam alhaj",
+      "phone": "+256790406104",
+      "paid": true,
+      "regDate": "2026-05-19T20:03:23.018Z",
+      "expiryDate": "2026-06-18T20:03:23.018Z",
+      "subscriptionDays": 30,
+      "active": true,
+      "deviceId": "WEB-1AAA-19F5",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-19T20:03:23.018Z",
+      "sessionToken": "sess_29a9cft71b9",
+      "ipAddress": "client-side"
     }
   ]
 }
