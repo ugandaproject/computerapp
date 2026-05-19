@@ -4522,6 +4522,21 @@
       "lastActive": "2026-05-17T13:36:41.192Z",
       "sessionToken": "sess_i3kjjujatqq",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG068577209711",
+      "name": "𝐁𝐚𝐡𝐚𝐫",
+      "phone": "+256775825973",
+      "paid": false,
+      "regDate": "2026-05-19T10:37:48.579Z",
+      "expiryDate": "2026-05-20T10:37:48.579Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-00EE-045F",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-19T10:37:48.579Z",
+      "sessionToken": "sess_atci8jemw4f",
+      "ipAddress": "client-side"
     }
   ]
 }
