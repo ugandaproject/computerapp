@@ -4552,6 +4552,21 @@
       "lastActive": "2026-05-19T20:03:23.018Z",
       "sessionToken": "sess_29a9cft71b9",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG543551322690",
+      "name": "Adam Adam Abaker",
+      "phone": "+256768319144",
+      "paid": false,
+      "regDate": "2026-05-20T10:05:43.551Z",
+      "expiryDate": "2026-05-21T10:05:43.551Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0FFC-223C",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-20T10:05:43.551Z",
+      "sessionToken": "sess_02i9r46maz5t",
+      "ipAddress": "client-side"
     }
   ]
 }
