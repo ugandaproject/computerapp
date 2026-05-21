@@ -4567,6 +4567,21 @@
       "lastActive": "2026-05-20T10:05:43.551Z",
       "sessionToken": "sess_02i9r46maz5t",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG675346101686",
+      "name": "Mogdad musa",
+      "phone": "+256777391601",
+      "paid": false,
+      "regDate": "2026-05-21T18:37:55.346Z",
+      "expiryDate": "2026-05-22T18:37:55.346Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1053-1D77",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-21T18:37:55.346Z",
+      "sessionToken": "sess_smre0pa1qj",
+      "ipAddress": "client-side"
     }
   ]
 }
