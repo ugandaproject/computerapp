@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-05-23T15:06:08.981Z",
+  "lastUpdated": "2026-05-23T15:06:19.831Z",
   "users": [
     {
       "userId": "UG172268812534",
       "userName": "Mahmoudd",
-      "lastActive": "2026-05-23T15:06:08.981Z",
-      "totalCorrect": 0,
-      "totalAttempts": 4,
+      "lastActive": "2026-05-23T15:06:19.831Z",
+      "totalCorrect": 1,
+      "totalAttempts": 5,
       "dailyRecords": {
         "5/23/2026": [
           {
-            "title": "Unit 11: Let's eat! - ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 11: ÃÂÃÂ¯ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ§ ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ!",
+            "title": "Unit 11: Let's eat! - ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ© 11: ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ!",
             "meaning": "Do you cook at home?",
             "isCorrect": false,
             "timestamp": 1779548721326,
@@ -19,7 +19,7 @@
             "userAttempt": "do you cooking"
           },
           {
-            "title": "Unit 11: Let's eat! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 11: ÃÂ¯ÃÂ¹ÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂ!",
+            "title": "Unit 11: Let's eat! - ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 11: ÃÂÃÂ¯ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ§ ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ!",
             "meaning": "Do you cook at home?",
             "isCorrect": false,
             "timestamp": 1779548748694,
@@ -28,7 +28,7 @@
             "userAttempt": "do your cooking at home"
           },
           {
-            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
+            "title": "Unit 11: Let's eat! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 11: ÃÂ¯ÃÂ¹ÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂ!",
             "meaning": "Do you cook at home?",
             "isCorrect": false,
             "timestamp": 1779548758633,
@@ -37,13 +37,22 @@
             "userAttempt": "do you"
           },
           {
-            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
             "meaning": "Do you cook at home?",
             "isCorrect": false,
             "timestamp": 1779548768597,
             "time": "18:06",
             "grade": "wrong",
             "userAttempt": "do you"
+          },
+          {
+            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "meaning": "Do you cook at home?",
+            "isCorrect": true,
+            "timestamp": 1779548779401,
+            "time": "18:06",
+            "grade": "excellent",
+            "userAttempt": "do you cook at home"
           }
         ]
       },
