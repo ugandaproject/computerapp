@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T14:45:16.666Z",
+  "lastUpdated": "2026-05-23T14:45:48.666Z",
   "users": [
     {
       "userId": "UG912811301830",
@@ -12,7 +12,7 @@
           {
             "title": "Unit 5: Things I like! - Food and Drinks",
             "word": "hamburger",
-            "meaning": "ÃÂÃÂ§ÃÂÃÂ¨ÃÂ±ÃÂºÃÂ±",
+            "meaning": "ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ¨ÃÂÃÂ±ÃÂÃÂºÃÂÃÂ±",
             "isCorrect": true,
             "timestamp": 1778350148574,
             "time": "21:09",
@@ -22,7 +22,7 @@
           {
             "title": "Unit 5: Things I like! - Food and Drinks",
             "word": "hamburger",
-            "meaning": "ÙØ§ÙØ¨Ø±ØºØ±",
+            "meaning": "ÃÂÃÂ§ÃÂÃÂ¨ÃÂ±ÃÂºÃÂ±",
             "isCorrect": true,
             "timestamp": 1778350158249,
             "time": "21:09",
@@ -37,19 +37,28 @@
     {
       "userId": "UG172268812534",
       "userName": "Mahmoudd",
-      "lastActive": "2026-05-23T14:45:16.666Z",
-      "totalCorrect": 1,
-      "totalAttempts": 1,
+      "lastActive": "2026-05-23T14:45:48.666Z",
+      "totalCorrect": 2,
+      "totalAttempts": 2,
       "dailyRecords": {
         "5/23/2026": [
           {
-            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
             "meaning": "What is your favorite food?",
             "isCorrect": true,
             "timestamp": 1779547515499,
             "time": "17:45",
             "grade": "excellent",
             "userAttempt": "what is your favorite food"
+          },
+          {
+            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "meaning": "My favorite food is pasta.",
+            "isCorrect": true,
+            "timestamp": 1779547547804,
+            "time": "17:45",
+            "grade": "excellent",
+            "userAttempt": "my favorite food is pasta"
           }
         ]
       },
