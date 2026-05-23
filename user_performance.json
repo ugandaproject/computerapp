@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T14:45:48.666Z",
+  "lastUpdated": "2026-05-23T14:46:25.606Z",
   "users": [
     {
       "userId": "UG912811301830",
@@ -12,7 +12,7 @@
           {
             "title": "Unit 5: Things I like! - Food and Drinks",
             "word": "hamburger",
-            "meaning": "ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ¨ÃÂÃÂ±ÃÂÃÂºÃÂÃÂ±",
+            "meaning": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ±",
             "isCorrect": true,
             "timestamp": 1778350148574,
             "time": "21:09",
@@ -22,7 +22,7 @@
           {
             "title": "Unit 5: Things I like! - Food and Drinks",
             "word": "hamburger",
-            "meaning": "ÃÂÃÂ§ÃÂÃÂ¨ÃÂ±ÃÂºÃÂ±",
+            "meaning": "ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ¨ÃÂÃÂ±ÃÂÃÂºÃÂÃÂ±",
             "isCorrect": true,
             "timestamp": 1778350158249,
             "time": "21:09",
@@ -37,13 +37,13 @@
     {
       "userId": "UG172268812534",
       "userName": "Mahmoudd",
-      "lastActive": "2026-05-23T14:45:48.666Z",
-      "totalCorrect": 2,
-      "totalAttempts": 2,
+      "lastActive": "2026-05-23T14:46:25.606Z",
+      "totalCorrect": 3,
+      "totalAttempts": 3,
       "dailyRecords": {
         "5/23/2026": [
           {
-            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
+            "title": "Unit 11: Let's eat! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 11: ÃÂ¯ÃÂ¹ÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂ!",
             "meaning": "What is your favorite food?",
             "isCorrect": true,
             "timestamp": 1779547515499,
@@ -52,13 +52,22 @@
             "userAttempt": "what is your favorite food"
           },
           {
-            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
             "meaning": "My favorite food is pasta.",
             "isCorrect": true,
             "timestamp": 1779547547804,
             "time": "17:45",
             "grade": "excellent",
             "userAttempt": "my favorite food is pasta"
+          },
+          {
+            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "meaning": "Do you like vegetables?",
+            "isCorrect": true,
+            "timestamp": 1779547584618,
+            "time": "17:46",
+            "grade": "excellent",
+            "userAttempt": "do you like vegetables"
           }
         ]
       },
