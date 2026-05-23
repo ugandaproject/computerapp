@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-05-23T14:51:42.814Z",
+  "lastUpdated": "2026-05-23T14:51:53.394Z",
   "users": [
     {
       "userId": "UG172268812534",
       "userName": "Mahmoudd",
-      "lastActive": "2026-05-23T14:51:42.814Z",
-      "totalCorrect": 0,
-      "totalAttempts": 3,
+      "lastActive": "2026-05-23T14:51:53.394Z",
+      "totalCorrect": 1,
+      "totalAttempts": 4,
       "dailyRecords": {
         "5/23/2026": [
           {
-            "title": "Unit 11: Let's eat! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 11: ÃÂ¯ÃÂ¹ÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂ!",
+            "title": "Unit 11: Let's eat! - ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 11: ÃÂÃÂ¯ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ§ ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ!",
             "meaning": "I usually eat a sandwich.",
             "isCorrect": false,
             "timestamp": 1779547857550,
@@ -19,7 +19,7 @@
             "userAttempt": "I usually I said it's a Sanders"
           },
           {
-            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
+            "title": "Unit 11: Let's eat! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 11: ÃÂ¯ÃÂ¹ÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂ!",
             "meaning": "I usually eat a sandwich.",
             "isCorrect": false,
             "timestamp": 1779547893639,
@@ -28,13 +28,22 @@
             "userAttempt": "I usually eat sandwich"
           },
           {
-            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
             "meaning": "I usually eat a sandwich.",
             "isCorrect": false,
             "timestamp": 1779547902403,
             "time": "17:51",
             "grade": "wrong",
             "userAttempt": "I usually eat sandwich"
+          },
+          {
+            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "meaning": "I usually eat a sandwich.",
+            "isCorrect": true,
+            "timestamp": 1779547912983,
+            "time": "17:51",
+            "grade": "excellent",
+            "userAttempt": "I usually eat a sandwich"
           }
         ]
       },
