@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-05-23T15:01:21.733Z",
+  "lastUpdated": "2026-05-23T15:01:33.429Z",
   "users": [
     {
       "userId": "UG172268812534",
       "userName": "Mahmoudd",
-      "lastActive": "2026-05-23T15:01:21.733Z",
+      "lastActive": "2026-05-23T15:01:33.428Z",
       "totalCorrect": 2,
-      "totalAttempts": 4,
+      "totalAttempts": 5,
       "dailyRecords": {
         "5/23/2026": [
           {
-            "title": "Unit 11: Let's eat! - ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 11: ÃÂÃÂ¯ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ§ ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ!",
+            "title": "Unit 11: Let's eat! - ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ© 11: ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ!",
             "meaning": "Do you like spicy food?",
             "isCorrect": true,
             "timestamp": 1779548239044,
@@ -19,7 +19,7 @@
             "userAttempt": "do you like spicy food"
           },
           {
-            "title": "Unit 11: Let's eat! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 11: ÃÂ¯ÃÂ¹ÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂ!",
+            "title": "Unit 11: Let's eat! - ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 11: ÃÂÃÂ¯ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ§ ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ!",
             "meaning": "Yes, I like spicy food.",
             "isCorrect": true,
             "timestamp": 1779548271628,
@@ -28,7 +28,7 @@
             "userAttempt": "yes I like spicy food"
           },
           {
-            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
+            "title": "Unit 11: Let's eat! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 11: ÃÂ¯ÃÂ¹ÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂ!",
             "meaning": "What is your favorite dessert?",
             "isCorrect": false,
             "timestamp": 1779548304692,
@@ -37,13 +37,22 @@
             "userAttempt": "what is"
           },
           {
-            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
             "meaning": "What is your favorite dessert?",
             "isCorrect": false,
             "timestamp": 1779548480863,
             "time": "18:01",
             "grade": "wrong",
             "userAttempt": "what is your favorite"
+          },
+          {
+            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "meaning": "What is your favorite dessert?",
+            "isCorrect": false,
+            "timestamp": 1779548492994,
+            "time": "18:01",
+            "grade": "wrong",
+            "userAttempt": "dessert"
           }
         ]
       },
