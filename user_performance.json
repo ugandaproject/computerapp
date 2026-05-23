@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T18:09:18.649Z",
+  "lastUpdated": "2026-05-23T14:45:16.666Z",
   "users": [
     {
       "userId": "UG912811301830",
@@ -12,7 +12,7 @@
           {
             "title": "Unit 5: Things I like! - Food and Drinks",
             "word": "hamburger",
-            "meaning": "ÙØ§ÙØ¨Ø±ØºØ±",
+            "meaning": "ÃÂÃÂ§ÃÂÃÂ¨ÃÂ±ÃÂºÃÂ±",
             "isCorrect": true,
             "timestamp": 1778350148574,
             "time": "21:09",
@@ -22,12 +22,34 @@
           {
             "title": "Unit 5: Things I like! - Food and Drinks",
             "word": "hamburger",
-            "meaning": "هامبرغر",
+            "meaning": "ÙØ§ÙØ¨Ø±ØºØ±",
             "isCorrect": true,
             "timestamp": 1778350158249,
             "time": "21:09",
             "grade": "excellent",
             "userAttempt": "hamburger"
+          }
+        ]
+      },
+      "weeklyStats": {},
+      "mistakes": {}
+    },
+    {
+      "userId": "UG172268812534",
+      "userName": "Mahmoudd",
+      "lastActive": "2026-05-23T14:45:16.666Z",
+      "totalCorrect": 1,
+      "totalAttempts": 1,
+      "dailyRecords": {
+        "5/23/2026": [
+          {
+            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "meaning": "What is your favorite food?",
+            "isCorrect": true,
+            "timestamp": 1779547515499,
+            "time": "17:45",
+            "grade": "excellent",
+            "userAttempt": "what is your favorite food"
           }
         ]
       },
