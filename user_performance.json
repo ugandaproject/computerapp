@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-05-23T14:57:19.448Z",
+  "lastUpdated": "2026-05-23T14:57:52.539Z",
   "users": [
     {
       "userId": "UG172268812534",
       "userName": "Mahmoudd",
-      "lastActive": "2026-05-23T14:57:19.448Z",
-      "totalCorrect": 1,
-      "totalAttempts": 1,
+      "lastActive": "2026-05-23T14:57:52.539Z",
+      "totalCorrect": 2,
+      "totalAttempts": 2,
       "dailyRecords": {
         "5/23/2026": [
           {
-            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
             "meaning": "Do you like spicy food?",
             "isCorrect": true,
             "timestamp": 1779548239044,
             "time": "17:57",
             "grade": "excellent",
             "userAttempt": "do you like spicy food"
+          },
+          {
+            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "meaning": "Yes, I like spicy food.",
+            "isCorrect": true,
+            "timestamp": 1779548271628,
+            "time": "17:57",
+            "grade": "excellent",
+            "userAttempt": "yes I like spicy food"
           }
         ]
       },
