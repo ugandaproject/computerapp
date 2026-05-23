@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-05-23T14:50:58.022Z",
+  "lastUpdated": "2026-05-23T14:51:34.500Z",
   "users": [
     {
       "userId": "UG172268812534",
       "userName": "Mahmoudd",
-      "lastActive": "2026-05-23T14:50:58.022Z",
+      "lastActive": "2026-05-23T14:51:34.500Z",
       "totalCorrect": 0,
-      "totalAttempts": 1,
+      "totalAttempts": 2,
       "dailyRecords": {
         "5/23/2026": [
           {
-            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
             "meaning": "I usually eat a sandwich.",
             "isCorrect": false,
             "timestamp": 1779547857550,
             "time": "17:50",
             "grade": "wrong",
             "userAttempt": "I usually I said it's a Sanders"
+          },
+          {
+            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "meaning": "I usually eat a sandwich.",
+            "isCorrect": false,
+            "timestamp": 1779547893639,
+            "time": "17:51",
+            "grade": "wrong",
+            "userAttempt": "I usually eat sandwich"
           }
         ]
       },
