@@ -4597,6 +4597,21 @@
       "lastActive": "2026-05-26T07:20:08.031Z",
       "sessionToken": "sess_ox21bw6bn68",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG900577754793",
+      "name": "Sham aldin essa",
+      "phone": "+256791054661",
+      "paid": false,
+      "regDate": "2026-05-26T07:35:00.577Z",
+      "expiryDate": "2026-05-27T07:35:00.577Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-25B6-119A",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-26T07:35:00.577Z",
+      "sessionToken": "sess_i9jfozaljn",
+      "ipAddress": "client-side"
     }
   ]
 }
