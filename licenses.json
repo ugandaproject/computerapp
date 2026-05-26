@@ -4642,6 +4642,21 @@
       "lastActive": "2026-05-26T09:57:33.490Z",
       "sessionToken": "sess_y41yzmzj0uj",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG749998872036",
+      "name": "Mustafa Mohammed 10adam",
+      "phone": "+256767618085",
+      "paid": false,
+      "regDate": "2026-05-26T10:02:30.001Z",
+      "expiryDate": "2026-05-27T10:02:30.001Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1374-0B15",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-26T10:02:30.001Z",
+      "sessionToken": "sess_z7m9fmh6uo",
+      "ipAddress": "client-side"
     }
   ]
 }
