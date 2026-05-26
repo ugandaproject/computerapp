@@ -4612,6 +4612,21 @@
       "lastActive": "2026-05-26T07:35:00.577Z",
       "sessionToken": "sess_i9jfozaljn",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG697100918000",
+      "name": "ibrahim yahya 10",
+      "phone": "+256769759177",
+      "paid": false,
+      "regDate": "2026-05-26T09:28:17.100Z",
+      "expiryDate": "2026-05-27T09:28:17.100Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0687-0801",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-26T09:28:17.100Z",
+      "sessionToken": "sess_7bo1x351158",
+      "ipAddress": "client-side"
     }
   ]
 }
