@@ -4582,6 +4582,21 @@
       "lastActive": "2026-05-21T18:37:55.346Z",
       "sessionToken": "sess_smre0pa1qj",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG008030532981",
+      "name": "Haja Ahmed altahir",
+      "phone": "+256760815717",
+      "paid": false,
+      "regDate": "2026-05-26T07:20:08.031Z",
+      "expiryDate": "2026-05-27T07:20:08.031Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-17FA-07DF",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-05-26T07:20:08.031Z",
+      "sessionToken": "sess_ox21bw6bn68",
+      "ipAddress": "client-side"
     }
   ]
 }
