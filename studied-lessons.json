@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T14:12:40.694Z",
+  "lastUpdated": "2026-05-30T16:38:49.558Z",
   "users": [
     {
       "userId": "UG912811301830",
@@ -49,14 +49,15 @@
       "userId": "UG991988262585",
       "userName": "Mahmouddddd",
       "completedLessons": [
-        "0_0_6"
+        "0_0_6",
+        "0_1_0"
       ],
       "lastLesson": {
-        "id": "0_0_6",
-        "title": "Grammar reference and Wordlist - Unit 1",
-        "timestamp": "2026-05-28T14:12:39.574Z"
+        "id": "0_1_0",
+        "title": "She's from China",
+        "timestamp": "2026-05-30T16:38:41.883Z"
       },
-      "lastActive": "2026-05-28T14:12:40.693Z"
+      "lastActive": "2026-05-30T16:38:49.558Z"
     }
   ]
 }
