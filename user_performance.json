@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-06-01T08:53:15.392Z",
+  "lastUpdated": "2026-06-01T08:53:26.389Z",
   "users": [
     {
       "userId": "UG991988262585",
       "userName": "Mahmouddddd",
-      "lastActive": "2026-06-01T08:53:15.392Z",
+      "lastActive": "2026-06-01T08:53:26.389Z",
       "totalCorrect": 1,
-      "totalAttempts": 1,
+      "totalAttempts": 2,
       "dailyRecords": {
         "6/1/2026": [
           {
-            "title": "Unit 6: Daily routine - الوحدة 6: الروتين اليومي",
+            "title": "Unit 6: Daily routine - Ø§ÙÙØ­Ø¯Ø© 6: Ø§ÙØ±ÙØªÙÙ Ø§ÙÙÙÙÙ",
             "meaning": "What time do you wake up?",
             "isCorrect": true,
             "timestamp": 1780303994795,
             "time": "11:53",
             "grade": "good",
             "userAttempt": "what time do you wake up"
+          },
+          {
+            "title": "Unit 6: Daily routine - الوحدة 6: الروتين اليومي",
+            "meaning": "What time do you wake up?",
+            "isCorrect": false,
+            "timestamp": 1780304005942,
+            "time": "11:53",
+            "grade": "wrong",
+            "userAttempt": "hello hello"
           }
         ]
       },
