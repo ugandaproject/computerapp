@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-06-01T08:53:26.389Z",
+  "lastUpdated": "2026-06-01T08:53:39.252Z",
   "users": [
     {
       "userId": "UG991988262585",
       "userName": "Mahmouddddd",
-      "lastActive": "2026-06-01T08:53:26.389Z",
-      "totalCorrect": 1,
-      "totalAttempts": 2,
+      "lastActive": "2026-06-01T08:53:39.251Z",
+      "totalCorrect": 2,
+      "totalAttempts": 3,
       "dailyRecords": {
         "6/1/2026": [
           {
-            "title": "Unit 6: Daily routine - Ø§ÙÙØ­Ø¯Ø© 6: Ø§ÙØ±ÙØªÙÙ Ø§ÙÙÙÙÙ",
+            "title": "Unit 6: Daily routine - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 6: ÃÂ§ÃÂÃÂ±ÃÂÃÂªÃÂÃÂ ÃÂ§ÃÂÃÂÃÂÃÂÃÂ",
             "meaning": "What time do you wake up?",
             "isCorrect": true,
             "timestamp": 1780303994795,
@@ -19,13 +19,22 @@
             "userAttempt": "what time do you wake up"
           },
           {
-            "title": "Unit 6: Daily routine - الوحدة 6: الروتين اليومي",
+            "title": "Unit 6: Daily routine - Ø§ÙÙØ­Ø¯Ø© 6: Ø§ÙØ±ÙØªÙÙ Ø§ÙÙÙÙÙ",
             "meaning": "What time do you wake up?",
             "isCorrect": false,
             "timestamp": 1780304005942,
             "time": "11:53",
             "grade": "wrong",
             "userAttempt": "hello hello"
+          },
+          {
+            "title": "Unit 6: Daily routine - الوحدة 6: الروتين اليومي",
+            "meaning": "What time do you wake up?",
+            "isCorrect": true,
+            "timestamp": 1780304018775,
+            "time": "11:53",
+            "grade": "excellent",
+            "userAttempt": "what time do you wake up"
           }
         ]
       },
