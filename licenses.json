@@ -4657,6 +4657,21 @@
       "lastActive": "2026-05-26T10:02:30.001Z",
       "sessionToken": "sess_z7m9fmh6uo",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG579279686792",
+      "name": "Mubarak Muhammad",
+      "phone": "+256773027331",
+      "paid": true,
+      "regDate": "2026-06-01T09:36:19.279Z",
+      "expiryDate": "2026-07-01T09:36:19.279Z",
+      "subscriptionDays": 30,
+      "active": true,
+      "deviceId": "WEB-21C2-19B1",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-06-01T09:36:19.279Z",
+      "sessionToken": "sess_535st3j3h5g",
+      "ipAddress": "client-side"
     }
   ]
 }
