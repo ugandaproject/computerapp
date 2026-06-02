@@ -4687,6 +4687,21 @@
       "lastActive": "2026-06-02T09:11:01.805Z",
       "sessionToken": "sess_r15kffgz7xd",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG862386320806",
+      "name": "Laat Gatkuoth",
+      "phone": "+256776821288",
+      "paid": false,
+      "regDate": "2026-06-02T09:17:42.389Z",
+      "expiryDate": "2026-06-03T09:17:42.389Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-2262-055B",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-06-02T09:17:42.389Z",
+      "sessionToken": "sess_jlmoa3maym",
+      "ipAddress": "client-side"
     }
   ]
 }
