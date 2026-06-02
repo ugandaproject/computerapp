@@ -4702,6 +4702,21 @@
       "lastActive": "2026-06-02T09:17:42.389Z",
       "sessionToken": "sess_jlmoa3maym",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG603990223029",
+      "name": "Diva's john",
+      "phone": "+256773007754",
+      "paid": false,
+      "regDate": "2026-06-02T10:03:23.990Z",
+      "expiryDate": "2026-06-03T10:03:23.990Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-2360-1C7F",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-06-02T10:03:23.990Z",
+      "sessionToken": "sess_6gzh3kf1sz",
+      "ipAddress": "client-side"
     }
   ]
 }
