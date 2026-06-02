@@ -4672,6 +4672,21 @@
       "lastActive": "2026-06-01T09:36:19.279Z",
       "sessionToken": "sess_535st3j3h5g",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG461805602471",
+      "name": "Fatin Mukhtar",
+      "phone": "+256783153767",
+      "paid": false,
+      "regDate": "2026-06-02T09:11:01.805Z",
+      "expiryDate": "2026-06-03T09:11:01.805Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-16CE-0E02",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-06-02T09:11:01.805Z",
+      "sessionToken": "sess_r15kffgz7xd",
+      "ipAddress": "client-side"
     }
   ]
 }
