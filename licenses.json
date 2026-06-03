@@ -4717,6 +4717,21 @@
       "lastActive": "2026-06-02T10:03:23.990Z",
       "sessionToken": "sess_6gzh3kf1sz",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG342153096144",
+      "name": "Siddig1030adam",
+      "phone": "+256784163871",
+      "paid": false,
+      "regDate": "2026-06-03T07:39:02.153Z",
+      "expiryDate": "2026-06-04T07:39:02.153Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1DA2-1F55",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-06-03T07:39:02.153Z",
+      "sessionToken": "sess_rd267zvnuvp",
+      "ipAddress": "client-side"
     }
   ]
 }
