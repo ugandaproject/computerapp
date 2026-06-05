@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T16:38:49.558Z",
+  "lastUpdated": "2026-06-05T10:42:38.802Z",
   "users": [
     {
       "userId": "UG912811301830",
@@ -50,14 +50,15 @@
       "userName": "Mahmouddddd",
       "completedLessons": [
         "0_0_6",
-        "0_1_0"
+        "0_1_0",
+        "0_1_1"
       ],
       "lastLesson": {
-        "id": "0_1_0",
-        "title": "She's from China",
-        "timestamp": "2026-05-30T16:38:41.883Z"
+        "id": "0_1_1",
+        "title": "Practice - Cities and countries",
+        "timestamp": "2026-06-05T10:42:37.785Z"
       },
-      "lastActive": "2026-05-30T16:38:49.558Z"
+      "lastActive": "2026-06-05T10:42:38.802Z"
     }
   ]
 }
