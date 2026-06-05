@@ -1,19 +1,28 @@
 {
-  "lastUpdated": "2026-06-05T10:49:32.024Z",
+  "lastUpdated": "2026-06-05T10:49:44.718Z",
   "users": [
     {
       "userId": "UG991988262585",
       "userName": "Mahmouddddd",
-      "lastActive": "2026-06-05T10:49:32.023Z",
-      "totalCorrect": 1,
-      "totalAttempts": 1,
+      "lastActive": "2026-06-05T10:49:44.718Z",
+      "totalCorrect": 2,
+      "totalAttempts": 2,
       "dailyRecords": {
         "6/5/2026": [
+          {
+            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
+            "meaning": "What is your favorite food?",
+            "isCorrect": true,
+            "timestamp": 1780656570862,
+            "time": "13:49",
+            "grade": "good",
+            "userAttempt": "what is your favorite food"
+          },
           {
             "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
             "meaning": "What is your favorite food?",
             "isCorrect": true,
-            "timestamp": 1780656570862,
+            "timestamp": 1780656584313,
             "time": "13:49",
             "grade": "good",
             "userAttempt": "what is your favorite food"
