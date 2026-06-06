@@ -13,7 +13,7 @@
             padding: 20px;
         }
         .container {
-            max-width: 1200px;
+            max-width: 1000px;
             margin: 0 auto;
             background: white;
             border-radius: 20px;
@@ -22,6 +22,16 @@
         }
         h1 { color: #333; margin-bottom: 10px; }
         .subtitle { color: #666; margin-bottom: 30px; }
+        .quality-section {
+            background: #f7fafc;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        .quality-section label {
+            margin-right: 20px;
+            cursor: pointer;
+        }
         .controls {
             display: flex;
             gap: 15px;
@@ -41,12 +51,12 @@
             opacity: 0.5;
             cursor: not-allowed;
         }
-        .btn-primary { background: #667eea; color: white; }
-        .btn-primary:hover:not(:disabled) { background: #5a67d8; transform: translateY(-2px); }
-        .btn-danger { background: #e53e3e; color: white; }
-        .btn-danger:hover:not(:disabled) { background: #c53030; }
-        .btn-success { background: #48bb78; color: white; }
-        .btn-success:hover:not(:disabled) { background: #38a169; }
+        .btn-start { background: #48bb78; color: white; }
+        .btn-start:hover:not(:disabled) { background: #38a169; transform: translateY(-2px); }
+        .btn-stop { background: #e53e3e; color: white; }
+        .btn-stop:hover:not(:disabled) { background: #c53030; }
+        .btn-upload { background: #4299e1; color: white; }
+        .btn-upload:hover:not(:disabled) { background: #3182ce; }
         .preview-container {
             background: #000;
             border-radius: 10px;
@@ -55,7 +65,7 @@
         }
         video {
             width: 100%;
-            max-height: 500px;
+            max-height: 450px;
             background: #000;
         }
         .status {
@@ -82,7 +92,7 @@
             color: #742a2a;
             border-left: 4px solid #e53e3e;
         }
-        .info {
+        .info-box {
             margin-top: 20px;
             padding: 15px;
             background: #edf2f7;
@@ -103,16 +113,6 @@
             50% { opacity: 0.5; transform: scale(1.2); }
             100% { opacity: 1; transform: scale(1); }
         }
-        .quality-selector {
-            margin-bottom: 20px;
-            padding: 15px;
-            background: #f7fafc;
-            border-radius: 8px;
-        }
-        .quality-selector label {
-            margin-right: 20px;
-            cursor: pointer;
-        }
     </style>
 </head>
 <body>
@@ -120,7 +120,7 @@
         <h1>🎥 Screen Recorder</h1>
         <p class="subtitle">Record your screen and automatically upload to your server</p>
         
-        <div class="quality-selector">
+        <div class="quality-section">
             <strong>Recording Quality:</strong><br><br>
             <label><input type="radio" name="quality" value="low" checked> Low (480p, ~1MB/min)</label>
             <label><input type="radio" name="quality" value="medium"> Medium (720p, ~2MB/min)</label>
@@ -128,9 +128,9 @@
         </div>
         
         <div class="controls">
-            <button id="startBtn" class="btn-primary">🎬 Start Recording</button>
-            <button id="stopBtn" class="btn-danger" disabled>⏹️ Stop Recording</button>
-            <button id="uploadBtn" class="btn-success" disabled>📤 Upload to Server</button>
+            <button id="startBtn" class="btn-start">🎬 Start Recording</button>
+            <button id="stopBtn" class="btn-stop" disabled>⏹️ Stop Recording</button>
+            <button id="uploadBtn" class="btn-upload" disabled>📤 Upload to Server</button>
         </div>
         
         <div class="preview-container">
@@ -139,18 +139,17 @@
         
         <div id="status" class="status"></div>
         
-        <div class="info">
+        <div class="info-box">
             <strong>📌 Instructions:</strong><br>
             1. Click "Start Recording" and choose which screen/window to share<br>
-            2. Record your content (max 30 seconds recommended)<br>
-            3. Click "Stop Recording" when finished<br>
-            4. Click "Upload to Server" to save the video<br>
-            5. The page will automatically close and return to your admin panel
+            2. Click "Stop Recording" when finished<br>
+            3. Click "Upload to Server" to save the video<br>
+            4. The page will automatically close and return to your admin panel
         </div>
     </div>
 
     <script>
-        let mediaRecorder;
+        let mediaRecorder = null;
         let recordedChunks = [];
         let stream = null;
         let recordedBlob = null;
@@ -174,6 +173,11 @@
             return settings[quality] || settings.low;
         }
         
+        function showStatus(message, type) {
+            statusDiv.textContent = message;
+            statusDiv.className = 'status ' + type;
+        }
+        
         startBtn.addEventListener('click', async () => {
             try {
                 const quality = document.querySelector('input[name="quality"]:checked').value;
@@ -189,7 +193,7 @@
                     audio: true
                 });
                 
-                // Also capture microphone
+                // Also capture microphone if available
                 let audioStream = null;
                 try {
                     audioStream = await navigator.mediaDevices.getUserMedia({ audio: true });
@@ -270,13 +274,20 @@
                 return;
             }
             
-            showStatus('📤 Uploading to server...', 'recording');
+            // Check file size (max 3MB)
+            if (recordedBlob.size > 3 * 1024 * 1024) {
+                alert('Recording too large (' + (recordedBlob.size / 1024 / 1024).toFixed(2) + 'MB). Please use lower quality or record shorter video.');
+                return;
+            }
+            
+            showStatus('📤 Uploading to server... (' + (recordedBlob.size / 1024).toFixed(2) + ' KB)', 'info');
             uploadBtn.disabled = true;
             
             const formData = new FormData();
             formData.append('video', recordedBlob, 'screen_recording.webm');
             
             try {
+                // Use the upload endpoint on your HTTP server
                 const response = await fetch('http://waha-platform.atwebpages.com/admin/upload_screen_recording.php', {
                     method: 'POST',
                     body: formData
@@ -288,24 +299,19 @@
                     showStatus('✅ Upload successful! Redirecting...', 'success');
                     
                     // Redirect back to admin page with filename
-                    const redirectUrl = returnUrl + (returnUrl.includes('?') ? '&' : '?') + 'recorded=' + result.filename;
+                    const redirectUrl = returnUrl + (returnUrl.includes('?') ? '&' : '?') + 'recorded=' + encodeURIComponent(result.filename);
                     setTimeout(() => {
                         window.location.href = redirectUrl;
                     }, 1500);
                 } else {
-                    throw new Error(result.error);
+                    throw new Error(result.error || 'Upload failed');
                 }
             } catch (err) {
                 console.error('Upload error:', err);
-                showStatus('❌ Upload failed: ' + err.message, 'error');
+                showStatus('❌ Upload failed: ' + err.message + ' - Please try again', 'error');
                 uploadBtn.disabled = false;
             }
         });
-        
-        function showStatus(message, type) {
-            statusDiv.textContent = message;
-            statusDiv.className = 'status ' + type;
-        }
     </script>
 </body>
 </html>
