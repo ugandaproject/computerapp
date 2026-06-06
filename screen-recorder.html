@@ -20,21 +20,24 @@
             padding: 30px;
             box-shadow: 0 20px 60px rgba(0,0,0,0.3);
         }
-        h1 { color: #333; }
+        h1 { color: #333; margin-bottom: 10px; }
+        .subtitle { color: #666; margin-bottom: 25px; }
         .quality-section {
             background: #f7fafc;
             padding: 15px;
             border-radius: 10px;
-            margin: 20px 0;
+            margin-bottom: 20px;
         }
         .quality-section label {
             margin-right: 20px;
             cursor: pointer;
+            display: inline-block;
+            margin-top: 8px;
         }
         .controls {
             display: flex;
             gap: 12px;
-            margin: 20px 0;
+            margin-bottom: 20px;
             flex-wrap: wrap;
         }
         button {
@@ -44,18 +47,28 @@
             border: none;
             border-radius: 8px;
             cursor: pointer;
+            transition: all 0.3s;
+        }
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
         }
         .btn-start { background: #48bb78; color: white; }
+        .btn-start:hover:not(:disabled) { background: #38a169; }
         .btn-stop { background: #e53e3e; color: white; }
+        .btn-stop:hover:not(:disabled) { background: #c53030; }
         .btn-upload { background: #2196f3; color: white; }
+        .btn-upload:hover:not(:disabled) { background: #1976d2; }
         .preview-container {
             background: #000;
             border-radius: 10px;
             overflow: hidden;
+            margin-top: 20px;
         }
         video {
             width: 100%;
             max-height: 400px;
+            background: #000;
         }
         .status {
             margin-top: 20px;
@@ -67,11 +80,32 @@
             display: block;
             background: #fed7d7;
             color: #c53030;
+            border-left: 4px solid #e53e3e;
         }
         .status.success {
             display: block;
             background: #c6f6d5;
             color: #22543d;
+            border-left: 4px solid #48bb78;
+        }
+        .status.error {
+            display: block;
+            background: #fed7d7;
+            color: #742a2a;
+            border-left: 4px solid #e53e3e;
+        }
+        .status.info {
+            display: block;
+            background: #bee3f8;
+            color: #2c5282;
+            border-left: 4px solid #3182ce;
+        }
+        .info-box {
+            margin-top: 20px;
+            padding: 15px;
+            background: #edf2f7;
+            border-radius: 8px;
+            font-size: 14px;
         }
         .recording-indicator {
             display: inline-block;
@@ -83,35 +117,52 @@
             margin-right: 8px;
         }
         @keyframes pulse {
-            0% { opacity: 1; }
-            50% { opacity: 0.5; }
-            100% { opacity: 1; }
+            0% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(1.2); }
+            100% { opacity: 1; transform: scale(1); }
         }
-        .result {
+        .progress-bar {
+            width: 100%;
+            height: 4px;
+            background: #ddd;
+            border-radius: 2px;
+            margin-top: 10px;
+            display: none;
+        }
+        .progress-fill {
+            width: 0%;
+            height: 100%;
+            background: #4caf50;
+            border-radius: 2px;
+            transition: width 0.3s;
+        }
+        .result-box {
+            display: none;
             margin-top: 20px;
             padding: 15px;
             background: #e8f5e9;
             border-radius: 8px;
-            display: none;
+            border: 1px solid #4caf50;
         }
-        .filename {
+        .filename-text {
             font-family: monospace;
+            font-size: 14px;
+            word-break: break-all;
             background: #f5f5f5;
             padding: 10px;
             margin: 10px 0;
             border-radius: 5px;
-            word-break: break-all;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>🎥 Screen Recorder</h1>
-        <p>Record your screen and upload directly to your server</p>
+        <p class="subtitle">Record your screen and upload directly to your server</p>
         
         <div class="quality-section">
             <strong>Recording Quality:</strong><br>
-            <label><input type="radio" name="quality" value="low" checked> Low (480p)</label>
+            <label><input type="radio" name="quality" value="low" checked> Low (480p, smaller file)</label>
             <label><input type="radio" name="quality" value="medium"> Medium (720p)</label>
             <label><input type="radio" name="quality" value="high"> High (1080p)</label>
         </div>
@@ -126,12 +177,25 @@
             <video id="preview" autoplay muted playsinline></video>
         </div>
         
+        <div class="progress-bar" id="progressBar">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
+        
         <div id="status" class="status"></div>
-        <div id="result" class="result">
+        
+        <div id="resultBox" class="result-box">
             <strong>✅ Upload Successful!</strong>
-            <div id="filename" class="filename"></div>
-            <button onclick="copyFilename()">📋 Copy Filename</button>
-            <button onclick="goToAdmin()">📝 Go to Admin Panel</button>
+            <div class="filename-text" id="filenameDisplay"></div>
+            <button onclick="copyFilename()" style="background: #2196f3; color: white; padding: 8px 16px; border: none; border-radius: 5px; cursor: pointer;">📋 Copy Filename</button>
+            <button onclick="closeWindow()" style="background: #4caf50; color: white; padding: 8px 16px; border: none; border-radius: 5px; cursor: pointer; margin-left: 10px;">✓ Done - Return to Admin</button>
+        </div>
+        
+        <div class="info-box">
+            <strong>📌 Instructions:</strong><br>
+            1. Click "Start Recording" and choose which screen/window to share<br>
+            2. Click "Stop Recording" when finished<br>
+            3. Click "Upload to Server" - wait for upload to complete<br>
+            4. Copy the filename and paste it in your admin panel
         </div>
     </div>
 
@@ -140,15 +204,16 @@
         let recordedChunks = [];
         let stream = null;
         let recordedBlob = null;
-        let currentFilename = '';
         
         const startBtn = document.getElementById('startBtn');
         const stopBtn = document.getElementById('stopBtn');
         const uploadBtn = document.getElementById('uploadBtn');
         const preview = document.getElementById('preview');
         const statusDiv = document.getElementById('status');
-        const resultDiv = document.getElementById('result');
-        const filenameDisplay = document.getElementById('filename');
+        const progressBar = document.getElementById('progressBar');
+        const progressFill = document.getElementById('progressFill');
+        const resultBox = document.getElementById('resultBox');
+        const filenameDisplay = document.getElementById('filenameDisplay');
         
         function showStatus(message, type) {
             statusDiv.textContent = message;
@@ -170,7 +235,11 @@
                 const settings = getQualitySettings(quality);
                 
                 const screenStream = await navigator.mediaDevices.getDisplayMedia({
-                    video: { width: { ideal: settings.width }, height: { ideal: settings.height } },
+                    video: {
+                        width: { ideal: settings.width },
+                        height: { ideal: settings.height },
+                        frameRate: { ideal: settings.frameRate }
+                    },
                     audio: true
                 });
                 
@@ -180,15 +249,24 @@
                     const tracks = [...screenStream.getVideoTracks(), ...audioStream.getAudioTracks()];
                     stream = new MediaStream(tracks);
                 } catch (err) {
+                    console.warn('Microphone not available');
                     stream = screenStream;
                 }
                 
                 preview.srcObject = stream;
+                preview.style.display = 'block';
+                
                 recordedChunks = [];
-                mediaRecorder = new MediaRecorder(stream, { mimeType: 'video/webm' });
+                mediaRecorder = new MediaRecorder(stream, {
+                    mimeType: 'video/webm',
+                    videoBitsPerSecond: settings.bitrate
+                });
                 
                 mediaRecorder.ondataavailable = (e) => {
-                    if (e.data.size > 0) recordedChunks.push(e.data);
+                    if (e.data.size > 0) {
+                        recordedChunks.push(e.data);
+                        console.log('Chunk size:', e.data.size);
+                    }
                 };
                 
                 mediaRecorder.onstop = () => {
@@ -196,18 +274,42 @@
                     const url = URL.createObjectURL(recordedBlob);
                     preview.srcObject = null;
                     preview.src = url;
+                    preview.muted = false;
                     preview.controls = true;
-                    showStatus(`✅ Recording complete! Size: ${(recordedBlob.size/1024).toFixed(2)} KB`, 'success');
-                    uploadBtn.disabled = false;
-                    if (stream) stream.getTracks().forEach(track => track.stop());
+                    
+                    const sizeKB = (recordedBlob.size / 1024).toFixed(2);
+                    console.log('Blob created! Size:', recordedBlob.size, 'bytes');
+                    
+                    if (recordedBlob.size > 0) {
+                        showStatus(`✅ Recording complete! Size: ${sizeKB} KB`, 'success');
+                        uploadBtn.disabled = false;
+                        resultBox.style.display = 'none';
+                    } else {
+                        showStatus('❌ Recording failed: 0 bytes', 'error');
+                        uploadBtn.disabled = true;
+                    }
+                    
+                    if (stream) {
+                        stream.getTracks().forEach(track => track.stop());
+                    }
                 };
                 
                 mediaRecorder.start(1000);
                 startBtn.disabled = true;
                 stopBtn.disabled = false;
-                showStatus('🔴 Recording...', 'recording');
+                uploadBtn.disabled = true;
+                showStatus('🔴 Recording in progress...', 'recording');
+                
+                screenStream.getVideoTracks()[0].addEventListener('ended', () => {
+                    if (mediaRecorder && mediaRecorder.state === 'recording') {
+                        mediaRecorder.stop();
+                        startBtn.disabled = false;
+                        stopBtn.disabled = true;
+                    }
+                });
                 
             } catch (err) {
+                console.error('Error:', err);
                 showStatus('❌ Error: ' + err.message, 'error');
             }
         });
@@ -222,46 +324,94 @@
         
         uploadBtn.addEventListener('click', async () => {
             if (!recordedBlob || recordedBlob.size === 0) {
-                alert('No recording to upload!');
+                alert('No recording to upload! Please record something first.');
                 return;
             }
             
-            showStatus('📤 Uploading...', 'info');
-            uploadBtn.disabled = true;
+            showStatus('📤 Converting video to Base64...', 'info');
+            progressBar.style.display = 'block';
             
-            const formData = new FormData();
-            formData.append('video', recordedBlob, 'recording_' + Date.now() + '.webm');
+            // Convert blob to Base64
+            const reader = new FileReader();
             
-            try {
-                const response = await fetch('upload_screen_recording.php', {
-                    method: 'POST',
-                    body: formData
-                });
+            reader.onload = async function() {
+                const base64Data = reader.result.split(',')[1];
+                const videoData = {
+                    video_base64: base64Data,
+                    filename: 'recording_' + Date.now() + '.webm'
+                };
                 
-                const result = await response.json();
+                showStatus('📤 Uploading to server...', 'info');
+                progressFill.style.width = '50%';
                 
-                if (result.success) {
-                    currentFilename = result.filename;
-                    filenameDisplay.textContent = currentFilename;
-                    resultDiv.style.display = 'block';
-                    showStatus('✅ Upload successful!', 'success');
-                } else {
-                    showStatus('❌ Upload failed: ' + result.error, 'error');
+                try {
+                    const response = await fetch('http://waha-platform.atwebpages.com/admin/upload_screen_recording.php', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify(videoData)
+                    });
+                    
+                    const result = await response.json();
+                    
+                    if (result.success) {
+                        progressFill.style.width = '100%';
+                        showStatus('✅ Upload successful!', 'success');
+                        
+                        // Show the filename
+                        filenameDisplay.textContent = result.filename;
+                        resultBox.style.display = 'block';
+                        uploadBtn.disabled = true;
+                        
+                        // Auto copy to clipboard
+                        navigator.clipboard.writeText(result.filename).then(() => {
+                            console.log('Filename copied to clipboard');
+                        });
+                        
+                        // Store for return
+                        localStorage.setItem('uploaded_filename', result.filename);
+                    } else {
+                        showStatus('❌ Upload failed: ' + result.error, 'error');
+                        uploadBtn.disabled = false;
+                    }
+                } catch (err) {
+                    showStatus('❌ Upload failed: ' + err.message, 'error');
                     uploadBtn.disabled = false;
+                } finally {
+                    setTimeout(() => {
+                        progressBar.style.display = 'none';
+                        progressFill.style.width = '0%';
+                    }, 1000);
                 }
-            } catch (err) {
-                showStatus('❌ Upload failed: ' + err.message, 'error');
+            };
+            
+            reader.onerror = function() {
+                showStatus('❌ Failed to convert video', 'error');
+                progressBar.style.display = 'none';
                 uploadBtn.disabled = false;
-            }
+            };
+            
+            reader.readAsDataURL(recordedBlob);
         });
         
         function copyFilename() {
-            navigator.clipboard.writeText(currentFilename);
-            alert('Filename copied: ' + currentFilename);
+            const filename = filenameDisplay.textContent;
+            navigator.clipboard.writeText(filename).then(() => {
+                alert('Filename copied: ' + filename);
+            });
         }
         
-        function goToAdmin() {
-            window.location.href = 'add_content.php';
+        function closeWindow() {
+            window.close();
+        }
+        
+        // Check for stored filename on load
+        const storedFilename = localStorage.getItem('uploaded_filename');
+        if (storedFilename) {
+            filenameDisplay.textContent = storedFilename;
+            resultBox.style.display = 'block';
+            localStorage.removeItem('uploaded_filename');
         }
     </script>
 </body>
