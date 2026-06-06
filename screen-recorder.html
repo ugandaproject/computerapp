@@ -20,13 +20,7 @@
             padding: 30px;
             box-shadow: 0 20px 60px rgba(0,0,0,0.3);
         }
-        h1 { 
-            color: #333; 
-            margin-bottom: 10px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
+        h1 { color: #333; margin-bottom: 10px; }
         .subtitle { color: #666; margin-bottom: 25px; }
         .quality-section {
             background: #f7fafc;
@@ -63,8 +57,8 @@
         .btn-start:hover:not(:disabled) { background: #38a169; transform: translateY(-2px); }
         .btn-stop { background: #e53e3e; color: white; }
         .btn-stop:hover:not(:disabled) { background: #c53030; }
-        .btn-download { background: #9c27b0; color: white; }
-        .btn-download:hover:not(:disabled) { background: #7b1fa2; }
+        .btn-upload { background: #2196f3; color: white; }
+        .btn-upload:hover:not(:disabled) { background: #1976d2; }
         .preview-container {
             background: #000;
             border-radius: 10px;
@@ -100,30 +94,18 @@
             color: #742a2a;
             border-left: 4px solid #e53e3e;
         }
+        .status.info {
+            display: block;
+            background: #bee3f8;
+            color: #2c5282;
+            border-left: 4px solid #3182ce;
+        }
         .info-box {
             margin-top: 20px;
             padding: 15px;
             background: #edf2f7;
             border-radius: 8px;
             font-size: 14px;
-        }
-        .steps-box {
-            margin-top: 20px;
-            padding: 20px;
-            background: #e8f5e9;
-            border-radius: 8px;
-            border: 2px solid #4caf50;
-        }
-        .steps-box h3 {
-            color: #2e7d32;
-            margin-bottom: 15px;
-        }
-        .steps-box ol {
-            margin-left: 20px;
-            line-height: 1.8;
-        }
-        .steps-box li {
-            margin-bottom: 8px;
         }
         .recording-indicator {
             display: inline-block;
@@ -139,37 +121,19 @@
             50% { opacity: 0.5; transform: scale(1.2); }
             100% { opacity: 1; transform: scale(1); }
         }
-        .file-info {
-            margin-top: 15px;
-            padding: 10px;
-            background: #f5f5f5;
-            border-radius: 5px;
-            font-family: monospace;
-            font-size: 12px;
+        .upload-form {
             display: none;
-        }
-        .return-btn {
-            background: #2196f3;
-            color: white;
-            margin-top: 20px;
-            width: 100%;
-        }
-        .return-btn:hover {
-            background: #1976d2;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>
-            🎥 Screen Recorder
-            <span style="font-size: 14px; background: #f0f0f0; padding: 4px 10px; border-radius: 20px;">Record → Download → Upload</span>
-        </h1>
-        <p class="subtitle">Record your screen, save the file, then upload to your server</p>
+        <h1>🎥 Screen Recorder</h1>
+        <p class="subtitle">Record your screen and upload directly to your server</p>
         
         <div class="quality-section">
             <strong>Recording Quality:</strong><br>
-            <label><input type="radio" name="quality" value="low" checked> Low (480p, ~1MB/min) - Recommended</label>
+            <label><input type="radio" name="quality" value="low" checked> Low (480p, ~1MB/min)</label>
             <label><input type="radio" name="quality" value="medium"> Medium (720p, ~2MB/min)</label>
             <label><input type="radio" name="quality" value="high"> High (1080p, ~3MB/min)</label>
         </div>
@@ -177,7 +141,7 @@
         <div class="controls">
             <button id="startBtn" class="btn-start">🎬 Start Recording</button>
             <button id="stopBtn" class="btn-stop" disabled>⏹️ Stop Recording</button>
-            <button id="downloadBtn" class="btn-download" disabled>💾 Download Video File</button>
+            <button id="uploadBtn" class="btn-upload" disabled>📤 Upload to Server</button>
         </div>
         
         <div class="preview-container">
@@ -186,29 +150,19 @@
         
         <div id="status" class="status"></div>
         
-        <div id="fileInfo" class="file-info"></div>
-        
-        <div class="steps-box">
-            <h3>📌 How to add screen recording to your course:</h3>
-            <ol>
-                <li><strong>Record:</strong> Click "Start Recording" → Choose your screen → Present your content</li>
-                <li><strong>Stop:</strong> Click "Stop Recording" when finished</li>
-                <li><strong>Download:</strong> Click "Download Video File" to save to your computer</li>
-                <li><strong>Upload:</strong> Go to your <strong>Admin Panel → Upload Video</strong> tab</li>
-                <li><strong>Select:</strong> Choose the downloaded video file</li>
-                <li><strong>Submit:</strong> Fill in title, description, thumbnail and click "Upload Video"</li>
-            </ol>
-        </div>
+        <!-- Hidden form for upload -->
+        <form id="uploadForm" action="http://waha-platform.atwebpages.com/admin/upload_screen_recording.php" method="POST" enctype="multipart/form-data" target="_blank">
+            <input type="file" name="video" id="videoFile" style="display:none">
+        </form>
         
         <div class="info-box">
-            <strong>💡 Tips for best results:</strong><br>
-            • Use "Low" quality for smaller file size (recommended)<br>
-            • Keep recordings under 2 minutes for quick upload<br>
-            • Close unnecessary tabs/windows before recording<br>
-            • The video will save as a .webm file (works in all browsers)
+            <strong>📌 Instructions:</strong><br>
+            1. Click "Start Recording" and choose which screen/window to share<br>
+            2. Click "Stop Recording" when finished<br>
+            3. Click "Upload to Server" - a new tab will open showing upload status<br>
+            4. Close the upload tab and return to your admin panel<br>
+            5. The video filename will be shown - copy it to your form
         </div>
-        
-        <button id="returnBtn" class="return-btn">🔙 Return to Admin Panel</button>
     </div>
 
     <script>
@@ -219,15 +173,9 @@
         
         const startBtn = document.getElementById('startBtn');
         const stopBtn = document.getElementById('stopBtn');
-        const downloadBtn = document.getElementById('downloadBtn');
-        const returnBtn = document.getElementById('returnBtn');
+        const uploadBtn = document.getElementById('uploadBtn');
         const preview = document.getElementById('preview');
         const statusDiv = document.getElementById('status');
-        const fileInfo = document.getElementById('fileInfo');
-        
-        // Get return URL from query parameter
-        const urlParams = new URLSearchParams(window.location.search);
-        const returnUrl = urlParams.get('return_url') || 'http://waha-platform.atwebpages.com/admin/add_content.php';
         
         function getQualitySettings(quality) {
             const settings = {
@@ -263,9 +211,8 @@
                     const tracks = [...screenStream.getVideoTracks(), ...audioStream.getAudioTracks()];
                     stream = new MediaStream(tracks);
                 } catch (err) {
-                    console.warn('Microphone not available, recording without audio');
+                    console.warn('Microphone not available');
                     stream = screenStream;
-                    showStatus('⚠️ Recording without audio (microphone access denied)', 'info');
                 }
                 
                 preview.srcObject = stream;
@@ -292,18 +239,8 @@
                     preview.controls = true;
                     
                     const sizeKB = (recordedBlob.size / 1024).toFixed(2);
-                    const sizeMB = (recordedBlob.size / (1024 * 1024)).toFixed(2);
-                    
-                    let sizeWarning = '';
-                    if (recordedBlob.size > 3 * 1024 * 1024) {
-                        sizeWarning = ' ⚠️ File is large! Consider re-recording with "Low" quality.';
-                    }
-                    
-                    showStatus(`✅ Recording complete! Size: ${sizeKB} KB (${sizeMB} MB)${sizeWarning}`, 'success');
-                    downloadBtn.disabled = false;
-                    
-                    fileInfo.style.display = 'block';
-                    fileInfo.innerHTML = `<strong>📁 File ready to download:</strong><br>Size: ${sizeKB} KB<br>Format: WebM video<br>Filename will be: screen_recording_${new Date().toISOString().slice(0,19).replace(/:/g, '-')}.webm`;
+                    showStatus(`✅ Recording complete! Size: ${sizeKB} KB`, 'success');
+                    uploadBtn.disabled = false;
                     
                     if (stream) {
                         stream.getTracks().forEach(track => track.stop());
@@ -313,9 +250,8 @@
                 mediaRecorder.start(1000);
                 startBtn.disabled = true;
                 stopBtn.disabled = false;
-                downloadBtn.disabled = true;
-                fileInfo.style.display = 'none';
-                showStatus('🔴 RECORDING IN PROGRESS... Click "Stop Recording" when done.', 'recording');
+                uploadBtn.disabled = true;
+                showStatus('🔴 Recording in progress...', 'recording');
                 
                 screenStream.getVideoTracks()[0].addEventListener('ended', () => {
                     if (mediaRecorder && mediaRecorder.state === 'recording') {
@@ -326,15 +262,7 @@
                 });
                 
             } catch (err) {
-                console.error('Error:', err);
-                let errorMsg = err.message;
-                if (err.name === 'NotAllowedError') {
-                    errorMsg = 'Please click "Allow" to share your screen.';
-                } else if (err.name === 'NotFoundError') {
-                    errorMsg = 'No screen capture source selected. Please try again.';
-                }
-                showStatus('❌ Error: ' + errorMsg, 'error');
-                startBtn.disabled = false;
+                showStatus('❌ Error: ' + err.message, 'error');
             }
         });
         
@@ -346,39 +274,38 @@
             }
         });
         
-        downloadBtn.addEventListener('click', () => {
+        uploadBtn.addEventListener('click', () => {
             if (!recordedBlob || recordedBlob.size === 0) {
-                alert('No recording available. Please record something first.');
+                alert('No recording to upload!');
                 return;
             }
             
-            const timestamp = new Date().toISOString().slice(0,19).replace(/:/g, '-');
-            const filename = `screen_recording_${timestamp}.webm`;
+            if (recordedBlob.size > 10 * 1024 * 1024) {
+                alert('Recording too large (' + (recordedBlob.size / 1024 / 1024).toFixed(2) + 'MB). Please use lower quality.');
+                return;
+            }
             
-            const url = URL.createObjectURL(recordedBlob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = filename;
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
-            URL.revokeObjectURL(url);
+            showStatus('📤 Opening upload window...', 'info');
             
-            showStatus(`💾 File downloaded: ${filename} (${(recordedBlob.size / 1024).toFixed(2)} KB)`, 'success');
+            // Create a file from the blob and submit the form
+            const file = new File([recordedBlob], 'screen_recording_' + Date.now() + '.webm', { type: 'video/webm' });
+            const fileInput = document.getElementById('videoFile');
             
-            // Add note about next step
+            // Use DataTransfer to set the file
+            const dataTransfer = new DataTransfer();
+            dataTransfer.items.add(file);
+            fileInput.files = dataTransfer.files;
+            
+            // Submit the form - opens in new tab
+            document.getElementById('uploadForm').submit();
+            
+            showStatus('✅ Upload started! Check the new tab. The filename will be shown there.', 'success');
+            
+            // Save filename to session storage when returned
             setTimeout(() => {
-                showStatus(`✅ File saved! Go to your Admin Panel → Upload Video tab and select this file.`, 'success');
-            }, 3000);
+                showStatus('📝 After upload, copy the filename from the upload tab and paste it in your admin panel form.', 'info');
+            }, 2000);
         });
-        
-        returnBtn.addEventListener('click', () => {
-            window.location.href = returnUrl;
-        });
-        
-        // Log browser info for debugging
-        console.log('Screen Recorder loaded - HTTPS version');
-        console.log('Return URL:', returnUrl);
     </script>
 </body>
 </html>
