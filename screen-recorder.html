@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Screen Recorder</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        h1 { color: #333; margin-bottom: 10px; }
+        .subtitle { color: #666; margin-bottom: 30px; }
+        .controls {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        button {
+            padding: 12px 24px;
+            font-size: 16px;
+            font-weight: bold;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        .btn-primary { background: #667eea; color: white; }
+        .btn-primary:hover:not(:disabled) { background: #5a67d8; transform: translateY(-2px); }
+        .btn-danger { background: #e53e3e; color: white; }
+        .btn-danger:hover:not(:disabled) { background: #c53030; }
+        .btn-success { background: #48bb78; color: white; }
+        .btn-success:hover:not(:disabled) { background: #38a169; }
+        .preview-container {
+            background: #000;
+            border-radius: 10px;
+            overflow: hidden;
+            margin-top: 20px;
+        }
+        video {
+            width: 100%;
+            max-height: 500px;
+            background: #000;
+        }
+        .status {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 8px;
+            display: none;
+        }
+        .status.recording {
+            display: block;
+            background: #fed7d7;
+            color: #c53030;
+            border-left: 4px solid #e53e3e;
+        }
+        .status.success {
+            display: block;
+            background: #c6f6d5;
+            color: #22543d;
+            border-left: 4px solid #48bb78;
+        }
+        .status.error {
+            display: block;
+            background: #fed7d7;
+            color: #742a2a;
+            border-left: 4px solid #e53e3e;
+        }
+        .info {
+            margin-top: 20px;
+            padding: 15px;
+            background: #edf2f7;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+        .recording-indicator {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            background: #e53e3e;
+            border-radius: 50%;
+            animation: pulse 1s infinite;
+            margin-right: 8px;
+        }
+        @keyframes pulse {
+            0% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(1.2); }
+            100% { opacity: 1; transform: scale(1); }
+        }
+        .quality-selector {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #f7fafc;
+            border-radius: 8px;
+        }
+        .quality-selector label {
+            margin-right: 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎥 Screen Recorder</h1>
+        <p class="subtitle">Record your screen and automatically upload to your server</p>
+        
+        <div class="quality-selector">
+            <strong>Recording Quality:</strong><br><br>
+            <label><input type="radio" name="quality" value="low" checked> Low (480p, ~1MB/min)</label>
+            <label><input type="radio" name="quality" value="medium"> Medium (720p, ~2MB/min)</label>
+            <label><input type="radio" name="quality" value="high"> High (1080p, ~3MB/min)</label>
+        </div>
+        
+        <div class="controls">
+            <button id="startBtn" class="btn-primary">🎬 Start Recording</button>
+            <button id="stopBtn" class="btn-danger" disabled>⏹️ Stop Recording</button>
+            <button id="uploadBtn" class="btn-success" disabled>📤 Upload to Server</button>
+        </div>
+        
+        <div class="preview-container">
+            <video id="preview" autoplay muted playsinline></video>
+        </div>
+        
+        <div id="status" class="status"></div>
+        
+        <div class="info">
+            <strong>📌 Instructions:</strong><br>
+            1. Click "Start Recording" and choose which screen/window to share<br>
+            2. Record your content (max 30 seconds recommended)<br>
+            3. Click "Stop Recording" when finished<br>
+            4. Click "Upload to Server" to save the video<br>
+            5. The page will automatically close and return to your admin panel
+        </div>
+    </div>
+
+    <script>
+        let mediaRecorder;
+        let recordedChunks = [];
+        let stream = null;
+        let recordedBlob = null;
+        
+        const startBtn = document.getElementById('startBtn');
+        const stopBtn = document.getElementById('stopBtn');
+        const uploadBtn = document.getElementById('uploadBtn');
+        const preview = document.getElementById('preview');
+        const statusDiv = document.getElementById('status');
+        
+        // Get return URL from query parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const returnUrl = urlParams.get('return_url') || 'http://waha-platform.atwebpages.com/admin/add_content.php';
+        
+        function getQualitySettings(quality) {
+            const settings = {
+                low: { width: 854, height: 480, frameRate: 15, bitrate: 500000 },
+                medium: { width: 1280, height: 720, frameRate: 24, bitrate: 1000000 },
+                high: { width: 1920, height: 1080, frameRate: 30, bitrate: 1500000 }
+            };
+            return settings[quality] || settings.low;
+        }
+        
+        startBtn.addEventListener('click', async () => {
+            try {
+                const quality = document.querySelector('input[name="quality"]:checked').value;
+                const settings = getQualitySettings(quality);
+                
+                // Request screen capture
+                const screenStream = await navigator.mediaDevices.getDisplayMedia({
+                    video: {
+                        width: { ideal: settings.width },
+                        height: { ideal: settings.height },
+                        frameRate: { ideal: settings.frameRate }
+                    },
+                    audio: true
+                });
+                
+                // Also capture microphone
+                let audioStream = null;
+                try {
+                    audioStream = await navigator.mediaDevices.getUserMedia({ audio: true });
+                    const tracks = [...screenStream.getVideoTracks(), ...audioStream.getAudioTracks()];
+                    stream = new MediaStream(tracks);
+                } catch (err) {
+                    console.warn('Microphone not available, recording without audio');
+                    stream = screenStream;
+                }
+                
+                preview.srcObject = stream;
+                preview.style.display = 'block';
+                
+                recordedChunks = [];
+                mediaRecorder = new MediaRecorder(stream, {
+                    mimeType: 'video/webm',
+                    videoBitsPerSecond: settings.bitrate,
+                    audioBitsPerSecond: 64000
+                });
+                
+                mediaRecorder.ondataavailable = (e) => {
+                    if (e.data.size > 0) {
+                        recordedChunks.push(e.data);
+                    }
+                };
+                
+                mediaRecorder.onstop = () => {
+                    recordedBlob = new Blob(recordedChunks, { type: 'video/webm' });
+                    const url = URL.createObjectURL(recordedBlob);
+                    preview.srcObject = null;
+                    preview.src = url;
+                    preview.muted = false;
+                    preview.controls = true;
+                    
+                    const sizeMB = (recordedBlob.size / (1024 * 1024)).toFixed(2);
+                    showStatus(`Recording complete! Size: ${sizeMB} MB`, 'success');
+                    uploadBtn.disabled = false;
+                    
+                    // Stop all tracks
+                    if (stream) {
+                        stream.getTracks().forEach(track => track.stop());
+                    }
+                };
+                
+                mediaRecorder.start(1000);
+                startBtn.disabled = true;
+                stopBtn.disabled = false;
+                uploadBtn.disabled = true;
+                showStatus('🔴 Recording in progress...', 'recording');
+                
+                // Handle when user stops sharing via browser UI
+                screenStream.getVideoTracks()[0].addEventListener('ended', () => {
+                    if (mediaRecorder && mediaRecorder.state === 'recording') {
+                        mediaRecorder.stop();
+                        showStatus('Recording stopped by user', 'success');
+                        startBtn.disabled = false;
+                        stopBtn.disabled = true;
+                    }
+                });
+                
+            } catch (err) {
+                console.error('Error:', err);
+                showStatus('❌ Error: ' + err.message, 'error');
+            }
+        });
+        
+        stopBtn.addEventListener('click', () => {
+            if (mediaRecorder && mediaRecorder.state === 'recording') {
+                mediaRecorder.stop();
+                startBtn.disabled = false;
+                stopBtn.disabled = true;
+            }
+        });
+        
+        uploadBtn.addEventListener('click', async () => {
+            if (!recordedBlob) {
+                alert('No recording to upload!');
+                return;
+            }
+            
+            showStatus('📤 Uploading to server...', 'recording');
+            uploadBtn.disabled = true;
+            
+            const formData = new FormData();
+            formData.append('video', recordedBlob, 'screen_recording.webm');
+            
+            try {
+                const response = await fetch('http://waha-platform.atwebpages.com/admin/upload_screen_recording.php', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const result = await response.json();
+                
+                if (result.success) {
+                    showStatus('✅ Upload successful! Redirecting...', 'success');
+                    
+                    // Redirect back to admin page with filename
+                    const redirectUrl = returnUrl + (returnUrl.includes('?') ? '&' : '?') + 'recorded=' + result.filename;
+                    setTimeout(() => {
+                        window.location.href = redirectUrl;
+                    }, 1500);
+                } else {
+                    throw new Error(result.error);
+                }
+            } catch (err) {
+                console.error('Upload error:', err);
+                showStatus('❌ Upload failed: ' + err.message, 'error');
+                uploadBtn.disabled = false;
+            }
+        });
+        
+        function showStatus(message, type) {
+            statusDiv.textContent = message;
+            statusDiv.className = 'status ' + type;
+        }
+    </script>
+</body>
+</html>
