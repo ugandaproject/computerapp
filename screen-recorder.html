@@ -121,17 +121,20 @@
             50% { opacity: 0.5; transform: scale(1.2); }
             100% { opacity: 1; transform: scale(1); }
         }
-        #uploadForm {
+        .progress-bar {
+            width: 100%;
+            height: 4px;
+            background: #ddd;
+            border-radius: 2px;
+            margin-top: 10px;
             display: none;
         }
-        .debug-info {
-            font-size: 12px;
-            color: #666;
-            margin-top: 10px;
-            padding: 10px;
-            background: #f5f5f5;
-            border-radius: 5px;
-            display: none;
+        .progress-fill {
+            width: 0%;
+            height: 100%;
+            background: #4caf50;
+            border-radius: 2px;
+            transition: width 0.3s;
         }
     </style>
 </head>
@@ -142,9 +145,9 @@
         
         <div class="quality-section">
             <strong>Recording Quality:</strong><br>
-            <label><input type="radio" name="quality" value="low" checked> Low (480p)</label>
+            <label><input type="radio" name="quality" value="low" checked> Low (480p, smaller file)</label>
             <label><input type="radio" name="quality" value="medium"> Medium (720p)</label>
-            <label><input type="radio" name="quality" value="high"> High (1080p)</label>
+            <label><input type="radio" name="quality" value="high"> High (1080p, larger file)</label>
         </div>
         
         <div class="controls">
@@ -157,20 +160,28 @@
             <video id="preview" autoplay muted playsinline></video>
         </div>
         
-        <div id="status" class="status"></div>
-        <div id="debugInfo" class="debug-info"></div>
+        <div class="progress-bar" id="progressBar">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
         
-        <form id="uploadForm" action="http://waha-platform.atwebpages.com/admin/upload_screen_recording.php" method="POST" enctype="multipart/form-data" target="_blank">
-            <input type="file" name="video" id="videoFile">
-        </form>
+        <div id="status" class="status"></div>
+        
+        <!-- Hidden iframe for form submission (bypasses CORS) -->
+        <iframe name="uploadFrame" style="display:none;"></iframe>
         
         <div class="info-box">
             <strong>📌 Instructions:</strong><br>
             1. Click "Start Recording" and choose which screen/window to share<br>
             2. Click "Stop Recording" when finished<br>
-            3. Click "Upload to Server" - a new tab will open<br>
-            4. Copy the filename from the upload tab<br>
+            3. Click "Upload to Server" - wait for upload to complete<br>
+            4. Copy the filename shown below<br>
             5. Return to admin panel and paste the filename
+        </div>
+        
+        <div id="uploadResult" style="display:none; margin-top: 20px; padding: 15px; background: #e8f5e9; border-radius: 8px; border: 1px solid #4caf50;">
+            <strong>✅ Upload Result:</strong>
+            <p id="resultFilename" style="font-family: monospace; margin-top: 10px; word-break: break-all;"></p>
+            <button onclick="copyToClipboard()" style="margin-top: 10px; background: #2196f3; color: white; padding: 8px 16px;">📋 Copy Filename</button>
         </div>
     </div>
 
@@ -185,17 +196,14 @@
         const uploadBtn = document.getElementById('uploadBtn');
         const preview = document.getElementById('preview');
         const statusDiv = document.getElementById('status');
-        const debugDiv = document.getElementById('debugInfo');
+        const progressBar = document.getElementById('progressBar');
+        const progressFill = document.getElementById('progressFill');
+        const uploadResult = document.getElementById('uploadResult');
+        const resultFilename = document.getElementById('resultFilename');
         
         function showStatus(message, type) {
             statusDiv.textContent = message;
             statusDiv.className = 'status ' + type;
-        }
-        
-        function showDebug(message) {
-            debugDiv.style.display = 'block';
-            debugDiv.innerHTML += new Date().toLocaleTimeString() + ': ' + message + '<br>';
-            console.log(message);
         }
         
         function getQualitySettings(quality) {
@@ -209,11 +217,9 @@
         
         startBtn.addEventListener('click', async () => {
             try {
-                showDebug('Start recording clicked');
                 const quality = document.querySelector('input[name="quality"]:checked').value;
                 const settings = getQualitySettings(quality);
                 
-                showDebug('Requesting screen capture...');
                 const screenStream = await navigator.mediaDevices.getDisplayMedia({
                     video: {
                         width: { ideal: settings.width },
@@ -222,16 +228,14 @@
                     },
                     audio: true
                 });
-                showDebug('Screen capture granted');
                 
                 let audioStream = null;
                 try {
                     audioStream = await navigator.mediaDevices.getUserMedia({ audio: true });
                     const tracks = [...screenStream.getVideoTracks(), ...audioStream.getAudioTracks()];
                     stream = new MediaStream(tracks);
-                    showDebug('Microphone access granted');
                 } catch (err) {
-                    showDebug('Microphone not available: ' + err.message);
+                    console.warn('Microphone not available');
                     stream = screenStream;
                 }
                 
@@ -247,26 +251,27 @@
                 mediaRecorder.ondataavailable = (e) => {
                     if (e.data.size > 0) {
                         recordedChunks.push(e.data);
-                        showDebug('Chunk received: ' + e.data.size + ' bytes. Total chunks: ' + recordedChunks.length);
+                        console.log('Chunk size:', e.data.size, 'Total chunks:', recordedChunks.length);
                     }
                 };
                 
                 mediaRecorder.onstop = () => {
-                    showDebug('Recording stopped. Creating blob...');
                     recordedBlob = new Blob(recordedChunks, { type: 'video/webm' });
-                    showDebug('Blob created. Size: ' + recordedBlob.size + ' bytes (' + (recordedBlob.size / 1024).toFixed(2) + ' KB)');
-                    
                     const url = URL.createObjectURL(recordedBlob);
                     preview.srcObject = null;
                     preview.src = url;
                     preview.muted = false;
                     preview.controls = true;
                     
+                    const sizeKB = (recordedBlob.size / 1024).toFixed(2);
+                    console.log('Blob created! Size:', recordedBlob.size, 'bytes');
+                    
                     if (recordedBlob.size > 0) {
-                        showStatus('✅ Recording complete! Size: ' + (recordedBlob.size / 1024).toFixed(2) + ' KB', 'success');
+                        showStatus(`✅ Recording complete! Size: ${sizeKB} KB`, 'success');
                         uploadBtn.disabled = false;
+                        uploadResult.style.display = 'none';
                     } else {
-                        showStatus('❌ Recording failed: Blob is empty (0 bytes)', 'error');
+                        showStatus('❌ Recording failed: 0 bytes', 'error');
                         uploadBtn.disabled = true;
                     }
                     
@@ -280,10 +285,8 @@
                 stopBtn.disabled = false;
                 uploadBtn.disabled = true;
                 showStatus('🔴 Recording in progress...', 'recording');
-                showDebug('MediaRecorder started');
                 
                 screenStream.getVideoTracks()[0].addEventListener('ended', () => {
-                    showDebug('Screen sharing ended by user');
                     if (mediaRecorder && mediaRecorder.state === 'recording') {
                         mediaRecorder.stop();
                         startBtn.disabled = false;
@@ -292,75 +295,101 @@
                 });
                 
             } catch (err) {
-                showDebug('ERROR: ' + err.message);
+                console.error('Error:', err);
                 showStatus('❌ Error: ' + err.message, 'error');
             }
         });
         
         stopBtn.addEventListener('click', () => {
-            showDebug('Stop button clicked');
             if (mediaRecorder && mediaRecorder.state === 'recording') {
                 mediaRecorder.stop();
                 startBtn.disabled = false;
                 stopBtn.disabled = true;
-                showDebug('MediaRecorder stopped');
             }
         });
         
-        uploadBtn.addEventListener('click', () => {
+        uploadBtn.addEventListener('click', async () => {
             if (!recordedBlob || recordedBlob.size === 0) {
                 alert('No recording to upload! Please record something first.');
                 return;
             }
             
-            showDebug('Upload started. Blob size: ' + recordedBlob.size + ' bytes');
-            
-            // Create a File from the blob
-            const fileName = 'recording_' + Date.now() + '.webm';
-            const file = new File([recordedBlob], fileName, { type: 'video/webm' });
-            showDebug('File created: ' + fileName + ', size: ' + file.size + ' bytes');
-            
-            // Create FormData and append the file
-            const formData = new FormData();
-            formData.append('video', file, fileName);
-            
-            // Create a temporary form and submit
-            const tempForm = document.createElement('form');
-            tempForm.method = 'POST';
-            tempForm.action = 'http://waha-platform.atwebpages.com/admin/upload_screen_recording.php';
-            tempForm.enctype = 'multipart/form-data';
-            tempForm.target = '_blank';
-            
-            // Create a file input and add the file
-            const fileInput = document.createElement('input');
-            fileInput.type = 'file';
-            fileInput.name = 'video';
-            
-            // Use DataTransfer to set the file
-            const dataTransfer = new DataTransfer();
-            dataTransfer.items.add(file);
-            fileInput.files = dataTransfer.files;
-            
-            tempForm.appendChild(fileInput);
-            document.body.appendChild(tempForm);
-            
-            showDebug('Submitting form...');
-            tempForm.submit();
-            
-            setTimeout(() => {
-                document.body.removeChild(tempForm);
-            }, 1000);
-            
-            showStatus('📤 Upload started! Check the new tab for the filename.', 'info');
-            showDebug('Upload submitted to server');
-            
-            // Reset upload button
+            showStatus('📤 Uploading to server...', 'info');
+            progressBar.style.display = 'block';
             uploadBtn.disabled = true;
+            
+            // Create form data with the blob
+            const formData = new FormData();
+            const fileName = 'recording_' + Date.now() + '.webm';
+            formData.append('video', recordedBlob, fileName);
+            
+            try {
+                // Use fetch with progress tracking
+                const xhr = new XMLHttpRequest();
+                
+                xhr.upload.addEventListener('progress', (e) => {
+                    if (e.lengthComputable) {
+                        const percent = (e.loaded / e.total) * 100;
+                        progressFill.style.width = percent + '%';
+                    }
+                });
+                
+                xhr.onload = function() {
+                    progressBar.style.display = 'none';
+                    if (xhr.status === 200) {
+                        // Parse the response to get filename
+                        const responseText = xhr.responseText;
+                        console.log('Response:', responseText);
+                        
+                        // Extract filename from response
+                        const filenameMatch = responseText.match(/screen_\d+_\d+\.webm/);
+                        if (filenameMatch) {
+                            const filename = filenameMatch[0];
+                            resultFilename.textContent = filename;
+                            uploadResult.style.display = 'block';
+                            showStatus('✅ Upload successful! Copy the filename below.', 'success');
+                            
+                            // Also store in localStorage for return
+                            localStorage.setItem('uploaded_filename', filename);
+                        } else {
+                            showStatus('✅ Upload successful! Check the response for filename.', 'success');
+                        }
+                    } else {
+                        showStatus('❌ Upload failed: Server error ' + xhr.status, 'error');
+                        uploadBtn.disabled = false;
+                    }
+                };
+                
+                xhr.onerror = function() {
+                    progressBar.style.display = 'none';
+                    showStatus('❌ Upload failed: Network error', 'error');
+                    uploadBtn.disabled = false;
+                };
+                
+                xhr.open('POST', 'http://waha-platform.atwebpages.com/admin/upload_screen_recording.php');
+                xhr.send(formData);
+                
+            } catch (err) {
+                progressBar.style.display = 'none';
+                showStatus('❌ Upload failed: ' + err.message, 'error');
+                uploadBtn.disabled = false;
+            }
         });
         
-        // Log browser info
-        showDebug('Browser: ' + navigator.userAgent);
-        showDebug('Screen Recorder loaded - ' + new Date().toLocaleString());
+        function copyToClipboard() {
+            const filename = resultFilename.textContent;
+            navigator.clipboard.writeText(filename).then(() => {
+                alert('Filename copied: ' + filename);
+            });
+        }
+        
+        // Check for stored filename on load
+        const storedFilename = localStorage.getItem('uploaded_filename');
+        if (storedFilename) {
+            resultFilename.textContent = storedFilename;
+            uploadResult.style.display = 'block';
+            localStorage.removeItem('uploaded_filename');
+        }
     </script>
 </body>
 </html>
