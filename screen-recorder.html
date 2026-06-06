@@ -13,7 +13,7 @@
             padding: 20px;
         }
         .container {
-            max-width: 1000px;
+            max-width: 900px;
             margin: 0 auto;
             background: white;
             border-radius: 20px;
@@ -21,7 +21,7 @@
             box-shadow: 0 20px 60px rgba(0,0,0,0.3);
         }
         h1 { color: #333; margin-bottom: 10px; }
-        .subtitle { color: #666; margin-bottom: 30px; }
+        .subtitle { color: #666; margin-bottom: 25px; }
         .quality-section {
             background: #f7fafc;
             padding: 15px;
@@ -31,10 +31,12 @@
         .quality-section label {
             margin-right: 20px;
             cursor: pointer;
+            display: inline-block;
+            margin-top: 8px;
         }
         .controls {
             display: flex;
-            gap: 15px;
+            gap: 12px;
             margin-bottom: 20px;
             flex-wrap: wrap;
         }
@@ -65,7 +67,7 @@
         }
         video {
             width: 100%;
-            max-height: 450px;
+            max-height: 400px;
             background: #000;
         }
         .status {
@@ -92,6 +94,12 @@
             color: #742a2a;
             border-left: 4px solid #e53e3e;
         }
+        .status.info {
+            display: block;
+            background: #bee3f8;
+            color: #2c5282;
+            border-left: 4px solid #3182ce;
+        }
         .info-box {
             margin-top: 20px;
             padding: 15px;
@@ -113,15 +121,18 @@
             50% { opacity: 0.5; transform: scale(1.2); }
             100% { opacity: 1; transform: scale(1); }
         }
+        .upload-form {
+            display: none;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>🎥 Screen Recorder</h1>
-        <p class="subtitle">Record your screen and automatically upload to your server</p>
+        <p class="subtitle">Record your screen and upload to your server</p>
         
         <div class="quality-section">
-            <strong>Recording Quality:</strong><br><br>
+            <strong>Recording Quality:</strong><br>
             <label><input type="radio" name="quality" value="low" checked> Low (480p, ~1MB/min)</label>
             <label><input type="radio" name="quality" value="medium"> Medium (720p, ~2MB/min)</label>
             <label><input type="radio" name="quality" value="high"> High (1080p, ~3MB/min)</label>
@@ -139,12 +150,20 @@
         
         <div id="status" class="status"></div>
         
+        <!-- Hidden form for upload (bypasses CORS) -->
+        <form id="uploadForm" action="http://waha-platform.atwebpages.com/admin/upload_screen_recording.php" method="POST" enctype="multipart/form-data" target="uploadTarget">
+            <input type="file" name="video" id="videoFile" style="display:none">
+        </form>
+        
+        <!-- Hidden iframe to receive upload response -->
+        <iframe name="uploadTarget" style="display:none" onload="checkUploadResponse()"></iframe>
+        
         <div class="info-box">
             <strong>📌 Instructions:</strong><br>
             1. Click "Start Recording" and choose which screen/window to share<br>
             2. Click "Stop Recording" when finished<br>
             3. Click "Upload to Server" to save the video<br>
-            4. The page will automatically close and return to your admin panel
+            4. The page will automatically redirect back to your admin panel
         </div>
     </div>
 
@@ -183,7 +202,6 @@
                 const quality = document.querySelector('input[name="quality"]:checked').value;
                 const settings = getQualitySettings(quality);
                 
-                // Request screen capture
                 const screenStream = await navigator.mediaDevices.getDisplayMedia({
                     video: {
                         width: { ideal: settings.width },
@@ -193,14 +211,13 @@
                     audio: true
                 });
                 
-                // Also capture microphone if available
                 let audioStream = null;
                 try {
                     audioStream = await navigator.mediaDevices.getUserMedia({ audio: true });
                     const tracks = [...screenStream.getVideoTracks(), ...audioStream.getAudioTracks()];
                     stream = new MediaStream(tracks);
                 } catch (err) {
-                    console.warn('Microphone not available, recording without audio');
+                    console.warn('Microphone not available');
                     stream = screenStream;
                 }
                 
@@ -210,8 +227,7 @@
                 recordedChunks = [];
                 mediaRecorder = new MediaRecorder(stream, {
                     mimeType: 'video/webm',
-                    videoBitsPerSecond: settings.bitrate,
-                    audioBitsPerSecond: 64000
+                    videoBitsPerSecond: settings.bitrate
                 });
                 
                 mediaRecorder.ondataavailable = (e) => {
@@ -228,11 +244,10 @@
                     preview.muted = false;
                     preview.controls = true;
                     
-                    const sizeMB = (recordedBlob.size / (1024 * 1024)).toFixed(2);
-                    showStatus(`Recording complete! Size: ${sizeMB} MB`, 'success');
+                    const sizeKB = (recordedBlob.size / 1024).toFixed(2);
+                    showStatus(`Recording complete! Size: ${sizeKB} KB`, 'success');
                     uploadBtn.disabled = false;
                     
-                    // Stop all tracks
                     if (stream) {
                         stream.getTracks().forEach(track => track.stop());
                     }
@@ -244,11 +259,9 @@
                 uploadBtn.disabled = true;
                 showStatus('🔴 Recording in progress...', 'recording');
                 
-                // Handle when user stops sharing via browser UI
                 screenStream.getVideoTracks()[0].addEventListener('ended', () => {
                     if (mediaRecorder && mediaRecorder.state === 'recording') {
                         mediaRecorder.stop();
-                        showStatus('Recording stopped by user', 'success');
                         startBtn.disabled = false;
                         stopBtn.disabled = true;
                     }
@@ -268,50 +281,61 @@
             }
         });
         
-        uploadBtn.addEventListener('click', async () => {
+        uploadBtn.addEventListener('click', () => {
             if (!recordedBlob) {
                 alert('No recording to upload!');
                 return;
             }
             
-            // Check file size (max 3MB)
             if (recordedBlob.size > 3 * 1024 * 1024) {
-                alert('Recording too large (' + (recordedBlob.size / 1024 / 1024).toFixed(2) + 'MB). Please use lower quality or record shorter video.');
+                alert('Recording too large (' + (recordedBlob.size / 1024 / 1024).toFixed(2) + 'MB). Please use lower quality.');
                 return;
             }
             
-            showStatus('📤 Uploading to server... (' + (recordedBlob.size / 1024).toFixed(2) + ' KB)', 'info');
+            showStatus('📤 Uploading to server...', 'info');
             uploadBtn.disabled = true;
             
-            const formData = new FormData();
-            formData.append('video', recordedBlob, 'screen_recording.webm');
+            // Convert blob to file and submit via form (bypasses CORS)
+            const file = new File([recordedBlob], 'recording.webm', { type: 'video/webm' });
+            const fileInput = document.getElementById('videoFile');
             
-            try {
-                // Use the upload endpoint on your HTTP server
-                const response = await fetch('http://waha-platform.atwebpages.com/admin/upload_screen_recording.php', {
-                    method: 'POST',
-                    body: formData
-                });
-                
-                const result = await response.json();
-                
-                if (result.success) {
-                    showStatus('✅ Upload successful! Redirecting...', 'success');
-                    
-                    // Redirect back to admin page with filename
-                    const redirectUrl = returnUrl + (returnUrl.includes('?') ? '&' : '?') + 'recorded=' + encodeURIComponent(result.filename);
-                    setTimeout(() => {
-                        window.location.href = redirectUrl;
-                    }, 1500);
-                } else {
-                    throw new Error(result.error || 'Upload failed');
-                }
-            } catch (err) {
-                console.error('Upload error:', err);
-                showStatus('❌ Upload failed: ' + err.message + ' - Please try again', 'error');
-                uploadBtn.disabled = false;
-            }
+            // Create a DataTransfer to set the file
+            const dataTransfer = new DataTransfer();
+            dataTransfer.items.add(file);
+            fileInput.files = dataTransfer.files;
+            
+            // Store return URL for the iframe response
+            window.pendingReturnUrl = returnUrl;
+            
+            // Submit the form
+            document.getElementById('uploadForm').submit();
         });
+        
+        // Check iframe response after upload
+        function checkUploadResponse() {
+            try {
+                const iframe = document.querySelector('iframe[name="uploadTarget"]');
+                const responseText = iframe.contentDocument.body.innerText;
+                
+                if (responseText) {
+                    const result = JSON.parse(responseText);
+                    if (result.success) {
+                        showStatus('✅ Upload successful! Redirecting...', 'success');
+                        setTimeout(() => {
+                            const redirectUrl = window.pendingReturnUrl + 
+                                (window.pendingReturnUrl.includes('?') ? '&' : '?') + 
+                                'recorded=' + encodeURIComponent(result.filename);
+                            window.location.href = redirectUrl;
+                        }, 1500);
+                    } else {
+                        showStatus('❌ Upload failed: ' + result.error, 'error');
+                        uploadBtn.disabled = false;
+                    }
+                }
+            } catch (e) {
+                console.error('Response check error:', e);
+            }
+        }
     </script>
 </body>
 </html>
