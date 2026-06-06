@@ -121,8 +121,21 @@
             50% { opacity: 0.5; transform: scale(1.2); }
             100% { opacity: 1; transform: scale(1); }
         }
-        .upload-form {
+        .filename-box {
+            margin-top: 15px;
+            padding: 12px;
+            background: #e8f5e9;
+            border-radius: 8px;
             display: none;
+            border: 1px solid #4caf50;
+        }
+        .filename-box input {
+            width: 100%;
+            padding: 8px;
+            margin-top: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-family: monospace;
         }
     </style>
 </head>
@@ -150,20 +163,19 @@
         
         <div id="status" class="status"></div>
         
-        <!-- Hidden form for upload (bypasses CORS) -->
-        <form id="uploadForm" action="http://waha-platform.atwebpages.com/admin/upload_screen_recording.php" method="POST" enctype="multipart/form-data" target="uploadTarget">
-            <input type="file" name="video" id="videoFile" style="display:none">
-        </form>
-        
-        <!-- Hidden iframe to receive upload response -->
-        <iframe name="uploadTarget" style="display:none" onload="checkUploadResponse()"></iframe>
+        <div id="filenameBox" class="filename-box">
+            <strong>✅ Video uploaded successfully!</strong><br>
+            <small>Filename saved in your admin panel. Click "Close" to return.</small>
+            <button id="closeBtn" style="margin-top: 10px; background: #4caf50; color: white; padding: 8px 16px;">Close & Return</button>
+        </div>
         
         <div class="info-box">
             <strong>📌 Instructions:</strong><br>
             1. Click "Start Recording" and choose which screen/window to share<br>
             2. Click "Stop Recording" when finished<br>
-            3. Click "Upload to Server" to save the video<br>
-            4. The page will automatically redirect back to your admin panel
+            3. Click "Upload to Server" - this opens a new tab<br>
+            4. In the new tab, wait for upload to complete then close it<br>
+            5. Click "Close & Return" to go back to your admin panel
         </div>
     </div>
 
@@ -178,6 +190,7 @@
         const uploadBtn = document.getElementById('uploadBtn');
         const preview = document.getElementById('preview');
         const statusDiv = document.getElementById('status');
+        const filenameBox = document.getElementById('filenameBox');
         
         // Get return URL from query parameter
         const urlParams = new URLSearchParams(window.location.search);
@@ -292,50 +305,39 @@
                 return;
             }
             
-            showStatus('📤 Uploading to server...', 'info');
-            uploadBtn.disabled = true;
+            showStatus('📤 Opening upload window...', 'info');
             
-            // Convert blob to file and submit via form (bypasses CORS)
-            const file = new File([recordedBlob], 'recording.webm', { type: 'video/webm' });
-            const fileInput = document.getElementById('videoFile');
+            // Create a form and submit to new window
+            const form = document.createElement('form');
+            form.method = 'POST';
+            form.action = 'http://waha-platform.atwebpages.com/admin/upload_screen_recording.php';
+            form.enctype = 'multipart/form-data';
+            form.target = '_blank';
             
-            // Create a DataTransfer to set the file
+            const file = new File([recordedBlob], 'recording_' + Date.now() + '.webm', { type: 'video/webm' });
+            const fileInput = document.createElement('input');
+            fileInput.type = 'file';
+            fileInput.name = 'video';
+            
             const dataTransfer = new DataTransfer();
             dataTransfer.items.add(file);
             fileInput.files = dataTransfer.files;
             
-            // Store return URL for the iframe response
-            window.pendingReturnUrl = returnUrl;
+            form.appendChild(fileInput);
+            document.body.appendChild(form);
+            form.submit();
+            document.body.removeChild(form);
             
-            // Submit the form
-            document.getElementById('uploadForm').submit();
+            showStatus('✅ Upload started in new tab. Close that tab when done, then click "Close & Return" below.', 'success');
+            uploadBtn.disabled = true;
+            
+            // Show the filename box with return button
+            filenameBox.style.display = 'block';
         });
         
-        // Check iframe response after upload
-        function checkUploadResponse() {
-            try {
-                const iframe = document.querySelector('iframe[name="uploadTarget"]');
-                const responseText = iframe.contentDocument.body.innerText;
-                
-                if (responseText) {
-                    const result = JSON.parse(responseText);
-                    if (result.success) {
-                        showStatus('✅ Upload successful! Redirecting...', 'success');
-                        setTimeout(() => {
-                            const redirectUrl = window.pendingReturnUrl + 
-                                (window.pendingReturnUrl.includes('?') ? '&' : '?') + 
-                                'recorded=' + encodeURIComponent(result.filename);
-                            window.location.href = redirectUrl;
-                        }, 1500);
-                    } else {
-                        showStatus('❌ Upload failed: ' + result.error, 'error');
-                        uploadBtn.disabled = false;
-                    }
-                }
-            } catch (e) {
-                console.error('Response check error:', e);
-            }
-        }
+        document.getElementById('closeBtn').addEventListener('click', () => {
+            window.location.href = returnUrl;
+        });
     </script>
 </body>
 </html>
