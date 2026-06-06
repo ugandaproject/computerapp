@@ -57,8 +57,8 @@
         .btn-start:hover:not(:disabled) { background: #38a169; transform: translateY(-2px); }
         .btn-stop { background: #e53e3e; color: white; }
         .btn-stop:hover:not(:disabled) { background: #c53030; }
-        .btn-upload { background: #4299e1; color: white; }
-        .btn-upload:hover:not(:disabled) { background: #3182ce; }
+        .btn-download { background: #9c27b0; color: white; }
+        .btn-download:hover:not(:disabled) { background: #7b1fa2; }
         .preview-container {
             background: #000;
             border-radius: 10px;
@@ -107,6 +107,14 @@
             border-radius: 8px;
             font-size: 14px;
         }
+        .warning-box {
+            margin-top: 20px;
+            padding: 15px;
+            background: #fff3e0;
+            border-left: 4px solid #ff9800;
+            border-radius: 8px;
+            font-size: 14px;
+        }
         .recording-indicator {
             display: inline-block;
             width: 12px;
@@ -121,41 +129,51 @@
             50% { opacity: 0.5; transform: scale(1.2); }
             100% { opacity: 1; transform: scale(1); }
         }
-        .upload-progress {
-            margin-top: 15px;
+        .instructions {
+            background: #e8f5e9;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            border: 1px solid #4caf50;
+        }
+        .instructions h3 {
+            color: #2e7d32;
+            margin-bottom: 10px;
+        }
+        .instructions ol {
+            margin-left: 20px;
+            line-height: 1.6;
+        }
+        .upload-area {
+            margin-top: 20px;
+            padding: 20px;
+            background: #f5f5f5;
+            border-radius: 8px;
+            text-align: center;
             display: none;
         }
-        .progress-bar {
-            width: 100%;
-            height: 20px;
-            background: #ddd;
-            border-radius: 10px;
-            overflow: hidden;
-        }
-        .progress-fill {
-            width: 0%;
-            height: 100%;
-            background: #4caf50;
-            transition: width 0.3s;
+        .upload-area input {
+            margin-top: 10px;
+            padding: 8px;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>🎥 Screen Recorder</h1>
-        <p class="subtitle">Record your screen and upload to your server</p>
+        <p class="subtitle">Record your screen, save the file, then upload to your server</p>
         
         <div class="quality-section">
             <strong>Recording Quality:</strong><br>
-            <label><input type="radio" name="quality" value="low" checked> Low (480p)</label>
+            <label><input type="radio" name="quality" value="low" checked> Low (480p, smaller file)</label>
             <label><input type="radio" name="quality" value="medium"> Medium (720p)</label>
-            <label><input type="radio" name="quality" value="high"> High (1080p)</label>
+            <label><input type="radio" name="quality" value="high"> High (1080p, larger file)</label>
         </div>
         
         <div class="controls">
             <button id="startBtn" class="btn-start">🎬 Start Recording</button>
             <button id="stopBtn" class="btn-stop" disabled>⏹️ Stop Recording</button>
-            <button id="uploadBtn" class="btn-upload" disabled>📤 Upload to Server</button>
+            <button id="downloadBtn" class="btn-download" disabled>💾 Download Video File</button>
         </div>
         
         <div class="preview-container">
@@ -164,20 +182,29 @@
         
         <div id="status" class="status"></div>
         
-        <div class="upload-progress" id="uploadProgress">
-            <div class="progress-bar">
-                <div class="progress-fill" id="progressFill"></div>
-            </div>
-            <p id="progressText" style="margin-top: 8px; font-size: 12px; color: #666;">Uploading...</p>
+        <div class="instructions">
+            <h3>📌 How to add screen recording to your course:</h3>
+            <ol>
+                <li>Click <strong>"Start Recording"</strong> and choose which screen/window to share</li>
+                <li>Record your content (keep under 1 minute for smaller file size)</li>
+                <li>Click <strong>"Stop Recording"</strong> when finished</li>
+                <li>Click <strong>"Download Video File"</strong> to save the recording to your computer</li>
+                <li>Go back to your <strong>Admin Panel → Upload Video</strong> tab</li>
+                <li>Select the downloaded video file and upload normally</li>
+            </ol>
+        </div>
+        
+        <div class="warning-box">
+            <strong>⚠️ Note:</strong> Due to browser security restrictions, the video cannot be automatically uploaded to your HTTP server. 
+            Simply download the file and then upload it manually using the "Upload Video" tab in your admin panel.
         </div>
         
         <div class="info-box">
-            <strong>📌 Instructions:</strong><br>
-            1. Click "Start Recording" and choose which screen/window to share<br>
-            2. Click "Stop Recording" when finished<br>
-            3. Click "Upload to Server" to save the video<br>
-            4. Wait for upload to complete<br>
-            5. The page will automatically redirect back to your admin panel
+            <strong>💡 Tips for smaller file size:</strong><br>
+            - Use "Low" quality setting<br>
+            - Keep recordings under 1 minute<br>
+            - Close unnecessary windows/tabs before recording<br>
+            - Files under 3MB will upload fastest
         </div>
     </div>
 
@@ -189,16 +216,9 @@
         
         const startBtn = document.getElementById('startBtn');
         const stopBtn = document.getElementById('stopBtn');
-        const uploadBtn = document.getElementById('uploadBtn');
+        const downloadBtn = document.getElementById('downloadBtn');
         const preview = document.getElementById('preview');
         const statusDiv = document.getElementById('status');
-        const uploadProgress = document.getElementById('uploadProgress');
-        const progressFill = document.getElementById('progressFill');
-        const progressText = document.getElementById('progressText');
-        
-        // Get return URL from query parameter
-        const urlParams = new URLSearchParams(window.location.search);
-        const returnUrl = urlParams.get('return_url') || 'http://waha-platform.atwebpages.com/admin/add_content.php';
         
         function getQualitySettings(quality) {
             const settings = {
@@ -263,9 +283,10 @@
                     preview.controls = true;
                     
                     const sizeKB = (recordedBlob.size / 1024).toFixed(2);
+                    const sizeMB = (recordedBlob.size / (1024 * 1024)).toFixed(2);
                     console.log('Recording complete! Blob size:', sizeKB, 'KB');
-                    showStatus(`Recording complete! Size: ${sizeKB} KB`, 'success');
-                    uploadBtn.disabled = false;
+                    showStatus(`✅ Recording complete! Size: ${sizeKB} KB (${sizeMB} MB)`, 'success');
+                    downloadBtn.disabled = false;
                     
                     if (stream) {
                         stream.getTracks().forEach(track => track.stop());
@@ -275,8 +296,8 @@
                 mediaRecorder.start(1000);
                 startBtn.disabled = true;
                 stopBtn.disabled = false;
-                uploadBtn.disabled = true;
-                showStatus('🔴 Recording in progress...', 'recording');
+                downloadBtn.disabled = true;
+                showStatus('🔴 Recording in progress... Speak and share your screen!', 'recording');
                 
                 screenStream.getVideoTracks()[0].addEventListener('ended', () => {
                     if (mediaRecorder && mediaRecorder.state === 'recording') {
@@ -288,7 +309,11 @@
                 
             } catch (err) {
                 console.error('Error:', err);
-                showStatus('❌ Error: ' + err.message, 'error');
+                let errorMsg = err.message;
+                if (err.name === 'NotAllowedError') {
+                    errorMsg = 'Please grant permission to share your screen.';
+                }
+                showStatus('❌ Error: ' + errorMsg, 'error');
             }
         });
         
@@ -300,76 +325,27 @@
             }
         });
         
-        uploadBtn.addEventListener('click', async () => {
-            if (!recordedBlob) {
-                alert('No recording to upload!');
+        downloadBtn.addEventListener('click', () => {
+            if (!recordedBlob || recordedBlob.size === 0) {
+                alert('No recording available. Please record something first.');
                 return;
             }
             
-            if (recordedBlob.size === 0) {
-                alert('Recording is empty (0 bytes). Please record again.');
-                return;
-            }
+            const url = URL.createObjectURL(recordedBlob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'screen_recording_' + new Date().toISOString().slice(0,19).replace(/:/g, '-') + '.webm';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
             
-            if (recordedBlob.size > 3 * 1024 * 1024) {
-                alert('Recording too large (' + (recordedBlob.size / 1024 / 1024).toFixed(2) + 'MB). Please use lower quality or record shorter video.');
-                return;
-            }
-            
-            showStatus('📤 Uploading to server...', 'info');
-            uploadProgress.style.display = 'block';
-            uploadBtn.disabled = true;
-            
-            const formData = new FormData();
-            formData.append('video', recordedBlob, 'recording_' + Date.now() + '.webm');
-            
-            // Use XMLHttpRequest to track progress
-            const xhr = new XMLHttpRequest();
-            
-            xhr.upload.addEventListener('progress', (e) => {
-                if (e.lengthComputable) {
-                    const percent = (e.loaded / e.total) * 100;
-                    progressFill.style.width = percent + '%';
-                    progressText.textContent = `Uploading: ${Math.round(percent)}% (${(e.loaded / 1024).toFixed(2)} KB / ${(e.total / 1024).toFixed(2)} KB)`;
-                }
-            });
-            
-            xhr.onload = () => {
-                if (xhr.status === 200) {
-                    try {
-                        const result = JSON.parse(xhr.responseText);
-                        if (result.success) {
-                            showStatus('✅ Upload successful! Redirecting...', 'success');
-                            setTimeout(() => {
-                                const redirectUrl = returnUrl + (returnUrl.includes('?') ? '&' : '?') + 'recorded=' + encodeURIComponent(result.filename);
-                                window.location.href = redirectUrl;
-                            }, 1500);
-                        } else {
-                            showStatus('❌ Upload failed: ' + result.error, 'error');
-                            uploadBtn.disabled = false;
-                            uploadProgress.style.display = 'none';
-                        }
-                    } catch (e) {
-                        showStatus('❌ Upload failed: Invalid response', 'error');
-                        uploadBtn.disabled = false;
-                        uploadProgress.style.display = 'none';
-                    }
-                } else {
-                    showStatus('❌ Upload failed: Server error (' + xhr.status + ')', 'error');
-                    uploadBtn.disabled = false;
-                    uploadProgress.style.display = 'none';
-                }
-            };
-            
-            xhr.onerror = () => {
-                showStatus('❌ Upload failed: Network error', 'error');
-                uploadBtn.disabled = false;
-                uploadProgress.style.display = 'none';
-            };
-            
-            xhr.open('POST', 'http://waha-platform.atwebpages.com/admin/upload_screen_recording.php');
-            xhr.send(formData);
+            showStatus('💾 Video file downloaded! Go to your admin panel and upload this file.', 'success');
         });
+        
+        // Log browser info for debugging
+        console.log('Screen Recorder loaded');
+        console.log('Browser:', navigator.userAgent);
     </script>
 </body>
 </html>
