@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-06-05T10:49:44.718Z",
+  "lastUpdated": "2026-06-07T07:54:33.822Z",
   "users": [
     {
       "userId": "UG991988262585",
       "userName": "Mahmouddddd",
-      "lastActive": "2026-06-05T10:49:44.718Z",
+      "lastActive": "2026-06-07T07:54:33.822Z",
       "totalCorrect": 2,
-      "totalAttempts": 2,
+      "totalAttempts": 3,
       "dailyRecords": {
         "6/5/2026": [
           {
-            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
+            "title": "Unit 11: Let's eat! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 11: ÃÂ¯ÃÂ¹ÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂ!",
             "meaning": "What is your favorite food?",
             "isCorrect": true,
             "timestamp": 1780656570862,
@@ -19,13 +19,24 @@
             "userAttempt": "what is your favorite food"
           },
           {
-            "title": "Unit 11: Let's eat! - الوحدة 11: دعنا نأكل!",
+            "title": "Unit 11: Let's eat! - Ø§ÙÙØ­Ø¯Ø© 11: Ø¯Ø¹ÙØ§ ÙØ£ÙÙ!",
             "meaning": "What is your favorite food?",
             "isCorrect": true,
             "timestamp": 1780656584313,
             "time": "13:49",
             "grade": "good",
             "userAttempt": "what is your favorite food"
+          }
+        ],
+        "6/7/2026": [
+          {
+            "title": "Unit 7: Favourite things - الوحدة 7: الأشياء المفضلة",
+            "meaning": "What is your favorite color?",
+            "isCorrect": false,
+            "timestamp": 1780818872114,
+            "time": "10:54",
+            "grade": "wrong",
+            "userAttempt": "hello how are you"
           }
         ]
       },
