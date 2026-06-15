@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-06-15T10:56:49.348Z",
+  "lastUpdated": "2026-06-15T10:57:11.736Z",
   "users": [
     {
       "userId": "UG991988262585",
       "userName": "Mahmouddddd",
-      "lastActive": "2026-06-15T10:56:49.348Z",
+      "lastActive": "2026-06-15T10:57:11.735Z",
       "totalCorrect": 0,
-      "totalAttempts": 1,
+      "totalAttempts": 2,
       "dailyRecords": {
         "6/15/2026": [
           {
-            "title": "Unit 1: Hello! - الوحدة 1: مرحبا!",
+            "title": "Unit 1: Hello! - Ø§ÙÙØ­Ø¯Ø© 1: ÙØ±Ø­Ø¨Ø§!",
             "meaning": "Hello, what is your name?",
             "isCorrect": false,
             "timestamp": 1781521008882,
             "time": "13:56",
             "grade": "wrong",
             "userAttempt": "Hi how are you Hi how are you"
+          },
+          {
+            "title": "Unit 1: Hello! - الوحدة 1: مرحبا!",
+            "meaning": "Hello, what is your name?",
+            "isCorrect": false,
+            "timestamp": 1781521031236,
+            "time": "13:57",
+            "grade": "wrong",
+            "userAttempt": "that one you can kiss even the better every time and you you repeat it and sunny weather"
           }
         ]
       },
