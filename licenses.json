@@ -4764,18 +4764,18 @@
       "ipAddress": "client-side"
     },
     {
-      "id": "UG178554779875",
+      "id": "UG296458054468",
       "name": "الهام محمد إدريس",
       "phone": "+256727946230",
       "paid": true,
-      "regDate": "2026-06-22T11:19:38.554Z",
-      "expiryDate": "2026-07-02T11:19:38.554Z",
-      "subscriptionDays": 10,
+      "regDate": "2026-06-22T11:21:36.458Z",
+      "expiryDate": "2026-07-22T11:21:36.458Z",
+      "subscriptionDays": 30,
       "active": true,
       "deviceId": "WEB-1AA1-08AF",
       "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-06-22T11:19:38.554Z",
-      "sessionToken": "sess_npo3ummo7wn",
+      "lastActive": "2026-06-22T11:21:36.458Z",
+      "sessionToken": "sess_j2i3otdkpvp",
       "ipAddress": "client-side"
     }
   ]
