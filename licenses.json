@@ -4747,6 +4747,21 @@
       "lastActive": "2026-06-22T06:30:44.426Z",
       "sessionToken": "sess_ip2vyzknko",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG928539426819",
+      "name": "Mohanad HAROUN HASSAN",
+      "phone": "+256773092904",
+      "paid": false,
+      "regDate": "2026-06-22T07:22:08.539Z",
+      "expiryDate": "2026-06-23T07:22:08.539Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1B2E-1D49",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-06-22T07:22:08.539Z",
+      "sessionToken": "sess_zercfzh9uj",
+      "ipAddress": "client-side"
     }
   ]
 }
