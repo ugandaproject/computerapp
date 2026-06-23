@@ -4792,6 +4792,21 @@
       "lastActive": "2026-06-23T06:45:58.472Z",
       "sessionToken": "sess_ziif2e9xiye",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG355930452777",
+      "name": "Shadia",
+      "phone": "+256779484558",
+      "paid": false,
+      "regDate": "2026-06-23T06:49:15.931Z",
+      "expiryDate": "2026-06-24T06:49:15.931Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0B80-0C74",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-06-23T06:49:15.931Z",
+      "sessionToken": "sess_mpx02fsstz",
+      "ipAddress": "client-side"
     }
   ]
 }
