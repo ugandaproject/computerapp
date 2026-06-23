@@ -4809,18 +4809,18 @@
       "ipAddress": "client-side"
     },
     {
-      "id": "UG042967937000",
+      "id": "UG139390373531",
       "name": "Yar Rebecca",
       "phone": "+256793914375",
-      "paid": false,
-      "regDate": "2026-06-23T18:07:22.972Z",
-      "expiryDate": "2026-06-24T18:07:22.972Z",
-      "subscriptionDays": 1,
+      "paid": true,
+      "regDate": "2026-06-23T18:08:59.390Z",
+      "expiryDate": "2027-06-23T18:08:59.390Z",
+      "subscriptionDays": 365,
       "active": true,
       "deviceId": "WEB-1664-072E",
       "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-06-23T18:07:22.972Z",
-      "sessionToken": "sess_0rdddnuw6zpq",
+      "lastActive": "2026-06-23T18:08:59.390Z",
+      "sessionToken": "sess_n05lsgsa7yg",
       "ipAddress": "client-side"
     }
   ]
