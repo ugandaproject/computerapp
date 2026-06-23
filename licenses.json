@@ -4807,6 +4807,21 @@
       "lastActive": "2026-06-23T06:49:15.931Z",
       "sessionToken": "sess_mpx02fsstz",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG042967937000",
+      "name": "Yar Rebecca",
+      "phone": "+256793914375",
+      "paid": false,
+      "regDate": "2026-06-23T18:07:22.972Z",
+      "expiryDate": "2026-06-24T18:07:22.972Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1664-072E",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-06-23T18:07:22.972Z",
+      "sessionToken": "sess_0rdddnuw6zpq",
+      "ipAddress": "client-side"
     }
   ]
 }
