@@ -4777,6 +4777,21 @@
       "lastActive": "2026-06-22T11:21:36.458Z",
       "sessionToken": "sess_j2i3otdkpvp",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG158469982925",
+      "name": "Nafisa",
+      "phone": "+256744690428",
+      "paid": false,
+      "regDate": "2026-06-23T06:45:58.472Z",
+      "expiryDate": "2026-06-24T06:45:58.472Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-1A31-169C",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-06-23T06:45:58.472Z",
+      "sessionToken": "sess_ziif2e9xiye",
+      "ipAddress": "client-side"
     }
   ]
 }
