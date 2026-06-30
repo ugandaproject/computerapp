@@ -4822,6 +4822,21 @@
       "lastActive": "2026-06-23T18:08:59.390Z",
       "sessionToken": "sess_n05lsgsa7yg",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG879314850662",
+      "name": "Gamar trade",
+      "phone": "+256786069962",
+      "paid": false,
+      "regDate": "2026-06-30T09:31:19.315Z",
+      "expiryDate": "2026-07-01T09:31:19.315Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-18E9-0FEA",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-06-30T09:31:19.315Z",
+      "sessionToken": "sess_0t594u7drund",
+      "ipAddress": "client-side"
     }
   ]
 }
