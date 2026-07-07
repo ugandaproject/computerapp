@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T11:41:03.271Z",
+  "lastUpdated": "2026-07-07T14:38:56.591Z",
   "users": [
     {
       "userId": "UG991988262585",
@@ -10,7 +10,7 @@
       "dailyRecords": {
         "7/5/2026": [
           {
-            "title": "Unit 1: Hello! - ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 1: ÃÂÃÂÃÂÃÂ±ÃÂÃÂ­ÃÂÃÂ¨ÃÂÃÂ§!",
+            "title": "Unit 1: Hello! - ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ© 1: ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ§!",
             "meaning": "Hello, what is your name?",
             "isCorrect": false,
             "timestamp": 1783262882484,
@@ -19,7 +19,7 @@
             "userAttempt": "hello what is"
           },
           {
-            "title": "Unit 1: Hello! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 1: ÃÂÃÂ±ÃÂ­ÃÂ¨ÃÂ§!",
+            "title": "Unit 1: Hello! - ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 1: ÃÂÃÂÃÂÃÂ±ÃÂÃÂ­ÃÂÃÂ¨ÃÂÃÂ§!",
             "meaning": "Hello, what is your name?",
             "isCorrect": true,
             "timestamp": 1783262899530,
@@ -30,7 +30,7 @@
         ],
         "7/6/2026": [
           {
-            "title": "Unit 1: Hello! - Ø§ÙÙØ­Ø¯Ø© 1: ÙØ±Ø­Ø¨Ø§!",
+            "title": "Unit 1: Hello! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 1: ÃÂÃÂ±ÃÂ­ÃÂ¨ÃÂ§!",
             "meaning": "Hello, what is your name?",
             "isCorrect": true,
             "timestamp": 1783338044951,
@@ -39,13 +39,35 @@
             "userAttempt": "hello what is your name"
           },
           {
-            "title": "Unit 1: Hello! - الوحدة 1: مرحبا!",
+            "title": "Unit 1: Hello! - Ø§ÙÙØ­Ø¯Ø© 1: ÙØ±Ø­Ø¨Ø§!",
             "meaning": "Hello, what is your name?",
             "isCorrect": false,
             "timestamp": 1783338062565,
             "time": "14:41",
             "grade": "wrong",
             "userAttempt": "no no I have no idea"
+          }
+        ]
+      },
+      "weeklyStats": {},
+      "mistakes": {}
+    },
+    {
+      "userId": "UG726377348365",
+      "userName": "tarig sooq",
+      "lastActive": "2026-07-07T14:38:56.591Z",
+      "totalCorrect": 1,
+      "totalAttempts": 1,
+      "dailyRecords": {
+        "7/7/2026": [
+          {
+            "title": "Unit 1: Hello! - الوحدة 1: مرحبا!",
+            "meaning": "Hello, what is your name?",
+            "isCorrect": true,
+            "timestamp": 1783435135175,
+            "time": "17:38",
+            "grade": "good",
+            "userAttempt": "hello what is your name"
           }
         ]
       },
