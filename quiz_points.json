@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "usersCount": 19,
-  "lastUpdated": "2026-04-25T14:20:26.375Z",
+  "lastUpdated": "2026-07-07T12:19:39.753Z",
   "rankThresholds": {
     "Bronze": 0,
     "Silver": 500,
@@ -528,16 +528,124 @@
       ],
       "lastActive": "2026-04-25T14:20:26.365Z",
       "joinDate": "2026-04-25T14:20:26.361Z"
+    },
+    {
+      "userId": "UG991988262585",
+      "userName": "Mahmouddddd",
+      "phone": "+256771110000",
+      "totalPoints": 55,
+      "totalQuestionsAnswered": 10,
+      "totalCorrectAnswers": 7,
+      "totalWrongAnswers": 3,
+      "accuracy": 70,
+      "unitsCompleted": 1,
+      "currentRank": "Bronze",
+      "badges": [],
+      "quizHistory": [
+        {
+          "unitId": "unit_1",
+          "unitTitle": "Unit 1: Hello!",
+          "date": "2026-07-07T12:19:39.751Z",
+          "score": 70,
+          "pointsEarned": 55,
+          "totalQuestions": 10,
+          "correctAnswers": 7,
+          "wrongAnswers": 3,
+          "passed": true
+        }
+      ],
+      "questionResponses": [
+        {
+          "questionId": "u1_q1",
+          "userAnswer": "my name is ahmed",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:12:35.914Z"
+        },
+        {
+          "questionId": "u1_q2",
+          "userAnswer": "i am fine thank you",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-07T12:13:00.525Z"
+        },
+        {
+          "questionId": "u1_q3",
+          "userAnswer": "hello",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:13:19.509Z"
+        },
+        {
+          "questionId": "u1_q4",
+          "userAnswer": "it is a book",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:13:43.820Z"
+        },
+        {
+          "questionId": "u1_q5",
+          "userAnswer": "1 2 3 4 5",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-07T12:14:59.956Z"
+        },
+        {
+          "questionId": "u1_q6",
+          "userAnswer": "i am a teacher",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:16:01.666Z"
+        },
+        {
+          "questionId": "u1_q7",
+          "userAnswer": "it is a phone",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:16:47.489Z"
+        },
+        {
+          "questionId": "u1_q8",
+          "userAnswer": "good morning",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:17:56.465Z"
+        },
+        {
+          "questionId": "u1_q9",
+          "userAnswer": "a teacher name is robert",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-07T12:19:01.269Z"
+        },
+        {
+          "questionId": "u1_q10",
+          "userAnswer": "goodbye",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:19:37.706Z"
+        }
+      ],
+      "lastActive": "2026-07-07T12:19:39.751Z",
+      "joinDate": "2026-07-07T12:19:39.751Z"
     }
   ],
   "leaderboard": [
+    {
+      "userId": "UG991988262585",
+      "userName": "Mahmouddddd",
+      "totalPoints": 55,
+      "accuracy": 70,
+      "unitsCompleted": 1,
+      "rank": 1
+    },
     {
       "userId": "UG912811301830",
       "userName": "Ahmed",
       "totalPoints": 45,
       "accuracy": 60,
       "unitsCompleted": 1,
-      "rank": 1
+      "rank": 2
     },
     {
       "userId": "UG770789074876",
@@ -545,7 +653,7 @@
       "totalPoints": 25,
       "accuracy": 50,
       "unitsCompleted": 0,
-      "rank": 2
+      "rank": 3
     },
     {
       "userId": "UG398721877017",
@@ -553,7 +661,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 3
+      "rank": 4
     },
     {
       "userId": "UG079859846895",
@@ -561,7 +669,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 4
+      "rank": 5
     },
     {
       "userId": "UG195037213489",
@@ -569,7 +677,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 5
+      "rank": 6
     },
     {
       "userId": "UG457884610834",
@@ -577,7 +685,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 6
+      "rank": 7
     },
     {
       "userId": "UG836663596625",
@@ -585,7 +693,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 7
+      "rank": 8
     },
     {
       "userId": "UG577033395872",
@@ -593,7 +701,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 8
+      "rank": 9
     },
     {
       "userId": "UG113735081094",
@@ -601,7 +709,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 9
+      "rank": 10
     },
     {
       "userId": "UG143602741846",
@@ -609,7 +717,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 10
+      "rank": 11
     },
     {
       "userId": "UG109022488394",
@@ -617,7 +725,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 11
+      "rank": 12
     },
     {
       "userId": "UG180662292893",
@@ -625,7 +733,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 12
+      "rank": 13
     },
     {
       "userId": "UG097423085381",
@@ -633,7 +741,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 13
+      "rank": 14
     },
     {
       "userId": "UG724282803135",
@@ -641,7 +749,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 14
+      "rank": 15
     },
     {
       "userId": "UG174788834133",
@@ -649,7 +757,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 15
+      "rank": 16
     },
     {
       "userId": "UG426440539618",
@@ -657,7 +765,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 16
+      "rank": 17
     },
     {
       "userId": "UG397461679075",
@@ -665,7 +773,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 17
+      "rank": 18
     },
     {
       "userId": "UG100007558357",
@@ -673,7 +781,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 18
+      "rank": 19
     },
     {
       "userId": "UG635048817674",
@@ -681,7 +789,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 19
+      "rank": 20
     },
     {
       "userId": "UG046966086501",
@@ -689,7 +797,7 @@
       "totalPoints": 0,
       "accuracy": 0,
       "unitsCompleted": 0,
-      "rank": 20
+      "rank": 21
     }
   ]
 }
