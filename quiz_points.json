@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "usersCount": 19,
-  "lastUpdated": "2026-07-07T12:19:39.753Z",
+  "usersCount": 21,
+  "lastUpdated": "2026-07-07T12:26:44.531Z",
   "rankThresholds": {
     "Bronze": 0,
     "Silver": 500,
@@ -533,11 +533,11 @@
       "userId": "UG991988262585",
       "userName": "Mahmouddddd",
       "phone": "+256771110000",
-      "totalPoints": 55,
-      "totalQuestionsAnswered": 10,
-      "totalCorrectAnswers": 7,
-      "totalWrongAnswers": 3,
-      "accuracy": 70,
+      "totalPoints": 125,
+      "totalQuestionsAnswered": 20,
+      "totalCorrectAnswers": 15,
+      "totalWrongAnswers": 5,
+      "accuracy": 75,
       "unitsCompleted": 1,
       "currentRank": "Bronze",
       "badges": [],
@@ -551,6 +551,17 @@
           "totalQuestions": 10,
           "correctAnswers": 7,
           "wrongAnswers": 3,
+          "passed": true
+        },
+        {
+          "unitId": "unit_1",
+          "unitTitle": "Unit 1: Hello!",
+          "date": "2026-07-07T12:26:44.529Z",
+          "score": 80,
+          "pointsEarned": 70,
+          "totalQuestions": 10,
+          "correctAnswers": 8,
+          "wrongAnswers": 2,
           "passed": true
         }
       ],
@@ -624,9 +635,79 @@
           "isCorrect": true,
           "pointsEarned": 10,
           "timestamp": "2026-07-07T12:19:37.706Z"
+        },
+        {
+          "questionId": "u1_q1",
+          "userAnswer": "my name is",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:21:53.269Z"
+        },
+        {
+          "questionId": "u1_q2",
+          "userAnswer": "i am fine thank you",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:22:40.140Z"
+        },
+        {
+          "questionId": "u1_q3",
+          "userAnswer": "hello teacher",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:23:13.038Z"
+        },
+        {
+          "questionId": "u1_q4",
+          "userAnswer": "it is a book",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:23:45.160Z"
+        },
+        {
+          "questionId": "u1_q5",
+          "userAnswer": "1 2 3 4 5",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-07T12:24:20.465Z"
+        },
+        {
+          "questionId": "u1_q6",
+          "userAnswer": "i am a teacher",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:24:47.063Z"
+        },
+        {
+          "questionId": "u1_q7",
+          "userAnswer": "it is a fun",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-07T12:25:17.054Z"
+        },
+        {
+          "questionId": "u1_q8",
+          "userAnswer": "good morning",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:25:50.929Z"
+        },
+        {
+          "questionId": "u1_q9",
+          "userAnswer": "my teacher name is ahmed",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:26:21.142Z"
+        },
+        {
+          "questionId": "u1_q10",
+          "userAnswer": "goodbye",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-07T12:26:38.797Z"
         }
       ],
-      "lastActive": "2026-07-07T12:19:39.751Z",
+      "lastActive": "2026-07-07T12:26:44.529Z",
       "joinDate": "2026-07-07T12:19:39.751Z"
     }
   ],
@@ -634,8 +715,8 @@
     {
       "userId": "UG991988262585",
       "userName": "Mahmouddddd",
-      "totalPoints": 55,
-      "accuracy": 70,
+      "totalPoints": 125,
+      "accuracy": 75,
       "unitsCompleted": 1,
       "rank": 1
     },
