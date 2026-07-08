@@ -4837,6 +4837,21 @@
       "lastActive": "2026-06-30T09:31:19.315Z",
       "sessionToken": "sess_0t594u7drund",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG911849407009",
+      "name": "عبدالحميد خليل اسحاق",
+      "phone": "+256704612472",
+      "paid": true,
+      "regDate": "2026-07-08T12:48:31.851Z",
+      "expiryDate": "2026-08-07T12:48:31.851Z",
+      "subscriptionDays": 30,
+      "active": true,
+      "deviceId": "WEB-1EB5-214B",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-07-08T12:48:31.851Z",
+      "sessionToken": "sess_1wmsxo2u2wgh",
+      "ipAddress": "client-side"
     }
   ]
 }
