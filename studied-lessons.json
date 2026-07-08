@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T10:42:38.802Z",
+  "lastUpdated": "2026-07-08T18:04:15.185Z",
   "users": [
     {
       "userId": "UG912811301830",
@@ -59,6 +59,19 @@
         "timestamp": "2026-06-05T10:42:37.785Z"
       },
       "lastActive": "2026-06-05T10:42:38.802Z"
+    },
+    {
+      "userId": "UG644149108224",
+      "userName": "عبدالحميد خليل اسحاق",
+      "completedLessons": [
+        "0_0"
+      ],
+      "lastLesson": {
+        "id": "0_0",
+        "title": "What's your name?",
+        "timestamp": "2026-07-08T18:04:12.925Z"
+      },
+      "lastActive": "2026-07-08T18:04:15.185Z"
     }
   ]
 }
