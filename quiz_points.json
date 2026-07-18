@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "usersCount": 21,
-  "lastUpdated": "2026-07-18T09:41:57.838Z",
+  "lastUpdated": "2026-07-18T09:47:02.551Z",
   "rankThresholds": {
     "Bronze": 0,
     "Silver": 500,
@@ -714,14 +714,16 @@
       "userId": "UG644149108224",
       "userName": "Ø¹Ø¨Ø¯Ø§ÙØ­ÙÙØ¯ Ø®ÙÙÙ Ø§Ø³Ø­Ø§Ù",
       "phone": "+256790487574",
-      "totalPoints": 40,
-      "totalQuestionsAnswered": 20,
-      "totalCorrectAnswers": 8,
-      "totalWrongAnswers": 12,
-      "accuracy": 40,
+      "totalPoints": 80,
+      "totalQuestionsAnswered": 30,
+      "totalCorrectAnswers": 14,
+      "totalWrongAnswers": 16,
+      "accuracy": 47,
       "unitsCompleted": 0,
       "currentRank": "Bronze",
-      "badges": [],
+      "badges": [
+        "Fast Learner"
+      ],
       "quizHistory": [
         {
           "unitId": "unit_1",
@@ -744,6 +746,17 @@
           "correctAnswers": 4,
           "wrongAnswers": 6,
           "passed": false
+        },
+        {
+          "unitId": "unit_1",
+          "unitTitle": "Unit 1: Hello!",
+          "date": "2026-07-18T09:47:02.542Z",
+          "score": 60,
+          "pointsEarned": 40,
+          "totalQuestions": 10,
+          "correctAnswers": 6,
+          "wrongAnswers": 4,
+          "passed": true
         }
       ],
       "questionResponses": [
@@ -886,9 +899,79 @@
           "isCorrect": true,
           "pointsEarned": 10,
           "timestamp": "2026-07-18T09:41:55.820Z"
+        },
+        {
+          "questionId": "u1_q1",
+          "userAnswer": "my name is after family",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-18T09:42:26.882Z"
+        },
+        {
+          "questionId": "u1_q2",
+          "userAnswer": "i am fine",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-18T09:42:59.821Z"
+        },
+        {
+          "questionId": "u1_q3",
+          "userAnswer": "hello",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-18T09:43:11.675Z"
+        },
+        {
+          "questionId": "u1_q4",
+          "userAnswer": "cuz this book",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-18T09:43:52.507Z"
+        },
+        {
+          "questionId": "u1_q5",
+          "userAnswer": "2 2 3 4 5",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-18T09:44:12.612Z"
+        },
+        {
+          "questionId": "u1_q6",
+          "userAnswer": "i am at your family",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-18T09:46:12.769Z"
+        },
+        {
+          "questionId": "u1_q7",
+          "userAnswer": "this is fun",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-18T09:46:25.491Z"
+        },
+        {
+          "questionId": "u1_q8",
+          "userAnswer": "good morning",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-18T09:46:37.029Z"
+        },
+        {
+          "questionId": "u1_q9",
+          "userAnswer": "picture of muhammad",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-18T09:46:49.378Z"
+        },
+        {
+          "questionId": "u1_q10",
+          "userAnswer": "goodbye",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-18T09:47:00.518Z"
         }
       ],
-      "lastActive": "2026-07-18T09:41:57.835Z",
+      "lastActive": "2026-07-18T09:47:02.543Z",
       "joinDate": "2026-07-18T09:39:10.599Z"
     }
   ],
@@ -902,19 +985,19 @@
       "rank": 1
     },
     {
+      "userId": "UG644149108224",
+      "userName": "Ø¹Ø¨Ø¯Ø§ÙØ­ÙÙØ¯ Ø®ÙÙÙ Ø§Ø³Ø­Ø§Ù",
+      "totalPoints": 80,
+      "accuracy": 47,
+      "unitsCompleted": 0,
+      "rank": 2
+    },
+    {
       "userId": "UG912811301830",
       "userName": "Ahmed",
       "totalPoints": 45,
       "accuracy": 60,
       "unitsCompleted": 1,
-      "rank": 2
-    },
-    {
-      "userId": "UG644149108224",
-      "userName": "Ø¹Ø¨Ø¯Ø§ÙØ­ÙÙØ¯ Ø®ÙÙÙ Ø§Ø³Ø­Ø§Ù",
-      "totalPoints": 40,
-      "accuracy": 40,
-      "unitsCompleted": 0,
       "rank": 3
     },
     {
