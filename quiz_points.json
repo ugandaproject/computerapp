@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "usersCount": 21,
-  "lastUpdated": "2026-07-18T09:39:10.607Z",
+  "lastUpdated": "2026-07-18T09:41:57.838Z",
   "rankThresholds": {
     "Bronze": 0,
     "Silver": 500,
@@ -714,10 +714,10 @@
       "userId": "UG644149108224",
       "userName": "Ø¹Ø¨Ø¯Ø§ÙØ­ÙÙØ¯ Ø®ÙÙÙ Ø§Ø³Ø­Ø§Ù",
       "phone": "+256790487574",
-      "totalPoints": 20,
-      "totalQuestionsAnswered": 10,
-      "totalCorrectAnswers": 4,
-      "totalWrongAnswers": 6,
+      "totalPoints": 40,
+      "totalQuestionsAnswered": 20,
+      "totalCorrectAnswers": 8,
+      "totalWrongAnswers": 12,
       "accuracy": 40,
       "unitsCompleted": 0,
       "currentRank": "Bronze",
@@ -727,6 +727,17 @@
           "unitId": "unit_1",
           "unitTitle": "Unit 1: Hello!",
           "date": "2026-07-18T09:39:10.600Z",
+          "score": 40,
+          "pointsEarned": 20,
+          "totalQuestions": 10,
+          "correctAnswers": 4,
+          "wrongAnswers": 6,
+          "passed": false
+        },
+        {
+          "unitId": "unit_1",
+          "unitTitle": "Unit 1: Hello!",
+          "date": "2026-07-18T09:41:57.835Z",
           "score": 40,
           "pointsEarned": 20,
           "totalQuestions": 10,
@@ -805,9 +816,79 @@
           "isCorrect": true,
           "pointsEarned": 10,
           "timestamp": "2026-07-18T09:39:08.552Z"
+        },
+        {
+          "questionId": "u1_q1",
+          "userAnswer": "update her family",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-18T09:39:39.962Z"
+        },
+        {
+          "questionId": "u1_q2",
+          "userAnswer": "today i'm fine with",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-18T09:40:07.749Z"
+        },
+        {
+          "questionId": "u1_q3",
+          "userAnswer": "hello",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-18T09:40:19.280Z"
+        },
+        {
+          "questionId": "u1_q4",
+          "userAnswer": "english book me",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-18T09:40:33.177Z"
+        },
+        {
+          "questionId": "u1_q5",
+          "userAnswer": "1 2 3 4 5",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-18T09:40:48.047Z"
+        },
+        {
+          "questionId": "u1_q6",
+          "userAnswer": "i am after family this heart",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-18T09:41:02.787Z"
+        },
+        {
+          "questionId": "u1_q7",
+          "userAnswer": "yeah this is how to this phone",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-18T09:41:15.915Z"
+        },
+        {
+          "questionId": "u1_q8",
+          "userAnswer": "good morning",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-18T09:41:30.209Z"
+        },
+        {
+          "questionId": "u1_q9",
+          "userAnswer": "get shot",
+          "isCorrect": false,
+          "pointsEarned": 0,
+          "timestamp": "2026-07-18T09:41:44.503Z"
+        },
+        {
+          "questionId": "u1_q10",
+          "userAnswer": "goodbye",
+          "isCorrect": true,
+          "pointsEarned": 10,
+          "timestamp": "2026-07-18T09:41:55.820Z"
         }
       ],
-      "lastActive": "2026-07-18T09:39:10.600Z",
+      "lastActive": "2026-07-18T09:41:57.835Z",
       "joinDate": "2026-07-18T09:39:10.599Z"
     }
   ],
@@ -829,18 +910,18 @@
       "rank": 2
     },
     {
-      "userId": "UG770789074876",
-      "userName": "Elregig Eltahir",
-      "totalPoints": 25,
-      "accuracy": 50,
+      "userId": "UG644149108224",
+      "userName": "Ø¹Ø¨Ø¯Ø§ÙØ­ÙÙØ¯ Ø®ÙÙÙ Ø§Ø³Ø­Ø§Ù",
+      "totalPoints": 40,
+      "accuracy": 40,
       "unitsCompleted": 0,
       "rank": 3
     },
     {
-      "userId": "UG644149108224",
-      "userName": "Ø¹Ø¨Ø¯Ø§ÙØ­ÙÙØ¯ Ø®ÙÙÙ Ø§Ø³Ø­Ø§Ù",
-      "totalPoints": 20,
-      "accuracy": 40,
+      "userId": "UG770789074876",
+      "userName": "Elregig Eltahir",
+      "totalPoints": 25,
+      "accuracy": 50,
       "unitsCompleted": 0,
       "rank": 4
     },
