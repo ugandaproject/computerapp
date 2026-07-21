@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-07-21T16:05:50.026Z",
+  "lastUpdated": "2026-07-21T16:48:11.266Z",
   "users": [
     {
       "userId": "UG991988262585",
       "userName": "Mahmouddddd",
-      "lastActive": "2026-07-21T16:05:50.026Z",
-      "totalCorrect": 0,
-      "totalAttempts": 1,
+      "lastActive": "2026-07-21T16:48:11.266Z",
+      "totalCorrect": 1,
+      "totalAttempts": 2,
       "dailyRecords": {
         "7/21/2026": [
           {
-            "title": "Unit 1: Hello! - الوحدة 1: مرحبا!",
+            "title": "Unit 1: Hello! - Ø§ÙÙØ­Ø¯Ø© 1: ÙØ±Ø­Ø¨Ø§!",
             "meaning": "Hello, what is your name?",
             "isCorrect": false,
             "timestamp": 1784649948560,
             "time": "19:05",
             "grade": "wrong",
             "userAttempt": "I know what is your name"
+          },
+          {
+            "title": "Unit 1: Hello! - الوحدة 1: مرحبا!",
+            "meaning": "Hello, what is your name?",
+            "isCorrect": true,
+            "timestamp": 1784652489930,
+            "time": "19:48",
+            "grade": "good",
+            "userAttempt": "hello what is your name"
           }
         ]
       },
