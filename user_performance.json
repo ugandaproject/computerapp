@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-07-23T17:03:08.638Z",
+  "lastUpdated": "2026-07-23T17:03:31.627Z",
   "users": [
     {
       "userId": "UG991988262585",
       "userName": "Mahmouddddd",
-      "lastActive": "2026-07-23T17:03:08.638Z",
-      "totalCorrect": 2,
-      "totalAttempts": 4,
+      "lastActive": "2026-07-23T17:03:31.627Z",
+      "totalCorrect": 3,
+      "totalAttempts": 5,
       "dailyRecords": {
         "7/21/2026": [
           {
-            "title": "Unit 1: Hello! - ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 1: ÃÂÃÂÃÂÃÂ±ÃÂÃÂ­ÃÂÃÂ¨ÃÂÃÂ§!",
+            "title": "Unit 1: Hello! - ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ© 1: ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ§!",
             "meaning": "Hello, what is your name?",
             "isCorrect": false,
             "timestamp": 1784649948560,
@@ -19,7 +19,7 @@
             "userAttempt": "I know what is your name"
           },
           {
-            "title": "Unit 1: Hello! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 1: ÃÂÃÂ±ÃÂ­ÃÂ¨ÃÂ§!",
+            "title": "Unit 1: Hello! - ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ­ÃÂÃÂ¯ÃÂÃÂ© 1: ÃÂÃÂÃÂÃÂ±ÃÂÃÂ­ÃÂÃÂ¨ÃÂÃÂ§!",
             "meaning": "Hello, what is your name?",
             "isCorrect": true,
             "timestamp": 1784652489930,
@@ -30,7 +30,7 @@
         ],
         "7/23/2026": [
           {
-            "title": "Unit 1: Hello! - Ø§ÙÙØ­Ø¯Ø© 1: ÙØ±Ø­Ø¨Ø§!",
+            "title": "Unit 1: Hello! - ÃÂ§ÃÂÃÂÃÂ­ÃÂ¯ÃÂ© 1: ÃÂÃÂ±ÃÂ­ÃÂ¨ÃÂ§!",
             "meaning": "Hello, what is your name?",
             "isCorrect": true,
             "timestamp": 1784826075834,
@@ -39,13 +39,22 @@
             "userAttempt": "hello what is your name"
           },
           {
-            "title": "Unit 1: Hello! - الوحدة 1: مرحبا!",
+            "title": "Unit 1: Hello! - Ø§ÙÙØ­Ø¯Ø© 1: ÙØ±Ø­Ø¨Ø§!",
             "meaning": "My name is Ahmed.",
             "isCorrect": false,
             "timestamp": 1784826184006,
             "time": "20:03",
             "grade": "wrong",
             "userAttempt": "on Tuesday hello hello"
+          },
+          {
+            "title": "Unit 1: Hello! - الوحدة 1: مرحبا!",
+            "meaning": "My name is Ahmed.",
+            "isCorrect": true,
+            "timestamp": 1784826210907,
+            "time": "20:03",
+            "grade": "good",
+            "userAttempt": "my name is Ahmed"
           }
         ]
       },
