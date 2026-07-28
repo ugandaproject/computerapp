@@ -4852,6 +4852,21 @@
       "lastActive": "2026-07-08T12:48:31.851Z",
       "sessionToken": "sess_1wmsxo2u2wgh",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG378796231963",
+      "name": "Bureay Hamad rabih",
+      "phone": "+256791264244",
+      "paid": false,
+      "regDate": "2026-07-28T15:59:38.797Z",
+      "expiryDate": "2026-07-29T15:59:38.797Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-208B-1685",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-07-28T15:59:38.797Z",
+      "sessionToken": "sess_4gurfbpwqvf",
+      "ipAddress": "client-side"
     }
   ]
 }
