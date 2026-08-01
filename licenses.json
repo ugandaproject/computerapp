@@ -4867,6 +4867,21 @@
       "lastActive": "2026-07-28T15:59:38.797Z",
       "sessionToken": "sess_4gurfbpwqvf",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG163441827500",
+      "name": "Bakjeet abdullah",
+      "phone": "+256773896296",
+      "paid": false,
+      "regDate": "2026-08-01T07:59:23.443Z",
+      "expiryDate": "2026-08-02T07:59:23.443Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0D49-016E",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-08-01T07:59:23.443Z",
+      "sessionToken": "sess_qlpn7wahlna",
+      "ipAddress": "client-side"
     }
   ]
 }
