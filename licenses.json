@@ -4882,6 +4882,21 @@
       "lastActive": "2026-08-01T07:59:23.443Z",
       "sessionToken": "sess_qlpn7wahlna",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG619935710773",
+      "name": "Abu huryra",
+      "phone": "+256776841976",
+      "paid": false,
+      "regDate": "2026-08-05T16:33:39.937Z",
+      "expiryDate": "2026-08-06T16:33:39.937Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-2037-257F",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-08-05T16:33:39.937Z",
+      "sessionToken": "sess_dcm01lgoma",
+      "ipAddress": "client-side"
     }
   ]
 }
