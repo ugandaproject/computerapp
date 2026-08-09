@@ -4927,6 +4927,21 @@
       "lastActive": "2026-08-09T05:22:16.047Z",
       "sessionToken": "sess_6fx2isybkw3",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG625527788845",
+      "name": "yasin adam",
+      "phone": "+256768526976",
+      "paid": false,
+      "regDate": "2026-08-09T13:53:45.529Z",
+      "expiryDate": "2026-08-10T13:53:45.529Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-03F5-11DF",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-08-09T13:53:45.529Z",
+      "sessionToken": "sess_aaarefe2yll",
+      "ipAddress": "client-side"
     }
   ]
 }
