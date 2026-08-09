@@ -4897,6 +4897,21 @@
       "lastActive": "2026-08-05T16:33:39.937Z",
       "sessionToken": "sess_dcm01lgoma",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG569963059075",
+      "name": "Hawa musa",
+      "phone": "+256763904662",
+      "paid": false,
+      "regDate": "2026-08-09T05:16:09.963Z",
+      "expiryDate": "2026-08-10T05:16:09.963Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-2352-07DD",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-08-09T05:16:09.963Z",
+      "sessionToken": "sess_0f3y1dnr9z8u",
+      "ipAddress": "client-side"
     }
   ]
 }
