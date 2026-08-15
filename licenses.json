@@ -4957,6 +4957,21 @@
       "lastActive": "2026-08-15T09:00:53.554Z",
       "sessionToken": "sess_xu3sv31czd",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG413710039523",
+      "name": "Mohammed Elamein",
+      "phone": "+256770612228",
+      "paid": false,
+      "regDate": "2026-08-15T09:00:13.711Z",
+      "expiryDate": "2026-08-16T09:00:13.711Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-0A3E-01B6",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-08-15T09:00:13.711Z",
+      "sessionToken": "sess_i9vic2ybzdn",
+      "ipAddress": "client-side"
     }
   ]
 }
