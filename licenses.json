@@ -4944,18 +4944,18 @@
       "ipAddress": "client-side"
     },
     {
-      "id": "UG376721919299",
-      "name": "Hanan Eltegani",
-      "phone": "+256767412898",
+      "id": "UG453554485710",
+      "name": "Mohamed bakheet",
+      "phone": "+256767043129",
       "paid": false,
-      "regDate": "2026-08-15T08:59:36.723Z",
-      "expiryDate": "2026-08-16T08:59:36.723Z",
+      "regDate": "2026-08-15T09:00:53.554Z",
+      "expiryDate": "2026-08-16T09:00:53.554Z",
       "subscriptionDays": 1,
       "active": true,
-      "deviceId": "WEB-16AC-0ABA",
+      "deviceId": "WEB-1F5A-0B57",
       "registeredFrom": "https://localhost/index.html",
-      "lastActive": "2026-08-15T08:59:36.723Z",
-      "sessionToken": "sess_drdffj7p1nk",
+      "lastActive": "2026-08-15T09:00:53.554Z",
+      "sessionToken": "sess_xu3sv31czd",
       "ipAddress": "client-side"
     }
   ]
