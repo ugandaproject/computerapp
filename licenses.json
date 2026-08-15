@@ -4942,6 +4942,21 @@
       "lastActive": "2026-08-09T13:53:45.529Z",
       "sessionToken": "sess_aaarefe2yll",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG376721919299",
+      "name": "Hanan Eltegani",
+      "phone": "+256767412898",
+      "paid": false,
+      "regDate": "2026-08-15T08:59:36.723Z",
+      "expiryDate": "2026-08-16T08:59:36.723Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-16AC-0ABA",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-08-15T08:59:36.723Z",
+      "sessionToken": "sess_drdffj7p1nk",
+      "ipAddress": "client-side"
     }
   ]
 }
