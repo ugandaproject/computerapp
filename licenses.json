@@ -4987,6 +4987,21 @@
       "lastActive": "2026-08-15T09:24:34.590Z",
       "sessionToken": "sess_5h4er8gi379",
       "ipAddress": "client-side"
+    },
+    {
+      "id": "UG980878473832",
+      "name": "saeed musa",
+      "phone": "+256791441409",
+      "paid": false,
+      "regDate": "2026-08-18T08:49:40.878Z",
+      "expiryDate": "2026-08-19T08:49:40.878Z",
+      "subscriptionDays": 1,
+      "active": true,
+      "deviceId": "WEB-02E8-17C6",
+      "registeredFrom": "https://localhost/index.html",
+      "lastActive": "2026-08-18T08:49:40.878Z",
+      "sessionToken": "sess_qrryrap4vzo",
+      "ipAddress": "client-side"
     }
   ]
 }
